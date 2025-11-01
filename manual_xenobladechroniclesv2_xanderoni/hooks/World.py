@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
+from Options import OptionError
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -130,7 +131,10 @@ def after_create_item(item: ManualItem, world: World, multiworld: MultiWorld, pl
 
 # This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
 def before_generate_basic(world: World, multiworld: MultiWorld, player: int):
-    pass
+    if world.options.Collectopaedia == False and world.options.collectopaediasanity == True:
+        raise OptionError(
+            "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
+        )
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
 def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
