@@ -1884,7 +1884,7 @@
     "name": "Cautious Balteid (Lv 26)",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Unique Monsters"
+      "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
     "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
   },
@@ -4508,7 +4508,7 @@
     "name": "Affluent Beleth (Lv 57)",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Unique Monsters"
+      "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
     "requires": "|Fallen Arm Key:3| AND |Progressive Hunting License:13|"
   },
@@ -5324,7 +5324,7 @@
     "name": "Experienced Tristan (Lv 64)",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Unique Monsters"
+      "Agniratha Unique Monsters","UniqueMonsters"
     ],
     "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
   },
@@ -5572,7 +5572,7 @@
     "name": "Vivid Anstan (Lv 75)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior (2nd Visit) Unique Monsters"
+      "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
     ],
     "requires": "|Bionis' Interior (2nd Visit) Key:3| AND |Progressive Hunting License:17|"
   },
@@ -6949,7 +6949,7 @@
     "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Quests (Reconstruction)"
+      "Colony 6 Quests (Reconstruction)","MonsterQuests"
     ],
     "requires": "|Makna Forest Key:3|"
   },
@@ -7005,7 +7005,7 @@
     "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Quests (Reconstruction)"
+      "Colony 6 Quests (Reconstruction)","MonsterQuests"
     ],
     "requires": "|Alcamoth Key:3|"
   },
@@ -7085,7 +7085,7 @@
     "name": "Defend Colony 6 - Elite (55% Reconstruction)",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Quests (Reconstruction)"
+      "Colony 6 Quests (Reconstruction)","MonsterQuests"
     ],
     "requires": "|Fallen Arm Key:3|"
   },
@@ -7165,7 +7165,7 @@
     "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Quests (Reconstruction)"
+      "Colony 6 Quests (Reconstruction)","MonsterQuests"
     ],
     "requires": "|Mechonis Core Key:3|"
   },
@@ -7173,7 +7173,7 @@
     "name": "Defend Colony 6 - Demon (95% Reconstruction)",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Quests (Reconstruction)"
+      "Colony 6 Quests (Reconstruction)","MonsterQuests"
     ],
     "requires": "|Mechonis Core Key:3|"
   },
