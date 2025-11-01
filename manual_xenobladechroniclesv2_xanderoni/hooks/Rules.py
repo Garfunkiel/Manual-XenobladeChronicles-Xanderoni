@@ -61,3 +61,8 @@ def collectopaediaComplete(world: World, multiworld: MultiWorld, state: Collecti
         else:
             return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
 
+def questPaolaAndNarineReq():
+    return "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
+                " AND ((|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|) " \
+                " OR (|Sharla Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
+                " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|))"
