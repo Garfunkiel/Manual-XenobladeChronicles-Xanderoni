@@ -95,6 +95,12 @@
       "Achievements"
     ]
   },
+  "DevelopmentLevels": {
+    "hidden": false,
+    "yaml_option": [
+      "DevelopmentLevels"
+    ]
+  },
   "Collectopaediasanity": {
     "hidden": false,
     "yaml_option": [
