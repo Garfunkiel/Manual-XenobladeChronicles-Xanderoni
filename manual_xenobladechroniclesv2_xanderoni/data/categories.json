@@ -17,58 +17,58 @@
       "landmarks"
     ]
   },
-  "Story Quests": {
+  "StoryQuests": {
     "hidden": false,
     "yaml_option": [
       "StoryQuests"
     ]
   },
-  "Monster Quests": {
+  "MonsterQuests": {
     "hidden": false,
     "yaml_option": [
       "MonsterQuests"
     ]
   },
-  "Collection Quests": {
+  "CollectionQuests": {
     "hidden": false,
     "yaml_option": [
       "CollectionQuests"
     ]
   },
-  "Search Quests": {
+  "SearchQuests": {
     "hidden": false,
     "yaml_option": [
       "SearchQuests"
     ]
   },
-  "Challenge Quests": {
+  "ChallengeQuests": {
     "hidden": false,
     "yaml_option": [
       "ChallengeQuests"
     ]
   },
-  "Affinity Quests": {
+  "AffinityQuests": {
     "hidden": false,
     "yaml_option": [
       "AffinityQuests"
     ]
   },
-  "Material Quests": {
+  "MaterialQuests": {
     "hidden": false,
     "yaml_option": [
       "MaterialQuests"
     ]
   },
-  "Unique Monsters": {
+  "UniqueMonsters": {
     "hidden": false,
     "yaml_option": [
       "UniqueMonsters"
     ]
   },
-  "Super Bosses": {
+  "SuperBosses": {
     "hidden": false,
     "yaml_option": [
-      "Super Bosses"
+      "SuperBosses"
     ]
   },
   "Collectopaedia": {
