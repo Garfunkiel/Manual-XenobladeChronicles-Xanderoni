@@ -1,9 +1,15 @@
 {
+  "Prologue": {
+    "starting": true,
+    "connects_to": [
+      "Colony 9"
+    ],
+    "requires": []
+  },
   "Colony 9": {
     "connects_to": [
       "Tephra Cave"
     ],
-    "starting": false,
     "requires": []
   },
   "Tephra Cave": {
@@ -23,21 +29,20 @@
   "Colony 6": {
     "connects_to": [
       "Bionis' Leg",
-      "Ether Mine",
-      "Satorl Marsh",
-      "Bionis' Interior (2nd Visit)"
+      "Ether Mine"
     ],
     "requires": "|Colony 6 Key:3|"
   },
   "Ether Mine": {
     "connects_to": [
-      "Colony 6"
+      "Colony 6",
+      "Satorl Marsh"
     ],
     "requires": "|Ether Mine Key:3|"
   },
   "Satorl Marsh": {
     "connects_to": [
-      "Colony 6",
+      "Ether Mine",
       "Bionis' Interior (1st Visit)"
     ],
     "requires": "|Satorl Marsh Key:3|"
@@ -51,10 +56,8 @@
   },
   "Makna Forest": {
     "connects_to": [
-      "Satorl Marsh",
-      "Frontier Village",
-      "Eryth Sea",
-      "Valak Mountain"
+      "Bionis' Interior (1st Visit)",
+      "Frontier Village"
     ],
     "requires": "|Makna Forest Key:3|"
   },
@@ -67,34 +70,35 @@
   },
   "Eryth Sea": {
     "connects_to": [
-      "Alcamoth",
-      "High Entia Tomb",
-      "Prison Island (1st Visit)",
-      "Makna Forest"
+      "Frontier Village",
+      "Alcamoth"
     ],
     "requires": "|Eryth Sea Key:3|"
   },
   "Alcamoth": {
     "connects_to": [
-      "Eryth Sea"
+      "Eryth Sea",
+      "High Entia Tomb"
     ],
     "requires": "|Alcamoth Key:3|"
   },
   "High Entia Tomb": {
     "connects_to": [
-      "Eryth Sea"
+      "Alcamoth",
+      "Prison Island (1st Visit)"
     ],
     "requires": "|High Entia Tomb Key:3|"
   },
   "Prison Island (1st Visit)": {
     "connects_to": [
-      "Eryth Sea"
+      "High Entia Tomb",
+      "Valak Mountain"
     ],
     "requires": "|Prison Island (1st Visit) Key:3|"
   },
   "Valak Mountain": {
     "connects_to": [
-      "Makna Forest",
+      "Prison Island (1st Visit)",
       "Sword Valley (MISSABLE)"
     ],
     "requires": "|Valak Mountain Key:3|"
@@ -115,6 +119,7 @@
   },
   "Fallen Arm": {
     "connects_to": [
+      "Galahad Fortress (MISSABLE)",
       "Mechonis Field (MISSABLE)"
     ],
     "requires": "|Fallen Arm Key:3|"
@@ -129,47 +134,42 @@
   "Central Factory (MISSABLE)": {
     "connects_to": [
       "Mechonis Field (MISSABLE)",
-      "Agniratha (MISSABLE)",
-      "Mechonis Core"
+      "Agniratha (MISSABLE)"
     ],
     "requires": "|Central Factory Key:3|"
   },
   "Agniratha (MISSABLE)": {
     "connects_to": [
-      "Central Factory (MISSABLE)"
+      "Central Factory (MISSABLE)",
+      "Mechonis Core"
     ],
     "requires": "|Agniratha Key:3|"
   },
   "Mechonis Core": {
     "connects_to": [
-      "Central Factory (MISSABLE)"
+      "Agniratha (MISSABLE)",
+      "Bionis' Interior (2nd Visit)"
     ],
     "requires": "|Mechonis Core Key:3|"
   },
-  "Memory Space": {
-    "connects_to": [
-      "Prison Island (2nd Visit)"
-    ],
-    "requires": "|Memory Fragment:20|"
-  },
   "Bionis' Interior (2nd Visit)": {
     "connects_to": [
-      "Colony 6",
+      "Mechonis Core",
       "Prison Island (2nd Visit)"
     ],
     "requires": "|Bionis' Interior (2nd Visit) Key:3|"
   },
   "Prison Island (2nd Visit)": {
     "connects_to": [
+      "Bionis' Interior (2nd Visit)",
       "Memory Space"
     ],
     "requires": "|Prison Island (2nd Visit) Key:3|"
   },
-  "Prologue": {
-    "starting": true,
+  "Memory Space": {
     "connects_to": [
-      "Colony 9"
+      "Prison Island (2nd Visit)"
     ],
-    "requires": []
+    "requires": "|Memory Fragment:20|"
   }
 }
