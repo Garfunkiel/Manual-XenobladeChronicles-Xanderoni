@@ -1294,7 +1294,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
     ],
-    "requires": "({YamlDisabled(collectopaediasanity) AND |Bionis' Leg Key:3| AND |Progressive Part Category:2|) OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Key:3| AND |Rusty Bolt| AND |Winding Gear|)"
+    "requires": "({YamlDisabled(collectopaediasanity)} AND |Bionis' Leg Key:3| AND |Progressive Part Category:2|) OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Key:3| AND |Rusty Bolt| AND |Winding Gear|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Strange Completion",
