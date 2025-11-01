@@ -870,7 +870,7 @@
     "category": [
       "Tephra Cave Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Tephra Cave Key:36| AND |Reyn Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
+    "requires": "|Fallen Arm Key:3| AND |Reyn Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
   },
   {
     "name": "Glowing in the Night",
@@ -1532,7 +1532,7 @@
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Tephra Cave Key:36| AND |Fiora Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    "requires": "|Fallen Arm Key:3| AND |Fiora Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
   },
   {
     "name": "Quiet Time",
@@ -1540,7 +1540,7 @@
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Tephra Cave Key:36| AND |Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    "requires": "|Fallen Arm Key:3| AND |Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
   },
   {
     "name": "Dunban's Right Arm",
