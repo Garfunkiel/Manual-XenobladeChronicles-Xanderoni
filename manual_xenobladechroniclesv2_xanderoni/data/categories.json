@@ -89,6 +89,12 @@
       "AffinityChart"
     ]
   },
+  "Achievements": {
+    "hidden": false,
+    "yaml_option": [
+      "Achievements"
+    ]
+  },
   "Collectopaediasanity": {
     "hidden": false,
     "yaml_option": [
