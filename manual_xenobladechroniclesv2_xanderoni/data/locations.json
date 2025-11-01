@@ -12220,11 +12220,11 @@
   },
   {
     "name": "Who Dares Defy Me?",
-    "region": "Bionis' Leg",
+    "region": "Makna Forest",
     "category": [
       "Achievements"
     ],
-  "requires": "|Bionis' Leg Key:3|"
+  "requires": "|Makna Forest Key:3|"
   },
   {
     "name": "One Step Further",
