@@ -1,0 +1,98 @@
+{
+  "Goal Zanza": {
+    "hidden": false,
+    "yaml_option": [
+      "GoalZanza"
+    ]
+  },
+  "Locations": {
+    "hidden": false,
+    "yaml_option": [
+      "locations"
+    ]
+  },
+  "Landmarks": {
+    "hidden": false,
+    "yaml_option": [
+      "landmarks"
+    ]
+  },
+  "Story Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "StoryQuests"
+    ]
+  },
+  "Monster Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "MonsterQuests"
+    ]
+  },
+  "Collection Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "CollectionQuests"
+    ]
+  },
+  "Search Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "SearchQuests"
+    ]
+  },
+  "Challenge Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "ChallengeQuests"
+    ]
+  },
+  "Affinity Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "AffinityQuests"
+    ]
+  },
+  "Material Quests": {
+    "hidden": false,
+    "yaml_option": [
+      "MaterialQuests"
+    ]
+  },
+  "Unique Monsters": {
+    "hidden": false,
+    "yaml_option": [
+      "UniqueMonsters"
+    ]
+  },
+  "Super Bosses": {
+    "hidden": false,
+    "yaml_option": [
+      "Super Bosses"
+    ]
+  },
+  "Collectopaedia": {
+    "hidden": false,
+    "yaml_option": [
+      "Collectopaedia"
+    ]
+  },
+  "HeartToHearts": {
+    "hidden": false,
+    "yaml_option": [
+      "HeartToHearts"
+    ]
+  },
+  "AffinityChart": {
+    "hidden": false,
+    "yaml_option": [
+      "AffinityChart"
+    ]
+  },
+   "Collectopaediasanity": {
+    "hidden": false,
+    "yaml_option": [
+      "collectopaediasanity"
+    ]
+  }
+}
