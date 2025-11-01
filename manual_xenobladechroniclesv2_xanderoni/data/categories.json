@@ -101,6 +101,12 @@
       "DevelopmentLevels"
     ]
   },
+  "Artsanity": {
+    "hidden": false,
+    "yaml_option": [
+      "Artsanity"
+    ]
+  },
   "Collectopaediasanity": {
     "hidden": false,
     "yaml_option": [
