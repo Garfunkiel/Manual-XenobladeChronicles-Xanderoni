@@ -64,16 +64,16 @@
     "requires": []
   },
   {
-    "region": "Colony 9",
     "name": "Tephra Cave Entrance",
+    "region": "Colony 9",
     "category": [
       "Colony 9 Landmarks","landmarks"
     ],
     "requires": []
   },
   {
-    "region": "Colony 9",
     "name": "Cylinder Hangar",
+    "region": "Colony 9",
     "category": [
       "Colony 9 Landmarks","landmarks"
     ],
@@ -969,8 +969,8 @@
     "region": "Colony 9"
   },
   {
-    "region": "Bionis' Leg",
     "name": "Ragrinar Canyon Path",
+    "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Landmarks","landmarks"
     ],
@@ -1801,8 +1801,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Ether Mine Key:3| AND |Progressive Strange Category:5| OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Key:3| AND |Love Crane| AND |Fire Abron|)"
   },
   {
-    "region": "Satorl Marsh",
     "name": "Kelsher Wetland",
+    "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Landmarks","landmarks"
     ],
@@ -2073,8 +2073,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Satorl Marsh Key:3| AND |Progressive Strange Category:6|) OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Key:3| AND |Pauper's Cup| AND |Happy Carnival| AND |Dawn Dice|)"
   },
   {
-    "region": "Bionis' Interior (1st Visit)",
     "name": "Terminal Trachea",
+    "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Bionis' Interior Landmarks","landmarks"
     ],
@@ -2097,8 +2097,8 @@
     "requires": "|Makna Forest Key:3|"
   },
   {
-    "region": "Makna Forest",
     "name": "Agni Tablet",
+    "region": "Makna Forest",
     "category": [
       "Makna Forest Landmarks","landmarks"
     ],
@@ -3089,8 +3089,8 @@
     "requires": "|Eryth Sea Key:3| AND |Riki Progressive Affinity Rank:2| AND |Reyn Progressive Affinity Rank:2|"
   },
   {
-    "region": "Eryth Sea",
     "name": "Riki Have Question",
+    "region": "Eryth Sea",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
     ],
@@ -3553,8 +3553,8 @@
     "requires": "|Alcamoth Key:3| AND |Fiora Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
   },
   {
-    "region": "Alcamoth",
     "name": "The Forefathers",
+    "region": "Alcamoth",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -4241,7 +4241,7 @@
     "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
   },
   {
-    "name": "Tranquil Morax (lV 50)",
+    "name": "Tranquil Morax (Lv 50)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
@@ -4409,8 +4409,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Galahad Fortress Key:3| AND |Progressive Strange Category:15|) OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Key:3| AND |Hunger Crash| AND |Splish Splash|)"
   },
   {
-    "region": "Fallen Arm",
     "name": "Wreckage Beach",
+    "region": "Fallen Arm",
     "category": [
       "Fallen Arm Landmarks","landmarks"
     ],
@@ -5233,8 +5233,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Central Factory Key:3| AND |Progressive Strange Category:18|) OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Key:3| AND |Smoke Cylinder| AND |Sacred Panther| AND |Parts Noble|)"
   },
   {
-    "region": "Agniratha (MISSABLE)",
     "name": "Factory Transporter",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Landmarks","landmarks"
     ],
@@ -5777,23 +5777,23 @@
     "requires": "|Prison Island (2nd Visit) Key:3| AND |Sharla Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
   },
   {
-    "region": "Prison Island (2nd Visit)",
     "name": "Journey's End",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
     ],
     "requires": "|Prison Island (2nd Visit) Key:3| AND |Reyn Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
   },
   {
-    "region": "Prison Island (2nd Visit)",
     "name": "Before the Final Battle",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
     ],
     "requires": "|Prison Island (2nd Visit) Key:3| AND |Shulk Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
   },
   {
-    "name": "Satrun",
+    "name": "Saturn",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
@@ -5890,8 +5890,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Tephra Cave Key:3| AND |Progressive Strange Category:2| OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Key:3| AND |Leaf Mystery| AND |Steel Silk|)"
   },
   {
-    "region": "Prison Island (2nd Visit)",
     "name": "Prison Island Collectopaedia Page Completion",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
     ],
@@ -7474,8 +7474,8 @@
     "requires": "|Mechonis Core Key:3|"
   },
   {
-    "region": "Frontier Village",
     "name": "An Errand for the Heropon",
+    "region": "Frontier Village",
     "category": [
       "Frontier Village Quests (Story)","StoryQuests"
     ],
@@ -12875,8 +12875,8 @@
   "requires": "|Fallen Arm Key:3|"
   },
   {
-    "region": "Mechonis Core",
     "name": "Other Collectopaedia Page Completion",
+    "region": "Mechonis Core",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
     ],
@@ -12891,8 +12891,8 @@
     "requires": "({YamlDisabled(collectopaediasanity)} AND |Mechonis Core Key:3| AND |Progressive Bug Category:13|) OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Core Key:3| AND |Minute Mantis| AND |Love Beetle|)"
   },
   {
-    "region": "Mechonis Core",
     "name": "Other Collectopaedia Part Completion",
+    "region": "Mechonis Core",
     "category": [
       "Other Collectopaedia","Collectopaedia","collectopaediasanity"
     ],
