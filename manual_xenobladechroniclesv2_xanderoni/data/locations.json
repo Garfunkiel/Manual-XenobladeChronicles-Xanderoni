@@ -1194,6 +1194,7 @@
   },
   {
     "name": "Gerugu",
+    "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg/Colony 6 Affinity Chart","AffinityChart"
     ],
@@ -1201,6 +1202,7 @@
   },
   {
     "name": "Batubatu",
+    "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg/Colony 6 Affinity Chart","AffinityChart"
     ],
@@ -6993,6 +6995,7 @@
   },
   {
     "name": "Looking for Freedom",
+    "region": "Colony 6",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
     ],
@@ -8904,6 +8907,7 @@
   },
   {
     "name": "Eliminate the Threat",
+    "region": "Fallen Arm",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
     ],
@@ -8911,6 +8915,7 @@
   },
   {
     "name": "Powerless",
+    "region": "Fallen Arm",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
     ],
@@ -8918,6 +8923,7 @@
   },
   {
     "name": "Stop the Mechon Rampage!",
+    "region": "Fallen Arm",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
     ],
@@ -8925,6 +8931,7 @@
   },
   {
     "name": "The Wilted Flower",
+    "region": "Fallen Arm",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
     ],
