@@ -1219,7 +1219,7 @@
     "count": "5",
     "name": "Colony 6 Reconstruction Housing Level",
     "category": [
-      "Colony 6 Reconstruction: Housing"
+      "Colony 6 Reconstruction", "Colony 6 Reconstruction: Housing"
     ],
     "progression": true
   },
@@ -1227,7 +1227,7 @@
     "count": "5",
     "name": "Colony 6 Reconstruction Commerce Level",
     "category": [
-      "Colony 6 Reconstruction: Commerce"
+      "Colony 6 Reconstruction", "Colony 6 Reconstruction: Commerce"
     ],
     "progression": true
   },
@@ -1235,7 +1235,7 @@
     "count": "5",
     "name": "Colony 6 Reconstruction Nature Level",
     "category": [
-      "Colony 6 Reconstruction: Nature"
+      "Colony 6 Reconstruction", "Colony 6 Reconstruction: Nature"
     ],
     "progression": true
   },
@@ -1243,7 +1243,7 @@
     "count": "5",
     "name": "Colony 6 Reconstruction Special Level",
     "category": [
-      "Colony 6 Reconstruction: Special"
+      "Colony 6 Reconstruction", "Colony 6 Reconstruction: Special"
     ],
     "progression": true
   },
@@ -1939,7 +1939,7 @@
     "count": 1,
     "name": "Sweet Wasabi",
     "category": [
-      "Colony 9 Collection (Vegetable)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1947,7 +1947,7 @@
     "count": 1,
     "name": "Cool Potato",
     "category": [
-      "Colony 9 Collection (Vegetable)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1955,7 +1955,7 @@
     "count": 1,
     "name": "Red Lettuce",
     "category": [
-      "Colony 9 Collection (Vegetable)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1963,7 +1963,7 @@
     "count": 1,
     "name": "Chewy Radish",
     "category": [
-      "Colony 9 Collection (Vegetable)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1971,7 +1971,7 @@
     "count": 1,
     "name": "Dance Apple",
     "category": [
-      "Colony 9 Collection (Fruit)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1979,7 +1979,7 @@
     "count": 1,
     "name": "Black Kiwi",
     "category": [
-      "Colony 9 Collection (Fruit)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1987,7 +1987,7 @@
     "count": 1,
     "name": "Strong Dandelion",
     "category": [
-      "Colony 9 Collection (Flower)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -1995,7 +1995,7 @@
     "count": 1,
     "name": "Moon Flower",
     "category": [
-      "Colony 9 Collection (Flower)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2003,7 +2003,7 @@
     "count": 1,
     "name": "Dawn Hydrangea",
     "category": [
-      "Colony 9 Collection (Flower)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2011,7 +2011,7 @@
     "count": 1,
     "name": "Prairie Dragonfly",
     "category": [
-      "Colony 9 Collection (Bug)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2019,7 +2019,7 @@
     "count": 1,
     "name": "Giant Hornet",
     "category": [
-      "Colony 9 Collection (Bug)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2027,7 +2027,7 @@
     "count": 1,
     "name": "White Beetle",
     "category": [
-      "Colony 9 Collection (Bug)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2035,7 +2035,7 @@
     "count": 1,
     "name": "Sorrow Beetle",
     "category": [
-      "Colony 9 Collection (Bug)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2043,7 +2043,7 @@
     "count": 1,
     "name": "Blue Chain",
     "category": [
-      "Colony 9 Collection (Part)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2051,7 +2051,7 @@
     "count": 1,
     "name": "Rabbit Diode",
     "category": [
-      "Colony 9 Collection (Part)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2059,7 +2059,7 @@
     "count": 1,
     "name": "Plate Snow",
     "category": [
-      "Colony 9 Collection (Strange)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2067,7 +2067,7 @@
     "count": 1,
     "name": "Rainbow Zirconia",
     "category": [
-      "Colony 9 Collection (Strange)","Collectopaediasanity"
+      "Colony 9 Collectopaedia","Colony 9 Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2075,7 +2075,7 @@
     "count": 1,
     "name": "Clear Almond",
     "category": [
-      "Tephra Cave Collection (Fruit)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2083,7 +2083,7 @@
     "count": 1,
     "name": "Bright Fig",
     "category": [
-      "Tephra Cave Collection (Fruit)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2091,7 +2091,7 @@
     "count": 1,
     "name": "Dark Grape",
     "category": [
-      "Tephra Cave Collection (Fruit)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2099,7 +2099,7 @@
     "count": 1,
     "name": "Insanity Mint",
     "category": [
-      "Tephra Cave Collection (Flower)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2107,7 +2107,7 @@
     "count": 1,
     "name": "Night Tulip",
     "category": [
-      "Tephra Cave Collection (Flower)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2115,7 +2115,7 @@
     "count": 1,
     "name": "Shin Newt",
     "category": [
-      "Tephra Cave Collection (Animal)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2123,7 +2123,7 @@
     "count": 1,
     "name": "Cave Rat",
     "category": [
-      "Tephra Cave Collection (Animal)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2131,7 +2131,7 @@
     "count": 1,
     "name": "Shin Gecko",
     "category": [
-      "Tephra Cave Collection (Animal)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2139,7 +2139,7 @@
     "count": 1,
     "name": "Happy Rabbit",
     "category": [
-      "Tephra Cave Collection (Animal)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2147,7 +2147,7 @@
     "count": 1,
     "name": "Brown Butterfly",
     "category": [
-      "Tephra Cave Collection (Bug)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2155,7 +2155,7 @@
     "count": 1,
     "name": "Gold Caterpillar",
     "category": [
-      "Tephra Cave Collection (Bug)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2163,7 +2163,7 @@
     "count": 1,
     "name": "Rumble Stonefly",
     "category": [
-      "Tephra Cave Collection (Bug)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2171,7 +2171,7 @@
     "count": 1,
     "name": "Kneecap Rock",
     "category": [
-      "Tephra Cave Collection (Nature)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2179,7 +2179,7 @@
     "count": 1,
     "name": "Confusion Ivy",
     "category": [
-      "Tephra Cave Collection (Nature)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2187,7 +2187,7 @@
     "count": 1,
     "name": "Clarity Moss",
     "category": [
-      "Tephra Cave Collection (Nature)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2195,7 +2195,7 @@
     "count": 1,
     "name": "Leaf Mystery",
     "category": [
-      "Tephra Cave Collection (Strange)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2203,7 +2203,7 @@
     "count": 1,
     "name": "Steel Silk",
     "category": [
-      "Tephra Cave Collection (Strange)","Collectopaediasanity"
+      "Tephra Cave Collectopaedia","Tephra Cave Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2211,7 +2211,7 @@
     "count": 1,
     "name": "Hot Taro",
     "category": [
-      "Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2219,7 +2219,7 @@
     "count": 1,
     "name": "Juicy Broccoli",
     "category": [
-      "Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2227,7 +2227,7 @@
     "count": 1,
     "name": "Spicy Cabbage",
     "category": [
-      "Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2235,7 +2235,7 @@
     "count": 1,
     "name": "Hard Lotus",
     "category": [
-      "Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2243,7 +2243,7 @@
     "count": 1,
     "name": "Sour Gooseberry",
     "category": [
-      "Bionis' Leg Collection (Fruit)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2251,7 +2251,7 @@
     "count": 1,
     "name": "Red Durian",
     "category": [
-      "Bionis' Leg Collection (Fruit)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2259,7 +2259,7 @@
     "count": 1,
     "name": "Walnut Grape",
     "category": [
-      "Bionis' Leg Collection (Fruit)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2267,7 +2267,7 @@
     "count": 1,
     "name": "Humming Plum",
     "category": [
-      "Bionis' Leg Collection (Fruit)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2275,7 +2275,7 @@
     "count": 1,
     "name": "White Ladybird",
     "category": [
-      "Bionis' Leg Collection (Bug)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2283,7 +2283,7 @@
     "count": 1,
     "name": "Hill Firefly",
     "category": [
-      "Bionis' Leg Collection (Bug)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2291,7 +2291,7 @@
     "count": 1,
     "name": "Moth Crawler",
     "category": [
-      "Bionis' Leg Collection (Bug)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2299,7 +2299,7 @@
     "count": 1,
     "name": "Queen Locust",
     "category": [
-      "Bionis' Leg Collection (Bug)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2307,7 +2307,7 @@
     "count": 1,
     "name": "Fire Tarantula",
     "category": [
-      "Bionis' Leg Collection (Bug)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2315,7 +2315,7 @@
     "count": 1,
     "name": "Mat Ice",
     "category": [
-      "Bionis' Leg Collection (Nature)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2323,7 +2323,7 @@
     "count": 1,
     "name": "Bluesky Bark",
     "category": [
-      "Bionis' Leg Collection (Nature)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2331,7 +2331,7 @@
     "count": 1,
     "name": "Pione Stone",
     "category": [
-      "Bionis' Leg Collection (Nature)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2339,7 +2339,7 @@
     "count": 1,
     "name": "Rusty Bolt",
     "category": [
-      "Bionis' Leg Collection (Part)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2347,7 +2347,7 @@
     "count": 1,
     "name": "Winding Gear",
     "category": [
-      "Bionis' Leg Collection (Part)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2355,7 +2355,7 @@
     "count": 1,
     "name": "Gold Dust Illusion",
     "category": [
-      "Bionis' Leg Collection (Strange)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2363,7 +2363,7 @@
     "count": 1,
     "name": "Devious Gravity",
     "category": [
-      "Bionis' Leg Collection (Strange)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2371,7 +2371,7 @@
     "count": 1,
     "name": "White Songbird",
     "category": [
-      "Bionis' Leg Collection (Strange)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2379,7 +2379,7 @@
     "count": 1,
     "name": "Death Bangle",
     "category": [
-      "Bionis' Leg Collection (Strange)","Collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Bionis' Leg Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2387,7 +2387,7 @@
     "count": 1,
     "name": "Cute Orchid",
     "category": [
-      "Colony 6 Collection (Flower)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2395,7 +2395,7 @@
     "count": 1,
     "name": "Sirius Anemone",
     "category": [
-      "Colony 6 Collection (Flower)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2403,7 +2403,7 @@
     "count": 1,
     "name": "Spirit Clematis",
     "category": [
-      "Colony 6 Collection (Flower)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2411,7 +2411,7 @@
     "count": 1,
     "name": "Pyro Lizard",
     "category": [
-      "Colony 6 Collection (Animal)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2419,7 +2419,7 @@
     "count": 1,
     "name": "Amblygon Turtle",
     "category": [
-      "Colony 6 Collection (Animal)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2427,7 +2427,7 @@
     "count": 1,
     "name": "Dobercorgi",
     "category": [
-      "Colony 6 Collection (Animal)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2435,7 +2435,7 @@
     "count": 1,
     "name": "Verdant Eternity",
     "category": [
-      "Colony 6 Collection (Strange)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2443,7 +2443,7 @@
     "count": 1,
     "name": "White Night Rod",
     "category": [
-      "Colony 6 Collection (Strange)","Collectopaediasanity"
+      "Colony 6 Collectopaedia","Colony 6 Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2451,7 +2451,7 @@
     "count": 1,
     "name": "Light Bat",
     "category": [
-      "Ether Mine Collection (Animal)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2459,7 +2459,7 @@
     "count": 1,
     "name": "Black Frog",
     "category": [
-      "Ether Mine Collection (Animal)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2467,7 +2467,7 @@
     "count": 1,
     "name": "Yellow Cat",
     "category": [
-      "Ether Mine Collection (Animal)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2475,7 +2475,7 @@
     "count": 1,
     "name": "Black Beetle",
     "category": [
-      "Ether Mine Collection (Bug)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2483,7 +2483,7 @@
     "count": 1,
     "name": "Rubber Mantis",
     "category": [
-      "Ether Mine Collection (Bug)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2491,7 +2491,7 @@
     "count": 1,
     "name": "Mystery Firefly",
     "category": [
-      "Ether Mine Collection (Bug)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2499,7 +2499,7 @@
     "count": 1,
     "name": "Charcoal Leg",
     "category": [
-      "Ether Mine Collection (Nature)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2507,7 +2507,7 @@
     "count": 1,
     "name": "Ether Pebble",
     "category": [
-      "Ether Mine Collection (Nature)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2515,7 +2515,7 @@
     "count": 1,
     "name": "Rumble Coal",
     "category": [
-      "Ether Mine Collection (Nature)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2523,7 +2523,7 @@
     "count": 1,
     "name": "Black Chip",
     "category": [
-      "Ether Mine Collection (Part)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2531,7 +2531,7 @@
     "count": 1,
     "name": "Ready Coil",
     "category": [
-      "Ether Mine Collection (Part)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2539,7 +2539,7 @@
     "count": 1,
     "name": "Love Crane",
     "category": [
-      "Ether Mine Collection (Strange)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2547,7 +2547,7 @@
     "count": 1,
     "name": "Fire Abron",
     "category": [
-      "Ether Mine Collection (Strange)","Collectopaediasanity"
+      "Ether Mine Collectopaedia","Ether Mine Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2555,7 +2555,7 @@
     "count": 1,
     "name": "Blue Turnip",
     "category": [
-      "Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2563,7 +2563,7 @@
     "count": 1,
     "name": "Cute Parsnip",
     "category": [
-      "Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2571,7 +2571,7 @@
     "count": 1,
     "name": "Poisonous Gourd",
     "category": [
-      "Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2579,7 +2579,7 @@
     "count": 1,
     "name": "Humming Cabbage",
     "category": [
-      "Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2587,7 +2587,7 @@
     "count": 1,
     "name": "Sunflower Rogue",
     "category": [
-      "Satorl Marsh Collection (Flower)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2595,7 +2595,7 @@
     "count": 1,
     "name": "Merry Coronation",
     "category": [
-      "Satorl Marsh Collection (Flower)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2603,7 +2603,7 @@
     "count": 1,
     "name": "Ether Rose",
     "category": [
-      "Satorl Marsh Collection (Flower)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2611,7 +2611,7 @@
     "count": 1,
     "name": "Orb Daisy",
     "category": [
-      "Satorl Marsh Collection (Flower)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2619,7 +2619,7 @@
     "count": 1,
     "name": "Forget-You-Not",
     "category": [
-      "Satorl Marsh Collection (Flower)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2627,7 +2627,7 @@
     "count": 1,
     "name": "Chimera Rabbit",
     "category": [
-      "Satorl Marsh Collection (Animal)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2635,7 +2635,7 @@
     "count": 1,
     "name": "Venom Platypus",
     "category": [
-      "Satorl Marsh Collection (Animal)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2643,7 +2643,7 @@
     "count": 1,
     "name": "Humming Cat",
     "category": [
-      "Satorl Marsh Collection (Animal)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2651,7 +2651,7 @@
     "count": 1,
     "name": "Mist Tree",
     "category": [
-      "Satorl Marsh Collection (Nature)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2659,7 +2659,7 @@
     "count": 1,
     "name": "Lemon Stone",
     "category": [
-      "Satorl Marsh Collection (Nature)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2667,7 +2667,7 @@
     "count": 1,
     "name": "Feather Leaf",
     "category": [
-      "Satorl Marsh Collection (Nature)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2675,7 +2675,7 @@
     "count": 1,
     "name": "Water Log",
     "category": [
-      "Satorl Marsh Collection (Nature)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2683,7 +2683,7 @@
     "count": 1,
     "name": "Wool Rock",
     "category": [
-      "Satorl Marsh Collection (Nature)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2691,7 +2691,7 @@
     "count": 1,
     "name": "Blue Gear Shard",
     "category": [
-      "Satorl Marsh Collection (Part)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2699,7 +2699,7 @@
     "count": 1,
     "name": "Rumble Part",
     "category": [
-      "Satorl Marsh Collection (Part)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2707,7 +2707,7 @@
     "count": 1,
     "name": "Pauper's Cup",
     "category": [
-      "Satorl Marsh Collection (Strange)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2715,7 +2715,7 @@
     "count": 1,
     "name": "Happy Carnival",
     "category": [
-      "Satorl Marsh Collection (Strange)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2723,7 +2723,7 @@
     "count": 1,
     "name": "Dawn Dice",
     "category": [
-      "Satorl Marsh Collection (Strange)","Collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Satorl Marsh Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2731,7 +2731,7 @@
     "count": 1,
     "name": "Sarsaparilla",
     "category": [
-      "Bionis' Interior Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2739,7 +2739,7 @@
     "count": 1,
     "name": "Black Liver Bean",
     "category": [
-      "Bionis' Interior Collection (Vegetable)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2747,7 +2747,7 @@
     "count": 1,
     "name": "Blood Worm",
     "category": [
-      "Bionis' Interior Collection (Animal)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2755,7 +2755,7 @@
     "count": 1,
     "name": "Azure Mouse",
     "category": [
-      "Bionis' Interior Collection (Animal)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2763,7 +2763,7 @@
     "count": 1,
     "name": "Happy Duck",
     "category": [
-      "Bionis' Interior Collection (Animal)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2771,7 +2771,7 @@
     "count": 1,
     "name": "Tap Tap Tap",
     "category": [
-      "Bionis' Interior Collection (Strange)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2779,7 +2779,7 @@
     "count": 1,
     "name": "High Entia Jewel",
     "category": [
-      "Bionis' Interior Collection (Strange)","Collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Bionis' Interior Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2787,7 +2787,7 @@
     "count": 1,
     "name": "Schorl Mushroom",
     "category": [
-      "Makna Forest Collection (Vegetable)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2795,7 +2795,7 @@
     "count": 1,
     "name": "Kelp Mushroom",
     "category": [
-      "Makna Forest Collection (Vegetable)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2803,7 +2803,7 @@
     "count": 1,
     "name": "Honey Rhubarb",
     "category": [
-      "Makna Forest Collection (Vegetable)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2811,7 +2811,7 @@
     "count": 1,
     "name": "Dark Mango",
     "category": [
-      "Makna Forest Collection (Fruit)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2819,7 +2819,7 @@
     "count": 1,
     "name": "Pure Cherry",
     "category": [
-      "Makna Forest Collection (Fruit)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2827,7 +2827,7 @@
     "count": 1,
     "name": "Bitter Kiwi",
     "category": [
-      "Makna Forest Collection (Fruit)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2835,7 +2835,7 @@
     "count": 1,
     "name": "Juicy Grape",
     "category": [
-      "Makna Forest Collection (Fruit)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2843,7 +2843,7 @@
     "count": 1,
     "name": "Enigma Lotus",
     "category": [
-      "Makna Forest Collection (Flower)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2851,7 +2851,7 @@
     "count": 1,
     "name": "Humming Nettle",
     "category": [
-      "Makna Forest Collection (Flower)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2859,7 +2859,7 @@
     "count": 1,
     "name": "Princess Daffodil",
     "category": [
-      "Makna Forest Collection (Flower)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2867,7 +2867,7 @@
     "count": 1,
     "name": "Black Iris",
     "category": [
-      "Makna Forest Collection (Flower)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2875,7 +2875,7 @@
     "count": 1,
     "name": "Ash Fox",
     "category": [
-      "Makna Forest Collection (Animal)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2883,7 +2883,7 @@
     "count": 1,
     "name": "Soft Sea Cucumber",
     "category": [
-      "Makna Forest Collection (Animal)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2891,7 +2891,7 @@
     "count": 1,
     "name": "Fossil Monkey",
     "category": [
-      "Makna Forest Collection (Animal)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2899,7 +2899,7 @@
     "count": 1,
     "name": "Venomous Lizard",
     "category": [
-      "Makna Forest Collection (Animal)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2907,7 +2907,7 @@
     "count": 1,
     "name": "Scarlet Ladybird",
     "category": [
-      "Makna Forest Collection (Bug)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2915,7 +2915,7 @@
     "count": 1,
     "name": "Shield Bug",
     "category": [
-      "Makna Forest Collection (Bug)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2923,7 +2923,7 @@
     "count": 1,
     "name": "Hades Beetle",
     "category": [
-      "Makna Forest Collection (Bug)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2931,7 +2931,7 @@
     "count": 1,
     "name": "Benign Cricket",
     "category": [
-      "Makna Forest Collection (Bug)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2939,7 +2939,7 @@
     "count": 1,
     "name": "Lemonade Sky",
     "category": [
-      "Makna Forest Collection (Strange)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2947,7 +2947,7 @@
     "count": 1,
     "name": "Forest of Gossip",
     "category": [
-      "Makna Forest Collection (Strange)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2955,7 +2955,7 @@
     "count": 1,
     "name": "Gravel Disk",
     "category": [
-      "Makna Forest Collection (Strange)","Collectopaediasanity"
+      "Makna Forest Collectopaedia","Makna Forest Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2963,7 +2963,7 @@
     "count": 1,
     "name": "Spicy Nut",
     "category": [
-      "Frontier Village Collection (Fruit)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2971,7 +2971,7 @@
     "count": 1,
     "name": "Crimson Citrus",
     "category": [
-      "Frontier Village Collection (Fruit)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2979,7 +2979,7 @@
     "count": 1,
     "name": "Rainbow Bug",
     "category": [
-      "Frontier Village Collection (Bug)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2987,7 +2987,7 @@
     "count": 1,
     "name": "Empress Beetle",
     "category": [
-      "Frontier Village Collection (Bug)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -2995,7 +2995,7 @@
     "count": 1,
     "name": "Rumble Box",
     "category": [
-      "Frontier Village Collection (Strange)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3003,7 +3003,7 @@
     "count": 1,
     "name": "Black Panel",
     "category": [
-      "Frontier Village Collection (Strange)","Collectopaediasanity"
+      "Frontier Village Collectopaedia","Frontier Village Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3011,7 +3011,7 @@
     "count": 1,
     "name": "Pink Asparagus",
     "category": [
-      "Eryth Sea Collection (Vegetable)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3019,7 +3019,7 @@
     "count": 1,
     "name": "Tropical Radish",
     "category": [
-      "Eryth Sea Collection (Vegetable)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3027,7 +3027,7 @@
     "count": 1,
     "name": "Dolphin Carrot",
     "category": [
-      "Eryth Sea Collection (Vegetable)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3035,7 +3035,7 @@
     "count": 1,
     "name": "Gold Burdock",
     "category": [
-      "Eryth Sea Collection (Vegetable)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3043,7 +3043,7 @@
     "count": 1,
     "name": "Sea Berry",
     "category": [
-      "Eryth Sea Collection (Flower)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3051,7 +3051,7 @@
     "count": 1,
     "name": "Despair Clover",
     "category": [
-      "Eryth Sea Collection (Flower)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3059,7 +3059,7 @@
     "count": 1,
     "name": "Doomsday Poppy",
     "category": [
-      "Eryth Sea Collection (Flower)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3067,7 +3067,7 @@
     "count": 1,
     "name": "Night Lily",
     "category": [
-      "Eryth Sea Collection (Flower)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3075,7 +3075,7 @@
     "count": 1,
     "name": "Razor Teasel",
     "category": [
-      "Eryth Sea Collection (Flower)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3083,7 +3083,7 @@
     "count": 1,
     "name": "Sea Frog",
     "category": [
-      "Eryth Sea Collection (Animal)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3091,7 +3091,7 @@
     "count": 1,
     "name": "Mane Cat",
     "category": [
-      "Eryth Sea Collection (Animal)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3099,7 +3099,7 @@
     "count": 1,
     "name": "White Tail",
     "category": [
-      "Eryth Sea Collection (Nature)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3107,7 +3107,7 @@
     "count": 1,
     "name": "Marine Marble",
     "category": [
-      "Eryth Sea Collection (Nature)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3115,7 +3115,7 @@
     "count": 1,
     "name": "Oil Branch",
     "category": [
-      "Eryth Sea Collection (Nature)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3123,7 +3123,7 @@
     "count": 1,
     "name": "Dilemma Rock",
     "category": [
-      "Eryth Sea Collection (Nature)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3131,7 +3131,7 @@
     "count": 1,
     "name": "High Violet",
     "category": [
-      "Eryth Sea Collection (Strange)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3139,7 +3139,7 @@
     "count": 1,
     "name": "Steel Hauyne",
     "category": [
-      "Eryth Sea Collection (Strange)","Collectopaediasanity"
+      "Eryth Sea Collectopaedia","Eryth Sea Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3147,7 +3147,7 @@
     "count": 1,
     "name": "Cool Lemon",
     "category": [
-      "Alcamoth Collection (Fruit)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3155,7 +3155,7 @@
     "count": 1,
     "name": "Heart Peach",
     "category": [
-      "Alcamoth Collection (Fruit)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3163,7 +3163,7 @@
     "count": 1,
     "name": "Mystic Dahlia",
     "category": [
-      "Alcamoth Collection (Flower)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3171,7 +3171,7 @@
     "count": 1,
     "name": "Stardrop",
     "category": [
-      "Alcamoth Collection (Flower)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3179,7 +3179,7 @@
     "count": 1,
     "name": "Ha Ha Ha",
     "category": [
-      "Alcamoth Collection (Strange)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3187,7 +3187,7 @@
     "count": 1,
     "name": "Thunder Atmos",
     "category": [
-      "Alcamoth Collection (Strange)","Collectopaediasanity"
+      "Alcamoth Collectopaedia","Alcamoth Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3211,7 +3211,7 @@
     "count": 1,
     "name": "Green Earwig",
     "category": [
-      "High Entia Tomb Collection (Bug)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3219,7 +3219,7 @@
     "count": 1,
     "name": "Blue Ladybird",
     "category": [
-      "High Entia Tomb Collection (Bug)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3227,7 +3227,7 @@
     "count": 1,
     "name": "White Tube",
     "category": [
-      "High Entia Tomb Collection (Part)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3235,7 +3235,7 @@
     "count": 1,
     "name": "Green Diode",
     "category": [
-      "High Entia Tomb Collection (Part)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3243,7 +3243,7 @@
     "count": 1,
     "name": "Spiral Lamp",
     "category": [
-      "High Entia Tomb Collection (Part)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3251,7 +3251,7 @@
     "count": 1,
     "name": "Tasty Sausage",
     "category": [
-      "High Entia Tomb Collection (Strange)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3259,7 +3259,7 @@
     "count": 1,
     "name": "Macro Passion",
     "category": [
-      "High Entia Tomb Collection (Strange)","Collectopaediasanity"
+      "High Entia Tomb Collectopaedia","High Entia Tomb Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3267,7 +3267,7 @@
     "count": 1,
     "name": "Sour Radish",
     "category": [
-      "Valak Mountaion Collection (Vegetable)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3275,7 +3275,7 @@
     "count": 1,
     "name": "Ice Cabbage",
     "category": [
-      "Valak Mountaion Collection (Vegetable)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3283,7 +3283,7 @@
     "count": 1,
     "name": "Girl Courgette",
     "category": [
-      "Valak Mountaion Collection (Vegetable)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3291,7 +3291,7 @@
     "count": 1,
     "name": "Amethyst Vanilla",
     "category": [
-      "Valak Mountaion Collection (Vegetable)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3299,7 +3299,7 @@
     "count": 1,
     "name": "Ether Plum",
     "category": [
-      "Valak Mountaion Collection (Fruit)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3307,7 +3307,7 @@
     "count": 1,
     "name": "Fire Apple",
     "category": [
-      "Valak Mountaion Collection (Fruit)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3315,7 +3315,7 @@
     "count": 1,
     "name": "Ruby Mangosteen",
     "category": [
-      "Valak Mountaion Collection (Fruit)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3323,7 +3323,7 @@
     "count": 1,
     "name": "Sour Grape",
     "category": [
-      "Valak Mountaion Collection (Fruit)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3331,7 +3331,7 @@
     "count": 1,
     "name": "Fortune Mallow",
     "category": [
-      "Valak Mountaion Collection (Flower)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3339,7 +3339,7 @@
     "count": 1,
     "name": "Black Peony",
     "category": [
-      "Valak Mountaion Collection (Flower)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3347,7 +3347,7 @@
     "count": 1,
     "name": "Fatal Belladonna",
     "category": [
-      "Valak Mountaion Collection (Flower)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3355,7 +3355,7 @@
     "count": 1,
     "name": "Wet Rat",
     "category": [
-      "Valak Mountaion Collection (Animal)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3363,7 +3363,7 @@
     "count": 1,
     "name": "Ice Monkey",
     "category": [
-      "Valak Mountaion Collection (Animal)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3371,7 +3371,7 @@
     "count": 1,
     "name": "Crystal Frog",
     "category": [
-      "Valak Mountaion Collection (Animal)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3379,7 +3379,7 @@
     "count": 1,
     "name": "Mud Squirrel",
     "category": [
-      "Valak Mountaion Collection (Animal)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3387,7 +3387,7 @@
     "count": 1,
     "name": "Gypsum Branch",
     "category": [
-      "Valak Mountaion Collection (Nature)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3395,7 +3395,7 @@
     "count": 1,
     "name": "Black Ash",
     "category": [
-      "Valak Mountaion Collection (Nature)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3403,7 +3403,7 @@
     "count": 1,
     "name": "Emerald Snow",
     "category": [
-      "Valak Mountaion Collection (Nature)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3411,7 +3411,7 @@
     "count": 1,
     "name": "Rabbit Stone",
     "category": [
-      "Valak Mountaion Collection (Nature)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3419,7 +3419,7 @@
     "count": 1,
     "name": "Broom Icicle",
     "category": [
-      "Valak Mountaion Collection (Nature)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3427,7 +3427,7 @@
     "count": 1,
     "name": "Frost Glass",
     "category": [
-      "Valak Mountaion Collection (Strange)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3435,7 +3435,7 @@
     "count": 1,
     "name": "Large Handcuffs",
     "category": [
-      "Valak Mountaion Collection (Strange)","Collectopaediasanity"
+      "Valak Mountain Collectopaedia","Valak Mountain Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3443,7 +3443,7 @@
     "count": 1,
     "name": "Fire Pepper",
     "category": [
-      "Sword Valley Collection (Vegetable)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3451,7 +3451,7 @@
     "count": 1,
     "name": "Meaty Carrot",
     "category": [
-      "Sword Valley Collection (Vegetable)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3459,7 +3459,7 @@
     "count": 1,
     "name": "Bitter Broccoli",
     "category": [
-      "Sword Valley Collection (Vegetable)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3467,7 +3467,7 @@
     "count": 1,
     "name": "Bitter Melon",
     "category": [
-      "Sword Valley Collection (Fruit)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3475,7 +3475,7 @@
     "count": 1,
     "name": "Citron Gooseberry",
     "category": [
-      "Sword Valley Collection (Fruit)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3483,7 +3483,7 @@
     "count": 1,
     "name": "Juicy Melon",
     "category": [
-      "Sword Valley Collection (Fruit)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3491,7 +3491,7 @@
     "count": 1,
     "name": "Amethyst Melon",
     "category": [
-      "Sword Valley Collection (Fruit)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3499,7 +3499,7 @@
     "count": 1,
     "name": "Jujube Silver",
     "category": [
-      "Sword Valley Collection (Flower)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3507,7 +3507,7 @@
     "count": 1,
     "name": "Black Blossom",
     "category": [
-      "Sword Valley Collection (Flower)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3515,7 +3515,7 @@
     "count": 1,
     "name": "Abyss Heather",
     "category": [
-      "Sword Valley Collection (Flower)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3523,7 +3523,7 @@
     "count": 1,
     "name": "Delerium Foxglove",
     "category": [
-      "Sword Valley Collection (Flower)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3531,7 +3531,7 @@
     "count": 1,
     "name": "Gold Condenser",
     "category": [
-      "Sword Valley Collection (Part)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3539,7 +3539,7 @@
     "count": 1,
     "name": "Purple Lamp",
     "category": [
-      "Sword Valley Collection (Part)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3547,7 +3547,7 @@
     "count": 1,
     "name": "Crimson Gear",
     "category": [
-      "Sword Valley Collection (Part)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3555,7 +3555,7 @@
     "count": 1,
     "name": "Red Frontier",
     "category": [
-      "Sword Valley Collection (Strange)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3563,7 +3563,7 @@
     "count": 1,
     "name": "Darkness Bottle",
     "category": [
-      "Sword Valley Collection (Strange)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3571,7 +3571,7 @@
     "count": 1,
     "name": "Bud of Eternity",
     "category": [
-      "Sword Valley Collection (Strange)","Collectopaediasanity"
+      "Sword Valley Collectopaedia","Sword Valley Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3579,7 +3579,7 @@
     "count": 1,
     "name": "Wheel Lurker",
     "category": [
-      "Galahad Fortress Collection (Bug)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3587,7 +3587,7 @@
     "count": 1,
     "name": "Ultramarine Ant",
     "category": [
-      "Galahad Fortress Collection (Bug)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3595,7 +3595,7 @@
     "count": 1,
     "name": "Locust Spring",
     "category": [
-      "Galahad Fortress Collection (Part)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3603,7 +3603,7 @@
     "count": 1,
     "name": "Art Core Coil",
     "category": [
-      "Galahad Fortress Collection (Part)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3611,7 +3611,7 @@
     "count": 1,
     "name": "Tail Antenna",
     "category": [
-      "Galahad Fortress Collection (Part)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3619,7 +3619,7 @@
     "count": 1,
     "name": "Hunger Crash",
     "category": [
-      "Galahad Fortress Collection (Strange)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3627,7 +3627,7 @@
     "count": 1,
     "name": "Splish Splash",
     "category": [
-      "Galahad Fortress Collection (Strange)","Collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Galahad Fortress Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3635,7 +3635,7 @@
     "count": 1,
     "name": "Sour Turnip",
     "category": [
-      "Fallen Arm Collection (Vegetable)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3643,7 +3643,7 @@
     "count": 1,
     "name": "Golden Beetroot",
     "category": [
-      "Fallen Arm Collection (Vegetable)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3651,7 +3651,7 @@
     "count": 1,
     "name": "White Plum",
     "category": [
-      "Fallen Arm Collection (Fruit)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3659,7 +3659,7 @@
     "count": 1,
     "name": "Ice Kiwi Fruit",
     "category": [
-      "Fallen Arm Collection (Fruit)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3667,7 +3667,7 @@
     "count": 1,
     "name": "Spicy Papaya",
     "category": [
-      "Fallen Arm Collection (Fruit)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3675,7 +3675,7 @@
     "count": 1,
     "name": "Large Mango",
     "category": [
-      "Fallen Arm Collection (Fruit)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3683,7 +3683,7 @@
     "count": 1,
     "name": "Oil Oyster",
     "category": [
-      "Fallen Arm Collection (Animal)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3691,7 +3691,7 @@
     "count": 1,
     "name": "Dark Fish",
     "category": [
-      "Fallen Arm Collection (Animal)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3699,7 +3699,7 @@
     "count": 1,
     "name": "Ether Penguin",
     "category": [
-      "Fallen Arm Collection (Animal)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3707,7 +3707,7 @@
     "count": 1,
     "name": "Rainbow Slug",
     "category": [
-      "Fallen Arm Collection (Animal)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3715,7 +3715,7 @@
     "count": 1,
     "name": "Poisonous Coral",
     "category": [
-      "Fallen Arm Collection (Nature)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3723,7 +3723,7 @@
     "count": 1,
     "name": "Poison Ivy",
     "category": [
-      "Fallen Arm Collection (Nature)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3731,7 +3731,7 @@
     "count": 1,
     "name": "Amber Leaf",
     "category": [
-      "Fallen Arm Collection (Nature)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3739,7 +3739,7 @@
     "count": 1,
     "name": "Warning Lamp",
     "category": [
-      "Fallen Arm Collection (Part)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3747,7 +3747,7 @@
     "count": 1,
     "name": "Digital Filament",
     "category": [
-      "Fallen Arm Collection (Part)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3755,7 +3755,7 @@
     "count": 1,
     "name": "Star Cute",
     "category": [
-      "Fallen Arm Collection (Strange)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3763,7 +3763,7 @@
     "count": 1,
     "name": "Summer Star",
     "category": [
-      "Fallen Arm Collection (Strange)","Collectopaediasanity"
+      "Fallen Arm Collectopaedia","Fallen Arm Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3771,7 +3771,7 @@
     "count": 1,
     "name": "Juicy Steakplant",
     "category": [
-      "Mechonis Field Collection (Vegetable)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3779,7 +3779,7 @@
     "count": 1,
     "name": "Acerola Pea",
     "category": [
-      "Mechonis Field Collection (Vegetable)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3787,7 +3787,7 @@
     "count": 1,
     "name": "Energy Aubergine",
     "category": [
-      "Mechonis Field Collection (Vegetable)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3795,7 +3795,7 @@
     "count": 1,
     "name": "Sweet Pepper",
     "category": [
-      "Mechonis Field Collection (Vegetable)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3803,7 +3803,7 @@
     "count": 1,
     "name": "Azure Hollyhock",
     "category": [
-      "Mechonis Field Collection (Flower)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3811,7 +3811,7 @@
     "count": 1,
     "name": "Utopia Crocus",
     "category": [
-      "Mechonis Field Collection (Flower)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3819,7 +3819,7 @@
     "count": 1,
     "name": "Scarlet Crawler",
     "category": [
-      "Mechonis Field Collection (Bug)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3827,7 +3827,7 @@
     "count": 1,
     "name": "Shiny Scarab",
     "category": [
-      "Mechonis Field Collection (Bug)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3835,7 +3835,7 @@
     "count": 1,
     "name": "Water Boatman",
     "category": [
-      "Mechonis Field Collection (Bug)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3843,7 +3843,7 @@
     "count": 1,
     "name": "Ivy Nest",
     "category": [
-      "Mechonis Field Collection (Nature)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3851,7 +3851,7 @@
     "count": 1,
     "name": "Mossy Panel",
     "category": [
-      "Mechonis Field Collection (Nature)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3859,7 +3859,7 @@
     "count": 1,
     "name": "Bronze Wood",
     "category": [
-      "Mechonis Field Collection (Nature)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3867,7 +3867,7 @@
     "count": 1,
     "name": "Retro Diode",
     "category": [
-      "Mechonis Field Collection (Part)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3875,7 +3875,7 @@
     "count": 1,
     "name": "Modern Blue Gear",
     "category": [
-      "Mechonis Field Collection (Part)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3883,7 +3883,7 @@
     "count": 1,
     "name": "Snow Transistor",
     "category": [
-      "Mechonis Field Collection (Part)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3891,7 +3891,7 @@
     "count": 1,
     "name": "Tweet Tweet",
     "category": [
-      "Mechonis Field Collection (Strange)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3899,7 +3899,7 @@
     "count": 1,
     "name": "Flame Frame",
     "category": [
-      "Mechonis Field Collection (Strange)","Collectopaediasanity"
+      "Mechonis Field Collectopaedia","Mechonis Field Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3907,7 +3907,7 @@
     "count": 1,
     "name": "Meaty Potato",
     "category": [
-      "Central Factory Collection (Vegetable)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3915,7 +3915,7 @@
     "count": 1,
     "name": "Blue Root",
     "category": [
-      "Central Factory Collection (Vegetable)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Vegetable)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3923,7 +3923,7 @@
     "count": 1,
     "name": "Prism Centipede",
     "category": [
-      "Central Factory Collection (Animal)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3931,7 +3931,7 @@
     "count": 1,
     "name": "Cable Mouse",
     "category": [
-      "Central Factory Collection (Animal)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3939,7 +3939,7 @@
     "count": 1,
     "name": "Oil Fox",
     "category": [
-      "Central Factory Collection (Animal)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3947,7 +3947,7 @@
     "count": 1,
     "name": "Dew Beetle",
     "category": [
-      "Central Factory Collection (Bug)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3955,7 +3955,7 @@
     "count": 1,
     "name": "Glider Cockroach",
     "category": [
-      "Central Factory Collection (Bug)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3963,7 +3963,7 @@
     "count": 1,
     "name": "White Styrene",
     "category": [
-      "Central Factory Collection (Nature)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3971,7 +3971,7 @@
     "count": 1,
     "name": "Black Styrene",
     "category": [
-      "Central Factory Collection (Nature)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3979,7 +3979,7 @@
     "count": 1,
     "name": "Blood Oil",
     "category": [
-      "Central Factory Collection (Nature)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3987,7 +3987,7 @@
     "count": 1,
     "name": "Angel Engine X",
     "category": [
-      "Central Factory Collection (Part)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -3995,7 +3995,7 @@
     "count": 1,
     "name": "Leaf Coil",
     "category": [
-      "Central Factory Collection (Part)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4003,7 +4003,7 @@
     "count": 1,
     "name": "Warrior Screw",
     "category": [
-      "Central Factory Collection (Part)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4011,7 +4011,7 @@
     "count": 1,
     "name": "Smoke Cylinder",
     "category": [
-      "Central Factory Collection (Strange)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4019,7 +4019,7 @@
     "count": 1,
     "name": "Sacred Panther",
     "category": [
-      "Central Factory Collection (Strange)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4027,7 +4027,7 @@
     "count": 1,
     "name": "Parts Noble",
     "category": [
-      "Central Factory Collection (Strange)","Collectopaediasanity"
+      "Central Factory Collectopaedia","Central Factory Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4035,7 +4035,7 @@
     "count": 1,
     "name": "Juicy Blueberry",
     "category": [
-      "Agniratha Collection (Fruit)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4043,7 +4043,7 @@
     "count": 1,
     "name": "Sweet Lime",
     "category": [
-      "Agniratha Collection (Fruit)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4051,7 +4051,7 @@
     "count": 1,
     "name": "Spicy Banana",
     "category": [
-      "Agniratha Collection (Fruit)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4059,7 +4059,7 @@
     "count": 1,
     "name": "Lewisia Silver",
     "category": [
-      "Agniratha Collection (Flower)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4067,7 +4067,7 @@
     "count": 1,
     "name": "Freesia Cyst",
     "category": [
-      "Agniratha Collection (Flower)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4075,7 +4075,7 @@
     "count": 1,
     "name": "Bellflower Crystal",
     "category": [
-      "Agniratha Collection (Flower)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Flower)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4083,7 +4083,7 @@
     "count": 1,
     "name": "Electric Cricket",
     "category": [
-      "Agniratha Collection (Bug)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4091,7 +4091,7 @@
     "count": 1,
     "name": "Scissor Bug",
     "category": [
-      "Agniratha Collection (Bug)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4099,7 +4099,7 @@
     "count": 1,
     "name": "Missing Tree",
     "category": [
-      "Agniratha Collection (Nature)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4107,7 +4107,7 @@
     "count": 1,
     "name": "Fortune Feather",
     "category": [
-      "Agniratha Collection (Nature)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4115,7 +4115,7 @@
     "count": 1,
     "name": "Fancy Bolt",
     "category": [
-      "Agniratha Collection (Part)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4123,7 +4123,7 @@
     "count": 1,
     "name": "Blue Light Amp",
     "category": [
-      "Agniratha Collection (Part)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4131,7 +4131,7 @@
     "count": 1,
     "name": "Fairy Tale Diode",
     "category": [
-      "Agniratha Collection (Part)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4139,7 +4139,7 @@
     "count": 1,
     "name": "Grape Spring",
     "category": [
-      "Agniratha Collection (Part)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4147,7 +4147,7 @@
     "count": 1,
     "name": "Eryth Blue",
     "category": [
-      "Agniratha Collection (Strange)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4155,7 +4155,7 @@
     "count": 1,
     "name": "Dramatic Night",
     "category": [
-      "Agniratha Collection (Strange)","Collectopaediasanity"
+      "Agniratha Collectopaedia","Agniratha Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4163,7 +4163,7 @@
     "count": 1,
     "name": "Dry Lemon",
     "category": [
-      "Prison Island Collection (Fruit)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4171,7 +4171,7 @@
     "count": 1,
     "name": "Death Lychee",
     "category": [
-      "Prison Island Collection (Fruit)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4179,7 +4179,7 @@
     "count": 1,
     "name": "Hell Raspberry",
     "category": [
-      "Prison Island Collection (Fruit)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4187,7 +4187,7 @@
     "count": 1,
     "name": "Deadly Kiwi",
     "category": [
-      "Prison Island Collection (Fruit)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Fruit)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4195,7 +4195,7 @@
     "count": 1,
     "name": "Dancing Squirrel",
     "category": [
-      "Prison Island Collection (Animal)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4203,7 +4203,7 @@
     "count": 1,
     "name": "Lightning Weasel",
     "category": [
-      "Prison Island Collection (Animal)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4211,7 +4211,7 @@
     "count": 1,
     "name": "Angry Monkey",
     "category": [
-      "Prison Island Collection (Animal)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Animal)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4219,7 +4219,7 @@
     "count": 1,
     "name": "Senorita Scarab",
     "category": [
-      "Prison Island Collection (Bug)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4227,7 +4227,7 @@
     "count": 1,
     "name": "Emperor Beetle",
     "category": [
-      "Prison Island Collection (Bug)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4235,7 +4235,7 @@
     "count": 1,
     "name": "Absurd Branch",
     "category": [
-      "Prison Island Collection (Nature)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4243,7 +4243,7 @@
     "count": 1,
     "name": "Insanity Moss",
     "category": [
-      "Prison Island Collection (Nature)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Nature)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4251,7 +4251,7 @@
     "count": 1,
     "name": "White Cover",
     "category": [
-      "Prison Island Collection (Part)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4259,7 +4259,7 @@
     "count": 1,
     "name": "Modern Resistor",
     "category": [
-      "Prison Island Collection (Part)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4267,7 +4267,7 @@
     "count": 1,
     "name": "Green Cam",
     "category": [
-      "Prison Island Collection (Part)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4275,7 +4275,7 @@
     "count": 1,
     "name": "Strong Screw",
     "category": [
-      "Prison Island Collection (Part)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4283,7 +4283,7 @@
     "count": 1,
     "name": "Blue Glow",
     "category": [
-      "Prison Island Collection (Strange)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4291,7 +4291,7 @@
     "count": 1,
     "name": "Blue Blood",
     "category": [
-      "Prison Island Collection (Strange)","Collectopaediasanity"
+      "Prison Island Collectopaedia","Prison Island Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4299,7 +4299,7 @@
     "count": 1,
     "name": "Minute Mantis",
     "category": [
-      "Other Collection (Bug)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4307,7 +4307,7 @@
     "count": 1,
     "name": "Love Beetle",
     "category": [
-      "Other Collection (Bug)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Bug)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4315,7 +4315,7 @@
     "count": 1,
     "name": "Golden Cog",
     "category": [
-      "Other Collection (Part)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4323,7 +4323,7 @@
     "count": 1,
     "name": "Angel Engine Y",
     "category": [
-      "Other Collection (Part)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4331,7 +4331,7 @@
     "count": 1,
     "name": "Thunder Compass",
     "category": [
-      "Other Collection (Part)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Part)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4339,7 +4339,7 @@
     "count": 1,
     "name": "Coin of Fortune",
     "category": [
-      "Other Collection (Strange)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
@@ -4347,7 +4347,7 @@
     "count": 1,
     "name": "Love Source",
     "category": [
-      "Other Collection (Strange)","Collectopaediasanity"
+      "Other Collectopaedia","Other Collection (Strange)","Collectopaediasanity"
     ],
     "progression": true
   },
