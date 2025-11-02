@@ -5841,7 +5841,7 @@
   },
   {
     "name": "Flattened Flowers",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","AffinityQuests"
     ]
@@ -10860,7 +10860,7 @@
   },
   {
     "name": "Critical Thinking",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -10916,7 +10916,7 @@
   },
   {
     "name": "Go Team!",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -10965,7 +10965,7 @@
   },
   {
     "name": "Chain Gang",
-    "region": "Satorl Marsh",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -11007,7 +11007,7 @@
   },
   {
     "name": "Come On, Cheer Up!",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -11028,7 +11028,7 @@
   },
   {
     "name": "Right, Let's Do This!",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -11077,7 +11077,7 @@
   },
   {
     "name": "One Step Further",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -11091,7 +11091,7 @@
   },
   {
     "name": "Art School",
-    "region": "Tephra Cave",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
@@ -11554,6 +11554,13 @@
   {
     "name": "Chatting the Day Away",
     "region": "Fallen Arm",
+    "category": [
+      "Achievements"
+    ]
+  },
+  {
+    "name": "Blossoming Friendship",
+    "region": "Colony 9",
     "category": [
       "Achievements"
     ]
