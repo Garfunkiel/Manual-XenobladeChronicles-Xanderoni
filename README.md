@@ -1,6 +1,8 @@
 # Xenoblade Chronicles Manual APWorld
 Credit for creating this Manual AP (and doing the vast majority of the work on it) belongs to Xanderoni, with additional work by skipperki1. I have added my name only to the version number; this is to ensure that blame is properly assigned to me if something goes wrong as a result of my changes.
 
+Discussion for this Manual can be found on Discord: https://discord.com/channels/1097532591650910289/1216897393019322388
+
 ## Changes from Xanderoni's version 2.0:
 - Used the newest Manual Builder to regenerate everything using the newest stable Manual code
 - Added Eijebong's Fuzz and Test Github Actions
