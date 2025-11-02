@@ -64,7 +64,7 @@
   },
   {
     "name": "Cylinder Hangar",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Landmarks","landmarks"
     ]
@@ -79,115 +79,113 @@
   },
   {
     "name": "Itinerant Dorothea (Lv 6)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Tephra Cave Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Evil Rhangrot (Lv 6)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Tephra Cave Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Lake Magdalena (Lv 6)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Tephra Cave Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Speedy Ramshyde (Lv 10)",
-    "region": "Colony 9",
+    "region": "Bionis' Leg",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Bionis' Leg Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Enchanting Grune (Lv 13)",
-    "region": "Colony 9",
+    "region": "Bionis' Leg",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Bionis' Leg Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Dark Murakmor (Lv 18)",
-    "region": "Colony 9",
+    "region": "Colony 6",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Colony 6 Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Gentle Mother Armu (Lv 37)",
-    "region": "Colony 9",
+    "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Bionis' Interior (1st Visit) Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Impenetrable Redrob (Lv 38)",
-    "region": "Colony 9",
+    "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Bionis' Interior (1st Visit) Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Roguish Frengel (Lv 39)",
-    "region": "Colony 9",
+    "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Bionis' Interior (1st Visit) Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Gentle Rodriguez (Lv 40)",
-    "region": "Colony 9",
+    "region": "Makna Forest",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Makna Forest Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Shadeless Matrix (Lv 44)",
-    "region": "Colony 9",
+    "region": "Makna Forest",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Makna Forest Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Flailing Bracken (Lv 73)",
-    "region": "Colony 9",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Progressive Hunting License:1| AND |Central Factory Key:3|"
+    "requires": "|Progressive Hunting License:1|"
   },
   {
     "name": "Ancient Machines",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Bosses"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Metal Face",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Bosses"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Andreas",
@@ -998,27 +996,27 @@
   },
   {
     "name": "Field Altrich (Lv 76)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Immovable Gonzalez (Lv 90)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Mysterious Barnaby (Lv 75)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Napping Volfen (Lv 17)",
@@ -1026,7 +1024,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Night Cardamon (Lv 18)",
@@ -1034,7 +1032,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Sniper Paramecia (Lv 15)",
@@ -1042,15 +1040,15 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Territorial Rotbart (Lv 81)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Trainer Harmelon (Lv 15)",
@@ -1058,7 +1056,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Vagrant Alfead (Lv 16)",
@@ -1066,7 +1064,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Violent Andante (Lv 16)",
@@ -1074,7 +1072,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "White Eduardo (Lv 17)",
@@ -1082,7 +1080,7 @@
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Mechon M71",
@@ -1270,7 +1268,7 @@
     "category": [
       "Colony 6 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Colony 6 Key:3| AND |Progressive Hunting License:4|"
+    "requires": "|Progressive Hunting License:4|"
   },
   {
     "name": "Drifter Jutard (Lv 25)",
@@ -1278,7 +1276,7 @@
     "category": [
       "Colony 6 Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Ether Mine Key:3| AND |Progressive Hunting License:4|"
+    "requires": "|Progressive Hunting License:4|"
   },
   {
     "name": "Sani Telethia",
@@ -1584,7 +1582,7 @@
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Ether Mine Key:3| AND |Progressive Hunting License:5|"
+    "requires": "|Progressive Hunting License:5|"
   },
   {
     "name": "Vengeful Daulton (Lv 22)",
@@ -1592,7 +1590,7 @@
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Ether Mine Key:3| AND |Progressive Hunting License:5|"
+    "requires": "|Progressive Hunting License:5|"
   },
   {
     "name": "Elegant Marin (Lv 29)",
@@ -1600,7 +1598,7 @@
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Ether Mine Key:3| AND |Progressive Hunting License:5|"
+    "requires": "|Progressive Hunting License:5|"
   },
   {
     "name": "Xord (Ether Mine)",
@@ -1735,7 +1733,7 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Amber Fischer (Lv 27)",
@@ -1743,7 +1741,7 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Cautious Balteid (Lv 26)",
@@ -1751,31 +1749,31 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "SUPERBOSS Despotic Arsene (Lv 108)",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Unique Monsters","SuperBosses"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Eternal Palsadia (Lv 91)",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Indomitable Daulton (Lv 85)",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Reckless Godwin (Lv 31)",
@@ -1783,7 +1781,7 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Stormy Widardun (Lv 25)",
@@ -1791,7 +1789,7 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Sunlight Schvaik (Lv 30)",
@@ -1799,7 +1797,7 @@
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Satorl Marsh Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "Swift Zektol (Lv 28)",
@@ -2012,19 +2010,17 @@
   },
   {
     "name": "Pod Landing Site",
-    "region": "Makna Forest",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Landmarks","landmarks"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Valak Pass",
-    "region": "Makna Forest",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Landmarks","landmarks"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Divine Sanctuary",
@@ -2049,11 +2045,10 @@
   },
   {
     "name": "King Agni's Tomb",
-    "region": "Makna Forest",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Landmarks","landmarks"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Agile Albatro (Lv 33)",
@@ -2061,7 +2056,7 @@
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Makna Forest Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Breezy Zolos (Lv 37)",
@@ -2069,15 +2064,15 @@
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Makna Forest Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Brutal Gravar (Lv 46)",
-    "region": "Makna Forest",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Prison Island (1st Visit) Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Elder Gragus (Lv 34)",
@@ -2085,15 +2080,15 @@
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Makna Forest Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Illustrious Golteus (Lv 98)",
-    "region": "Makna Forest",
+    "region": "Mechonis Core",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Lazy Bluco (Lv 34)",
@@ -2101,15 +2096,15 @@
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Makna Forest Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Magnificent Digalus (Lv 99)",
-    "region": "Makna Forest",
+    "region": "Mechonis Core",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Obsessive Galgaron (Lv 35)",
@@ -2129,11 +2124,11 @@
   },
   {
     "name": "Unreliable Rezno (Lv 96)",
-    "region": "Makna Forest",
+    "region": "Mechonis Core",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Leone Telethia",
@@ -3270,7 +3265,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Shulk Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    "requires": "|Shulk Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
   },
   {
     "name": "A Breathtaking Sight",
@@ -3278,7 +3273,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Reyn Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    "requires": "|Reyn Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
   },
   {
     "name": "Brother and Sister",
@@ -3286,7 +3281,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Fiora Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    "requires": "|Fiora Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
   },
   {
     "name": "The Forefathers",
@@ -3294,7 +3289,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Fiora Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    "requires": "|Fiora Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
   },
   {
     "name": "Melia's Imperial Villa",
@@ -3302,7 +3297,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Fiora Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    "requires": "|Fiora Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
   },
   {
     "name": "Ancient Astrology",
@@ -3310,7 +3305,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Alcamoth Key:3| AND |Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    "requires": "|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
   },
   {
     "name": "Alcamoth Collectopaedia Page Completion",
@@ -3392,7 +3387,7 @@
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|High Entia Tomb Key:3| AND |Progressive Hunting License:9|"
+    "requires": "|Progressive Hunting License:9|"
   },
   {
     "name": "Furious Jozan (Lv 55)",
@@ -3400,7 +3395,7 @@
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|High Entia Tomb Key:3| AND |Progressive Hunting License:9|"
+    "requires": "|Progressive Hunting License:9|"
   },
   {
     "name": "Orluga Rufus",
@@ -3418,11 +3413,11 @@
   },
   {
     "name": "Hopes and Plans",
-    "region": "High Entia Tomb",
+    "region": "Mechonis Core",
     "category": [
       "High Entia Tomb Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Shulk Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    "requires": "|Shulk Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
   },
   {
     "name": "Echoes of Ancient Times",
@@ -3430,7 +3425,7 @@
     "category": [
       "High Entia Tomb Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|High Entia Tomb Key:3| AND |Reyn Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    "requires": "|Reyn Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
   },
   {
     "name": "High Entia Tomb Collectopaedia Page Completion",
@@ -3610,15 +3605,15 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Barbaric Sitri (Lv 47)",
@@ -3626,15 +3621,15 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Exposure Wolfol (Lv 97)",
@@ -3642,15 +3637,15 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "SUPERBOSS Final Marcus (Lv 100)",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Glorious Buer (Lv 45)",
@@ -3658,7 +3653,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Hidden Gamigin (Lv 49)",
@@ -3666,7 +3661,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Moonlight Paimon (Lv 46)",
@@ -3674,7 +3669,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "North Star Gusion (Lv 50)",
@@ -3682,7 +3677,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Vague Barbas (Lv 46)",
@@ -3690,15 +3685,15 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Wandering Amon (Lv 98)",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Banquet Vassago (Lv 48)",
@@ -3706,7 +3701,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Conflagrant Raxeal (Lv 45)",
@@ -3714,7 +3709,7 @@
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "Mumkhar (Valak Mountain)",
@@ -3736,7 +3731,7 @@
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Shulk Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    "requires": "|Shulk Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
   },
   {
     "name": "First Sight of Snow",
@@ -3744,7 +3739,7 @@
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Reyn Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
+    "requires": "|Reyn Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
   },
   {
     "name": "In Ose Tower",
@@ -3752,7 +3747,7 @@
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Valak Mountain Key:3| AND |Dunban Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    "requires": "|Dunban Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
   },
   {
     "name": "Valak Mountain Collectopaedia Page Completion",
@@ -3815,80 +3810,70 @@
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Supply Convoy",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Ged Fortress",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Dolgan Outpost",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Enalda Control Base",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Heavy Machine Depot",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Control Tower (Sword Valley)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Radio Tower",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Fortress Rear Entrance",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Monado Wound",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Landmarks","landmarks"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Benevolent Aim (Lv 51)",
@@ -3896,7 +3881,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Defective Ipos (Lv 50)",
@@ -3904,7 +3889,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Fate Labolas (Lv 51)",
@@ -3912,7 +3897,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Prudent Purson (Lv 49)",
@@ -3920,7 +3905,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Kamikaze Bune (Lv 53)",
@@ -3928,7 +3913,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Lightning Ronove (Lv 55)",
@@ -3936,7 +3921,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Mischievious Naberius (Lv 57)",
@@ -3944,7 +3929,7 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Tranquil Morax (Lv 50)",
@@ -3952,15 +3937,14 @@
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:11|"
+    "requires": "|Progressive Hunting License:11|"
   },
   {
     "name": "Mumkhar (Sword Valley)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Bosses"
-    ],
-    "requires": "|Sword Valley Key:3|"
+    ]
   },
   {
     "name": "Sword Valley Collectopaedia Page Completion",
@@ -4191,7 +4175,7 @@
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Fallen Arm Key:3| AND |Progressive Hunting License:13|"
+    "requires": "|Progressive Hunting License:13|"
   },
   {
     "name": "Affluent Beleth (Lv 57)",
@@ -4199,15 +4183,15 @@
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Fallen Arm Key:3| AND |Progressive Hunting License:13|"
+    "requires": "|Progressive Hunting License:13|"
   },
   {
     "name": "SUPERBOSS Ancient Daedala (Lv 105)",
-    "region": "Fallen Arm",
+    "region": "Mechonis Core",
     "category": [
       "Fallen Arm Unique Monsters","SuperBosses"
     ],
-    "requires": "|Fallen Arm Key:3| AND |Progressive Hunting License:13|"
+    "requires": "|Progressive Hunting License:13|"
   },
   {
     "name": "Evil Bathin (Lv 54)",
@@ -4215,7 +4199,7 @@
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Fallen Arm Key:3| AND |Progressive Hunting License:13|"
+    "requires": "|Progressive Hunting License:13|"
   },
   {
     "name": "Powerful Eligos (Lv 80)",
@@ -4577,7 +4561,7 @@
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Mechonis Field Key:3| AND |Progressive Hunting License:14|"
+    "requires": "|Progressive Hunting License:14|"
   },
   {
     "name": "Commander Oracion (Lv 61)",
@@ -4585,7 +4569,7 @@
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Mechonis Field Key:3| AND |Progressive Hunting License:14|"
+    "requires": "|Progressive Hunting License:14|"
   },
   {
     "name": "Destroyer Salvacion (Lv 59)",
@@ -4742,8 +4726,7 @@
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Landmarks","landmarks"
-    ],
-    "requires": "|Central Factory Key:3|"
+    ]
   },
   {
     "name": "Balanced Palamedes (Lv 62)",
@@ -4751,7 +4734,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Beautiful Vagul (Lv 60)",
@@ -4759,7 +4742,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Faithful Lancelot (Lv 59)",
@@ -4767,7 +4750,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Magestic Mordred (Lv 70)",
@@ -4775,7 +4758,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Mild Florence (Lv 58)",
@@ -4783,7 +4766,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Sinful Lamorak (Lv 63)",
@@ -4791,7 +4774,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Synchronised Gaheris (Lv 61)",
@@ -4799,7 +4782,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Temporal Gawain (Lv 63)",
@@ -4807,7 +4790,7 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Venerable Focalor (Lv 64)",
@@ -4815,15 +4798,14 @@
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Central Factory Key:3| AND |Progressive Hunting License:15|"
+    "requires": "|Progressive Hunting License:15|"
   },
   {
     "name": "Apocrypha Generator (Boss)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Bosses"
-    ],
-    "requires": "|Central Factory Key:3|"
+    ]
   },
   {
     "name": "Central Factory Collectopaedia Page Completion",
@@ -4957,7 +4939,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Experienced Tristan (Lv 64)",
@@ -4965,7 +4947,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Destructive Bors (Lv 64)",
@@ -4973,7 +4955,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Soothed Aglovale (Lv 65)",
@@ -4981,7 +4963,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Meditative Varla (Lv 65)",
@@ -4989,7 +4971,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Sentimental Flamral (Lv 66)",
@@ -4997,7 +4979,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Wrathful Orobas (Lv 67)",
@@ -5005,7 +4987,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Wise Gremory (Lv 68)",
@@ -5013,7 +4995,7 @@
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
     ],
-    "requires": "|Agniratha Key:3| AND |Progressive Hunting License:16|"
+    "requires": "|Progressive Hunting License:16|"
   },
   {
     "name": "Egil",
@@ -5402,7 +5384,7 @@
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Prison Island (2nd Visit) Key:3| AND |Reyn Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    "requires": "|Reyn Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
   },
   {
     "name": "Before the Final Battle",
@@ -5459,7 +5441,7 @@
     "category": [
       "Memory Space Boss"
     ],
-    "requires": "|Prison Island (2nd Visit) Key:3| AND |Memory Fragment:20|"
+    "requires": "|Memory Fragment:20|"
   },
   {
     "name": "Fallen Arm Development Level 1",
@@ -5726,27 +5708,24 @@
   },
   {
     "name": "Monster Quest 4 - Part 1 (Colony 9)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","MonsterQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Monster Quest 4 - Part 2 (Colony 9)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","MonsterQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Monster Quest 4 - Part 3 (Colony 9)",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","MonsterQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Search Quest 1 (Colony 9)",
@@ -5813,11 +5792,10 @@
   },
   {
     "name": "Dean's Shady Request",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Education-Minded Suzanna",
@@ -5835,11 +5813,10 @@
   },
   {
     "name": "Education-Crazy Suzanna",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Liliana's Sincere Request",
@@ -5850,11 +5827,10 @@
   },
   {
     "name": "Challenge 4",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","ChallengeQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Delivering Food",
@@ -5872,11 +5848,10 @@
   },
   {
     "name": "Mementos of a Lost Son",
-    "region": "Colony 9",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 9 Quests","AffinityQuests"
-    ],
-    "requires": "|Satorl Marsh Key:3|"
+    ]
   },
   {
     "name": "Paola and Narine",
@@ -5888,35 +5863,31 @@
   },
   {
     "name": "The Lost Pendant",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "The Plan - Preparation",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "A Young Captain's Suffering",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "A Young Captain's Rise",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Tephra Cave Key:3|"
+    ]
   },
   {
     "name": "Overworked and Underpaid",
@@ -6090,43 +6061,42 @@
   },
   {
     "name": "The Book of Bafalgar",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "The Blood of Bafalgar",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:2|"
+    "requires": "|Progressive Hunting License:2|"
   },
   {
     "name": "The Path of Bafalgar",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:2|"
+    "requires": "|Progressive Hunting License:2|"
   },
   {
     "name": "The Coffin of Bafalgar",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:2|"
+    "requires": "|Progressive Hunting License:2|"
   },
   {
     "name": "The Gratitude of Bafalgar",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:2|"
+    "requires": "|Progressive Hunting License:2|"
   },
   {
     "name": "A Thoughtful Idea (MISSABLE)",
@@ -6171,7 +6141,7 @@
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Challenge 2 - Part 2 (Bionis' Leg) (MISSABLE)",
@@ -6179,7 +6149,7 @@
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
     ],
-    "requires": "|Bionis' Leg Key:3| AND |Progressive Hunting License:3|"
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Collection Quest 1 (Bionis' Leg) (MISSABLE)",
@@ -6358,35 +6328,32 @@
   },
   {
     "name": "Legend of Mythical Empress",
-    "region": "Bionis' Leg",
+    "region": "Makna Forest",
     "category": [
       "Bionis' Leg Quests (Colony 6 Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Makna Forest Key:3|"
+    ]
   },
   {
     "name": "A Flower for a Rose",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Battling Brutes",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Quests","AffinityQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:2|"
+    "requires": "|Progressive Hunting License:2|"
   },
   {
     "name": "Supplies for Satorl",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Proof of Status",
@@ -6411,339 +6378,299 @@
   },
   {
     "name": "Chemist's Reopening",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "For the Restoration (MISSABLE)",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "Making a New Path (MISSABLE)",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "Satata's Younger Brother",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "A Selfish Girl's Mistake",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "Rest in Peace",
-    "region": "Colony 6",
+    "region": "Makna Forest",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Makna Forest Key:3|"
+    ]
   },
   {
     "name": "Matryona's Answer",
-    "region": "Colony 6",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Satorl Marsh Key:3|"
+    ]
   },
   {
     "name": "A Gutsy Trader",
-    "region": "Colony 6",
+    "region": "Makna Forest",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Makna Forest Key:3|"
+    ]
   },
   {
     "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
-    "region": "Colony 6",
+    "region": "Makna Forest",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ],
-    "requires": "|Makna Forest Key:3|"
+    ]
   },
   {
     "name": "Cook-Off Counter Attack!",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Missing Lodger",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Cook-Off Comeback?",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Cook-Off Final Blow?!",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "A Delectable Delicacy",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Looking for Freedom",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Obstinate Berryjammy",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "A Tantalising Treat",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "Cook-Off Showdown!",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "Unstoppable Berryjammy",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "The Most Transparent Thing",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "A Final Sweet Favour",
-    "region": "Colony 6",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 4)","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "Odd Smoke - Investigation",
     "region": "Colony 6",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "In Pursuit of Love",
-    "region": "Colony 6",
+    "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "Odd Smoke - Resolution",
-    "region": "Colony 6",
+    "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "Defend Colony 6 - Elite (55% Reconstruction)",
-    "region": "Colony 6",
+    "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "Nic's Training",
-    "region": "Colony 6",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
     ],
-  "requires": "|Central Factory Key:3| AND |Colony 6 Reconstruction Housing Level:5|"
+  "requires": "|Colony 6 Reconstruction Housing Level:5|"
   },
   {
     "name": "Nic's Final Test",
-    "region": "Colony 6",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Quests (Development Level 4)","AffinityQuests"
     ],
-    "requires": "|Central Factory Key:3| AND |Colony 6 Reconstruction Housing Level:5|"
+    "requires": "|Colony 6 Reconstruction Housing Level:5|"
   },
   {
     "name": "Melancholy Tyrea",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Securing Provisions",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Delivering the Undeliverable",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Finding the Unfindable",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Lifespan of a Machina",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "A Dauntless Trader",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "A Poet's Concerns",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Defend Colony 6 - Demon (95% Reconstruction)",
-    "region": "Colony 6",
+    "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Replica Monado 1",
-    "region": "Colony 6",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Bionis' Interior (2nd Visit) Key:3|"
+    ]
   },
   {
     "name": "Replica Monado 2",
-    "region": "Colony 6",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Bionis' Interior (2nd Visit) Key:3|"
+    ]
   },
   {
     "name": "Replica Monado 3",
-    "region": "Colony 6",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Bionis' Interior (2nd Visit) Key:3|"
+    ]
   },
   {
     "name": "Replica Monado 4",
-    "region": "Colony 6",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Bionis' Interior (2nd Visit) Key:3|"
+    ]
   },
   {
     "name": "Replica Monado 5",
-    "region": "Colony 6",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ],
-    "requires": "|Bionis' Interior (2nd Visit) Key:3|"
+    ]
   },
   {
     "name": "Kacha's Kidnapping",
@@ -6853,59 +6780,53 @@
   },
   {
     "name": "Gather Information",
-    "region": "Satorl Marsh",
+    "region": "Alcamoth",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Challenge (Satorl Marsh)",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","ChallengeQuests"
     ],
-    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:6|"
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "For a Friend",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "A Merciful End",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "A Release From Duty",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "The Imperial Ceremony",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Imperial Ceremony Offerings",
-    "region": "Satorl Marsh",
+    "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Monster Quest 1 (Makna Forest)",
@@ -6944,43 +6865,39 @@
   },
   {
     "name": "Challenge (Makna Forest)",
-    "region": "Makna Forest",
+    "region": "Frontier Village",
     "category": [
       "Makna Forest Quests","ChallengeQuests"
     ],
-    "requires": "|Frontier Village Key:3| AND |Progressive Hunting License:7|"
+    "requires": "|Progressive Hunting License:7|"
   },
   {
     "name": "Legend of the Sage",
-    "region": "Makna Forest",
+    "region": "Eryth Sea",
     "category": [
       "Makna Forest Quests","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Challenge of the Sage",
-    "region": "Makna Forest",
+    "region": "Eryth Sea",
     "category": [
       "Makna Forest Quests","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Bridge Repair",
-    "region": "Makna Forest",
+    "region": "Valak Mountain",
     "category": [
       "Makna Forest Quests","AffinityQuests"
-    ],
-    "requires": "|Valak Mountain Key:3|"
+    ]
   },
   {
     "name": "Final Challenge of the Sage",
-    "region": "Makna Forest",
+    "region": "Mechonis Core",
     "category": [
       "Makna Forest Quests (Frontier Village Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "An Errand for the Heropon",
@@ -7323,243 +7240,213 @@
   },
   {
     "name": "Honouring the Nopon Sage",
-    "region": "Frontier Village",
+    "region": "Eryth Sea",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Meeting the Nopon Sage",
-    "region": "Frontier Village",
+    "region": "Eryth Sea",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "A Tormented Bug-Lover",
-    "region": "Frontier Village",
+    "region": "Eryth Sea",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Avenge a Mamapon's Death",
-    "region": "Frontier Village",
+    "region": "Eryth Sea",
     "category": [
       "Frontier Village Quests (Development Level 4)","AffinityQuests"
-    ],
-    "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Dangerous Ambition (MISSABLE)",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Find the Kingpin (MISSABLE)",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Adviser Hunt (MISSABLE)",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Evidence Collection (MISSABLE)",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Destroying the City Trade (MISSABLE)",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Giant Attack!",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Material Quest 3 (Frontier Village)",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Mystery of Makna Ruins 1",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Mystery of Makna Ruins 2",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Healing the Healer",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Legendary Nopon Charm",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Mislabelling Problem",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Mystery of Makna Ruins 3",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Mystery of Makna Ruins 4",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Getting Bigger!",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Who is Bigger?",
-    "region": "Frontier Village",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Even In the Chief's Absence",
-    "region": "Frontier Village",
+    "region": "Fallen Arm",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "Bored Pelupelu",
-    "region": "Frontier Village",
+    "region": "Fallen Arm",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "A Gift For Miko",
-    "region": "Frontier Village",
+    "region": "Fallen Arm",
     "category": [
       "Frontier Village Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Fallen Arm Key:3|"
+    ]
   },
   {
     "name": "A Memento of Daddy",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Restoring the Capital",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Restoring the Capital 2",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Broken Ether Furnace",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Broken Ether Furnace 2",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Bana the Betrayer",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Presents for Priceless Pupils",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Quests (Development Level 4)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Save the Worker",
@@ -7641,43 +7528,38 @@
   },
   {
     "name": "Path to Prison Island",
-    "region": "Eryth Sea",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Sister Seals",
-    "region": "Eryth Sea",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "The Missing Boy",
-    "region": "Eryth Sea",
+    "region": "Mechonis Core",
     "category": [
       "Eryth Sea Quests","StoryQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Secret Research",
-    "region": "Eryth Sea",
+    "region": "Mechonis Core",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Ancient High Entia Mystery",
-    "region": "Eryth Sea",
+    "region": "Mechonis Core",
     "category": [
       "Eryth Sea Quests (Alcamoth Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "A Friend in Need (MISSABLE)",
@@ -7744,7 +7626,7 @@
     "category": [
       "Alcamoth Quests","ChallengeQuests"
     ],
-    "requires": "|Alcamoth Key:3| AND |Progressive Hunting License:8|"
+    "requires": "|Progressive Hunting License:8|"
   },
   {
     "name": "Collection Quest 1 (Alcamoth} (MISSABLE)",
@@ -8021,35 +7903,31 @@
   },
   {
     "name": "A Necessary Upgrade (MISSABLE)",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Alcamoth Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|High Entia Tomb Key:3|"
+    ]
   },
   {
     "name": "Starlight Gazer (MISSABLE)",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Alcamoth Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|High Entia Tomb Key:3|"
+    ]
   },
   {
     "name": "Believing Again (MISSABLE)",
-    "region": "Alcamoth",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Alcamoth Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Vidian Rescue Mission (MISSABLE)",
-    "region": "Alcamoth",
+    "region": "Mechonis Core",
     "category": [
       "Alcamoth Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Chase Dickson",
@@ -8144,19 +8022,17 @@
   },
   {
     "name": "The Final Giants' Ruins",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "The Giants' Treasures",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Secure Dolgan Outpost (MISSABLE)",
@@ -8349,91 +8225,80 @@
   },
   {
     "name": "The History of Mechonis (MISSABLE)",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "Mending Memories",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "Resolution - Father",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "Resolution - Mother",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests (Development Level 1)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "The Oath Sword",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests (Development Level 2)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "A Weapon Just For Me (MISSABLE)",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Field Key:3|"
+    ]
   },
   {
     "name": "The History of the Capital (MISSABLE)",
-    "region": "Fallen Arm",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Fallen Arm Quests","AffinityQuests"
-    ],
-    "requires": "|Agniratha Key:3|"
+    ]
   },
   {
     "name": "Stunted Growth",
-    "region": "Fallen Arm",
+    "region": "Mechonis Core",
     "category": [
       "Fallen Arm Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "The Exhaust Pump",
-    "region": "Fallen Arm",
+    "region": "Mechonis Core",
     "category": [
       "Fallen Arm Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "The Mini Reactor",
-    "region": "Fallen Arm",
+    "region": "Mechonis Core",
     "category": [
       "Fallen Arm Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Transmission Bypass",
-    "region": "Fallen Arm",
+    "region": "Mechonis Core",
     "category": [
       "Fallen Arm Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Best Boots (MISSABLE)",
@@ -8798,67 +8663,59 @@
   },
   {
     "name": "Hidden Warehouse",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Forgotten Cave",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Emergency Warehouse",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Soothsayer's Crypt",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Prayer Room",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Bone Corridor",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Trader's Stopover",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Arachno Feeding Lair",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Arachno Queen's Nest",
@@ -8876,11 +8733,10 @@
   },
   {
     "name": "Path of Absolution",
-    "region": "Tephra Cave",
+    "region": "Mechonis Core",
     "category": [
       "Tephra Cave Locations","locations"
-    ],
-  "requires": "|Mechonis Core Key:3|"
+    ]
   },
   {
     "name": "Volff Lair",
@@ -8996,27 +8852,24 @@
   },
   {
     "name": "Hope Farm",
-    "region": "Colony 6",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Locations","locations"
-    ],
-  "requires": "|Satorl Marsh Key:3|"
+    ]
   },
   {
     "name": "Freight Elevator",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Locations","locations"
-    ],
-  "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "Pod Depot",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Locations","locations"
-    ],
-  "requires": "|Ether Mine Key:3|"
+    ]
   },
   {
     "name": "Test Pit 1",
@@ -9293,11 +9146,10 @@
   },
   {
     "name": "Repaired Bridge Four",
-    "region": "Makna Forest",
+    "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Locations","locations"
-    ],
-  "requires": "|Prison Island (1st Visit) Key:3|"
+    ]
   },
   {
     "name": "Clear Waterfall",
@@ -9490,67 +9342,59 @@
   },
   {
     "name": "Hovering Reef 3",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 4",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 5",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 6",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 7",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 8",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 9",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Hovering Reef 10",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Locations","locations"
-    ],
-  "requires": "|Alcamoth Key:3|"
+    ]
   },
   {
     "name": "Kromar Coast",
@@ -10897,11 +10741,10 @@
   },
   {
     "name": "Anti-Air Battering",
-    "region": "Bionis' Leg",
+    "region": "Eryth Sea",
     "category": [
       "Achievements"
-    ],
-  "requires": "|Eryth Sea Key:3|"
+    ]
   },
   {
     "name": "Bug Off",
