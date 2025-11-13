@@ -29,23 +29,12 @@ CollectopaediaRequirements = {
     "Other":            { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 13, "Nature": 0,  "Part": 13, "Strange": 21 },
 }
 
-CollectopaediaCache = {}
-
-SettingsCache = {}
-
 def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
-    if cacheKey in CollectopaediaCache:
-        return True
     val = state.has_all(world.item_name_groups[catName], player)
-    if val:
-        CollectopaediaCache[cacheKey] = True
     return val
 
 def collectopaediaComplete(world: World, multiworld: MultiWorld, state: CollectionState, player: int, area: str, cat: str):
-    if not (f"{str(player)}_CollectopaediaSanity" in SettingsCache):
-        SettingsCache[f"{str(player)}_CollectopaediaSanity"] = is_option_enabled(multiworld, player, "collectopaediasanity")
-
-    if (SettingsCache[f"{str(player)}_CollectopaediaSanity"]):
+    if (is_option_enabled(multiworld, player, "collectopaediasanity")):
         cacheKey = f"{str(player)}_{area}_{cat}"
 
         if (cat == "ALL"):
