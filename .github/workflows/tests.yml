@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: Eijebong/ap-actions/ap-tests@main
         with:
-          apworld-path: manual_xenobladechroniclesv2_xanderoni
-          apworld-name: manual_xenobladechroniclesv2_xanderoni
+          apworld-path: manual_xenobladechroniclesv2_xanderoni_skipperki1
+          apworld-name: manual_xenobladechroniclesv2_xanderoni_skipperki1
           ap-version: '0.6.1'
           python-version: '3.12'
