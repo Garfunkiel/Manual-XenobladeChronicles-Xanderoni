@@ -52,7 +52,7 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
             "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
         )
 
-    if world.options.Collectopaedia == False and world.options.goal == "Collector Goal":
+    if world.options.Collectopaedia == False and get_option_value(multiworld, player, "goal") == "Collector Goal":
         raise OptionError(
             "When Collector Goal is the selected goal, Collectopaedia must be set to True"
         )
