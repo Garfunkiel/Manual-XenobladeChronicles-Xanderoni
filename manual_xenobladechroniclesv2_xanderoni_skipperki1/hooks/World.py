@@ -4,6 +4,9 @@ from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 from Options import OptionError
 from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
+from .Rules import canAccessMemorySpace, canAccessRegion, questPaolaAndNarineReq
+from .UniqueMonsters import SUPER_BOSSES, UNIQUE_MONSTERS
+from .HeartToHearts import HEART_TO_HEARTS
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -48,6 +51,12 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
         raise OptionError(
             "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
         )
+
+    if world.options.Collectopaedia == False and world.options.goal == "Collector Goal":
+        raise OptionError(
+            "When Collector Goal is the selected goal, Collectopaedia must be set to True"
+        )
+
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
@@ -153,26 +162,197 @@ def playerHasItems(state: CollectionState, player: int, items: list[str]) -> boo
             return False
     return True
 
+def setRegionRules(world: World, multiworld: MultiWorld, player: int):
+    for region in [
+        "Tephra Cave",
+        "Bionis' Leg",
+        "Colony 6",
+        "Ether Mine",
+        "Satorl Marsh",
+        "Bionis' Interior (1st Visit)",
+        "Makna Forest",
+        "Frontier Village",
+        "Eryth Sea",
+        "Alcamoth",
+        "High Entia Tomb",
+    ]:
+        multiworld.get_region(region, player).access_rule = lambda state, region=region: canAccessRegion(state, player, region, 1, 0)
+
+    region = "Sword Valley (MISSABLE)"
+    multiworld.get_region(region, player).access_rule = lambda state, region=region: canAccessRegion(state, player, region, 2, 10)
+
+    for region in [
+        "Prison Island (1st Visit)",
+        "Valak Mountain",
+        "Galahad Fortress (MISSABLE)",
+        "Fallen Arm",
+        "Mechonis Field (MISSABLE)",
+        "Central Factory (MISSABLE)",
+    ]:
+        multiworld.get_region(region, player).access_rule = lambda state, region=region: canAccessRegion(state, player, region, 2, 0)
+    for region in [
+        "Agniratha (MISSABLE)",
+        "Mechonis Core",
+        "Bionis' Interior (2nd Visit)",
+        "Prison Island (2nd Visit)"
+    ]:
+        multiworld.get_region(region, player).access_rule = lambda state, region=region: canAccessRegion(state, player, region, 3, 0)
+
+    multiworld.get_region("Memory Space", player).access_rule = lambda state: canAccessMemorySpace(state, player)
+
+
+def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
+    for UM in UNIQUE_MONSTERS:
+        multiworld.get_location(UM["Name"], player).access_rule = lambda state, licenses=UM["Licenses"]: state.has("Progressive Hunting License", player, licenses)
+
+def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
+    for SB in SUPER_BOSSES:
+        multiworld.get_location(SB["Name"], player).access_rule = lambda state, licenses=SB["Licenses"]: state.has("Progressive Hunting License", player, licenses)
+
+def canAccessH2H(state: CollectionState, player: int, H2H: dict) -> bool:
+    if (H2H["Name"] == "The Colony Reborn"):
+        if not state.has("Colony 6 Reconstruction Special Level", player, 5):
+            return False
+
+    for char in ["Shulk", "Reyn", "Fiora", "Sharla", "Dunban", "Melia", "Riki"]:
+        if (H2H.get(char) is not None and not state.has(f"{char} Progressive Affinity Rank", player, H2H[char])):
+            return False
+
+    return True
+
+def setHeartToHeartRules(world: World, multiworld: MultiWorld, player: int):
+    for H2H in HEART_TO_HEARTS:
+        multiworld.get_location(H2H["Name"], player).access_rule = lambda state, H2H=H2H: canAccessH2H(state, player, H2H)
+
+def setAffinityQuestRules(world: World, multiworld: MultiWorld, player: int):
+    QUESTS = [
+        { "Name": "The Plan - Execution", "Licenses": 1 },
+        { "Name": "The Blood of Bafalgar", "Licenses": 2 },
+        { "Name": "The Path of Bafalgar", "Licenses": 2 },
+        { "Name": "The Coffin of Bafalgar", "Licenses": 2 },
+        { "Name": "The Gratitude of Bafalgar", "Licenses": 2 },
+        { "Name": "Battling Brutes", "Licenses": 2 },
+        { "Name": "Zazadan in Danger", "Licenses": 6 },
+        { "Name": "Zazadan Still in Danger", "Licenses": 6 },
+    ]
+
+    for quest in QUESTS:
+        multiworld.get_location(quest["Name"], player).access_rule = lambda state, licenses=quest["Licenses"]: state.has("Progressive Hunting License", player, licenses)
+
+    multiworld.get_location("Paola and Narine", player).access_rule = lambda state: (questPaolaAndNarineReq())
+
+    multiworld.get_location("The Gem Man's Invention", player).access_rule = lambda state: (
+        state.has("Colony 6 Reconstruction Housing Level", player, 1)
+        and state.has("Colony 6 Reconstruction Commerce Level", player, 1)
+        and state.has("Colony 6 Reconstruction Nature Level", player, 1)
+        and state.has("Colony 6 Reconstruction Special Level", player, 1)
+    )
+
+    multiworld.get_location("Nic's Training", player).access_rule = lambda state: (state.has("Colony 6 Reconstruction Housing Level", player, 5))
+    multiworld.get_location("Nic's Final Test", player).access_rule = lambda state: (state.has("Colony 6 Reconstruction Housing Level", player, 5))
+
+def setChallengeQuestRules(world: World, multiworld: MultiWorld, player: int):
+    QUESTS = [
+        { "Name": "Challenge 1 (Colony 9)", "Licenses": 1 },
+        { "Name": "Challenge 2 (Colony 9)", "Licenses": 1 },
+        { "Name": "Challenge 3 (Colony 9)", "Licenses": 1 },
+        { "Name": "Challenge 1 - Part 1 (Bionis' Leg) (MISSABLE)", "Licenses": 3 },
+        { "Name": "Challenge 1 - Part 2 (Bionis' Leg) (MISSABLE)", "Licenses": 3 },
+        { "Name": "Challenge 2 - Part 1 (Bionis' Leg) (MISSABLE)", "Licenses": 3 },
+        { "Name": "Challenge 2 - Part 2 (Bionis' Leg) (MISSABLE)", "Licenses": 3 },
+        { "Name": "Challenge (Satorl Marsh)", "Licenses": 6 },
+        { "Name": "Challenge (Makna Forest)", "Licenses": 7 },
+        { "Name": "Challenge 1 (Frontier Village)", "Licenses": 7 },
+        { "Name": "Challenge 2 (Frontier Village)", "Licenses": 7 },
+        { "Name": "Challenge 3 (Frontier Village)", "Licenses": 7 },
+        { "Name": "Challenge (Eryth Sea)", "Licenses": 8 },
+        { "Name": "Challenge 1 (Alcamoth) (MISSABLE)", "Licenses": 8 },
+        { "Name": "Challenge 2 (Alcamoth) (MISSABLE)", "Licenses": 8 },
+        { "Name": "Challenge 3 (Alcamoth) (MISSABLE)", "Licenses": 8 },
+        { "Name": "Challenge 4 (Alcamoth) (MISSABLE)", "Licenses": 8 },
+        { "Name": "Military Status 1 - 1", "Licenses": 16 },
+        { "Name": "Military Status 1 - 2", "Licenses": 16 },
+        { "Name": "Military Status 2 - 1", "Licenses": 16 },
+        { "Name": "Military Status 2 - 2", "Licenses": 16 },
+    ]
+
+    for quest in QUESTS:
+        multiworld.get_location(quest["Name"], player).access_rule = lambda state, licenses=quest["Licenses"]: state.has("Progressive Hunting License", player, licenses)
+
+    pass
+
+def setAchievementRules(world: World, multiworld: MultiWorld, player: int):
+    multiworld.get_location("Hunter-in-Training", player).access_rule = lambda state: state.has("Progressive Hunting License", player, 1)
+    multiworld.get_location("Pro Hunter", player).access_rule = lambda state: state.has("Progressive Hunting License", player, 2)
+    multiworld.get_location("Master Hunter", player).access_rule = lambda state: state.has("Progressive Hunting License", player, 16)
+    multiworld.get_location("Good and Fixed", player).access_rule = lambda state: (
+        state.has("Colony 6 Reconstruction Housing Level", player, 5)
+        and state.has("Colony 6 Reconstruction Commerce Level", player, 5)
+        and state.has("Colony 6 Reconstruction Nature Level", player, 5)
+        and state.has("Colony 6 Reconstruction Special Level", player, 5)
+    )
+
+    pass
+
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
     CollectopaediaCache.clear()
 
-    if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            if cat == "ALL":
-                location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
+    CollectopaediaEnabled = is_option_enabled(multiworld, player, "Collectopaedia")
+    Goal = get_option_value(multiworld, player, "goal")
+
+    setRegionRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "UniqueMonsters"):
+        setUniqueMonsterRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "SuperBosses"):
+        setSuperBossRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "HeartToHearts"):
+        setHeartToHeartRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "AffinityQuests"):
+        setAffinityQuestRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "ChallengeQuests"):
+        setChallengeQuestRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "Achievements"):
+        setAchievementRules(world, multiworld, player)
+
+    multiworld.get_location("Disciple Dickson", player).access_rule = lambda state: (state.has("Memory Fragment", player, 20))
+
+    match Goal:
+        case "Sightseer":
+            multiworld.get_location("Sightseer", player).access_rule = lambda state: (state.has("Memory Fragment", player, 20))
+        case "Monster Hunter Goal":
+            multiworld.get_location("Monster Hunter Goal", player).access_rule = lambda state: (state.has("Progressive Hunting License", player, 18))
+        case "Super Monster Hunter Goal":
+            multiworld.get_location("Super Monster Hunter Goal", player).access_rule = lambda state: (state.has("Progressive Hunting License", player, 18))
+        case "Collector Goal":
+            if is_option_enabled(multiworld, player, "collectopaediasanity"):
+                multiworld.get_location("Collector Goal", player).access_rule = lambda state: (state.has_all(world.item_name_groups["Collectopaediasanity"], player))
             else:
-                location.access_rule = lambda state: (playerHasPage(state, player, area, cat))
-    elif is_option_enabled(multiworld, player, "Collectopaedia"):
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            location.access_rule = lambda state, area=area, cat=cat: (getColVal(state, area, cat, player))
+                multiworld.get_location("Collector Goal", player).access_rule = lambda state: (state.has_all(world.item_name_groups["Collectopaedia Pages"], player))
+
+    if CollectopaediaEnabled:
+        if is_option_enabled(multiworld, player, "collectopaediasanity"):
+            for loc in COLLECTOPAEDIA_LOCATIONS:
+                location = multiworld.get_location(loc["name"], player)
+                area = loc["area"]
+                cat = loc["cat"]
+                if cat == "ALL":
+                    location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
+                else:
+                    location.access_rule = lambda state: (playerHasPage(state, player, area, cat))
+        else:
+            for loc in COLLECTOPAEDIA_LOCATIONS:
+                location = multiworld.get_location(loc["name"], player)
+                area = loc["area"]
+                cat = loc["cat"]
+                location.access_rule = lambda state, area=area, cat=cat: (getColVal(state, area, cat, player))
 
 # The item name to create is provided before the item is created, in case you want to make changes to it
 def before_create_item(item_name: str, world: World, multiworld: MultiWorld, player: int) -> str:

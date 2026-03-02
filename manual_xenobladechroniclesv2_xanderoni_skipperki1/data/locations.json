@@ -74,104 +74,91 @@
     "region": "Colony 9",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Itinerant Dorothea (Lv 6)",
     "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Evil Rhangrot (Lv 6)",
     "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Lake Magdalena (Lv 6)",
     "region": "Tephra Cave",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Speedy Ramshyde (Lv 10)",
     "region": "Bionis' Leg",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Enchanting Grune (Lv 13)",
     "region": "Bionis' Leg",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Dark Murakmor (Lv 18)",
     "region": "Colony 6",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Gentle Mother Armu (Lv 37)",
     "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Impenetrable Redrob (Lv 38)",
     "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Roguish Frengel (Lv 39)",
     "region": "Bionis' Interior (1st Visit)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Gentle Rodriguez (Lv 40)",
     "region": "Frontier Village",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Shadeless Matrix (Lv 44)",
     "region": "Alcamoth",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Flailing Bracken (Lv 73)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Ancient Machines",
@@ -507,56 +494,49 @@
     "region": "Colony 9",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:2| AND |Reyn Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Sunrise in the Park",
     "region": "Colony 9",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:1| AND |Fiora Progressive Affinity Rank:1|"
+    ]
   },
   {
     "name": "Fiora's Cooking",
     "region": "Fallen Arm",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:2| AND |Fiora Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Watching Over Them",
     "region": "Ether Mine",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Overlooking the Colony",
     "region": "Satorl Marsh",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Ancient Wreckage",
     "region": "Frontier Village",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Heropon's Perspective",
     "region": "Frontier Village",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Colony 9 Collectopaedia Page Completion",
@@ -668,112 +648,98 @@
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Erratic Goliante (Lv 97)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Gluttonous Eugen (Lv 11)",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Judicious Bunnitzol (Lv 94)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Mining Patrichev (Lv 8)",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Musical Vanflare (Lv 93)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Plump Sprahda (Lv 92)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Protective Torquidon (Lv 96)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Reckless Galdon (Lv 95)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Solid Konev (Lv 10)",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Wallslide Gwynry (Lv 9)",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Dazzling Tolosnia (Lv 97)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Firework Geldesia (Lv 98)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Reckless Zanden (Lv 98)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Arachno Queen",
@@ -787,24 +753,21 @@
     "region": "Mechonis Core",
     "category": [
       "Tephra Cave Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Scene Revisited",
     "region": "Fallen Arm",
     "category": [
       "Tephra Cave Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Glowing in the Night",
     "region": "Frontier Village",
     "category": [
       "Tephra Cave Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Tephra Cave Collectopaedia Page Complete",
@@ -986,88 +949,77 @@
     "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Immovable Gonzalez (Lv 90)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Mysterious Barnaby (Lv 75)",
     "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Napping Volfen (Lv 17)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Night Cardamon (Lv 18)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Sniper Paramecia (Lv 15)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Territorial Rotbart (Lv 81)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Trainer Harmelon (Lv 15)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Vagrant Alfead (Lv 16)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Violent Andante (Lv 16)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "White Eduardo (Lv 17)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Mechon M71",
@@ -1109,40 +1061,35 @@
     "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "What Visions May Bring",
     "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:2| AND |Sharla Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Heir to the Monado",
     "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "What's On Reyn's Mind",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:2| AND |Sharla Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Revisiting the Past",
     "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Bionis' Leg Collectopaedia Page Completion",
@@ -1247,16 +1194,14 @@
     "region": "Colony 6",
     "category": [
       "Colony 6 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:4|"
+    ]
   },
   {
     "name": "Drifter Jutard (Lv 25)",
     "region": "Ether Mine",
     "category": [
       "Colony 6 Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:4|"
+    ]
   },
   {
     "name": "Sani Telethia",
@@ -1368,56 +1313,49 @@
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Strength of Heart",
     "region": "Ether Mine",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "The Colony Reborn",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Colony 6 Reconstruction Special Level:5|"
+    ]
   },
   {
     "name": "One Year On",
     "region": "Ether Mine",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Recovery and Reflection",
     "region": "Fallen Arm",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Quiet Time",
     "region": "Fallen Arm",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Dunban's Right Arm",
     "region": "Ether Mine",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Colony 6 Collectopaedia Page Completion",
@@ -1557,24 +1495,21 @@
     "region": "Ether Mine",
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:5|"
+    ]
   },
   {
     "name": "Vengeful Daulton (Lv 22)",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:5|"
+    ]
   },
   {
     "name": "Elegant Marin (Lv 29)",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:5|"
+    ]
   },
   {
     "name": "Xord (Ether Mine)",
@@ -1588,16 +1523,14 @@
     "region": "Ether Mine",
     "category": [
       "Ether Mine Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Wistful Glow",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Ether Mine Collectopaedia Page Completion",
@@ -1702,96 +1635,84 @@
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Amber Fischer (Lv 27)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Cautious Balteid (Lv 26)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "SUPERBOSS Despotic Arsene (Lv 108)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","SuperBosses"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Eternal Palsadia (Lv 91)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Indomitable Daulton (Lv 85)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Reckless Godwin (Lv 31)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Stormy Widardun (Lv 25)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Sunlight Schvaik (Lv 30)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Swift Zektol (Lv 28)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Tumultuous Felix (Lv 27)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Veteran Yozel (Lv 83)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Satorl Guardian",
@@ -1826,24 +1747,21 @@
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "High Entia History",
     "region": "Frontier Village",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Melia Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Atop the Crown Tree",
     "region": "Frontier Village",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Satorl Marsh Collectopaedia Page Completion",
@@ -2018,80 +1936,70 @@
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Breezy Zolos (Lv 37)",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Brutal Gravar (Lv 46)",
     "region": "Prison Island (1st Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Elder Gragus (Lv 34)",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Illustrious Golteus (Lv 98)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Lazy Bluco (Lv 34)",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Magnificent Digalus (Lv 99)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Obsessive Galgaron (Lv 35)",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Shimmering Forte (Lv 33)",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Unreliable Rezno (Lv 96)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Leone Telethia",
@@ -2119,24 +2027,21 @@
     "region": "Frontier Village",
     "category": [
       "Makna Forest Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Riki's Crazy Crystal Plan",
     "region": "Frontier Village",
     "category": [
       "Makna Forest Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "No Boys Allowed",
     "region": "Frontier Village",
     "category": [
       "Makna Forest Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Makna Forest Collectopaedia Page Completion",
@@ -2507,48 +2412,42 @@
     "region": "Frontier Village",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Reawakened Memories",
     "region": "Fallen Arm",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Day Like Any Other",
     "region": "Fallen Arm",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Life's Hard for a Heropon",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "True Natures",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "A Mysterious Sanctuary",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Riki Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Frontier Village Collectopaedia Page Completion",
@@ -2681,112 +2580,98 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Clamorous Dablon (Lv 92)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Cumulus Danaemos (Lv 41)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Deadly Medorlo (Lv 93)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Flabbergasted Jerome (Lv 38)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Funeral Gozra (Lv 42)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Lightspeed Sonid (Lv 44)",
     "region": "Alcamoth",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Peeling Kircheis (Lv 38)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Proper Bandaz (Lv 39)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Sacred Zagamei (Lv 89)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Stormy Belagon (Lv 87)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Subterranean Zomar (Lv 40)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Tempestuous Edegia (Lv 39)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Turbulent Belmo (Lv 36)",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Skyray",
@@ -2814,32 +2699,28 @@
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Riki Progressive Affinity Rank:2| AND |Reyn Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Riki Have Question",
     "region": "Fallen Arm",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "A Gift for a Loved One",
     "region": "Fallen Arm",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Flowers of Eryth Sea",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Eryth Sea Collectopaedia Page Completion",
@@ -3210,48 +3091,42 @@
     "region": "Alcamoth",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Breathtaking Sight",
     "region": "High Entia Tomb",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Brother and Sister",
     "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "The Forefathers",
     "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Melia's Imperial Villa",
     "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Ancient Astrology",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Alcamoth Collectopaedia Page Completion",
@@ -3328,16 +3203,14 @@
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:9|"
+    ]
   },
   {
     "name": "Furious Jozan (Lv 55)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:9|"
+    ]
   },
   {
     "name": "Orluga Rufus",
@@ -3358,16 +3231,14 @@
     "region": "Mechonis Core",
     "category": [
       "High Entia Tomb Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Echoes of Ancient Times",
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "High Entia Tomb Collectopaedia Page Completion",
@@ -3542,112 +3413,98 @@
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Barbaric Sitri (Lv 47)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Exposure Wolfol (Lv 97)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "SUPERBOSS Final Marcus (Lv 100)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Glorious Buer (Lv 45)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Hidden Gamigin (Lv 49)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Moonlight Paimon (Lv 46)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "North Star Gusion (Lv 50)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Vague Barbas (Lv 46)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Wandering Amon (Lv 98)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Banquet Vassago (Lv 48)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Conflagrant Raxeal (Lv 45)",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:10|"
+    ]
   },
   {
     "name": "Mumkhar (Valak Mountain)",
@@ -3668,24 +3525,21 @@
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "First Sight of Snow",
     "region": "Mechonis Core",
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "In Ose Tower",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Valak Mountain Collectopaedia Page Completion",
@@ -3811,64 +3665,56 @@
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Defective Ipos (Lv 50)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Fate Labolas (Lv 51)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Prudent Purson (Lv 49)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Kamikaze Bune (Lv 53)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Lightning Ronove (Lv 55)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Mischievious Naberius (Lv 57)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Tranquil Morax (Lv 50)",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:11|"
+    ]
   },
   {
     "name": "Mumkhar (Sword Valley)",
@@ -3959,24 +3805,21 @@
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:12|"
+    ]
   },
   {
     "name": "Glorious Jurom (Lv 55)",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:12|"
+    ]
   },
   {
     "name": "Precious Retrato (Lv 53)",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:12|"
+    ]
   },
   {
     "name": "Gold Face (Galahad Fortress)",
@@ -4095,64 +3938,56 @@
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Affluent Beleth (Lv 57)",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "SUPERBOSS Ancient Daedala (Lv 105)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","SuperBosses"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Evil Bathin (Lv 54)",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Powerful Eligos (Lv 80)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Prosperous Zepar (Lv 56)",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Splendid Botis (Lv 58)",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Wicked Sallos (Lv 95)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:13|"
+    ]
   },
   {
     "name": "Eiz",
@@ -4292,56 +4127,49 @@
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "A Family of Two",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "A Night-Time Chat",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Sharla Progressive Affinity Rank:2|"
+    ]
   },
   {
     "name": "Overcoming the Pain",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Those Waiting for You",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Eternal Scars",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Camping Spot",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Riki Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    ]
   },
   {
     "name": "Fallen Arm Collectopaedia Page Completion",
@@ -4474,40 +4302,35 @@
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:14|"
+    ]
   },
   {
     "name": "Commander Oracion (Lv 61)",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:14|"
+    ]
   },
   {
     "name": "Destroyer Salvacion (Lv 59)",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:14|"
+    ]
   },
   {
     "name": "Infernal Crocell (Lv 58)",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:14|"
+    ]
   },
   {
     "name": "Revolutionary Bifrons (Lv 60)",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:14|"
+    ]
   },
   {
     "name": "Jade Face",
@@ -4640,72 +4463,63 @@
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Beautiful Vagul (Lv 60)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Faithful Lancelot (Lv 59)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Magestic Mordred (Lv 70)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Mild Florence (Lv 58)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Sinful Lamorak (Lv 63)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Synchronised Gaheris (Lv 61)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Temporal Gawain (Lv 63)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Venerable Focalor (Lv 64)",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:15|"
+    ]
   },
   {
     "name": "Apocrypha Generator (Boss)",
@@ -4838,64 +4652,56 @@
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Experienced Tristan (Lv 64)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Destructive Bors (Lv 64)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Soothed Aglovale (Lv 65)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Meditative Varla (Lv 65)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Sentimental Flamral (Lv 66)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Wrathful Orobas (Lv 67)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Wise Gremory (Lv 68)",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Egil",
@@ -5021,80 +4827,70 @@
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Clandestine Apety (Lv 74)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Dark King Barbarus (Lv 77)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Ghostly Mahatos (Lv 76)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Mystical Klesida (Lv 72)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Officer Robusto (Lv 75)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Victorious Gross (Lv 73)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Vivid Anstan (Lv 75)",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:17|"
+    ]
   },
   {
     "name": "Fiora's Body",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Kind Words",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Riki Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Bionis' Interior Collectopaedia Page Completion",
@@ -5164,64 +4960,56 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Ageless Moabit (Lv 75)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Cold Ageshu (Lv 77)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Fiendish Auburn (Lv 78)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Inferno Heinrich (Lv 76)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Majestic Clone Barg (Lv 77)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Masterful Gigapur (Lv 77)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Serene Imlaly (Lv 76)",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Unique Monsters","UniqueMonsters"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
   {
     "name": "Demon Pavlovsk",
@@ -5235,8 +5023,7 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island (2nd Visit) Bosses"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Dragon King Alcar",
@@ -5264,64 +5051,56 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Sharla Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Journey's End",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Before the Final Battle",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
-    ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
+    ]
   },
   {
     "name": "Saturn",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Jupiter",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Mars",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Moon",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Sentient Genesis",
     "region": "Memory Space",
     "category": [
       "Memory Space Landmarks","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Zanza the Divine",
@@ -5329,8 +5108,7 @@
     "victory": true,
     "category": [
       "Memory Space Boss"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Fallen Arm Development Level 1",
@@ -5435,24 +5213,21 @@
     "region": "Colony 9",
     "category": [
       "Colony 9 Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Challenge 2 (Colony 9)",
     "region": "Colony 9",
     "category": [
       "Colony 9 Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Challenge 3 (Colony 9)",
     "region": "Colony 9",
     "category": [
       "Colony 9 Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Collection Quest 1 (Colony 9)",
@@ -5739,8 +5514,7 @@
     "region": "Frontier Village",
     "category": [
       "Colony 9 Quests","AffinityQuests"
-    ],
-    "requires": "{questPaolaAndNarineReq()}"
+    ]
   },
   {
     "name": "The Lost Pendant",
@@ -5789,8 +5563,7 @@
     "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 3)","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Jackson's Awakening",
@@ -5825,8 +5598,7 @@
     "region": "Satorl Marsh",
     "category": [
       "Colony 9 Quests","AffinityQuests"
-    ],
-    "requires": "|Colony 6 Reconstruction Housing Level:1| AND |Colony 6 Reconstruction Commerce Level:1| AND |Colony 6 Reconstruction Nature Level:1| AND |Colony 6 Reconstruction Special Level:1|"
+    ]
   },
   {
     "name": "A Young Captain's Challenge",
@@ -5952,32 +5724,28 @@
     "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "The Path of Bafalgar",
     "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "The Coffin of Bafalgar",
     "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "The Gratitude of Bafalgar",
     "region": "Mechonis Core",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "A Thoughtful Idea (MISSABLE)",
@@ -6005,32 +5773,28 @@
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Challenge 1 - Part 2 (Bionis' Leg) (MISSABLE)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Challenge 2 - Part 1 (Bionis' Leg) (MISSABLE)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Challenge 2 - Part 2 (Bionis' Leg) (MISSABLE)",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:3|"
+    ]
   },
   {
     "name": "Collection Quest 1 (Bionis' Leg) (MISSABLE)",
@@ -6226,8 +5990,7 @@
     "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Supplies for Satorl",
@@ -6437,16 +6200,14 @@
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ],
-  "requires": "|Colony 6 Reconstruction Housing Level:5|"
+    ]
   },
   {
     "name": "Nic's Final Test",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Quests (Development Level 4)","AffinityQuests"
-    ],
-    "requires": "|Colony 6 Reconstruction Housing Level:5|"
+    ]
   },
   {
     "name": "Melancholy Tyrea",
@@ -6614,16 +6375,14 @@
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "Zazadan Still in Danger",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "It's All in the Mind",
@@ -6672,8 +6431,7 @@
     "region": "Mechonis Core",
     "category": [
       "Satorl Marsh Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:6|"
+    ]
   },
   {
     "name": "For a Friend",
@@ -6750,8 +6508,7 @@
     "region": "Frontier Village",
     "category": [
       "Makna Forest Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Legend of the Sage",
@@ -6793,24 +6550,21 @@
     "region": "Frontier Village",
     "category": [
       "Frontier Village Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Challenge 2 (Frontier Village)",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Challenge 3 (Frontier Village)",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:7|"
+    ]
   },
   {
     "name": "Collection Quest 1 (Frontier Village)",
@@ -7342,8 +7096,7 @@
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Collect Quest 1 (Eryth Sea)",
@@ -7483,32 +7236,28 @@
     "region": "Alcamoth",
     "category": [
       "Alcamoth Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Challenge 2 (Alcamoth) (MISSABLE)",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Challenge 3 (Alcamoth) (MISSABLE)",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Challenge 4 (Alcamoth) (MISSABLE)",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:8|"
+    ]
   },
   {
     "name": "Collection Quest 1 (Alcamoth} (MISSABLE)",
@@ -8383,32 +8132,28 @@
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Military Status 1 - 2",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Military Status 2 - 1",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Military Status 2 - 2",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Quests","ChallengeQuests"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
   {
     "name": "Telethia Investigation 1",
@@ -10145,32 +9890,28 @@
     "victory": true,
     "category": [
       "Memory Space","locations","landmarks"
-    ],
-    "requires": "|Memory Fragment:20|"
+    ]
   },
   {
     "name": "Hunter-in-Training",
     "region": "Colony 9",
     "category": [
       "Achievements"
-    ],
-    "requires": "|Progressive Hunting License:1|"
+    ]
   },
   {
     "name": "Pro Hunter",
     "region": "Tephra Cave",
     "category": [
       "Achievements"
-    ],
-    "requires": "|Progressive Hunting License:2|"
+    ]
   },
   {
     "name": "Master Hunter",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Achievements"
-    ],
-    "requires": "|Progressive Hunting License:16|"
+    ]
   },
     {
     "name": "First Steps",
@@ -10499,8 +10240,7 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
-    ],
-  "requires": "|@Colony 6 Reconstruction:ALL|"
+    ]
   },
   {
     "name": "Bone Breaker",
@@ -11565,8 +11305,7 @@
     "victory": true,
     "category": [
       "CollectorGoal"
-    ],
-    "requires": "({YamlDisabled(collectopaediasanity)} AND |@Collectopaedia Pages:ALL|) OR ({YamlEnabled(collectopaediasanity)} AND |@Collectopaediasanity:ALL|)"
+    ]
   },
    {
     "name": "Monster Hunter Goal",
@@ -11574,8 +11313,7 @@
     "victory": true,
     "category": [
       "MonsterHunterGoal"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   },
      {
     "name": "Super Monster Hunter Goal",
@@ -11583,7 +11321,6 @@
     "victory": true,
     "category": [
       "SuperMonsterHunterGoal"
-    ],
-    "requires": "|Progressive Hunting License:18|"
+    ]
   }
 ]
