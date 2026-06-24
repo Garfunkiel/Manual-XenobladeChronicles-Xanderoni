@@ -22,19 +22,21 @@
         }
     },
     "user": {
-        "GameVersion":{
-            "type": "Choice",
+        "Definitive Edition":{
+            "type": "Toggle",
             "description": [
-                "This option changes certain logic and items based on the version of the game.",
-                "Definitive Edtion/Switch 2 Version changes some Achievement logic",
-                "Switch 2 Version adds Ether Gear and Nopon Grand Prix checks"
+                "This option changes certain logic based on the version of the game.",
+                "Definitive Edtion/Switch 2 Version changes some Achievement logic"
             ],
-            "values": {
-                "Wii/Wii U/New 3DS": 0,
-                "Definitive Edition": 1,
-                "Switch 2 Version": 2
-            },
-            "default": 0
+            "default": false
+        },
+        "Switch 2 Version":{
+            "type": "Toggle",
+            "description": [
+                "This option adds items and locations based on the version of the game.",
+                "This adds the Ether Gear item and Nopon Grand Prix locations"
+            ],
+            "default": false
         },
         "Spoilers":{
             "type": "Toggle",

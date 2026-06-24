@@ -8058,7 +8058,8 @@
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:10|"
   },
   {
     "name": "The Final Giants' Ruins",
@@ -11194,7 +11195,7 @@
   },
   {
     "name": "Honest Insight",
-    "region": "Satorl Marsh",
+    "region": "Fallen Arm",
     "category": [
       "Achievements"
     ],
@@ -11202,7 +11203,7 @@
   },
   {
     "name": "Raging Stalwart",
-    "region": "Satorl Marsh",
+    "region": "Fallen Arm",
     "category": [
       "Achievements"
     ],
@@ -11214,28 +11215,31 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|Fiora: Daring Skill Tree| AND |Fiora: Zeal Skill Tree|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree|) AND |Fiora: Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree| OR |Fiora: Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)"
+    "requires": "((|Fiora: Daring Skill Tree| AND |Fiora: Zeal Skill Tree|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree|) AND |Fiora: Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree| OR |Fiora: Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)) OR ((|Seven: Daring Skill Tree| AND |Seven: Zeal Skill Tree|) OR ((|Seven: Daring Skill Tree| OR |Seven: Zeal Skill Tree|) AND |Seven: Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Seven: Daring Skill Tree| OR |Seven: Zeal Skill Tree| OR |Seven: Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|))"
   },
   {
     "name": "Gallant Hero",
     "region": "Fallen Arm",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Dunban: Wisdom Skill Tree| AND |Dunban: Prudence Skill Tree|) OR ((|Dunban: Wisdom Skill Tree| OR |Dunban: Prudence Skill Tree|) AND |Dunban: Obstinance Skill Tree| AND |Progressive Hunting License:10|) OR ((|Dunban: Wisdom Skill Tree| OR |Dunban: Prudence Skill Tree| OR |Dunban: Obstinance Skill Tree|) AND |Dunban: Enthusiasm Skill Tree| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
   },
   {
     "name": "Unyielding Devotion",
     "region": "Fallen Arm",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Sharla: Perseverance Skill Tree| AND |Sharla: Confidence Skill Tree|) OR ((|Sharla: Perseverance Skill Tree| OR |Sharla: Confidence Skill Tree|) AND |Sharla: Reliance Skill Tree|) OR ((|Sharla: Perseverance Skill Tree| OR |Sharla: Confidence Skill Tree| OR |Sharla: Reliance Skill Tree|) AND |Sharla: Affection Skill Tree| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3|)"
   },
   {
     "name": "Adorable Randomness",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Riki: Innocence Skill Tree| AND |Riki: Flexibility Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree|) AND |Riki: Cowardice Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree| OR |Riki: Cowardice Skill Tree|))"
   },
   {
     "name": "Serene Candour",

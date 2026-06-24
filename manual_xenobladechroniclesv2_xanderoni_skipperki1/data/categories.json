@@ -1,9 +1,15 @@
 {
   
-  "GameVersion": {
+  "DefinitiveEdition": {
     "hidden": true,
     "yaml_option": [
-      "GameVersion"
+      "Definitive Edition"
+    ]
+  },
+  "Switch2Version": {
+    "hidden": true,
+    "yaml_option": [
+      "Switch 2 Version"
     ]
   },
   "Spoilers": {
