@@ -1,4 +1,23 @@
 {
+  
+  "GameVersion": {
+    "hidden": true,
+    "yaml_option": [
+      "GameVersion"
+    ]
+  },
+  "Spoilers": {
+    "hidden": true,
+    "yaml_option": [
+      "Spoilers"
+    ]
+  },
+  "NoSpoilers": {
+    "hidden": true,
+    "yaml_option": [
+      "!Spoilers"
+    ]
+  },
   "Locations": {
     "hidden": false,
     "yaml_option": [

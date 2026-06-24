@@ -141,7 +141,7 @@
     "count": 1,
     "name": "Shulk: Humanity Skill Tree",
     "category": [
-      "Shulk Skill Trees"
+      "Shulk Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -149,7 +149,7 @@
     "count": 1,
     "name": "Shulk: Intuition Skill Tree",
     "category": [
-      "Shulk Skill Trees"
+      "Shulk Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -157,7 +157,7 @@
     "count": 1,
     "name": "Shulk: Pessimism Skill Tree",
     "category": [
-      "Shulk Skill Trees"
+      "Shulk Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -165,7 +165,7 @@
     "count": 1,
     "name": "Shulk: Bravery Skill Tree",
     "category": [
-      "Shulk Skill Trees"
+      "Shulk Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -301,7 +301,7 @@
     "count": 1,
     "name": "Reyn: Enthusiasm Skill Tree",
     "category": [
-      "Reyn Skill Trees"
+      "Reyn Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -309,7 +309,7 @@
     "count": 1,
     "name": "Reyn: Diligence Skill Tree",
     "category": [
-      "Reyn Skill Trees"
+      "Reyn Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -317,7 +317,7 @@
     "count": 1,
     "name": "Reyn: Impatience Skill Tree",
     "category": [
-      "Reyn Skill Trees"
+      "Reyn Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -325,7 +325,7 @@
     "count": 1,
     "name": "Reyn: Camaraderie Skill Tree",
     "category": [
-      "Reyn Skill Trees"
+      "Reyn Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -461,7 +461,7 @@
     "count": 1,
     "name": "Fiora: Daring Skill Tree",
     "category": [
-      "Fiora Skill Trees"
+      "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -469,7 +469,7 @@
     "count": 1,
     "name": "Fiora: Zeal Skill Tree",
     "category": [
-      "Fiora Skill Trees"
+      "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -477,7 +477,7 @@
     "count": 1,
     "name": "Fiora: Rashness Skill Tree",
     "category": [
-      "Fiora Skill Trees"
+      "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -485,7 +485,7 @@
     "count": 1,
     "name": "Fiora: Innocence Skill Tree",
     "category": [
-      "Fiora Skill Trees"
+      "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -653,7 +653,7 @@
     "count": 1,
     "name": "Sharla: Perseverance Skill Tree",
     "category": [
-      "Sharla Skill Trees"
+      "Sharla Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -661,7 +661,7 @@
     "count": 1,
     "name": "Sharla: Confidence Skill Tree",
     "category": [
-      "Sharla Skill Trees"
+      "Sharla Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -669,7 +669,7 @@
     "count": 1,
     "name": "Sharla: Reliance Skill Tree",
     "category": [
-      "Sharla Skill Trees"
+      "Sharla Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -677,7 +677,7 @@
     "count": 1,
     "name": "Sharla: Affection Skill Tree",
     "category": [
-      "Sharla Skill Trees"
+      "Sharla Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -813,7 +813,7 @@
     "count": 1,
     "name": "Dunban: Wisdom Skill Tree",
     "category": [
-      "Dunban Skill Trees"
+      "Dunban Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -821,7 +821,7 @@
     "count": 1,
     "name": "Dunban: Prudence Skill Tree",
     "category": [
-      "Dunban Skill Trees"
+      "Dunban Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -829,7 +829,7 @@
     "count": 1,
     "name": "Dunban: Obstinance Skill Tree",
     "category": [
-      "Dunban Skill Trees"
+      "Dunban Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -837,7 +837,7 @@
     "count": 1,
     "name": "Dunban: Enthusiasm Skill Tree",
     "category": [
-      "Dunban Skill Trees"
+      "Dunban Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -973,7 +973,7 @@
     "count": 1,
     "name": "Melia: Honesty Skill Tree",
     "category": [
-      "Melia Skill Trees"
+      "Melia Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -981,7 +981,7 @@
     "count": 1,
     "name": "Melia: Reliability Skill Tree",
     "category": [
-      "Melia Skill Trees"
+      "Melia Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -989,7 +989,7 @@
     "count": 1,
     "name": "Melia: Reticence Skill Tree",
     "category": [
-      "Melia Skill Trees"
+      "Melia Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -997,7 +997,7 @@
     "count": 1,
     "name": "Melia: Passion Skill Tree",
     "category": [
-      "Melia Skill Trees"
+      "Melia Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -1133,7 +1133,7 @@
     "count": 1,
     "name": "Riki: Innocence Skill Tree",
     "category": [
-      "Riki Skill Trees"
+      "Riki Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -1141,7 +1141,7 @@
     "count": 1,
     "name": "Riki: Flexibility Skill Tree",
     "category": [
-      "Riki Skill Trees"
+      "Riki Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -1149,7 +1149,7 @@
     "count": 1,
     "name": "Riki: Cowardice Skill Tree",
     "category": [
-      "Riki Skill Trees"
+      "Riki Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -1157,7 +1157,7 @@
     "count": 1,
     "name": "Riki: Heroism Skill Tree",
     "category": [
-      "Riki Skill Trees"
+      "Riki Skill Trees", "Skill Trees"
     ],
     "useful": true
   },

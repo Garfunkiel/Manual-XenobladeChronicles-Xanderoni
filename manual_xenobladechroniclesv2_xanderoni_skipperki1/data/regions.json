@@ -150,7 +150,7 @@
       "Agniratha (MISSABLE)",
       "Bionis' Interior (2nd Visit)"
     ],
-    "requires": "|Mechonis Core Key:3|"
+    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"
   },
   "Bionis' Interior (2nd Visit)": {
     "connects_to": [

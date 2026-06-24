@@ -520,7 +520,7 @@
   },
   {
     "name": "Fiora's Cooking",
-    "region": "Colony 9",
+    "region": "Fallen Arm",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -528,7 +528,7 @@
   },
   {
     "name": "Watching Over Them",
-    "region": "Ether Mine",
+    "region": "Fallen Arm",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -536,7 +536,7 @@
   },
   {
     "name": "Overlooking the Colony",
-    "region": "Bionis' Leg",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -544,7 +544,7 @@
   },
   {
     "name": "Ancient Wreckage",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -552,7 +552,7 @@
   },
   {
     "name": "A Heropon's Perspective",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -563,49 +563,56 @@
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collectopaedia:ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Vegetable Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Vegetable):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Fruit Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Fruit Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Fruit):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Flower Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Flower Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Flower):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Bug Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Bug):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Part Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Part):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Strange Completion",
     "region": "Colony 9",
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Strange):ALL|)"
   },
   {
     "name": "Tephra Path",
@@ -811,42 +818,56 @@
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Flower Category:2| AND |Progressive Fruit Category:2| AND |Progressive Animal Category:1| AND |Progressive Bug Category:2| AND |Progressive Nature Category:1| AND |Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collectopaedia:ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Fruit Completion",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Fruit Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Fruit):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Flower Completion",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Flower Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Flower):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Animal Completion",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Animal Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Animal):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Bug Completion",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Bug Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Bug):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Nature Completion",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Nature Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Nature):ALL|)"
+  },
+  {
+    "name": "Tephra Cave Collectopaedia Strange Completion",
+    "region": "Tephra Cave",
+    "category": [
+      "Tephra Cave Collectopaedia","Collectopaedia"
+    ],
+  "requires": "|Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Strange):ALL|)"
   },
   {
     "name": "Colony 9 Development Level 1",
@@ -864,21 +885,21 @@
   },
   {
     "name": "Colony 9 Development Level 3",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Colony 9 Development Level 4",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Colony 9 Development Level 5",
-    "region": "Colony 9",
+    "region": "Frontier Village",
     "category": [
       "Colony 9 Development Level","DevelopmentLevels"
     ]
@@ -962,24 +983,27 @@
   },
   {
     "name": "Armoured Rockwell (Lv 82)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Canyon Valencia (Lv 78)",
-    "region": "Bionis' Leg",
+    "region": "Mechonis Core",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Clifftop Bayern (Lv 32)",
-    "region": "Bionis' Leg",
+    "region": "Makna Forest",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:3|"
   },
   {
     "name": "Field Altrich (Lv 76)",
@@ -1114,7 +1138,7 @@
   },
   {
     "name": "What Visions May Bring",
-    "region": "Bionis' Leg",
+    "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
     ],
@@ -1149,49 +1173,56 @@
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Vegetable Category:2| AND |Progressive Fruit Category:3| AND |Progressive Bug Category:3| AND |Progressive Nature Category:2| AND |Progressive Part Category:2| AND |Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collectopaedia:ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Vegetable Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Vegetable Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Vegetable):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Fruit Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Fruit Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Fruit):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Bug Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Bug Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Bug):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Nature Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Nature Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Nature):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Part Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Part Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Part):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Strange Completion",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
-    ]
+    ],
+  "requires": "|Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Strange):ALL|)"
   },
   {
     "name": "Reconstruction HQ",
@@ -1381,7 +1412,7 @@
   },
   {
     "name": "The Colony Reborn",
-    "region": "Ether Mine",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
@@ -1397,7 +1428,7 @@
   },
   {
     "name": "Recovery and Reflection",
-    "region": "Fallen Arm",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
@@ -1409,11 +1440,11 @@
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4|"
+    "requires": "|Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4| AND |Colony 6 Reconstruction Special Level:3|"
   },
   {
     "name": "Dunban's Right Arm",
-    "region": "Ether Mine",
+    "region": "Fallen Arm",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
@@ -1424,28 +1455,32 @@
     "region": "Colony 6",
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:3| AND |Progressive Animal Category:2| AND |Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collectopaedia:ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Flower Completion",
     "region": "Colony 6",
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Flower):ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Animal Completion",
     "region": "Colony 6",
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Animal):ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Strange Completion",
     "region": "Colony 6",
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Strange):ALL|)"
   },
   {
     "name": "Colony 6 Development Level 1",
@@ -1459,25 +1494,28 @@
     "region": "Bionis' Leg",
     "category": [
       "Colony 6 Development Level","DevelopmentLevels"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:3| OR |Colony 6 Key:1|"
   },
   {
     "name": "Colony 6 Development Level 3",
-    "region": "Bionis' Leg",
+    "region": "Valak Mountain",
     "category": [
       "Colony 6 Development Level","DevelopmentLevels"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Colony 6 Development Level 4",
-    "region": "Bionis' Leg",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Development Level","DevelopmentLevels"
-    ]
+    ],
+    "requires": "(|Progressive Hunting License:3| OR (|Agniratha Key:3| AND |Mechonis Core Key:3|)) AND |Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Colony 6 Development Level 5",
-    "region": "Bionis' Leg",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Colony 6 Development Level","DevelopmentLevels"
     ]
@@ -1593,7 +1631,7 @@
   },
   {
     "name": "A Wistful Glow",
-    "region": "Ether Mine",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Ether Mine Heart-to-Hearts","HeartToHearts"
     ],
@@ -1604,42 +1642,48 @@
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:3| AND |Progressive Bug Category:4| AND |Progressive Nature Category:3| AND |Progressive Part Category:3| AND |Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collectopaedia:ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Animal Completion",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Animal):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Bug Completion",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Bug):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Nature Completion",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Nature):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Parts Completion",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Parts Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Parts):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Strange Completion",
     "region": "Ether Mine",
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Strange):ALL|)"
   },
   {
     "name": "Kelsher Wetland",
@@ -1831,7 +1875,7 @@
   },
   {
     "name": "High Entia History",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
     ],
@@ -1839,7 +1883,7 @@
   },
   {
     "name": "Atop the Crown Tree",
-    "region": "Satorl Marsh",
+    "region": "Alcamoth",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
     ],
@@ -1850,49 +1894,56 @@
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:3| AND |Progressive Flower Category:4| AND |Progressive Animal Category:4| AND |Progressive Nature Category:4| AND |Progressive Part Category:4| AND |Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collectopaedia:ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Vegetable Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Vegetable):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Flower Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Flower):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Animal Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Animal):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Nature Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Nature):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Parts Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Parts Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Parts):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Strange Completion",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Strange):ALL|)"
   },
   {
     "name": "Terminal Trachea",
@@ -2143,49 +2194,56 @@
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:5| AND |Progressive Flower Category:5| AND |Progressive Fruit Category:4| AND |Progressive Animal Category:6| AND |Progressive Bug Category:5| AND |Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collectopaedia:ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Vegetable Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Vegetable):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Fruit Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Fruit):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Flower Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Flower):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Animal Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Animal):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Bug Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Bug):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Strange Completion",
     "region": "Makna Forest",
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Strange):ALL|)"
   },
   {
     "name": "Entry Bridge",
@@ -2528,7 +2586,7 @@
   },
   {
     "name": "Life's Hard for a Heropon",
-    "region": "Frontier Village",
+    "region": "Fallen Arm",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
     ],
@@ -2536,7 +2594,7 @@
   },
   {
     "name": "True Natures",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
     ],
@@ -2555,28 +2613,32 @@
     "region": "Frontier Village",
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:5| AND |Progressive Bug Category:6| AND |Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collectopaedia:ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Fruit Completion",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Fruit):ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Bug Completion",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Bug):ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Strange Completion",
     "region": "Frontier Village",
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Strange):ALL|)"
   },
   {
     "name": "Latael Shore",
@@ -2643,14 +2705,14 @@
   },
   {
     "name": "Frontier Village Development Level 1",
-    "region": "Frontier Village",
+    "region": "Satorl Marsh",
     "category": [
       "Frontier Village Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Frontier Village Development Level 2",
-    "region": "Frontier Village",
+    "region": "Makna Forest",
     "category": [
       "Frontier Village Development Level","DevelopmentLevels"
     ]
@@ -2664,21 +2726,21 @@
   },
   {
     "name": "Frontier Village Development Level 4",
-    "region": "Frontier Village",
+    "region": "Alcamoth",
     "category": [
       "Frontier Village Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Frontier Village Development Level 5",
-    "region": "Frontier Village",
+    "region": "Mechonis Core",
     "category": [
       "Frontier Village Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Bizarre Ragoel (Lv 88)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2686,7 +2748,7 @@
   },
   {
     "name": "Clamorous Dablon (Lv 92)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2750,7 +2812,7 @@
   },
   {
     "name": "Sacred Zagamei (Lv 89)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2758,7 +2820,7 @@
   },
   {
     "name": "Stormy Belagon (Lv 87)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2827,7 +2889,7 @@
   },
   {
     "name": "A Gift for a Loved One",
-    "region": "Eryth Sea",
+    "region": "Fallen Arm",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
     ],
@@ -2846,42 +2908,48 @@
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:6| AND |Progressive Flower Category:6| AND |Progressive Animal Category:7| AND |Progressive Nature Category:5| AND |Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collectopaedia:ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Vegetable Completion",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Vegetable):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Flower Completion",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Flower):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Animal Completion",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Animal):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Nature Completion",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Nature):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Strange Completion",
     "region": "Eryth Sea",
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Strange):ALL|)"
   },
   {
     "name": "Main Entrance (Alcamoth)",
@@ -3223,7 +3291,7 @@
   },
   {
     "name": "Brother and Sister",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3231,7 +3299,7 @@
   },
   {
     "name": "The Forefathers",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3239,7 +3307,7 @@
   },
   {
     "name": "Melia's Imperial Villa",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3258,28 +3326,32 @@
     "region": "Alcamoth",
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:6| AND |Progressive Flower Category:7| AND |Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collectopaedia:ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Fruit Completion",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Fruit):ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Flower Completion",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Flower):ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Strange Completion",
     "region": "Alcamoth",
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Strange):ALL|)"
   },
   {
     "name": "Tomb Approach",
@@ -3332,8 +3404,8 @@
     "requires": "|Progressive Hunting License:9|"
   },
   {
-    "name": "Furious Jozan (Lv 55)",
-    "region": "High Entia Tomb",
+    "name": "Furious Jozan (Lv 96)",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
     ],
@@ -3374,28 +3446,32 @@
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:7| AND |Progressive Part Category:5| AND |Progressive Strange Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collectopaedia:ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Bug Completion",
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Bug):ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Part Completion",
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Part):ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Strange Completion",
     "region": "High Entia Tomb",
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Strange):ALL|)"
   },
   {
     "name": "High Entia Transporter",
@@ -3504,7 +3580,7 @@
   },
   {
     "name": "Alcamoth Development Level 1",
-    "region": "Alcamoth",
+    "region": "Eryth Sea",
     "category": [
       "Alcamoth Development Level","DevelopmentLevels"
     ]
@@ -3518,21 +3594,22 @@
   },
   {
     "name": "Alcamoth Development Level 3",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Alcamoth Development Level","DevelopmentLevels"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:8| OR |Valak Mountain Key:2|"
   },
   {
     "name": "Alcamoth Development Level 4",
-    "region": "Alcamoth",
+    "region": "Mechonis Core",
     "category": [
       "Alcamoth Development Level","DevelopmentLevels"
     ]
   },
   {
     "name": "Alcamoth Development Level 5",
-    "region": "Alcamoth",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Alcamoth Development Level","DevelopmentLevels"
     ]
@@ -3547,7 +3624,7 @@
   },
   {
     "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3563,7 +3640,7 @@
   },
   {
     "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3571,7 +3648,7 @@
   },
   {
     "name": "Exposure Wolfol (Lv 97)",
-    "region": "Valak Mountain",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
@@ -3579,7 +3656,7 @@
   },
   {
     "name": "SUPERBOSS Final Marcus (Lv 100)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3627,7 +3704,7 @@
   },
   {
     "name": "Wandering Amon (Lv 98)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
@@ -3692,49 +3769,56 @@
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:7| AND |Progressive Fruit Category:7| AND |Progressive Flower Category:8| AND |Progressive Animal Category:7| AND |Progressive Nature Category:6| AND |Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collectopaedia:ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Vegetable Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Vegetable):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Fruit Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Fruit):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Flower Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Flower):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Animal Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Animal):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Nature Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Nature):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Strange Completion",
     "region": "Valak Mountain",
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Strange):ALL|)"
   },
   {
     "name": "Bionis' Thumb",
@@ -3882,42 +3966,48 @@
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:8| AND |Progressive Flower Category:9| AND |Progressive Fruit Category:8| AND |Progressive Part Category:6| AND |Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collectopaedia:ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Vegetable Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Vegetable):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Fruit Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Fruit):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Flower Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Flower):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Part Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Part):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Strange Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Strange):ALL|)"
   },
   {
     "name": "Ether Influx Conduit",
@@ -3990,28 +4080,32 @@
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:8| AND |Progressive Part Category:7| AND |Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collectopaedia:ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Bug Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Bug):ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Part Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Part):ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Strange Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Strange):ALL|)"
   },
   {
     "name": "Wreckage Beach",
@@ -4108,7 +4202,7 @@
   },
   {
     "name": "SUPERBOSS Ancient Daedala (Lv 105)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","SuperBosses"
     ],
@@ -4124,7 +4218,7 @@
   },
   {
     "name": "Powerful Eligos (Lv 80)",
-    "region": "Fallen Arm",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
@@ -4148,7 +4242,7 @@
   },
   {
     "name": "Wicked Sallos (Lv 95)",
-    "region": "Fallen Arm",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
@@ -4348,49 +4442,56 @@
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:9| AND |Progressive Fruit Category:9| AND |Progressive Animal Category:9| AND |Progressive Nature Category:7| AND |Progressive Part Category:8| AND |Progressive Strange Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collectopaedia:ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Vegetable Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Fruit Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Fruit):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Animal Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Animal):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Nature Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Part Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Strange Completion",
     "region": "Fallen Arm",
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Left Leg Cooling Outlet",
@@ -4528,49 +4629,56 @@
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:10| AND |Progressive Flower Category:10| AND |Progressive Bug Category:9| AND |Progressive Nature Category:8| AND |Progressive Part Category:9| AND |Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collectopaedia:ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Vegetable Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Vegetable):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Flower Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Flower):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Bug Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Bug):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Nature Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Nature):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Part Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Part):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Strange Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Strange):ALL|)"
   },
   {
     "name": "Port Terminal",
@@ -4719,49 +4827,56 @@
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:11| AND |Progressive Animal Category:10| AND |Progressive Bug Category:10| AND |Progressive Nature Category:9| AND |Progressive Part Category:10| AND |Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collectopaedia:ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Vegetable Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Vegetable):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Animal Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Animal):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Bug Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Bug):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Nature Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Nature):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Part Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Part):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Strange Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Strange):ALL|)"
   },
   {
     "name": "Factory Transporter",
@@ -4923,49 +5038,56 @@
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:11| AND |Progressive Fruit Category:10| AND |Progressive Bug Category:11| AND |Progressive Nature Category:10| AND |Progressive Part Category:11| AND |Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collectopaedia:ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Fruit Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Fruit):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Flower Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Flower Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Flower):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Bug Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Bug):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Nature Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Nature):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Part Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Part):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Strange Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Strange):ALL|)"
   },
   {
     "name": "Yaldabaoth (Mechonis Core)",
@@ -5101,28 +5223,32 @@
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:4| AND |Progressive Animal Category:5| AND |Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collectopaedia:ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Vegetable Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Vegetable Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Vegetable):ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Animal Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Animal):ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Strange Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Strange):ALL|)"
   },
   {
     "name": "Bridge of Grief",
@@ -5362,16 +5488,9 @@
   },
   {
     "name": "Fallen Arm Development Level 5",
-    "region": "Fallen Arm",
+    "region": "Mechonis Field (MISSABLE)",
     "category": [
       "Fallen Arm Development Level","DevelopmentLevels"
-    ]
-  },
-  {
-    "name": "Tephra Cave Collectopaedia Strange Completion",
-    "region": "Tephra Cave",
-    "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia"
     ]
   },
   {
@@ -5379,49 +5498,56 @@
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:11| AND |Progressive Animal Category:11| AND |Progressive Bug Category:12| AND |Progressive Nature Category:11| AND |Progressive Part Category:12| AND |Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collectopaedia:ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Fruit Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Fruit Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Fruit):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Animal Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Animal Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Animal):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Bug Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Bug):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Nature Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Nature Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Nature):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Part Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Part):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Strange Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Strange):ALL|)"
   },
   {
     "name": "Biscuits for a Grandson",
@@ -5949,7 +6075,7 @@
   },
   {
     "name": "The Blood of Bafalgar",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Quests","AffinityQuests"
     ],
@@ -6209,7 +6335,7 @@
   },
   {
     "name": "Legend of Mythical Empress",
-    "region": "Makna Forest",
+    "region": "Frontier Village",
     "category": [
       "Bionis' Leg Quests (Colony 6 Development Level 3)","AffinityQuests"
     ]
@@ -6223,7 +6349,7 @@
   },
   {
     "name": "Battling Brutes",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Quests","AffinityQuests"
     ],
@@ -6259,35 +6385,35 @@
   },
   {
     "name": "Chemist's Reopening",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "For the Restoration (MISSABLE)",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "Making a New Path (MISSABLE)",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "Satata's Younger Brother",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "A Selfish Girl's Mistake",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
     ]
@@ -6300,144 +6426,156 @@
     ]
   },
   {
-    "name": "Matryona's Answer",
-    "region": "Satorl Marsh",
-    "category": [
-      "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
-  },
-  {
     "name": "A Gutsy Trader",
     "region": "Makna Forest",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:1| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2|"
   },
   {
     "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
     "region": "Makna Forest",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:1| AND |Colony 6 Reconstruction Commerce Level:1| AND |Colony 6 Reconstruction Nature Level:1| AND |Colony 6 Reconstruction Special Level:1|"
   },
   {
     "name": "Cook-Off Counter Attack!",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Commerce Level:2|"
   },
   {
     "name": "Missing Lodger",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Cook-Off Comeback?",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Cook-Off Final Blow?!",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "A Delectable Delicacy",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Looking for Freedom",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
     "region": "Alcamoth",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Obstinate Berryjammy",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "A Tantalising Treat",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Cook-Off Showdown!",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Unstoppable Berryjammy",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "The Most Transparent Thing",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "A Final Sweet Favour",
     "region": "Valak Mountain",
     "category": [
       "Colony 6 Quests (Development Level 4)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Odd Smoke - Investigation",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:4|"
   },
   {
     "name": "In Pursuit of Love",
     "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:5|"
   },
   {
     "name": "Odd Smoke - Resolution",
     "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:4| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "Defend Colony 6 - Elite (55% Reconstruction)",
     "region": "Fallen Arm",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:3| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:3|"
   },
   {
     "name": "Nic's Training",
@@ -6445,7 +6583,7 @@
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
     ],
-  "requires": "|Colony 6 Reconstruction Housing Level:5|"
+  "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:3|"
   },
   {
     "name": "Nic's Final Test",
@@ -6453,7 +6591,7 @@
     "category": [
       "Colony 6 Quests (Development Level 4)","AffinityQuests"
     ],
-    "requires": "|Colony 6 Reconstruction Housing Level:5|"
+    "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:6|"
   },
   {
     "name": "Melancholy Tyrea",
@@ -6474,49 +6612,56 @@
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|"
   },
   {
     "name": "Finding the Unfindable",
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|"
   },
   {
     "name": "Lifespan of a Machina",
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Nature Level:5|"
   },
   {
     "name": "A Dauntless Trader",
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
   },
   {
     "name": "A Poet's Concerns",
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Nature Level:5|"
   },
   {
     "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
     "region": "Mechonis Core",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:4| AND |Colony 6 Reconstruction Commerce Level:4| AND |Colony 6 Reconstruction Nature Level:4| AND |Colony 6 Reconstruction Special Level:4|"
   },
   {
     "name": "Defend Colony 6 - Demon (95% Reconstruction)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Colony 6 Quests (Reconstruction)","MonsterQuests"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Commerce Level:5| AND |Colony 6 Reconstruction Nature Level:5| AND |Colony 6 Reconstruction Special Level:5|"
   },
   {
     "name": "Replica Monado 1",
@@ -6637,21 +6782,24 @@
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "A Mysterious Delicacy",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "A Gift? (MISSABLE)",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:6|"
   },
   {
     "name": "The Ancient Ceremony",
@@ -6676,7 +6824,7 @@
   },
   {
     "name": "Challenge (Satorl Marsh)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Quests","ChallengeQuests"
     ],
@@ -6691,14 +6839,14 @@
   },
   {
     "name": "A Merciful End",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
     ]
   },
   {
     "name": "A Release From Duty",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
     ]
@@ -6783,7 +6931,7 @@
   },
   {
     "name": "Final Challenge of the Sage",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Quests (Frontier Village Development Level 3)","AffinityQuests"
     ]
@@ -7297,28 +7445,28 @@
   },
   {
     "name": "Restoring the Capital",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
     ]
   },
   {
     "name": "Restoring the Capital 2",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
     ]
   },
   {
     "name": "Broken Ether Furnace",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
     ]
   },
   {
     "name": "Broken Ether Furnace 2",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Frontier Village Quests","AffinityQuests"
     ]
@@ -7339,14 +7487,14 @@
   },
   {
     "name": "Save the Worker",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Challenge (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","ChallengeQuests"
     ],
@@ -7354,66 +7502,69 @@
   },
   {
     "name": "Collect Quest 1 (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","CollectionQuests"
     ]
   },
   {
     "name": "Collect Quest 2 (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","CollectionQuests"
     ]
   },
   {
     "name": "Monster Quest 1 (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","MonsterQuests"
     ]
   },
   {
     "name": "Monster Quest 2 (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","MonsterQuests"
     ]
   },
   {
     "name": "Trouble at the Plant",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
     ]
   },
   {
     "name": "Punish the Hodes",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:8|"
   },
   {
     "name": "Mend the Plant",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
     ]
   },
   {
     "name": "Hode Attack",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:8|"
   },
   {
     "name": "Trouble at the Lighthouse",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests","AffinityQuests"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:8|"
   },
   {
     "name": "Path to Prison Island",
@@ -7806,7 +7957,7 @@
   },
   {
     "name": "Believing Again (MISSABLE)",
-    "region": "Prison Island (1st Visit)",
+    "region": "Valak Mountain",
     "category": [
       "Alcamoth Quests (Development Level 1)","AffinityQuests"
     ]
@@ -10335,7 +10486,7 @@
   },
       {
     "name": "Roots Across the World",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Achievements"
     ]
@@ -10349,10 +10500,11 @@
   },
       {
     "name": "Colony 6 Celeb",
-    "region": "Alcamoth",
+    "region": "Valak Mountain",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|"
   },
       {
     "name": "Honorary Nopon",
@@ -10363,10 +10515,11 @@
   },
       {
     "name": "Honorary High Entia",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Progressive Hunting License:8| OR |Valak Mountain Key:2|"
   },
       {
     "name": "Honorary Machina",
@@ -10377,14 +10530,14 @@
   },
       {
     "name": "Local Hero",
-    "region": "Prison Island (1st Visit)",
+    "region": "Mechonis Core",
     "category": [
       "Achievements"
     ]
   },
       {
     "name": "World Hero",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Achievements"
     ]
@@ -10394,35 +10547,40 @@
     "region": "Bionis' Leg",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND (|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|)"
   },
       {
     "name": "Heartbreaking",
     "region": "Bionis' Leg",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND (|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|)"
   },
       {
     "name": "Pouring Out Your Heart",
     "region": "Frontier Village",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4| AND (|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|)"
   },
       {
     "name": "The Heart of the Matter",
     "region": "Fallen Arm",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
   },
       {
     "name": "Ace of Hearts",
     "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
   },
       {
     "name": "Problem Solved!",
@@ -10475,14 +10633,14 @@
   },
     {
     "name": "Building a Community",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Achievements"
     ]
   },
     {
     "name": "Bursting at the Seams",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Achievements"
     ]
@@ -10553,7 +10711,7 @@
   },
   {
     "name": "Please! No More!",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
@@ -10917,7 +11075,7 @@
   },
   {
     "name": "Right, Let's Do This!",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Achievements"
     ]
@@ -11036,24 +11194,27 @@
   },
   {
     "name": "Honest Insight",
-    "region": "Fallen Arm",
+    "region": "Satorl Marsh",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Shulk: Humanity Skill Tree| AND |Shulk: Intuition Skill Tree|) OR ((|Shulk: Humanity Skill Tree| OR |Shulk: Intuition Skill Tree|) AND |Shulk: Pessimism Skill Tree|) OR ((|Shulk: Humanity Skill Tree| OR |Shulk: Intuition Skill Tree| OR |Shulk: Pessimism Skill Tree|) AND |Shulk: Bravery Skill Tree| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2| AND |Sword Valley Key:2| AND |Galahad Fortress Key:2| AND |Fallen Arm Key:2| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
   },
   {
     "name": "Raging Stalwart",
-    "region": "Fallen Arm",
+    "region": "Satorl Marsh",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Reyn: Enthusiasm Skill Tree| AND |Reyn: Diligence Skill Tree|) OR ((|Reyn: Enthusiasm Skill Tree| OR |Reyn: Diligence Skill Tree|) AND |Reyn: Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|) OR ((|Reyn: Enthusiasm Skill Tree| OR |Reyn: Diligence Skill Tree| OR (|Reyn: Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|)) AND |Reyn: Camaraderie Skill Tree| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2| AND |Sword Valley Key:2| AND |Galahad Fortress Key:2| AND |Fallen Arm Key:2| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
   },
   {
     "name": "Spirited Adventurer",
     "region": "Agniratha (MISSABLE)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Fiora: Daring Skill Tree| AND |Fiora: Zeal Skill Tree|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree|) AND |Fiora: Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Fiora: Daring Skill Tree| OR |Fiora: Zeal Skill Tree| OR |Fiora: Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)"
   },
   {
     "name": "Gallant Hero",
@@ -11543,28 +11704,32 @@
     "region": "Mechonis Core",
     "category": [
       "Other Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:13| AND |Progressive Part Category:13| AND |Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collectopaedia:ALL|)"
   },
   {
     "name": "Other Collectopaedia Bug Completion",
-    "region": "Mechonis Core",
+    "region": "Frontier Village",
     "category": [
       "Other Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Bug Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Bug):ALL|)"
   },
   {
     "name": "Other Collectopaedia Part Completion",
-    "region": "Mechonis Core",
+    "region": "Fallen Arm",
     "category": [
       "Other Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Part Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Part):ALL|)"
   },
   {
     "name": "Other Collectopaedia Strange Completion",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Other Collectopaedia","Collectopaedia"
-    ]
+    ],
+    "requires": "|Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Strange):ALL|)"
   },
    {
     "name": "Collector Goal",

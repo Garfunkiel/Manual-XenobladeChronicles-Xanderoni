@@ -22,9 +22,28 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "GameVersion":{
+            "type": "Choice",
+            "description": [
+                "This option changes certain logic and items based on the version of the game.",
+                "Definitive Edtion/Switch 2 Version changes some Achievement logic",
+                "Switch 2 Version adds Ether Gear and Nopon Grand Prix checks"
+            ],
+            "values": {
+                "Wii/Wii U/New 3DS": 0,
+                "Definitive Edition": 1,
+                "Switch 2 Version": 2
+            },
+            "default": 0
+        },
+        "Spoilers":{
             "type": "Toggle",
-            "default": true
+            "description": [
+                "This option changes the names of Locations and Items in regards to Seven",
+                "Option is considerate of other players in the Multiworld",
+                "Default is No Spoilers"
+            ],
+            "default": false
         }
     }
 }
