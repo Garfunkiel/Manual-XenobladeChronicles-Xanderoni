@@ -261,11 +261,11 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
         # CollectionState is defined in BaseClasses
         return True
 
-    def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
+    #def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
         val = state.has_all(world.item_name_groups[catName], player)
         return val
 
-    def getColVal(state: CollectionState, area: str, cat: str, player: int):
+    #def getColVal(state: CollectionState, area: str, cat: str, player: int):
         if (cat == "ALL"):
             for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
                 if state.count(f"Progressive {item} Category", player) < CollectopaediaRequirements[area][item]:
@@ -275,7 +275,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
             return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
 
 
-    if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
+    #if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
         for loc in COLLECTOPAEDIA_LOCATIONS:
             location = multiworld.get_location(loc["name"], player)
             area = loc["area"]
@@ -284,7 +284,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
                 location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia", "") == True)
             else:
                 location.access_rule = lambda state, area=area, cat=cat: (getCollectopaediaValue(world, state, player, f"{area} Collection ({cat})", "") == True)
-    elif is_option_enabled(multiworld, player, "Collectopaedia"):
+    #elif is_option_enabled(multiworld, player, "Collectopaedia"):
         for loc in COLLECTOPAEDIA_LOCATIONS:
             location = multiworld.get_location(loc["name"], player)
             area = loc["area"]
