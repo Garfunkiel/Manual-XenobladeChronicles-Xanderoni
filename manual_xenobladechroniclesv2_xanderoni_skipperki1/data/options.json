@@ -26,8 +26,8 @@
             "type": "Choice",
             "description": [
                 "This option changes certain logic and items based on the version of the game.",
-                "Definitive Edtion/Switch 2 Version changes some Achievement logic",
-                "The Switch 2 version adds the Ether Gear item and Nopon Grand Prix locations"
+                "Definitive Edtion/Switch 2 Version changes some Achievement logic due to Expert Mode",
+                "The Switch 2 version adds the Ether Jet item and Nopon Grand Prix locations"
             ],
             "values": {
                 "Wii/Wii U/New 3DS": 0,

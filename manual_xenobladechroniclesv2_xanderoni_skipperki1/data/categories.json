@@ -125,5 +125,11 @@
     "yaml_option": [
       "collectopaediasanity"
     ]
+  },
+  "NoponGrandPrix": {
+    "hidden": false,
+    "yaml_option": [
+      "NoponGrandPrix"
+    ]
   }
 }

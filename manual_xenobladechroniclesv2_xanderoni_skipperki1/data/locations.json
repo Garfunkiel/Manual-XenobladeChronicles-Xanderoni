@@ -516,15 +516,23 @@
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Shulk Progressive Affinity Rank:1| AND |Fiora Progressive Affinity Rank:1|"
+    "requires": "|Shulk Progressive Affinity Rank:1| AND (|Fiora Progressive Affinity Rank:1| OR |Seven Progressive Affinity Rank:1|)"
   },
   {
     "name": "Fiora's Cooking",
     "region": "Fallen Arm",
     "category": [
-      "Colony 9 Heart-to-Hearts","HeartToHearts"
+      "Colony 9 Heart-to-Hearts","HeartToHearts","Spoilers"
     ],
     "requires": "|Reyn Progressive Affinity Rank:2| AND |Fiora Progressive Affinity Rank:2|"
+  },
+  {
+    "name": "Seven's Cooking",
+    "region": "Fallen Arm",
+    "category": [
+      "Colony 9 Heart-to-Hearts","HeartToHearts","NoSpoilers"
+    ],
+    "requires": "|Reyn Progressive Affinity Rank:2| AND |Seven Progressive Affinity Rank:2|"
   },
   {
     "name": "Watching Over Them",
@@ -803,7 +811,7 @@
     "category": [
       "Tephra Cave Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Reyn Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
+    "requires": "|Reyn Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
   },
   {
     "name": "Glowing in the Night",
@@ -1432,7 +1440,7 @@
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4|"
+    "requires": "(|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|) AND |Dunban Progressive Affinity Rank:4|"
   },
   {
     "name": "Quiet Time",
@@ -1440,7 +1448,7 @@
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4| AND |Colony 6 Reconstruction Special Level:3|"
+    "requires": "(|Fiora Progressive Affinity Rank:4|  OR |Seven Progressive Affinity Rank:4|) AND |Riki Progressive Affinity Rank:4| AND |Colony 6 Reconstruction Special Level:3|"
   },
   {
     "name": "Dunban's Right Arm",
@@ -2574,7 +2582,7 @@
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4|"
+    "requires": "(|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|) AND |Sharla Progressive Affinity Rank:4|"
   },
   {
     "name": "A Day Like Any Other",
@@ -2582,7 +2590,7 @@
     "category": [
       "Frontier Village Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|"
+    "requires": "(|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|) AND |Melia Progressive Affinity Rank:4|"
   },
   {
     "name": "Life's Hard for a Heropon",
@@ -2885,7 +2893,7 @@
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5|"
+    "requires": "(|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|) AND |Riki Progressive Affinity Rank:5|"
   },
   {
     "name": "A Gift for a Loved One",
@@ -3295,7 +3303,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Dunban Progressive Affinity Rank:2|"
+    "requires": "(|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|) AND |Dunban Progressive Affinity Rank:2|"
   },
   {
     "name": "The Forefathers",
@@ -3303,7 +3311,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Riki Progressive Affinity Rank:2|"
+    "requires": "(|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|) AND |Riki Progressive Affinity Rank:2|"
   },
   {
     "name": "Melia's Imperial Villa",
@@ -3311,7 +3319,7 @@
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Melia Progressive Affinity Rank:2|"
+    "requires": "(|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|) AND |Melia Progressive Affinity Rank:2|"
   },
   {
     "name": "Ancient Astrology",
@@ -3750,11 +3758,11 @@
   },
   {
     "name": "First Sight of Snow",
-    "region": "Valak Mountain",
+    "region": "Fallen Arm",
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Reyn Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
+    "requires": "|Reyn Progressive Affinity Rank:4| AND (|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|)"
   },
   {
     "name": "In Ose Tower",
@@ -4387,7 +4395,7 @@
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Shulk Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|"
+    "requires": "|Shulk Progressive Affinity Rank:4| AND (|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|)"
   },
   {
     "name": "A Family of Two",
@@ -4395,7 +4403,7 @@
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5|"
+    "requires": "(|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|) AND |Dunban Progressive Affinity Rank:5|"
   },
   {
     "name": "A Night-Time Chat",
@@ -4403,7 +4411,7 @@
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:2| AND |Sharla Progressive Affinity Rank:2|"
+    "requires": "(|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|) AND |Sharla Progressive Affinity Rank:2|"
   },
   {
     "name": "Overcoming the Pain",
@@ -4411,7 +4419,7 @@
     "category": [
       "Fallen Arm Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Fiora Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5|"
+    "requires": "(|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|) AND |Melia Progressive Affinity Rank:5|"
   },
   {
     "name": "Those Waiting for You",
@@ -5206,9 +5214,17 @@
     "name": "Fiora's Body",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior (2nd Visit) Heart-to-Hearts","HeartToHearts"
+      "Bionis' Interior (2nd Visit) Heart-to-Hearts","HeartToHearts","Spoilers"
     ],
     "requires": "|Fiora Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5|"
+  },
+  {
+    "name": "Seven's Body",
+    "region": "Bionis' Interior (2nd Visit)",
+    "category": [
+      "Bionis' Interior (2nd Visit) Heart-to-Hearts","HeartToHearts","NoSpoilers"
+    ],
+    "requires": "|Seven Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5|"
   },
   {
     "name": "Kind Words",
@@ -5407,7 +5423,7 @@
     "category": [
       "Prison Island Heart-to-Hearts","HeartToHearts"
     ],
-    "requires": "|Shulk Progressive Affinity Rank:5| AND |Fiora Progressive Affinity Rank:5|"
+    "requires": "|Shulk Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
   },
   {
     "name": "Saturn",
@@ -8128,14 +8144,28 @@
     "name": "Fiora's Conviction",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Quests","AffinityQuests"
+      "Galahad Fortress Quests","AffinityQuests","Spoilers"
+    ]
+  },
+  {
+    "name": "Seven's Conviction",
+    "region": "Galahad Fortress (MISSABLE)",
+    "category": [
+      "Galahad Fortress Quests","AffinityQuests","NoSpoilers"
     ]
   },
   {
     "name": "Reunion with Fiora",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Quests (Story)","StoryQuests"
+      "Fallen Arm Quests (Story)","StoryQuests","Spoilers"
+    ]
+  },
+  {
+    "name": "Reunion with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "Fallen Arm Quests (Story)","StoryQuests","NoSpoilers"
     ]
   },
   {
@@ -8261,7 +8291,14 @@
     "name": "Fiora's Treatment",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Quests (Story)","StoryQuests"
+      "Fallen Arm Quests (Story)","StoryQuests","Spoilers"
+    ]
+  },
+  {
+    "name": "Seven's Treatment",
+    "region": "Fallen Arm",
+    "category": [
+      "Fallen Arm Quests (Story)","StoryQuests","NoSpoilers"
     ]
   },
   {
@@ -8464,7 +8501,14 @@
     "name": "New Weapon for Fiora",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Quests","AffinityQuests"
+      "Central Factory Quests","AffinityQuests","Spoilers"
+    ]
+  },
+  {
+    "name": "New Weapon for Seven",
+    "region": "Central Factory (MISSABLE)",
+    "category": [
+      "Central Factory Quests","AffinityQuests","NoSpoilers"
     ]
   },
   {
@@ -11769,5 +11813,645 @@
       "SuperMonsterHunterGoal"
     ],
     "requires": "|Progressive Hunting License:18|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Shulk",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Reyn",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Sharla",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Dunban",
+    "region": "Satorl Marsh",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Riki",
+    "region": "Frontier Village",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Melia",
+    "region": "High Entia Tomb",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Caterpile Circuit - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Shulk",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Reyn",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Sharla",
+    "region": "Bionis' Leg",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Dunban",
+    "region": "Satorl Marsh",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Riki",
+    "region": "Frontier Village",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Melia",
+    "region": "High Entia Tomb",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Twilight Speedway - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Shulk",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Reyn",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Sharla",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Dunban",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Riki",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Melia",
+    "region": "High Entia Tomb",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Jungle Rumble - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Shulk",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Reyn",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Sharla",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Dunban",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Riki",
+    "region": "Eryth Sea",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Melia",
+    "region": "High Entia Tomb",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Midnight Forest - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Shulk",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Reyn",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Sharla",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Dunban",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Riki",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Melia",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth at Dawn - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Shulk",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Reyn",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Sharla",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Dunban",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Riki",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Melia",
+    "region": "Prison Island (1st Visit)",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Alcamoth Orbital - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Shulk",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Reyn",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Sharla",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Dunban",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Riki",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Melia",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Blizzard Rally - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Shulk",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Reyn",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Sharla",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Dunban",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Riki",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Melia",
+    "region": "Valak Mountain",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Valak Slalom - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Shulk",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Reyn",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Sharla",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Dunban",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Riki",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Melia",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Colony 9 Wild Ride - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Shulk",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Reyn",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Sharla",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Dunban",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Riki",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Melia",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Fiora",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "Spoilers"
+    ],
+    "requires": "|Ether Jet|"
+  },
+  {
+    "name": "NGP - Rural Road - Win with Seven",
+    "region": "Fallen Arm",
+    "category": [
+      "NoponGrandPrix", "Switch2Version", "NoSpoilers"
+    ],
+    "requires": "|Ether Jet|"
   }
 ]
