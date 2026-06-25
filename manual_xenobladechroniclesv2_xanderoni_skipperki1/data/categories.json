@@ -1,16 +1,10 @@
 {
   
   "DefinitiveEdition": {
-    "hidden": true,
-    "yaml_option": [
-      "Definitive Edition"
-    ]
+    "hidden": true
   },
   "Switch2Version": {
-    "hidden": true,
-    "yaml_option": [
-      "Switch 2 Version"
-    ]
+    "hidden": true
   },
   "Spoilers": {
     "hidden": true,

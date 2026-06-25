@@ -333,7 +333,7 @@
     "count": 2,
     "name": "Fiora: Double Blade Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -341,7 +341,7 @@
     "count": 2,
     "name": "Fiora: Spear Blade Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -349,7 +349,7 @@
     "count": 2,
     "name": "Fiora: Cross Impact Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -357,7 +357,7 @@
     "count": 2,
     "name": "Fiora: Healing Energy Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -365,7 +365,7 @@
     "count": 2,
     "name": "Fiora: Zero Gravity Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -373,7 +373,7 @@
     "count": 2,
     "name": "Fiora: Ether Drain Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -381,7 +381,7 @@
     "count": 2,
     "name": "Fiora: Air Fang Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -389,7 +389,7 @@
     "count": 2,
     "name": "Fiora: Double Wind Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -397,7 +397,7 @@
     "count": 2,
     "name": "Fiora: Second Gear Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -405,7 +405,7 @@
     "count": 2,
     "name": "Fiora: Lock-On Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -413,7 +413,7 @@
     "count": 2,
     "name": "Fiora: Mag Storm Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -421,7 +421,7 @@
     "count": 2,
     "name": "Fiora: Shutdown Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -429,7 +429,7 @@
     "count": 2,
     "name": "Fiora: Guard Shift Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -437,7 +437,7 @@
     "count": 2,
     "name": "Fiora: Power Drain Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -445,7 +445,7 @@
     "count": 2,
     "name": "Fiora: Speed Shift Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -453,7 +453,7 @@
     "count": 2,
     "name": "Fiora: Final Cross Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -461,7 +461,7 @@
     "count": 1,
     "name": "Fiora: Daring Skill Tree",
     "category": [
-      "Fiora Skill Trees", "Skill Trees"
+      "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -469,7 +469,7 @@
     "count": 1,
     "name": "Fiora: Zeal Skill Tree",
     "category": [
-      "Fiora Skill Trees", "Skill Trees"
+      "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -477,7 +477,7 @@
     "count": 1,
     "name": "Fiora: Rashness Skill Tree",
     "category": [
-      "Fiora Skill Trees", "Skill Trees"
+      "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -485,7 +485,7 @@
     "count": 1,
     "name": "Fiora: Innocence Skill Tree",
     "category": [
-      "Fiora Skill Trees", "Skill Trees"
+      "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
     "useful": true
   },
@@ -493,7 +493,7 @@
     "count": 2,
     "name": "Fiora: Power Smash Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -501,7 +501,7 @@
     "count": 2,
     "name": "Fiora: Screw Edge Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -509,7 +509,7 @@
     "count": 2,
     "name": "Fiora: Hidden Thorn Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -517,7 +517,199 @@
     "count": 2,
     "name": "Fiora: Lacerate Art Book",
     "category": [
-      "Fiora Arts", "Artsanity"
+      "Spoilers", "Fiora Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Double Blade Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Spear Blade Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Cross Impact Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Healing Energy Art Book",
+    "category": [
+    "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Zero Gravity Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Ether Drain Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Air Fang Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Double Wind Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Second Gear Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Lock-On Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Mag Storm Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Shutdown Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Guard Shift Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Power Drain Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Speed Shift Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Final Cross Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Seven: Daring Skill Tree",
+    "category": [
+      "NoSpoilers", "Seven Skill Trees", "Skill Trees"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Seven: Zeal Skill Tree",
+    "category": [
+      "NoSpoilers", "Seven Skill Trees", "Skill Trees"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Seven: Rashness Skill Tree",
+    "category": [
+      "NoSpoilers", "Seven Skill Trees", "Skill Trees"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Seven: Innocence Skill Tree",
+    "category": [
+      "NoSpoilers", "Seven Skill Trees", "Skill Trees"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Power Smash Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Screw Edge Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Hidden Thorn Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Lacerate Art Book",
+    "category": [
+      "NoSpoilers", "Seven Arts", "Artsanity"
     ],
     "useful": true
   },
@@ -1181,7 +1373,7 @@
     "count": 5,
     "name": "Fiora Progressive Affinity Rank",
     "category": [
-      "Fiora Affinity"
+      "Spoilers", "Fiora Affinity"
     ],
     "progression": true
   },
@@ -1919,7 +2111,7 @@
     "count": 2,
     "name": "Fiora: Progressive Weapon",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -1927,7 +2119,7 @@
     "count": 2,
     "name": "Fiora: Progressive Head Armor",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -1935,7 +2127,7 @@
     "count": 2,
     "name": "Fiora: Progressive Torso Armor",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -1943,7 +2135,7 @@
     "count": 2,
     "name": "Fiora: Progressive Arms Armor",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -1951,7 +2143,7 @@
     "count": 2,
     "name": "Fiora: Progressive Legs Armor",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -1959,7 +2151,7 @@
     "count": 2,
     "name": "Fiora: Progressive Feet Armor",
     "category": [
-      "Fiora Armor"
+      "Spoilers", "Fiora Armor"
     ],
     "useful": true
   },
@@ -4610,5 +4802,13 @@
       "Options"
     ],
     "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ether Gear",
+    "category": [
+      "Switch2Version"
+    ],
+    "progression": true
   }
 ]

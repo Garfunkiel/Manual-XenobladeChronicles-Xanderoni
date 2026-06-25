@@ -10901,7 +10901,7 @@
   },
   {
     "name": "Down But Never Out",
-    "region": "Alcamoth",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Achievements"
     ]
@@ -10964,7 +10964,7 @@
   },
   {
     "name": "Go Team!",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Achievements"
     ]
@@ -11013,7 +11013,7 @@
   },
   {
     "name": "Chain Gang",
-    "region": "Colony 9",
+    "region": "Satorl Marsh",
     "category": [
       "Achievements"
     ]
@@ -11118,14 +11118,14 @@
   },
   {
     "name": "Who Dares Defy Me?",
-    "region": "Makna Forest",
+    "region": "High Entia Tomb",
     "category": [
       "Achievements"
     ]
   },
   {
     "name": "One Step Further",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Achievements"
     ]
@@ -11139,7 +11139,7 @@
   },
   {
     "name": "Art School",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Achievements"
     ]
@@ -11160,21 +11160,21 @@
   },
   {
     "name": "Down to a Fine Art",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
   },
   {
     "name": "Art-to-Art",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
   },
   {
     "name": "State of the Art",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
@@ -11239,14 +11239,15 @@
     "category": [
       "Achievements"
     ],
-    "requires": "(|Riki: Innocence Skill Tree| AND |Riki: Flexibility Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree|) AND |Riki: Cowardice Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree| OR |Riki: Cowardice Skill Tree|))"
+    "requires": "(|Riki: Innocence Skill Tree| AND |Riki: Flexibility Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree|) AND |Riki: Cowardice Skill Tree|) OR ((|Riki: Innocence Skill Tree| OR |Riki: Flexibility Skill Tree| OR |Riki: Cowardice Skill Tree|) AND |Riki: Heroism Skill Tree| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)"
   },
   {
     "name": "Serene Candour",
     "region": "Central Factory (MISSABLE)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Melia: Honesty Skill Tree| AND |Melia: Reliability Skill Tree|) OR ((|Melia: Honesty Skill Tree| OR |Melia: Reliability Skill Tree|) AND |Melia: Reticence Skill Tree| AND |Progressive Hunting License:8|) OR ((|Melia: Honesty Skill Tree| OR |Melia: Reliability Skill Tree| OR (|Melia: Reticence Skill Tree| AND |Progressive Hunting License:8|)) AND |Melia: Passion Skill Tree| AND |Agniratha Key:3| AND |Mechonis Core Key:3|"
   },
   {
     "name": "Phoenix",
@@ -11257,17 +11258,19 @@
   },
   {
     "name": "Secret Weapon",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|@Shulk Skill Trees:ALL| OR |@Reyn Skill Trees:ALL| OR |@Sharla Skill Trees:ALL| OR |@Dunban Skill Trees:ALL| OR |@Riki Skill Trees:ALL| OR |@Melia Skill Trees:ALL| OR |@Seven Skill Trees:ALL| OR |@Fiora Skill Trees:ALL|" 
   },
   {
     "name": "Dream Team",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|@Skill Trees:ALL|"
   },
   {
     "name": "Turning it Around",
@@ -11295,14 +11298,16 @@
     "region": "Tephra Cave",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "{YamlCompare(Game Version >= 1)} OR (|Bionis' Leg Key:1| AND Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
   },
   {
     "name": "Beating the Odds",
     "region": "Bionis' Leg",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "{YamlCompare(Game Version >= 1)} OR (|Bionis' Leg Key:1| AND Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
   },
   {
     "name": "Unlucky Sixes",
@@ -11505,21 +11510,24 @@
     "region": "Colony 9",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "((|Progressive Vegetable Category:1| OR |Progressive Flower Category:1| OR |Progressive Fruit Category:1| OR |Progressive Bug Category:1| OR |Progressive Part Category:1| OR |Progressive Strange Category:1|) AND {YamlDisabled(collectopaediasanity)}) OR ({YamlEnabled(collectopaediasanity)} AND ((|Progressive Vegetable Category:1| AND |@Colony 9 Collection (Vegetable)|) OR (|Progressive Flower Category:1| AND |@Colony 9 Collection (Flower)|) OR (|Progressive Fruit Category:1| AND |@Colony 9 Collection (Fruit)|) OR (|Progressive Bug Category:1| AND |@Colony 9 Collection (Bug)|) OR (|Progressive Part Category:1| AND |@Colony 9 Collection (Part)|) OR (|Progressive Strange Category:1| AND |@Colony 9 Collection (Strange)|))"
   },
   {
     "name": "Collector's Mentality",
     "region": "Tephra Cave",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "(|Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1|) AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collectopaedia:ALL|))"
   },
   {
     "name": "Stamp of Insanity",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
-    ]
+    ],
+    "requires": "|@Collectopaedia Pages:ALL|) AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Collectopaediasanity:ALL|)"
   },
   {
     "name": "Study Aids",
@@ -11614,7 +11622,7 @@
   },
   {
     "name": "Blossoming Friendship",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Achievements"
     ]
@@ -11642,14 +11650,14 @@
   },
   {
     "name": "Party's in Full Swing",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
   },
   {
     "name": "Treasure Trove",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
