@@ -1,6 +1,5 @@
 from typing import Optional, TYPE_CHECKING
 from BaseClasses import MultiWorld, Item, Location
-from ..Helpers import get_option_value
 
 if TYPE_CHECKING:
     from ..Items import ManualItem
@@ -9,6 +8,7 @@ if TYPE_CHECKING:
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
+    from ..Helpers import get_option_value
     if category_name == "DefinitiveEdition":
         return get_option_value(multiworld, player, "Game Version") >= 1
     if category_name == "Switch2Version":
