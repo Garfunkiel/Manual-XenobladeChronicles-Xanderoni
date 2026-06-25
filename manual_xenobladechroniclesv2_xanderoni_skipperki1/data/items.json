@@ -143,7 +143,7 @@
     "category": [
       "Shulk Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -151,7 +151,7 @@
     "category": [
       "Shulk Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -159,7 +159,7 @@
     "category": [
       "Shulk Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -167,7 +167,7 @@
     "category": [
       "Shulk Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -303,7 +303,7 @@
     "category": [
       "Reyn Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -311,7 +311,7 @@
     "category": [
       "Reyn Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -319,7 +319,7 @@
     "category": [
       "Reyn Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -327,7 +327,7 @@
     "category": [
       "Reyn Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -463,7 +463,7 @@
     "category": [
       "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -471,7 +471,7 @@
     "category": [
       "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -479,7 +479,7 @@
     "category": [
       "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -487,7 +487,7 @@
     "category": [
       "Spoilers", "Fiora Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -655,7 +655,7 @@
     "category": [
       "NoSpoilers", "Seven Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -663,7 +663,7 @@
     "category": [
       "NoSpoilers", "Seven Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -671,7 +671,7 @@
     "category": [
       "NoSpoilers", "Seven Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -679,7 +679,7 @@
     "category": [
       "NoSpoilers", "Seven Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -847,7 +847,7 @@
     "category": [
       "Sharla Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -855,7 +855,7 @@
     "category": [
       "Sharla Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -863,7 +863,7 @@
     "category": [
       "Sharla Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -871,7 +871,7 @@
     "category": [
       "Sharla Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -1007,7 +1007,7 @@
     "category": [
       "Dunban Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1015,7 +1015,7 @@
     "category": [
       "Dunban Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1023,7 +1023,7 @@
     "category": [
       "Dunban Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1031,7 +1031,7 @@
     "category": [
       "Dunban Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -1167,7 +1167,7 @@
     "category": [
       "Melia Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1175,7 +1175,7 @@
     "category": [
       "Melia Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1183,7 +1183,7 @@
     "category": [
       "Melia Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1191,7 +1191,7 @@
     "category": [
       "Melia Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 2,
@@ -1327,7 +1327,7 @@
     "category": [
       "Riki Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1335,7 +1335,7 @@
     "category": [
       "Riki Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1343,7 +1343,7 @@
     "category": [
       "Riki Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1351,7 +1351,7 @@
     "category": [
       "Riki Skill Trees", "Skill Trees"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 5,
@@ -1374,6 +1374,14 @@
     "name": "Fiora Progressive Affinity Rank",
     "category": [
       "Spoilers", "Fiora Affinity"
+    ],
+    "progression": true
+  },
+  {
+    "count": 5,
+    "name": "Seven Progressive Affinity Rank",
+    "category": [
+      "NoSpoilers", "Seven Affinity"
     ],
     "progression": true
   },
@@ -2134,6 +2142,54 @@
     "name": "Fiora: Progressive Feet Armor",
     "category": [
       "Spoilers", "Fiora Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Weapon",
+    "category": [
+      "NoSpoilers", "Seven Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Head Armor",
+    "category": [
+      "NoSpoilers", "Seven Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Torso Armor",
+    "category": [
+      "NoSpoilers", "Seven Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Arms Armor",
+    "category": [
+      "NoSpoilers", "Seven Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Legs Armor",
+    "category": [
+      "NoSpoilers", "Seven Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 2,
+    "name": "Seven: Progressive Feet Armor",
+    "category": [
+      "NoSpoilers", "Seven Armor"
     ],
     "useful": true
   },

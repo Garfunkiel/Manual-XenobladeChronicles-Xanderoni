@@ -22,7 +22,7 @@
         }
     },
     "user": {
-        "Game Version":{
+        "GameVersion":{
             "type": "Choice",
             "description": [
                 "This option changes certain logic and items based on the version of the game.",

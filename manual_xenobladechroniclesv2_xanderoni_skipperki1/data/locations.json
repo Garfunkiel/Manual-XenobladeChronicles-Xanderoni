@@ -572,7 +572,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collectopaedia:ALL|)"
+  "requires": "|Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collectopaedia:ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Vegetable Completion",
@@ -580,7 +580,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Vegetable):ALL|)"
+  "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Vegetable):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Fruit Completion",
@@ -588,7 +588,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Fruit Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Fruit):ALL|)"
+  "requires": "|Progressive Fruit Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Fruit):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Flower Completion",
@@ -596,7 +596,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Flower Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Flower):ALL|)"
+  "requires": "|Progressive Flower Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Flower):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Bug Completion",
@@ -604,7 +604,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Bug):ALL|)"
+  "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Bug):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Part Completion",
@@ -612,7 +612,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Part):ALL|)"
+  "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Part):ALL|)"
   },
   {
     "name": "Colony 9 Collectopaedia Strange Completion",
@@ -620,7 +620,7 @@
     "category": [
       "Colony 9 Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 9 Collection (Strange):ALL|)"
+  "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 9 Collection (Strange):ALL|)"
   },
   {
     "name": "Tephra Path",
@@ -827,7 +827,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Flower Category:2| AND |Progressive Fruit Category:2| AND |Progressive Animal Category:1| AND |Progressive Bug Category:2| AND |Progressive Nature Category:1| AND |Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collectopaedia:ALL|)"
+  "requires": "|Progressive Flower Category:2| AND |Progressive Fruit Category:2| AND |Progressive Animal Category:1| AND |Progressive Bug Category:2| AND |Progressive Nature Category:1| AND |Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collectopaedia:ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Fruit Completion",
@@ -835,7 +835,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Fruit Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Fruit):ALL|)"
+  "requires": "|Progressive Fruit Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Fruit):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Flower Completion",
@@ -843,7 +843,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Flower Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Flower):ALL|)"
+  "requires": "|Progressive Flower Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Flower):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Animal Completion",
@@ -851,7 +851,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Animal Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Animal):ALL|)"
+  "requires": "|Progressive Animal Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Animal):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Bug Completion",
@@ -859,7 +859,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Bug Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Bug):ALL|)"
+  "requires": "|Progressive Bug Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Bug):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Nature Completion",
@@ -867,7 +867,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Nature Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Nature):ALL|)"
+  "requires": "|Progressive Nature Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Nature):ALL|)"
   },
   {
     "name": "Tephra Cave Collectopaedia Strange Completion",
@@ -875,7 +875,7 @@
     "category": [
       "Tephra Cave Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Tephra Cave Collection (Strange):ALL|)"
+  "requires": "|Progressive Strange Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Tephra Cave Collection (Strange):ALL|)"
   },
   {
     "name": "Colony 9 Development Level 1",
@@ -1182,7 +1182,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Vegetable Category:2| AND |Progressive Fruit Category:3| AND |Progressive Bug Category:3| AND |Progressive Nature Category:2| AND |Progressive Part Category:2| AND |Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collectopaedia:ALL|)"
+  "requires": "|Progressive Vegetable Category:2| AND |Progressive Fruit Category:3| AND |Progressive Bug Category:3| AND |Progressive Nature Category:2| AND |Progressive Part Category:2| AND |Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collectopaedia:ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Vegetable Completion",
@@ -1190,7 +1190,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Vegetable Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Vegetable):ALL|)"
+  "requires": "|Progressive Vegetable Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Vegetable):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Fruit Completion",
@@ -1198,7 +1198,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Fruit Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Fruit):ALL|)"
+  "requires": "|Progressive Fruit Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Fruit):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Bug Completion",
@@ -1206,7 +1206,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Bug Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Bug):ALL|)"
+  "requires": "|Progressive Bug Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Bug):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Nature Completion",
@@ -1214,7 +1214,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Nature Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Nature):ALL|)"
+  "requires": "|Progressive Nature Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Nature):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Part Completion",
@@ -1222,7 +1222,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Part Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Part):ALL|)"
+  "requires": "|Progressive Part Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Part):ALL|)"
   },
   {
     "name": "Bionis' Leg Collectopaedia Strange Completion",
@@ -1230,7 +1230,7 @@
     "category": [
       "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
-  "requires": "|Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Leg Collection (Strange):ALL|)"
+  "requires": "|Progressive Strange Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Leg Collection (Strange):ALL|)"
   },
   {
     "name": "Reconstruction HQ",
@@ -1464,7 +1464,7 @@
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:3| AND |Progressive Animal Category:2| AND |Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collectopaedia:ALL|)"
+    "requires": "|Progressive Flower Category:3| AND |Progressive Animal Category:2| AND |Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 6 Collectopaedia:ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Flower Completion",
@@ -1472,7 +1472,7 @@
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 6 Collection (Flower):ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Animal Completion",
@@ -1480,7 +1480,7 @@
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:2| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 6 Collection (Animal):ALL|)"
   },
   {
     "name": "Colony 6 Collectopaedia Strange Completion",
@@ -1488,7 +1488,7 @@
     "category": [
       "Colony 6 Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Colony 6 Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Colony 6 Collection (Strange):ALL|)"
   },
   {
     "name": "Colony 6 Development Level 1",
@@ -1651,7 +1651,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:3| AND |Progressive Bug Category:4| AND |Progressive Nature Category:3| AND |Progressive Part Category:3| AND |Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collectopaedia:ALL|)"
+    "requires": "|Progressive Animal Category:3| AND |Progressive Bug Category:4| AND |Progressive Nature Category:3| AND |Progressive Part Category:3| AND |Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collectopaedia:ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Animal Completion",
@@ -1659,7 +1659,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collection (Animal):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Bug Completion",
@@ -1667,7 +1667,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collection (Bug):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Nature Completion",
@@ -1675,7 +1675,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collection (Nature):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Parts Completion",
@@ -1683,7 +1683,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Parts Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Parts):ALL|)"
+    "requires": "|Progressive Part Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collection (Parts):ALL|)"
   },
   {
     "name": "Ether Mine Collectopaedia Strange Completion",
@@ -1691,7 +1691,7 @@
     "category": [
       "Ether Mine Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Ether Mine Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Ether Mine Collection (Strange):ALL|)"
   },
   {
     "name": "Kelsher Wetland",
@@ -1903,7 +1903,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:3| AND |Progressive Flower Category:4| AND |Progressive Animal Category:4| AND |Progressive Nature Category:4| AND |Progressive Part Category:4| AND |Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:3| AND |Progressive Flower Category:4| AND |Progressive Animal Category:4| AND |Progressive Nature Category:4| AND |Progressive Part Category:4| AND |Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collectopaedia:ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Vegetable Completion",
@@ -1911,7 +1911,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:3| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Vegetable):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Flower Completion",
@@ -1919,7 +1919,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Flower):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Animal Completion",
@@ -1927,7 +1927,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Animal):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Nature Completion",
@@ -1935,7 +1935,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Nature):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Parts Completion",
@@ -1943,7 +1943,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Parts Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Parts):ALL|)"
+    "requires": "|Progressive Part Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Parts):ALL|)"
   },
   {
     "name": "Satorl Marsh Collectopaedia Strange Completion",
@@ -1951,7 +1951,7 @@
     "category": [
       "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Satorl Marsh Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Satorl Marsh Collection (Strange):ALL|)"
   },
   {
     "name": "Terminal Trachea",
@@ -2203,7 +2203,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:5| AND |Progressive Flower Category:5| AND |Progressive Fruit Category:4| AND |Progressive Animal Category:6| AND |Progressive Bug Category:5| AND |Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:5| AND |Progressive Flower Category:5| AND |Progressive Fruit Category:4| AND |Progressive Animal Category:6| AND |Progressive Bug Category:5| AND |Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collectopaedia:ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Vegetable Completion",
@@ -2211,7 +2211,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Vegetable):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Fruit Completion",
@@ -2219,7 +2219,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Fruit):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Flower Completion",
@@ -2227,7 +2227,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Flower):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Animal Completion",
@@ -2235,7 +2235,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Animal):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Bug Completion",
@@ -2243,7 +2243,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Bug):ALL|)"
   },
   {
     "name": "Makna Forest Collectopaedia Strange Completion",
@@ -2251,7 +2251,7 @@
     "category": [
       "Makna Forest Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Makna Forest Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Makna Forest Collection (Strange):ALL|)"
   },
   {
     "name": "Entry Bridge",
@@ -2622,7 +2622,7 @@
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:5| AND |Progressive Bug Category:6| AND |Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collectopaedia:ALL|)"
+    "requires": "|Progressive Fruit Category:5| AND |Progressive Bug Category:6| AND |Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Frontier Village Collectopaedia:ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Fruit Completion",
@@ -2630,7 +2630,7 @@
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Frontier Village Collection (Fruit):ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Bug Completion",
@@ -2638,7 +2638,7 @@
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Frontier Village Collection (Bug):ALL|)"
   },
   {
     "name": "Frontier Village Collectopaedia Strange Completion",
@@ -2646,7 +2646,7 @@
     "category": [
       "Frontier Village Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Frontier Village Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Frontier Village Collection (Strange):ALL|)"
   },
   {
     "name": "Latael Shore",
@@ -2917,7 +2917,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:6| AND |Progressive Flower Category:6| AND |Progressive Animal Category:7| AND |Progressive Nature Category:5| AND |Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:6| AND |Progressive Flower Category:6| AND |Progressive Animal Category:7| AND |Progressive Nature Category:5| AND |Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collectopaedia:ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Vegetable Completion",
@@ -2925,7 +2925,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collection (Vegetable):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Flower Completion",
@@ -2933,7 +2933,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collection (Flower):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Animal Completion",
@@ -2941,7 +2941,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collection (Animal):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Nature Completion",
@@ -2949,7 +2949,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collection (Nature):ALL|)"
   },
   {
     "name": "Eryth Sea Collectopaedia Strange Completion",
@@ -2957,7 +2957,7 @@
     "category": [
       "Eryth Sea Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Eryth Sea Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Eryth Sea Collection (Strange):ALL|)"
   },
   {
     "name": "Main Entrance (Alcamoth)",
@@ -3335,7 +3335,7 @@
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:6| AND |Progressive Flower Category:7| AND |Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collectopaedia:ALL|)"
+    "requires": "|Progressive Fruit Category:6| AND |Progressive Flower Category:7| AND |Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Alcamoth Collectopaedia:ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Fruit Completion",
@@ -3343,7 +3343,7 @@
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Alcamoth Collection (Fruit):ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Flower Completion",
@@ -3351,7 +3351,7 @@
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Alcamoth Collection (Flower):ALL|)"
   },
   {
     "name": "Alcamoth Collectopaedia Strange Completion",
@@ -3359,7 +3359,7 @@
     "category": [
       "Alcamoth Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Alcamoth Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Alcamoth Collection (Strange):ALL|)"
   },
   {
     "name": "Tomb Approach",
@@ -3455,7 +3455,7 @@
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:7| AND |Progressive Part Category:5| AND |Progressive Strange Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collectopaedia:ALL|)"
+    "requires": "|Progressive Bug Category:7| AND |Progressive Part Category:5| AND |Progressive Strange Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@High Entia Tomb Collectopaedia:ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Bug Completion",
@@ -3463,7 +3463,7 @@
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@High Entia Tomb Collection (Bug):ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Part Completion",
@@ -3471,7 +3471,7 @@
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@High Entia Tomb Collection (Part):ALL|)"
   },
   {
     "name": "High Entia Tomb Collectopaedia Strange Completion",
@@ -3479,7 +3479,7 @@
     "category": [
       "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |High Entia Tomb Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@High Entia Tomb Collection (Strange):ALL|)"
   },
   {
     "name": "High Entia Transporter",
@@ -3778,7 +3778,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:7| AND |Progressive Fruit Category:7| AND |Progressive Flower Category:8| AND |Progressive Animal Category:7| AND |Progressive Nature Category:6| AND |Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:7| AND |Progressive Fruit Category:7| AND |Progressive Flower Category:8| AND |Progressive Animal Category:7| AND |Progressive Nature Category:6| AND |Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collectopaedia:ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Vegetable Completion",
@@ -3786,7 +3786,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Vegetable):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Fruit Completion",
@@ -3794,7 +3794,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Fruit):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Flower Completion",
@@ -3802,7 +3802,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Flower):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Animal Completion",
@@ -3810,7 +3810,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Animal):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Nature Completion",
@@ -3818,7 +3818,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Nature):ALL|)"
   },
   {
     "name": "Valak Mountain Collectopaedia Strange Completion",
@@ -3826,7 +3826,7 @@
     "category": [
       "Valak Mountain Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Valak Mountain Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Valak Mountain Collection (Strange):ALL|)"
   },
   {
     "name": "Bionis' Thumb",
@@ -3975,7 +3975,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:8| AND |Progressive Flower Category:9| AND |Progressive Fruit Category:8| AND |Progressive Part Category:6| AND |Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:8| AND |Progressive Flower Category:9| AND |Progressive Fruit Category:8| AND |Progressive Part Category:6| AND |Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collectopaedia:ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Vegetable Completion",
@@ -3983,7 +3983,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Vegetable):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Fruit Completion",
@@ -3991,7 +3991,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Fruit):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Flower Completion",
@@ -3999,7 +3999,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Flower):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Part Completion",
@@ -4007,7 +4007,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Part):ALL|)"
   },
   {
     "name": "Sword Valley Collectopaedia Strange Completion",
@@ -4015,7 +4015,7 @@
     "category": [
       "Sword Valley Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Sword Valley Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:14| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Strange):ALL|)"
   },
   {
     "name": "Ether Influx Conduit",
@@ -4089,7 +4089,7 @@
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:8| AND |Progressive Part Category:7| AND |Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collectopaedia:ALL|)"
+    "requires": "|Progressive Bug Category:8| AND |Progressive Part Category:7| AND |Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Galahad Fortress Collectopaedia:ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Bug Completion",
@@ -4097,7 +4097,7 @@
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Galahad Fortress Collection (Bug):ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Part Completion",
@@ -4105,7 +4105,7 @@
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:6| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Galahad Fortress Collection (Part):ALL|)"
   },
   {
     "name": "Galahad Fortress Collectopaedia Strange Completion",
@@ -4113,7 +4113,7 @@
     "category": [
       "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Galahad Fortress Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:15| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Galahad Fortress Collection (Strange):ALL|)"
   },
   {
     "name": "Wreckage Beach",
@@ -4451,7 +4451,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:9| AND |Progressive Fruit Category:9| AND |Progressive Animal Category:9| AND |Progressive Nature Category:7| AND |Progressive Part Category:8| AND |Progressive Strange Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:9| AND |Progressive Fruit Category:9| AND |Progressive Animal Category:9| AND |Progressive Nature Category:7| AND |Progressive Part Category:8| AND |Progressive Strange Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collectopaedia:ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Vegetable Completion",
@@ -4459,7 +4459,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Fruit Completion",
@@ -4467,7 +4467,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Fruit):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Animal Completion",
@@ -4475,7 +4475,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Animal):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Nature Completion",
@@ -4483,7 +4483,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Part Completion",
@@ -4491,7 +4491,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Fallen Arm Collectopaedia Strange Completion",
@@ -4499,7 +4499,7 @@
     "category": [
       "Fallen Arm Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Fallen Arm Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
   },
   {
     "name": "Left Leg Cooling Outlet",
@@ -4638,7 +4638,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:10| AND |Progressive Flower Category:10| AND |Progressive Bug Category:9| AND |Progressive Nature Category:8| AND |Progressive Part Category:9| AND |Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:10| AND |Progressive Flower Category:10| AND |Progressive Bug Category:9| AND |Progressive Nature Category:8| AND |Progressive Part Category:9| AND |Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collectopaedia:ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Vegetable Completion",
@@ -4646,7 +4646,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Vegetable):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Flower Completion",
@@ -4654,7 +4654,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Flower):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Bug Completion",
@@ -4662,7 +4662,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Bug):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Nature Completion",
@@ -4670,7 +4670,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Nature):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Part Completion",
@@ -4678,7 +4678,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Part):ALL|)"
   },
   {
     "name": "Mechonis Field Collectopaedia Strange Completion",
@@ -4686,7 +4686,7 @@
     "category": [
       "Mechonis Field Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Mechonis Field Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:17| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Mechonis Field Collection (Strange):ALL|)"
   },
   {
     "name": "Port Terminal",
@@ -4836,7 +4836,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:11| AND |Progressive Animal Category:10| AND |Progressive Bug Category:10| AND |Progressive Nature Category:9| AND |Progressive Part Category:10| AND |Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:11| AND |Progressive Animal Category:10| AND |Progressive Bug Category:10| AND |Progressive Nature Category:9| AND |Progressive Part Category:10| AND |Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collectopaedia:ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Vegetable Completion",
@@ -4844,7 +4844,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Vegetable):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Animal Completion",
@@ -4852,7 +4852,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Animal):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Bug Completion",
@@ -4860,7 +4860,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Bug):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Nature Completion",
@@ -4868,7 +4868,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Nature):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Part Completion",
@@ -4876,7 +4876,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Part):ALL|)"
   },
   {
     "name": "Central Factory Collectopaedia Strange Completion",
@@ -4884,7 +4884,7 @@
     "category": [
       "Central Factory Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Central Factory Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Central Factory Collection (Strange):ALL|)"
   },
   {
     "name": "Factory Transporter",
@@ -5047,7 +5047,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:11| AND |Progressive Fruit Category:10| AND |Progressive Bug Category:11| AND |Progressive Nature Category:10| AND |Progressive Part Category:11| AND |Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collectopaedia:ALL|)"
+    "requires": "|Progressive Flower Category:11| AND |Progressive Fruit Category:10| AND |Progressive Bug Category:11| AND |Progressive Nature Category:10| AND |Progressive Part Category:11| AND |Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collectopaedia:ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Fruit Completion",
@@ -5055,7 +5055,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Fruit):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Flower Completion",
@@ -5063,7 +5063,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Flower Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Flower):ALL|)"
+    "requires": "|Progressive Flower Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Flower):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Bug Completion",
@@ -5071,7 +5071,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Bug):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Nature Completion",
@@ -5079,7 +5079,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:10| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Nature):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Part Completion",
@@ -5087,7 +5087,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Part):ALL|)"
   },
   {
     "name": "Agniratha Collectopaedia Strange Completion",
@@ -5095,7 +5095,7 @@
     "category": [
       "Agniratha Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Agniratha Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:19| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Agniratha Collection (Strange):ALL|)"
   },
   {
     "name": "Yaldabaoth (Mechonis Core)",
@@ -5240,7 +5240,7 @@
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:4| AND |Progressive Animal Category:5| AND |Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collectopaedia:ALL|)"
+    "requires": "|Progressive Vegetable Category:4| AND |Progressive Animal Category:5| AND |Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Interior Collectopaedia:ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Vegetable Completion",
@@ -5248,7 +5248,7 @@
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Vegetable Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Vegetable):ALL|)"
+    "requires": "|Progressive Vegetable Category:4| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Interior Collection (Vegetable):ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Animal Completion",
@@ -5256,7 +5256,7 @@
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:5| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Interior Collection (Animal):ALL|)"
   },
   {
     "name": "Bionis' Interior Collectopaedia Strange Completion",
@@ -5264,7 +5264,7 @@
     "category": [
       "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Bionis' Interior Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Bionis' Interior Collection (Strange):ALL|)"
   },
   {
     "name": "Bridge of Grief",
@@ -5515,7 +5515,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:11| AND |Progressive Animal Category:11| AND |Progressive Bug Category:12| AND |Progressive Nature Category:11| AND |Progressive Part Category:12| AND |Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collectopaedia:ALL|)"
+    "requires": "|Progressive Fruit Category:11| AND |Progressive Animal Category:11| AND |Progressive Bug Category:12| AND |Progressive Nature Category:11| AND |Progressive Part Category:12| AND |Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collectopaedia:ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Fruit Completion",
@@ -5523,7 +5523,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Fruit Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Fruit):ALL|)"
+    "requires": "|Progressive Fruit Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Fruit):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Animal Completion",
@@ -5531,7 +5531,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Animal Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Animal):ALL|)"
+    "requires": "|Progressive Animal Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Animal):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Bug Completion",
@@ -5539,7 +5539,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Bug):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Nature Completion",
@@ -5547,7 +5547,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Nature Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Nature):ALL|)"
+    "requires": "|Progressive Nature Category:11| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Nature):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Part Completion",
@@ -5555,7 +5555,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:12| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Part):ALL|)"
   },
   {
     "name": "Prison Island Collectopaedia Strange Completion",
@@ -5563,7 +5563,7 @@
     "category": [
       "Prison Island Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Prison Island Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:20| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Prison Island Collection (Strange):ALL|)"
   },
   {
     "name": "Biscuits for a Grandson",
@@ -11343,7 +11343,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "{YamlCompare(Game Version >= 1)} OR (|Bionis' Leg Key:1| AND Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
+    "requires": "{YamlCompare(GameVersion >= 1)} OR (|Bionis' Leg Key:1| AND |Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
   },
   {
     "name": "Beating the Odds",
@@ -11351,7 +11351,7 @@
     "category": [
       "Achievements"
     ],
-    "requires": "{YamlCompare(Game Version >= 1)} OR (|Bionis' Leg Key:1| AND Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
+    "requires": "{YamlCompare(GameVersion >= 1)} OR (|Bionis' Leg Key:1| AND |Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
   },
   {
     "name": "Unlucky Sixes",
@@ -11761,7 +11761,7 @@
     "category": [
       "Other Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:13| AND |Progressive Part Category:13| AND |Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collectopaedia:ALL|)"
+    "requires": "|Progressive Bug Category:13| AND |Progressive Part Category:13| AND |Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Other Collectopaedia:ALL|)"
   },
   {
     "name": "Other Collectopaedia Bug Completion",
@@ -11769,7 +11769,7 @@
     "category": [
       "Other Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Bug Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Bug):ALL|)"
+    "requires": "|Progressive Bug Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Other Collection (Bug):ALL|)"
   },
   {
     "name": "Other Collectopaedia Part Completion",
@@ -11777,7 +11777,7 @@
     "category": [
       "Other Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Part Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Part):ALL|)"
+    "requires": "|Progressive Part Category:13| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Other Collection (Part):ALL|)"
   },
   {
     "name": "Other Collectopaedia Strange Completion",
@@ -11785,7 +11785,7 @@
     "category": [
       "Other Collectopaedia","Collectopaedia"
     ],
-    "requires": "|Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |Other Collection (Strange):ALL|)"
+    "requires": "|Progressive Strange Category:21| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Other Collection (Strange):ALL|)"
   },
    {
     "name": "Collector Goal",
