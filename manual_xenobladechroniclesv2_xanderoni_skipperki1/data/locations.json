@@ -4817,7 +4817,7 @@
         "Sword Valley Collectopaedia",
         "Collectopaedia"
       ],
-      "requires": "|Progressive Fruit Category:18| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Fruit):ALL|)"
+      "requires": "|Progressive Fruit Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Sword Valley Collection (Fruit):ALL|)"
     },
     {
       "name": "Sword Valley Collectopaedia Flower Completion",
@@ -5383,7 +5383,7 @@
         "Fallen Arm Collectopaedia",
         "Collectopaedia"
       ],
-      "requires": "|Progressive Vegetable Category:1| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
+      "requires": "|Progressive Vegetable Category:9| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
     },
     {
       "name": "Fallen Arm Collectopaedia Fruit Completion",
@@ -5410,7 +5410,7 @@
         "Fallen Arm Collectopaedia",
         "Collectopaedia"
       ],
-      "requires": "|Progressive Vegetable Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
+      "requires": "|Progressive Nature Category:7| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Nature):ALL|)"
     },
     {
       "name": "Fallen Arm Collectopaedia Part Completion",
@@ -5419,7 +5419,7 @@
         "Fallen Arm Collectopaedia",
         "Collectopaedia"
       ],
-      "requires": "|Progressive Vegetable Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
+      "requires": "|Progressive Part Category:8| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Part):ALL|)"
     },
     {
       "name": "Fallen Arm Collectopaedia Strange Completion",
@@ -5428,7 +5428,7 @@
         "Fallen Arm Collectopaedia",
         "Collectopaedia"
       ],
-      "requires": "|Progressive Vegetable Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Vegetable):ALL|)"
+      "requires": "|Progressive Strange Category:16| AND ({YamlDisabled(collectopaediasanity)} OR ({YamlEnabled(collectopaediasanity)} AND |@Fallen Arm Collection (Strange):ALL|)"
     },
     {
       "name": "Left Leg Cooling Outlet",
