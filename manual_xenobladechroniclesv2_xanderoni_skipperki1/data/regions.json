@@ -1,16 +1,17 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Prologue": {
     "starting": true,
     "connects_to": [
       "Colony 9"
     ],
-    "requires": []
+    "requires": ""
   },
   "Colony 9": {
     "connects_to": [
       "Tephra Cave"
     ],
-    "requires": []
+    "requires": ""
   },
   "Tephra Cave": {
     "connects_to": [
