@@ -111,23 +111,23 @@ def before_set_rules(world: World, multiworld: MultiWorld, player: int):
 #CollectopaediaCache = []
 
 #def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str):
-    cacheKey = f"{player}-{catName}"
+    #cacheKey = f"{player}-{catName}"
 
-    if cacheKey in CollectopaediaCache:
-        return True
+    #if cacheKey in CollectopaediaCache:
+    #    return True
 
     #def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
-        val = state.has_all(world.item_name_groups[catName], player)
-        return val
+    #    val = state.has_all(world.item_name_groups[catName], player)
+    #    return val
 
     #def getColVal(state: CollectionState, area: str, cat: str, player: int):
-        if (cat == "ALL"):
-            for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
-                if state.count(f"Progressive {item} Category", player) < CollectopaediaRequirements[area][item]:
-                    return False
-            return True
-        else:
-            return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
+    #    if (cat == "ALL"):
+    #        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
+    #            if state.count(f"Progressive {item} Category", player) < CollectopaediaRequirements[area][item]:
+    #                return False
+    #        return True
+    #    else:
+    #        return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
 
 def playerHasItems(state: CollectionState, player: int, items: list[str]) -> bool:
     for item in items:
