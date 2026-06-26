@@ -531,6 +531,12 @@ def runGenerationDataValidation(cls) -> None:
     try: DataValidation.checkForMissingLocationNames()
     except ValidationError as e: validation_errors.append(e)
 
+    try: DataValidation.checkForMissingItemNames()
+    except ValidationError as e: validation_errors.append(e)
+
+    try: DataValidation.checkForMissingLocationNames()
+    except ValidationError as e: validation_errors.append(e)
+
     # check that requires have correct item names in locations and regions
     try: DataValidation.checkItemNamesInLocationRequires()
     except ValidationError as e: validation_errors.append(e)
