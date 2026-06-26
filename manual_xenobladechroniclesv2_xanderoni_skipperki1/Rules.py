@@ -312,6 +312,8 @@ def set_rules(world: "ManualWorld", multiworld: MultiWorld, player: int):
             name = location["name"]
         if name not in used_location_names:
             continue
+        else:
+            name = location["name"]
 
         locFromWorld = multiworld.get_location(name, player)
 
