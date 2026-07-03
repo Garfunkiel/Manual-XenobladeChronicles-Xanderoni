@@ -2,6 +2,8 @@
 from typing import Any
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
+from Options import OptionError
+from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -42,6 +44,11 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+    if world.options.Collectopaedia == False and world.options.collectopaediasanity == True:
+        raise OptionError(
+            "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
+        )
+
     multiworld.local_early_items[player]["Tephra Cave Key"] = 1
     multiworld.local_early_items[player]["Bionis' Leg Key"] = 1
     multiworld.local_early_items[player]["Colony 6 Key"] = 1
@@ -114,26 +121,38 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
     pass
 
-#CollectopaediaCache = []
+CollectopaediaCache = []
 
-#def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str):
-    #cacheKey = f"{player}-{catName}"
+def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str):
+    cacheKey = f"{player}-{catName}"
 
-    #if cacheKey in CollectopaediaCache:
-    #    return True
+    if cacheKey in CollectopaediaCache:
+        return True
 
-    #def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
-    #    val = state.has_all(world.item_name_groups[catName], player)
-    #    return val
+    val = state.has_all(world.item_name_groups[catName], player)
 
-    #def getColVal(state: CollectionState, area: str, cat: str, player: int):
-    #    if (cat == "ALL"):
-    #        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
-    #            if state.count(f"Progressive {item} Category", player) < CollectopaediaRequirements[area][item]:
-    #                return False
-    #        return True
-    #    else:
-    #        return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
+    if val:
+        CollectopaediaCache.append(cacheKey)
+    return val
+
+def getColVal(state: CollectionState, area: str, cat: str, player: int):
+    if (cat == "ALL"):
+        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
+            if state.count(f"Progressive {item} Category", player) < COLLECTOPAEDIA_REQUIREMENTS[area][item]:
+                return False
+        return True
+    else:
+        return state.count(f"Progressive {cat} Category", player) >= COLLECTOPAEDIA_REQUIREMENTS[area][cat]
+
+def playerHasPage(state: CollectionState, player: int, area: str, cat: str) -> bool:
+    cacheKey = f"{player}-{area}-{cat}"
+    if cacheKey in CollectopaediaCache:
+        return True
+
+    val = getColVal(state, area, cat, player) and playerHasItems(state, player, PAGE_REQUIREMENTS.get(f"{area}|{cat}", []))
+    if val:
+        CollectopaediaCache.append(cacheKey)
+    return val
 
 def playerHasItems(state: CollectionState, player: int, items: list[str]) -> bool:
     for item in items:
@@ -144,24 +163,24 @@ def playerHasItems(state: CollectionState, player: int, items: list[str]) -> boo
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
-    #CollectopaediaCache.clear()
+    CollectopaediaCache.clear()
 
-    #if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
-        #for loc in COLLECTOPAEDIA_LOCATIONS:
-            #location = multiworld.get_location(loc["name"], player)
-            #area = loc["area"]
-            #cat = loc["cat"]
-            #if cat == "ALL":
-            #    location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
-            #else:
-            #    location.access_rule = lambda state, area=area, cat=cat: (getCollectopaediaValue(world, state, player, f"{area} Collection ({cat})", "") == True)
-    #elif is_option_enabled(multiworld, player, "Collectopaedia"):
-        #for loc in COLLECTOPAEDIA_LOCATIONS:
-        #    location = multiworld.get_location(loc["name"], player)
-        #    area = loc["area"]
-        #    cat = loc["cat"]
-        #    location.access_rule = lambda state, area=area, cat=cat: (getColVal(state, area, cat, player))
-        pass
+    if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
+        for loc in COLLECTOPAEDIA_LOCATIONS:
+            location = multiworld.get_location(loc["name"], player)
+            area = loc["area"]
+            cat = loc["cat"]
+            if cat == "ALL":
+                location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
+            else:
+                location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
+    elif is_option_enabled(multiworld, player, "Collectopaedia"):
+        for loc in COLLECTOPAEDIA_LOCATIONS:
+            location = multiworld.get_location(loc["name"], player)
+            area = loc["area"]
+            cat = loc["cat"]
+            location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
+    pass
 
 # The item name to create is provided before the item is created, in case you want to make changes to it
 def before_create_item(item_name: str, world: World, multiworld: MultiWorld, player: int) -> str:
