@@ -42,11 +42,25 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
-    multiworld.local_early_items[player]["Tephra Cave Key"] = 1
-    multiworld.local_early_items[player]["Bionis' Leg Key"] = 1
-    multiworld.local_early_items[player]["Colony 6 Key"] = 1
-    multiworld.local_early_items[player]["Ether Mine Key"] = 1
-    multiworld.local_early_items[player]["Satorl Marsh Key"] = 1
+
+    # TODO: add the remaining keys (for players wanting to play a "big/all sphere 1" type of async) and use a loop+array to make this more clean
+
+    keyLeniency = get_option_value(multiworld, player, "Key_Leniency")
+
+    if keyLeniency > 0:
+        multiworld.local_early_items[player]["Tephra Cave Key"] = 1
+
+    if keyLeniency > 1:
+        multiworld.local_early_items[player]["Bionis' Leg Key"] = 1
+
+    if keyLeniency > 2:
+        multiworld.local_early_items[player]["Colony 6 Key"] = 1
+
+    if keyLeniency > 3:
+        multiworld.local_early_items[player]["Ether Mine Key"] = 1
+
+    if keyLeniency > 4:
+        multiworld.local_early_items[player]["Satorl Marsh Key"] = 1
 
     pass
 

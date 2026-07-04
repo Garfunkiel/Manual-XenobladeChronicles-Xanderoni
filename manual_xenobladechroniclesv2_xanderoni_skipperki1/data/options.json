@@ -82,7 +82,7 @@
             "type": "Choice",
             "description": [
                 "This option changes certain logic and items based on the version of the game.",
-                "Definitive Edtion/Switch 2 Version changes some Achievement logic due to Expert Mode",
+                "Definitive Edition/Switch 2 Version changes some Achievement logic due to Expert Mode",
                 "The Switch 2 version adds the Ether Jet item and Nopon Grand Prix locations"
             ],
             "values": {
@@ -101,6 +101,25 @@
                 "Default is No Spoilers"
             ],
             "default": false
+        },
+
+        "Key_Leniency":{
+            "type": "Range",
+            "description": [
+                "This option allows you to specify how many areas have keys that are placed local/early in the Multiworld.",
+                "Default is Tephra Cave, Minimum is Colony 9 only, Maximum is Satorl Marsh"
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 5,
+            "values": {
+                "Colony 9 only": 0,
+                "Tephra Cave": 1,
+                "Bionis' Leg": 2,
+                "Colony 6": 3,
+                "Ether Mine": 4,
+                "Satorl Marsh": 5
+            }
         }
     }
 }
