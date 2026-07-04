@@ -183,12 +183,12 @@
     },
     {
       "name": "Gentle Rodriguez (Lv 40)",
-      "region": "Makna Forest",
+      "region": "Colony 9",
       "category": [
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(40)}"
     },
     {
       "name": "Shadeless Matrix (Lv 44)",
