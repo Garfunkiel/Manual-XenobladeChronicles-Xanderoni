@@ -32,4 +32,7 @@ def questPaolaAndNarineReq():
     return "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
                 " AND ((|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|) " \
                 " OR (|Sharla Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
-                " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|))"
+                " OR (|Sharla Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
+                " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
+                " OR (|Melia Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
+                ")"
