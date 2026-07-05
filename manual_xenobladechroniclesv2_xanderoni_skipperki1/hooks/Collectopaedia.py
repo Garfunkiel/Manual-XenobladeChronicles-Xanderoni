@@ -149,7 +149,7 @@ COLLECTOPAEDIA_LOCATIONS = [
 ]
 
 PAGE_REQUIREMENTS = {
-    "Colony 9|Bugs":              [ "Prairie Dragonfly", "Giant Hornet", "White Beetle", "Sorrow Beetle"],
+    "Colony 9|Bug":               [ "Prairie Dragonfly", "Giant Hornet", "White Beetle", "Sorrow Beetle"],
     "Colony 9|Flower":            [ "Strong Dandelion", "Moon Flower", "Dawn Hydrangea" ],
     "Colony 9|Fruit":             [ "Dance Apple", "Black Kiwi" ],
     "Colony 9|Part":              [ "Blue Chain", "Rabbit Diode" ],

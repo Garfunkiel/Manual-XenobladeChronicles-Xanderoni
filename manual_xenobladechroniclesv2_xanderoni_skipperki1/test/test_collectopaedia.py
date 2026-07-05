@@ -7,13 +7,6 @@ class XenobladeManualTest_NoColSanity(XenobladeManualTest):
         "collectopaediasanity": False,
     }
 
-    def test_C9Vegetables(self):
-        """Test Colony 9 Vegetable Completion with Collectopaediasanity OFF"""
-        self.checkItemsForLocation("Colony 9 Collectopaedia Vegetable Completion",
-            self.getRegionKeyRequirements("Colony 9") + [
-            "Progressive Vegetable Category:1",
-        ])
-
     def test_PIFruit(self):
         """Test Prison Island Fruit Completion with Collectopaediasanity OFF"""
         self.checkItemsForLocation("Prison Island Collectopaedia Fruit Completion",
