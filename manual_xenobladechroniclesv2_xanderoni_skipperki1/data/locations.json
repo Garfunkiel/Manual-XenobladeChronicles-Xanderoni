@@ -15134,6 +15134,24 @@
         "NoSpoilers"
       ],
       "requires": "|Ether Jet|"
+    },
+    {
+      "name": "NGP - Champion",
+      "region": "Fallen Arm",
+      "victory": true,
+      "category": [
+        "NGP Goals"
+      ],
+      "requires": "({YamlCompare(GameVersion >= 2)} AND |Ether Jet|) OR {YamlCompare(GameVersion < 2)}"
+    },
+    {
+      "name": "NGP - Grand Champion",
+      "region": "Fallen Arm",
+      "victory": true,
+      "category": [
+        "NGP Goals"
+      ],
+      "requires": "({YamlCompare(GameVersion >= 2)} AND |Ether Jet|) OR {YamlCompare(GameVersion < 2)}"
     }
   ]
 }
