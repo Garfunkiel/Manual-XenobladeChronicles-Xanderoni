@@ -98,7 +98,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(5)}"
     },
     {
       "name": "Itinerant Dorothea (Lv 6)",
@@ -107,7 +107,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(6)}"
     },
     {
       "name": "Evil Rhangrot (Lv 6)",
@@ -116,7 +116,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(6)}"
     },
     {
       "name": "Lake Magdalena (Lv 6)",
@@ -125,7 +125,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(6)}"
     },
     {
       "name": "Speedy Ramshyde (Lv 10)",
@@ -134,7 +134,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(10)}"
     },
     {
       "name": "Enchanting Grune (Lv 13)",
@@ -143,7 +143,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(13)}"
     },
     {
       "name": "Dark Murakmor (Lv 18)",
@@ -152,7 +152,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(18)}"
     },
     {
       "name": "Gentle Mother Armu (Lv 37)",
@@ -161,7 +161,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(37)}"
     },
     {
       "name": "Impenetrable Redrob (Lv 38)",
@@ -170,7 +170,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Roguish Frengel (Lv 39)",
@@ -179,7 +179,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(39)}"
     },
     {
       "name": "Gentle Rodriguez (Lv 40)",
@@ -197,7 +197,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(44)}"
     },
     {
       "name": "Flailing Bracken (Lv 73)",
@@ -206,7 +206,7 @@
         "Colony 9 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(73)}"
     },
     {
       "name": "Ancient Machines",
@@ -845,7 +845,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(10)}"
     },
     {
       "name": "Erratic Goliante (Lv 97)",
@@ -854,7 +854,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "Gluttonous Eugen (Lv 11)",
@@ -863,7 +863,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(11)}"
     },
     {
       "name": "Judicious Bunnitzol (Lv 94)",
@@ -872,7 +872,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(94)}"
     },
     {
       "name": "Mining Patrichev (Lv 8)",
@@ -881,7 +881,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(8)}"
     },
     {
       "name": "Musical Vanflare (Lv 93)",
@@ -890,7 +890,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(93)}"
     },
     {
       "name": "Plump Sprahda (Lv 92)",
@@ -899,7 +899,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(92)}"
     },
     {
       "name": "Protective Torquidon (Lv 96)",
@@ -908,7 +908,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(96)}"
     },
     {
       "name": "Reckless Galdon (Lv 95)",
@@ -917,7 +917,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(95)}"
     },
     {
       "name": "Solid Konev (Lv 10)",
@@ -926,7 +926,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(10)}"
     },
     {
       "name": "Wallslide Gwynry (Lv 9)",
@@ -935,7 +935,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(9)}"
     },
     {
       "name": "Dazzling Tolosnia (Lv 97)",
@@ -944,7 +944,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "Firework Geldesia (Lv 98)",
@@ -953,7 +953,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(98)}"
     },
     {
       "name": "Reckless Zanden (Lv 98)",
@@ -962,7 +962,7 @@
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(98)}"
     },
     {
       "name": "Arachno Queen",
@@ -1213,7 +1213,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(82)}"
     },
     {
       "name": "Canyon Valencia (Lv 78)",
@@ -1222,7 +1222,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(78)}"
     },
     {
       "name": "Clifftop Bayern (Lv 32)",
@@ -1231,7 +1231,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(32)}"
     },
     {
       "name": "Field Altrich (Lv 76)",
@@ -1240,7 +1240,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(76)}"
     },
     {
       "name": "Immovable Gonzalez (Lv 90)",
@@ -1249,7 +1249,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(90)}"
     },
     {
       "name": "Mysterious Barnaby (Lv 75)",
@@ -1258,7 +1258,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(75)}"
     },
     {
       "name": "Napping Volfen (Lv 17)",
@@ -1267,7 +1267,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(17)}"
     },
     {
       "name": "Night Cardamon (Lv 18)",
@@ -1276,7 +1276,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(18)}"
     },
     {
       "name": "Sniper Paramecia (Lv 15)",
@@ -1285,7 +1285,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(15)}"
     },
     {
       "name": "Territorial Rotbart (Lv 81)",
@@ -1294,7 +1294,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(81)}"
     },
     {
       "name": "Trainer Harmelon (Lv 15)",
@@ -1303,7 +1303,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(15)}"
     },
     {
       "name": "Vagrant Alfead (Lv 16)",
@@ -1312,7 +1312,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(16)}"
     },
     {
       "name": "Violent Andante (Lv 16)",
@@ -1321,7 +1321,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(16)}"
     },
     {
       "name": "White Eduardo (Lv 17)",
@@ -1330,7 +1330,7 @@
         "Bionis' Leg Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(17)}"
     },
     {
       "name": "Mechon M71",
@@ -1553,7 +1553,7 @@
         "Colony 6 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:4|"
+      "requires": "|Progressive Hunting License:4| AND {hasDangerTolerance(19)}"
     },
     {
       "name": "Drifter Jutard (Lv 25)",
@@ -1562,7 +1562,7 @@
         "Colony 6 Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:4|"
+      "requires": "|Progressive Hunting License:4| AND {hasDangerTolerance(25)}"
     },
     {
       "name": "Sani Telethia",
@@ -1938,7 +1938,7 @@
         "Ether Mine Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:5|"
+      "requires": "|Progressive Hunting License:5| AND {hasDangerTolerance(20)}"
     },
     {
       "name": "Vengeful Daulton (Lv 22)",
@@ -1947,7 +1947,7 @@
         "Ether Mine Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:5|"
+      "requires": "|Progressive Hunting License:5| AND {hasDangerTolerance(22)}"
     },
     {
       "name": "Elegant Marin (Lv 29)",
@@ -1956,7 +1956,7 @@
         "Ether Mine Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:5|"
+      "requires": "|Progressive Hunting License:5| AND {hasDangerTolerance(29)}"
     },
     {
       "name": "Xord (Ether Mine)",
@@ -2117,7 +2117,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(28)}"
     },
     {
       "name": "Amber Fischer (Lv 27)",
@@ -2126,7 +2126,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(27)}"
     },
     {
       "name": "Cautious Balteid (Lv 26)",
@@ -2135,7 +2135,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(26)}"
     },
     {
       "name": "SUPERBOSS Despotic Arsene (Lv 108)",
@@ -2144,7 +2144,7 @@
         "Satorl Marsh Unique Monsters",
         "SuperBosses"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(108)}"
     },
     {
       "name": "Eternal Palsadia (Lv 91)",
@@ -2153,7 +2153,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(91)}"
     },
     {
       "name": "Indomitable Daulton (Lv 85)",
@@ -2162,7 +2162,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(85)}"
     },
     {
       "name": "Reckless Godwin (Lv 31)",
@@ -2171,7 +2171,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(31)}"
     },
     {
       "name": "Stormy Widardun (Lv 25)",
@@ -2180,7 +2180,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(25)}"
     },
     {
       "name": "Sunlight Schvaik (Lv 30)",
@@ -2189,7 +2189,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(30)}"
     },
     {
       "name": "Swift Zektol (Lv 28)",
@@ -2198,7 +2198,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(28)}"
     },
     {
       "name": "Tumultuous Felix (Lv 27)",
@@ -2207,7 +2207,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(27)}"
     },
     {
       "name": "Veteran Yozel (Lv 83)",
@@ -2216,7 +2216,7 @@
         "Satorl Marsh Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(83)}"
     },
     {
       "name": "Satorl Guardian",
@@ -2503,7 +2503,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(33)}"
     },
     {
       "name": "Breezy Zolos (Lv 37)",
@@ -2512,7 +2512,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(37)}"
     },
     {
       "name": "Brutal Gravar (Lv 46)",
@@ -2521,7 +2521,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(46)}"
     },
     {
       "name": "Elder Gragus (Lv 34)",
@@ -2530,7 +2530,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(34)}"
     },
     {
       "name": "Illustrious Golteus (Lv 98)",
@@ -2539,7 +2539,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(98)}"
     },
     {
       "name": "Lazy Bluco (Lv 34)",
@@ -2548,7 +2548,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(34)}"
     },
     {
       "name": "Magnificent Digalus (Lv 99)",
@@ -2557,7 +2557,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(99)}"
     },
     {
       "name": "Obsessive Galgaron (Lv 35)",
@@ -2566,7 +2566,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(35)}"
     },
     {
       "name": "Shimmering Forte (Lv 33)",
@@ -2575,7 +2575,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(33)}"
     },
     {
       "name": "Unreliable Rezno (Lv 96)",
@@ -2584,7 +2584,7 @@
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(96)}"
     },
     {
       "name": "Leone Telethia",
@@ -3329,7 +3329,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(88)}"
     },
     {
       "name": "Clamorous Dablon (Lv 92)",
@@ -3338,7 +3338,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(92)}"
     },
     {
       "name": "Cumulus Danaemos (Lv 41)",
@@ -3347,7 +3347,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(41)}"
     },
     {
       "name": "Deadly Medorlo (Lv 93)",
@@ -3356,7 +3356,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(93)}"
     },
     {
       "name": "Flabbergasted Jerome (Lv 38)",
@@ -3365,7 +3365,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Funeral Gozra (Lv 42)",
@@ -3374,7 +3374,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(42)}"
     },
     {
       "name": "Lightspeed Sonid (Lv 44)",
@@ -3383,7 +3383,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(44)}"
     },
     {
       "name": "Peeling Kircheis (Lv 38)",
@@ -3392,7 +3392,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Proper Bandaz (Lv 39)",
@@ -3401,7 +3401,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(39)}"
     },
     {
       "name": "Sacred Zagamei (Lv 89)",
@@ -3410,7 +3410,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(89)}"
     },
     {
       "name": "Stormy Belagon (Lv 87)",
@@ -3419,7 +3419,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(87)}"
     },
     {
       "name": "Subterranean Zomar (Lv 40)",
@@ -3428,7 +3428,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(40)}"
     },
     {
       "name": "Tempestuous Edegia (Lv 39)",
@@ -3437,7 +3437,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(39)}"
     },
     {
       "name": "Turbulent Belmo (Lv 36)",
@@ -3446,7 +3446,7 @@
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(36)}"
     },
     {
       "name": "Skyray",
@@ -4129,7 +4129,7 @@
         "High Entia Tomb Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:9|"
+      "requires": "|Progressive Hunting License:9| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Furious Jozan (Lv 96)",
@@ -4138,7 +4138,7 @@
         "High Entia Tomb Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:9|"
+      "requires": "|Progressive Hunting License:9| AND {hasDangerTolerance(96)}"
     },
     {
       "name": "Orluga Rufus",
@@ -4396,7 +4396,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(47)}"
     },
     {
       "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
@@ -4405,7 +4405,7 @@
         "Valak Mountain Unique Monsters",
         "SuperBosses"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(120)}"
     },
     {
       "name": "Barbaric Sitri (Lv 47)",
@@ -4414,7 +4414,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(47)}"
     },
     {
       "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
@@ -4423,7 +4423,7 @@
         "Valak Mountain Unique Monsters",
         "SuperBosses"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(114)}"
     },
     {
       "name": "Exposure Wolfol (Lv 97)",
@@ -4432,7 +4432,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "SUPERBOSS Final Marcus (Lv 100)",
@@ -4441,7 +4441,7 @@
         "Valak Mountain Unique Monsters",
         "SuperBosses"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(100)}"
     },
     {
       "name": "Glorious Buer (Lv 45)",
@@ -4450,7 +4450,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(45)}"
     },
     {
       "name": "Hidden Gamigin (Lv 49)",
@@ -4459,7 +4459,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(49)}"
     },
     {
       "name": "Moonlight Paimon (Lv 46)",
@@ -4468,7 +4468,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(46)}"
     },
     {
       "name": "North Star Gusion (Lv 50)",
@@ -4477,7 +4477,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(50)}"
     },
     {
       "name": "Vague Barbas (Lv 46)",
@@ -4486,7 +4486,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(46)}"
     },
     {
       "name": "Wandering Amon (Lv 98)",
@@ -4495,7 +4495,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(98)}"
     },
     {
       "name": "Banquet Vassago (Lv 48)",
@@ -4504,7 +4504,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(48)}"
     },
     {
       "name": "Conflagrant Raxeal (Lv 45)",
@@ -4513,7 +4513,7 @@
         "Valak Mountain Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(45)}"
     },
     {
       "name": "Mumkhar (Valak Mountain)",
@@ -4719,7 +4719,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(51)}"
     },
     {
       "name": "Defective Ipos (Lv 50)",
@@ -4728,7 +4728,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(50)}"
     },
     {
       "name": "Fate Labolas (Lv 51)",
@@ -4737,7 +4737,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(51)}"
     },
     {
       "name": "Prudent Purson (Lv 49)",
@@ -4746,7 +4746,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(49)}"
     },
     {
       "name": "Kamikaze Bune (Lv 53)",
@@ -4755,7 +4755,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(53)}"
     },
     {
       "name": "Lightning Ronove (Lv 55)",
@@ -4764,7 +4764,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(55)}"
     },
     {
       "name": "Mischievious Naberius (Lv 57)",
@@ -4773,7 +4773,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(57)}"
     },
     {
       "name": "Tranquil Morax (Lv 50)",
@@ -4782,7 +4782,7 @@
         "Sword Valley Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:11|"
+      "requires": "|Progressive Hunting License:11| AND {hasDangerTolerance(50)}"
     },
     {
       "name": "Mumkhar (Sword Valley)",
@@ -4898,7 +4898,7 @@
         "Galahad Fortress Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:12|"
+      "requires": "|Progressive Hunting License:12| AND {hasDangerTolerance(52)}"
     },
     {
       "name": "Glorious Jurom (Lv 55)",
@@ -4907,7 +4907,7 @@
         "Galahad Fortress Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:12|"
+      "requires": "|Progressive Hunting License:12| AND {hasDangerTolerance(55)}"
     },
     {
       "name": "Precious Retrato (Lv 53)",
@@ -4916,7 +4916,7 @@
         "Galahad Fortress Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:12|"
+      "requires": "|Progressive Hunting License:12| AND {hasDangerTolerance(53)}"
     },
     {
       "name": "Gold Face (Galahad Fortress)",
@@ -5068,7 +5068,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(56)}"
     },
     {
       "name": "Affluent Beleth (Lv 57)",
@@ -5077,7 +5077,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(57)}"
     },
     {
       "name": "SUPERBOSS Ancient Daedala (Lv 105)",
@@ -5086,7 +5086,7 @@
         "Fallen Arm Unique Monsters",
         "SuperBosses"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(105)}"
     },
     {
       "name": "Evil Bathin (Lv 54)",
@@ -5095,7 +5095,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(54)}"
     },
     {
       "name": "Powerful Eligos (Lv 80)",
@@ -5104,7 +5104,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(80)}"
     },
     {
       "name": "Prosperous Zepar (Lv 56)",
@@ -5113,7 +5113,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(56)}"
     },
     {
       "name": "Splendid Botis (Lv 58)",
@@ -5122,7 +5122,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(58)}"
     },
     {
       "name": "Wicked Sallos (Lv 95)",
@@ -5131,7 +5131,7 @@
         "Fallen Arm Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:13|"
+      "requires": "|Progressive Hunting License:13| AND {hasDangerTolerance(95)}"
     },
     {
       "name": "Eiz",
@@ -5536,7 +5536,7 @@
         "Mechonis Field Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(57)}"
     },
     {
       "name": "Commander Oracion (Lv 61)",
@@ -5545,7 +5545,7 @@
         "Mechonis Field Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(61)}"
     },
     {
       "name": "Destroyer Salvacion (Lv 59)",
@@ -5554,7 +5554,7 @@
         "Mechonis Field Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(59)}"
     },
     {
       "name": "Infernal Crocell (Lv 58)",
@@ -5563,7 +5563,7 @@
         "Mechonis Field Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(58)}"
     },
     {
       "name": "Revolutionary Bifrons (Lv 60)",
@@ -5572,7 +5572,7 @@
         "Mechonis Field Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(60)}"
     },
     {
       "name": "Jade Face",
@@ -5742,7 +5742,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(62)}"
     },
     {
       "name": "Beautiful Vagul (Lv 60)",
@@ -5751,7 +5751,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(60)}"
     },
     {
       "name": "Faithful Lancelot (Lv 59)",
@@ -5760,7 +5760,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(59)}"
     },
     {
       "name": "Magestic Mordred (Lv 70)",
@@ -5769,7 +5769,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(70)}"
     },
     {
       "name": "Mild Florence (Lv 58)",
@@ -5778,7 +5778,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(58)}"
     },
     {
       "name": "Sinful Lamorak (Lv 63)",
@@ -5787,7 +5787,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(63)}"
     },
     {
       "name": "Synchronised Gaheris (Lv 61)",
@@ -5796,7 +5796,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(61)}"
     },
     {
       "name": "Temporal Gawain (Lv 63)",
@@ -5805,7 +5805,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(63)}"
     },
     {
       "name": "Venerable Focalor (Lv 64)",
@@ -5814,7 +5814,7 @@
         "Central Factory Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:15|"
+      "requires": "|Progressive Hunting License:15| AND {hasDangerTolerance(64)}"
     },
     {
       "name": "Apocrypha Generator (Boss)",
@@ -5984,7 +5984,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(63)}"
     },
     {
       "name": "Experienced Tristan (Lv 64)",
@@ -5993,7 +5993,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(64)}"
     },
     {
       "name": "Destructive Bors (Lv 64)",
@@ -6002,7 +6002,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(64)}"
     },
     {
       "name": "Soothed Aglovale (Lv 65)",
@@ -6011,7 +6011,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(65)}"
     },
     {
       "name": "Meditative Varla (Lv 65)",
@@ -6020,7 +6020,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(65)}"
     },
     {
       "name": "Sentimental Flamral (Lv 66)",
@@ -6029,7 +6029,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(66)}"
     },
     {
       "name": "Wrathful Orobas (Lv 67)",
@@ -6038,7 +6038,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(67)}"
     },
     {
       "name": "Wise Gremory (Lv 68)",
@@ -6047,7 +6047,7 @@
         "Agniratha Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(68)}"
     },
     {
       "name": "Egil",
@@ -6204,7 +6204,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(72)}"
     },
     {
       "name": "Clandestine Apety (Lv 74)",
@@ -6213,7 +6213,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(74)}"
     },
     {
       "name": "Dark King Barbarus (Lv 77)",
@@ -6222,7 +6222,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(77)}"
     },
     {
       "name": "Ghostly Mahatos (Lv 76)",
@@ -6231,7 +6231,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(76)}"
     },
     {
       "name": "Mystical Klesida (Lv 72)",
@@ -6240,7 +6240,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(72)}"
     },
     {
       "name": "Officer Robusto (Lv 75)",
@@ -6249,7 +6249,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(75)}"
     },
     {
       "name": "Victorious Gross (Lv 73)",
@@ -6258,7 +6258,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(73)}"
     },
     {
       "name": "Vivid Anstan (Lv 75)",
@@ -6267,7 +6267,7 @@
         "Bionis' Interior (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:17|"
+      "requires": "|Progressive Hunting License:17| AND {hasDangerTolerance(75)}"
     },
     {
       "name": "Fiora's Body",
@@ -6386,7 +6386,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(77)}"
     },
     {
       "name": "Ageless Moabit (Lv 75)",
@@ -6395,7 +6395,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(75)}"
     },
     {
       "name": "Cold Ageshu (Lv 77)",
@@ -6404,7 +6404,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(77)}"
     },
     {
       "name": "Fiendish Auburn (Lv 78)",
@@ -6413,7 +6413,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(78)}"
     },
     {
       "name": "Inferno Heinrich (Lv 76)",
@@ -6422,7 +6422,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(76)}"
     },
     {
       "name": "Majestic Clone Barg (Lv 77)",
@@ -6431,7 +6431,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(77)}"
     },
     {
       "name": "Masterful Gigapur (Lv 77)",
@@ -6440,7 +6440,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(77)}"
     },
     {
       "name": "Serene Imlaly (Lv 76)",
@@ -6449,7 +6449,7 @@
         "Prison Island (2nd Visit) Unique Monsters",
         "UniqueMonsters"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Progressive Hunting License:18| AND {hasDangerTolerance(76)}"
     },
     {
       "name": "Demon Pavlovsk",
