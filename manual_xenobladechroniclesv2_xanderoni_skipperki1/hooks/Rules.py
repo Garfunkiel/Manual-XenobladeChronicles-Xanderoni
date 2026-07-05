@@ -60,8 +60,7 @@ REGION_LEVELS = [
     {"region": "Agniratha (MISSABLE)",          "level": 70, "requires": "|Agniratha Key:3|"},
     {"region": "Mechonis Core",                 "level": 72, "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"},
     {"region": "Bionis' Interior (2nd Visit)",  "level": 75, "requires": "|Bionis' Interior (2nd Visit) Key:3|"},
-    {"region": "Prison Island (2nd Visit)",     "level": 80, "requires": "|Prison Island (2nd Visit) Key:3|"},
-    {"region": "Memory Space",                  "level": 82, "requires": "|Memory Fragment:20|"}
+    {"region": "Prison Island (2nd Visit)",     "level": 80, "requires": "|Prison Island (2nd Visit) Key:3|"}
 ]
 
 def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
