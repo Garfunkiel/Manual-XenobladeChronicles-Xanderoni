@@ -1,1 +1,26 @@
-[]
+[
+    {   "name": "Colony 9 Access",                             "region": "Colony 9"                        },
+    {   "name": "Tephra Cave Access",                          "region": "Tephra Cave"                     },
+    {   "name": "Bionis' Leg Access",                          "region": "Bionis' Leg"                     },
+    {   "name": "Colony 6 Access",                             "region": "Colony 6"                        },
+    {   "name": "Ether Mine Access",                           "region": "Ether Mine"                      },
+    {   "name": "Satorl Marsh Access",                         "region": "Satorl Marsh"                    },
+    {   "name": "Bionis' Interior (1st Visit) Access",         "region": "Bionis' Interior (1st Visit)"    },
+    {   "name": "Makna Forest Access",                         "region": "Makna Forest"                    },
+    {   "name": "Frontier Village Access",                     "region": "Frontier Village"                },
+    {   "name": "Eryth Sea Access",                            "region": "Eryth Sea"                       },
+    {   "name": "Alcamoth Access",                             "region": "Alcamoth"                        },
+    {   "name": "High Entia Tomb Access",                      "region": "High Entia Tomb"                 },
+    {   "name": "Prison Island (1st Visit) Access",            "region": "Prison Island (1st Visit)"       },
+    {   "name": "Valak Mountain Access",                       "region": "Valak Mountain"                  },
+    {   "name": "Sword Valley Access",                         "region": "Sword Valley (MISSABLE)"         },
+    {   "name": "Galahad Fortress Access",                     "region": "Galahad Fortress (MISSABLE)"     },
+    {   "name": "Fallen Arm Access",                           "region": "Fallen Arm"                      },
+    {   "name": "Mechonis Field Access",                       "region": "Mechonis Field (MISSABLE)"       },
+    {   "name": "Central Factory Access",                      "region": "Central Factory (MISSABLE)"      },
+    {   "name": "Agniratha Access",                            "region": "Agniratha (MISSABLE)"            },
+    {   "name": "Mechonis Core Access",                        "region": "Mechonis Core"                   },
+    {   "name": "Bionis' Interior (2nd Visit) Access",         "region": "Bionis' Interior (2nd Visit)"    },
+    {   "name": "Prison Island (2nd Visit) Access",            "region": "Prison Island (2nd Visit)"       },
+    {   "name": "Memory Space Access",                         "region": "Memory Space"                    }
+]

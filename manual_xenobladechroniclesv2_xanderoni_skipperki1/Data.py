@@ -64,7 +64,6 @@ meta_table = after_load_meta_file(meta_table)
 # seed all of the tables for validation
 DataValidation.game_table = game_table
 DataValidation.item_table = item_table
-DataValidation.item_table_with_events = item_table + event_table
 DataValidation.location_table = location_table
 DataValidation.event_table = event_table
 DataValidation.region_table = region_table

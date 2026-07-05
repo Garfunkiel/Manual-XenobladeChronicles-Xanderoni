@@ -38,29 +38,29 @@ def questPaolaAndNarineReq():
                 ")"
 
 REGION_LEVELS = [
-    {"region": "Colony 9",                      "level":  1, "requires": ""},
-    {"region": "Tephra Cave",                   "level": 12, "requires": "|Tephra Cave Key:1|"},
-    {"region": "Bionis' Leg",                   "level": 25, "requires": "|Bionis' Leg Key:1|"},
-    {"region": "Colony 6",                      "level": 26, "requires": "|Colony 6 Key:1|"},
-    {"region": "Ether Mine",                    "level": 27, "requires": "|Ether Mine Key:1|"},
-    {"region": "Satorl Marsh",                  "level": 28, "requires": "|Satorl Marsh Key:1|"},
-    {"region": "Bionis' Interior (1st Visit)",  "level": 32, "requires": "|Bionis' Interior (1st Visit) Key:1|"},
-    {"region": "Makna Forest",                  "level": 34, "requires": "|Makna Forest Key:1|"},
-    {"region": "Frontier Village",              "level": 36, "requires": "|Frontier Village Key:1|"},
-    {"region": "Eryth Sea",                     "level": 37, "requires": "|Eryth Sea Key:1|"},
-    {"region": "Alcamoth",                      "level": 37, "requires": "|Alcamoth Key:1|"},
-    {"region": "High Entia Tomb",               "level": 38, "requires": "|High Entia Tomb Key:1|"},
-    {"region": "Prison Island (1st Visit)",     "level": 42, "requires": "|Prison Island (1st Visit) Key:2|"},
-    {"region": "Valak Mountain",                "level": 48, "requires": "|Valak Mountain Key:2|"},
-    {"region": "Sword Valley (MISSABLE)",       "level": 52, "requires": "|Sword Valley Key:2| AND |Progressive Hunting License:10|"},
-    {"region": "Galahad Fortress (MISSABLE)",   "level": 55, "requires": "|Galahad Fortress Key:2|"},
-    {"region": "Fallen Arm",                    "level": 58, "requires": "|Fallen Arm Key:2|"},
-    {"region": "Mechonis Field (MISSABLE)",     "level": 60, "requires": "|Mechonis Field Key:2|"},
-    {"region": "Central Factory (MISSABLE)",    "level": 65, "requires": "|Central Factory Key:2|"},
-    {"region": "Agniratha (MISSABLE)",          "level": 70, "requires": "|Agniratha Key:3|"},
-    {"region": "Mechonis Core",                 "level": 72, "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"},
-    {"region": "Bionis' Interior (2nd Visit)",  "level": 75, "requires": "|Bionis' Interior (2nd Visit) Key:3|"},
-    {"region": "Prison Island (2nd Visit)",     "level": 80, "requires": "|Prison Island (2nd Visit) Key:3|"}
+    {"region": "Colony 9",                      "level":  1, "requires": "|Colony 9 Access|"},
+    {"region": "Tephra Cave",                   "level": 12, "requires": "|Tephra Cave Access|"},
+    {"region": "Bionis' Leg",                   "level": 25, "requires": "|Bionis' Leg Access|"},
+    {"region": "Colony 6",                      "level": 26, "requires": "|Colony 6 Access|"},
+    {"region": "Ether Mine",                    "level": 27, "requires": "|Ether Mine Access|"},
+    {"region": "Satorl Marsh",                  "level": 28, "requires": "|Satorl Marsh Access|"},
+    {"region": "Bionis' Interior (1st Visit)",  "level": 32, "requires": "|Bionis' Interior (1st Visit) Access|"},
+    {"region": "Makna Forest",                  "level": 34, "requires": "|Makna Forest Access|"},
+    {"region": "Frontier Village",              "level": 36, "requires": "|Frontier Village Access|"},
+    {"region": "Eryth Sea",                     "level": 37, "requires": "|Eryth Sea Access|"},
+    {"region": "Alcamoth",                      "level": 37, "requires": "|Alcamoth Access|"},
+    {"region": "High Entia Tomb",               "level": 38, "requires": "|High Entia Tomb Access|"},
+    {"region": "Prison Island (1st Visit)",     "level": 42, "requires": "|Prison Island (1st Visit) Access|"},
+    {"region": "Valak Mountain",                "level": 48, "requires": "|Valak Mountain Access|"},
+    {"region": "Sword Valley (MISSABLE)",       "level": 52, "requires": "|Sword Valley Access|"},
+    {"region": "Galahad Fortress (MISSABLE)",   "level": 55, "requires": "|Galahad Fortress Access|"},
+    {"region": "Fallen Arm",                    "level": 58, "requires": "|Fallen Arm Access|"},
+    {"region": "Mechonis Field (MISSABLE)",     "level": 60, "requires": "|Mechonis Field Access|"},
+    {"region": "Central Factory (MISSABLE)",    "level": 65, "requires": "|Central Factory Access|"},
+    {"region": "Agniratha (MISSABLE)",          "level": 70, "requires": "|Agniratha Access|"},
+    {"region": "Mechonis Core",                 "level": 72, "requires": "|Mechonis Core Access|"},
+    {"region": "Bionis' Interior (2nd Visit)",  "level": 75, "requires": "|Bionis' Interior (2nd Visit) Access|"},
+    {"region": "Prison Island (2nd Visit)",     "level": 80, "requires": "|Prison Island (2nd Visit) Access|"}
 ]
 
 def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
@@ -70,9 +70,10 @@ def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
     requirements = ""
 
     for region in REGION_LEVELS:
-        if requirements != "":
-            requirements += " AND "
-        requirements += region["requires"]
+        requirements = region["requires"]
+        #if requirements != "":
+        #    requirements += " AND "
+        #requirements += region["requires"]
 
         if effectiveLevel < region["level"]:
             break
