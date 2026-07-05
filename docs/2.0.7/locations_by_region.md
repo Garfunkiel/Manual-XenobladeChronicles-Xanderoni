@@ -13,8 +13,13 @@
         - Ground Down
         - Critical Thinking
         - Let's Fight!
+        - Go Team!
+        - Chain Gang
         - Back-Stabber
         - Come On, Cheer Up!
+        - Right, Let's Do This!
+        - One Step Further
+        - Art School
         - Turning it Around
         - Skip It
         - Lazybones
@@ -22,6 +27,7 @@
         - Study Aids
         - Ear to the Ground
         - Breaking the Ice
+        - Blossoming Friendship
         - Equivalent Exchange
         - Tradesman
     - Category: AffinityChart
@@ -80,7 +86,6 @@
         - Rocco's Heartful Request
         - Education-Minded Suzanna
         - Pride and Courage
-        - Overworked and Underpaid
     - Category: ChallengeQuests
         - Challenge 1 (Colony 9)
         - Challenge 2 (Colony 9)
@@ -101,6 +106,9 @@
     - Category: DevelopmentLevels
         - Colony 9 Development Level 1
         - Colony 9 Development Level 2
+        - Colony 9 Development Level 3
+        - Colony 9 Development Level 4
+        - Colony 9 Development Level 5
     - Category: HeartToHearts
         - Enduring Friendship
         - Sunrise in the Park
@@ -129,18 +137,6 @@
         - Delivering Food
     - Category: UniqueMonsters
         - Verdant Bluchal (Lv 5)
-        - Itinerant Dorothea (Lv 6)
-        - Evil Rhangrot (Lv 6)
-        - Lake Magdalena (Lv 6)
-        - Speedy Ramshyde (Lv 10)
-        - Enchanting Grune (Lv 13)
-        - Dark Murakmor (Lv 18)
-        - Gentle Mother Armu (Lv 37)
-        - Impenetrable Redrob (Lv 38)
-        - Roguish Frengel (Lv 39)
-        - Gentle Rodriguez (Lv 40)
-        - Shadeless Matrix (Lv 44)
-        - Flailing Bracken (Lv 73)
     - Category: landmarks
         - Gem Man's Stall
         - Mechon Wreckage Site
@@ -178,13 +174,9 @@
         - Not Gonna Happen!
         - Second Wind
         - Turn It up
-        - Go Team!
         - Ninja Skillz
         - Jaws of Defeat
-        - Right, Let's Do This!
         - Reyn Time, Baby!
-        - One Step Further
-        - Art School
         - A Work of Art
         - Looking For Trouble
         - Unlucky Sixes
@@ -199,7 +191,6 @@
         - Lending a Hand
         - Making Waves
         - Collector's Mentality
-        - Blossoming Friendship
     - Category: AffinityQuests
         - Dean's Shady Request
         - Education-Crazy Suzanna
@@ -209,6 +200,7 @@
         - The Plan - Preparation
         - A Young Captain's Suffering
         - A Young Captain's Rise
+        - Overworked and Underpaid
         - The Plan - The Night Before
         - The Plan - Execution
         - Arachno Silk Fundraising
@@ -231,9 +223,6 @@
     - Category: Colony 9 Bosses
         - Ancient Machines
         - Metal Face
-    - Category: DevelopmentLevels
-        - Colony 9 Development Level 3
-        - Colony 9 Development Level 4
     - Category: MaterialQuests
         - Material Quest 1 (Tephra Cave)
         - Material Quest 2 (Tephra Cave)
@@ -244,6 +233,9 @@
     - Category: Tephra Cave Bosses
         - Arachno Queen
     - Category: UniqueMonsters
+        - Itinerant Dorothea (Lv 6)
+        - Evil Rhangrot (Lv 6)
+        - Lake Magdalena (Lv 6)
         - Cellar Bugworm (Lv 10)
         - Gluttonous Eugen (Lv 11)
         - Mining Patrichev (Lv 8)
@@ -345,6 +337,9 @@
     - Category: DevelopmentLevels
         - Colony 6 Development Level 1
         - Colony 6 Development Level 2
+        - Colony 6 Development Level 3
+        - Colony 6 Development Level 4
+        - Colony 6 Development Level 5
     - Category: HeartToHearts
         - What's On Reyn's Mind
     - Category: MaterialQuests
@@ -364,16 +359,11 @@
         - Search Quest 1 (Bionis' Leg) (MISSABLE)
         - Search Quest 2 (Bionis' Leg) (MISSABLE)
     - Category: UniqueMonsters
-        - Armoured Rockwell (Lv 82)
-        - Canyon Valencia (Lv 78)
-        - Clifftop Bayern (Lv 32)
-        - Field Altrich (Lv 76)
-        - Immovable Gonzalez (Lv 90)
-        - Mysterious Barnaby (Lv 75)
+        - Speedy Ramshyde (Lv 10)
+        - Enchanting Grune (Lv 13)
         - Napping Volfen (Lv 17)
         - Night Cardamon (Lv 18)
         - Sniper Paramecia (Lv 15)
-        - Territorial Rotbart (Lv 81)
         - Trainer Harmelon (Lv 15)
         - Vagrant Alfead (Lv 16)
         - Violent Andante (Lv 16)
@@ -422,6 +412,7 @@
         - Colony 6 Collectopaedia Animal Completion
         - Colony 6 Collectopaedia Strange Completion
     - Category: UniqueMonsters
+        - Dark Murakmor (Lv 18)
         - Graceful Holand (Lv 19)
     - Category: landmarks
         - Supply Road
@@ -449,28 +440,23 @@
     - Category: Ether Mine Bosses
         - Xord (Ether Mine)
     - Category: HeartToHearts
+        - Watching Over Them
         - Geography Lesson
         - What Visions May Bring
         - Heir to the Monado
         - Revisiting the Past
         - Strength of Heart
         - One Year On
+        - Dunban's Right Arm
         - A Broken Watch
-    - Category: NoponGrandPrix
-        - NGP - Caterpile Circuit - Win with Shulk
-        - NGP - Caterpile Circuit - Win with Reyn
-        - NGP - Caterpile Circuit - Win with Sharla
-        - NGP - Caterpile Circuit - Win with Dunban
-        - NGP - Twilight Speedway - Win with Shulk
-        - NGP - Twilight Speedway - Win with Reyn
-        - NGP - Twilight Speedway - Win with Sharla
-        - NGP - Twilight Speedway - Win with Dunban
+        - A Wistful Glow
     - Category: UniqueMonsters
         - Drifter Jutard (Lv 25)
         - Dark Kisling (Lv 20)
         - Vengeful Daulton (Lv 22)
         - Elegant Marin (Lv 29)
     - Category: landmarks
+        - Reconstruction HQ
         - Freight Road
         - Misty Path
         - Main Entrance (Colony 6)
@@ -502,7 +488,6 @@
     - Category: Achievements
         - A Fixer-Upper
         - I'll Change the Future!
-        - Chain Gang
         - Specialist
         - Medium Rare
         - Mysterious Mantis
@@ -537,8 +522,6 @@
         - Satorl Marsh Collectopaedia Nature Completion
         - Satorl Marsh Collectopaedia Parts Completion
         - Satorl Marsh Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Frontier Village Development Level 1
     - Category: HeartToHearts
         - Overlooking the Colony
         - The Shimmering Marsh
@@ -553,19 +536,16 @@
         - The Ancient Ceremony
         - Ancient Ceremony Offerings
     - Category: UniqueMonsters
+        - Clifftop Bayern (Lv 32)
         - Aggressive Cornelius (Lv 28)
         - Amber Fischer (Lv 27)
         - Cautious Balteid (Lv 26)
-        - Eternal Palsadia (Lv 91)
-        - Indomitable Daulton (Lv 85)
         - Reckless Godwin (Lv 31)
         - Stormy Widardun (Lv 25)
         - Sunlight Schvaik (Lv 30)
         - Swift Zektol (Lv 28)
         - Tumultuous Felix (Lv 27)
-        - Veteran Yozel (Lv 83)
     - Category: landmarks
-        - Reconstruction HQ
         - Kelsher Wetland
         - Nopon Merchant Camp
         - Crown Tree
@@ -591,6 +571,10 @@
         - Soter Ruins
         - Igna Territory
 - Region: Bionis' Interior (1st Visit)
+    - Category: UniqueMonsters
+        - Gentle Mother Armu (Lv 37)
+        - Impenetrable Redrob (Lv 38)
+        - Roguish Frengel (Lv 39)
     - Category: landmarks
         - Terminal Trachea
         - Upper Trachea
@@ -605,6 +589,7 @@
         - Tip Top Team-Up
         - Off the Chain
         - Attack Me if You Dare!
+        - Who Dares Defy Me?
         - Need...More...Treasure
         - You May Have This
         - Unbreakable Bond
@@ -613,7 +598,6 @@
     - Category: AffinityQuests
         - A Young Captain's Challenge
         - Rest in Peace
-        - A Gutsy Trader
     - Category: Collectopaedia
         - Makna Forest Collectopaedia Page Completion
         - Makna Forest Collectopaedia Vegetable Completion
@@ -622,8 +606,6 @@
         - Makna Forest Collectopaedia Animal Completion
         - Makna Forest Collectopaedia Bug Completion
         - Makna Forest Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Frontier Village Development Level 2
     - Category: Makna Forest Bosses
         - Puera Telethia
     - Category: MonsterQuests
@@ -719,6 +701,7 @@
         - Paola and Narine
         - The Old Soldier's Test
         - Legend of Mythical Empress
+        - A Gutsy Trader
         - Hunt for Bug-Loving Friend
         - Leku's Food Crisis
         - Making a Mixer
@@ -774,24 +757,31 @@
         - Frontier Village Collectopaedia Fruit Completion
         - Frontier Village Collectopaedia Bug Completion
         - Frontier Village Collectopaedia Strange Completion
-        - Other Collectopaedia Bug Completion
     - Category: DevelopmentLevels
-        - Colony 9 Development Level 5
+        - Frontier Village Development Level 1
+        - Frontier Village Development Level 2
         - Frontier Village Development Level 3
+        - Frontier Village Development Level 4
+        - Frontier Village Development Level 5
     - Category: HeartToHearts
+        - Ancient Wreckage
+        - A Heropon's Perspective
         - Glowing in the Night
+        - High Entia History
+        - Atop the Crown Tree
         - Fallen Brethren
         - Riki's Crazy Crystal Plan
         - No Boys Allowed
         - At the Pollen Works
+        - Life's Hard for a Heropon
+        - True Natures
         - A Mysterious Sanctuary
     - Category: Makna Forest Bosses
         - Leone Telethia
-    - Category: NoponGrandPrix
-        - NGP - Caterpile Circuit - Win with Riki
-        - NGP - Twilight Speedway - Win with Riki
     - Category: StoryQuests
         - An Errand for the Heropon
+    - Category: UniqueMonsters
+        - Gentle Rodriguez (Lv 40)
     - Category: landmarks
         - Entry Bridge
         - Nopon Tower
@@ -833,6 +823,15 @@
         - Meeting the Nopon Sage
         - A Tormented Bug-Lover
         - Avenge a Mamapon's Death
+        - Trouble at the Plant
+        - Punish the Hodes
+        - Mend the Plant
+        - Hode Attack
+        - Trouble at the Lighthouse
+    - Category: ChallengeQuests
+        - Challenge (Eryth Sea)
+    - Category: CollectionQuests
+        - Collect Quest 1 (Eryth Sea)
     - Category: Collectopaedia
         - Eryth Sea Collectopaedia Page Completion
         - Eryth Sea Collectopaedia Vegetable Completion
@@ -843,26 +842,17 @@
     - Category: HeartToHearts
         - Fish Fly! Fish Fly!
         - Flowers of Eryth Sea
-    - Category: NoponGrandPrix
-        - NGP - Jungle Rumble - Win with Shulk
-        - NGP - Jungle Rumble - Win with Reyn
-        - NGP - Jungle Rumble - Win with Sharla
-        - NGP - Jungle Rumble - Win with Dunban
-        - NGP - Jungle Rumble - Win with Riki
-        - NGP - Midnight Forest - Win with Shulk
-        - NGP - Midnight Forest - Win with Reyn
-        - NGP - Midnight Forest - Win with Sharla
-        - NGP - Midnight Forest - Win with Dunban
-        - NGP - Midnight Forest - Win with Riki
+    - Category: MonsterQuests
+        - Monster Quest 1 (Eryth Sea)
+        - Monster Quest 2 (Eryth Sea)
     - Category: UniqueMonsters
-        - Bizarre Ragoel (Lv 88)
-        - Clamorous Dablon (Lv 92)
+        - Cumulus Danaemos (Lv 41)
         - Flabbergasted Jerome (Lv 38)
         - Funeral Gozra (Lv 42)
-        - Lightspeed Sonid (Lv 44)
+        - Peeling Kircheis (Lv 38)
         - Proper Bandaz (Lv 39)
-        - Sacred Zagamei (Lv 89)
-        - Stormy Belagon (Lv 87)
+        - Subterranean Zomar (Lv 40)
+        - Tempestuous Edegia (Lv 39)
         - Turbulent Belmo (Lv 36)
     - Category: landmarks
         - Latael Shore
@@ -889,8 +879,11 @@
     - Category: Achievements
         - Friend of the World
         - Wings of Nobility
+        - Colony 6 Celeb
+        - Honorary High Entia
         - Charitable Ally
         - Can't Keep 'Em Down
+        - Down But Never Out
     - Category: AffinityChart
         - Arielle
         - Atael
@@ -938,17 +931,13 @@
         - Cook-Off Final Blow?!
         - A Delectable Delicacy
         - Looking for Freedom
+        - Odd Smoke - Investigation
         - Gather Information
         - Dangerous Ambition (MISSABLE)
         - Find the Kingpin (MISSABLE)
         - Adviser Hunt (MISSABLE)
         - Evidence Collection (MISSABLE)
         - Destroying the City Trade (MISSABLE)
-        - Trouble at the Plant
-        - Punish the Hodes
-        - Mend the Plant
-        - Hode Attack
-        - Trouble at the Lighthouse
         - A Friend in Need (MISSABLE)
         - Back Pain (MISSABLE)
         - Bring Back My Son! (MISSABLE)
@@ -970,14 +959,11 @@
         - Preparing for Adventure 3 (MISSABLE)
         - Starlight Seeker (MISSABLE)
     - Category: ChallengeQuests
-        - Challenge (Eryth Sea)
         - Challenge 1 (Alcamoth) (MISSABLE)
         - Challenge 2 (Alcamoth) (MISSABLE)
         - Challenge 3 (Alcamoth) (MISSABLE)
         - Challenge 4 (Alcamoth) (MISSABLE)
     - Category: CollectionQuests
-        - Collect Quest 1 (Eryth Sea)
-        - Collect Quest 2 (Eryth Sea)
         - Collection Quest 1 (Alcamoth} (MISSABLE)
         - Collection Quest 2 (Alcamoth} (MISSABLE)
         - Collection Quest 3 (Alcamoth} (MISSABLE)
@@ -988,17 +974,13 @@
         - Alcamoth Collectopaedia Flower Completion
         - Alcamoth Collectopaedia Strange Completion
     - Category: DevelopmentLevels
-        - Frontier Village Development Level 4
         - Alcamoth Development Level 1
         - Alcamoth Development Level 2
+        - Alcamoth Development Level 3
+        - Alcamoth Development Level 4
+        - Alcamoth Development Level 5
     - Category: HeartToHearts
-        - Ancient Wreckage
-        - A Heropon's Perspective
-        - High Entia History
-        - Atop the Crown Tree
-        - True Natures
         - So Close, Yet So Far
-        - A Breathtaking Sight
         - Ancient Astrology
     - Category: MaterialQuests
         - Material Quest 1 (Alcamoth) (MISSABLE)
@@ -1007,8 +989,6 @@
         - Material Quest 4 (Alcamoth) (MISSABLE)
     - Category: MonsterQuests
         - Defend Colony 6 - Reptile (35% Reconstruction)
-        - Monster Quest 1 (Eryth Sea)
-        - Monster Quest 2 (Eryth Sea)
         - Monster Quest 1 - Part 1 (Alcamoth) (MISSABLE)
         - Monster Quest 1 - Part 2 (Alcamoth) (MISSABLE)
         - Monster Quest 1 - Part 3 (Alcamoth) (MISSABLE)
@@ -1029,10 +1009,8 @@
     - Category: StoryQuests
         - Save the Worker
     - Category: UniqueMonsters
-        - Cumulus Danaemos (Lv 41)
-        - Peeling Kircheis (Lv 38)
-        - Subterranean Zomar (Lv 40)
-        - Tempestuous Edegia (Lv 39)
+        - Shadeless Matrix (Lv 44)
+        - Lightspeed Sonid (Lv 44)
     - Category: landmarks
         - Main Entrance (Alcamoth)
         - Fountain of Hope
@@ -1057,31 +1035,25 @@
         - Audience Chamber
 - Region: High Entia Tomb
     - Category: Achievements
-        - Honorary High Entia
-        - Who Dares Defy Me?
         - The Final Step
     - Category: AffinityQuests
         - A Necessary Upgrade (MISSABLE)
         - Starlight Gazer (MISSABLE)
+    - Category: CollectionQuests
+        - Collect Quest 2 (Eryth Sea)
     - Category: Collectopaedia
         - High Entia Tomb Collectopaedia Page Completion
         - High Entia Tomb Collectopaedia Bug Completion
         - High Entia Tomb Collectopaedia Part Completion
         - High Entia Tomb Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Alcamoth Development Level 3
     - Category: Eryth Sea Bosses
         - Skyray
     - Category: HeartToHearts
+        - A Breathtaking Sight
         - Echoes of Ancient Times
     - Category: High Entia Tomb Bosses
         - Orluga Rufus
         - Solidum Telethia and Tyrea
-    - Category: NoponGrandPrix
-        - NGP - Caterpile Circuit - Win with Melia
-        - NGP - Twilight Speedway - Win with Melia
-        - NGP - Jungle Rumble - Win with Melia
-        - NGP - Midnight Forest - Win with Melia
     - Category: StoryQuests
         - Path to Prison Island
         - Sister Seals
@@ -1099,6 +1071,8 @@
         - Hall of Trials
         - Second Treasury
 - Region: Prison Island (1st Visit)
+    - Category: Achievements
+        - Local Hero
     - Category: AffinityQuests
         - Giant Attack!
         - Mystery of Makna Ruins 1
@@ -1110,19 +1084,6 @@
         - Mystery of Makna Ruins 4
         - Getting Bigger!
         - Who is Bigger?
-    - Category: NoponGrandPrix
-        - NGP - Alcamoth at Dawn - Win with Shulk
-        - NGP - Alcamoth at Dawn - Win with Reyn
-        - NGP - Alcamoth at Dawn - Win with Sharla
-        - NGP - Alcamoth at Dawn - Win with Dunban
-        - NGP - Alcamoth at Dawn - Win with Riki
-        - NGP - Alcamoth at Dawn - Win with Melia
-        - NGP - Alcamoth Orbital - Win with Shulk
-        - NGP - Alcamoth Orbital - Win with Reyn
-        - NGP - Alcamoth Orbital - Win with Sharla
-        - NGP - Alcamoth Orbital - Win with Dunban
-        - NGP - Alcamoth Orbital - Win with Riki
-        - NGP - Alcamoth Orbital - Win with Melia
     - Category: Prison Island (First Visit) Bosses
         - Metal Face (Prison Island)
     - Category: UniqueMonsters
@@ -1141,7 +1102,6 @@
 - Region: Valak Mountain
     - Category: Achievements
         - Network of Knowledge
-        - Colony 6 Celeb
         - Selfless Giver
         - The Future is Ours!
         - Critical Condition
@@ -1174,8 +1134,6 @@
         - Valak Mountain Collectopaedia Animal Completion
         - Valak Mountain Collectopaedia Nature Completion
         - Valak Mountain Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Colony 6 Development Level 3
     - Category: HeartToHearts
         - A Snowy Hot Spring
         - In Ose Tower
@@ -1184,33 +1142,16 @@
         - Monster Quest 2 (Valak Mountain)
         - Monster Quest 3 (Valak Mountain)
         - Monster Quest 4 (Valak Mountain)
-    - Category: NoponGrandPrix
-        - NGP - Blizzard Rally - Win with Shulk
-        - NGP - Blizzard Rally - Win with Reyn
-        - NGP - Blizzard Rally - Win with Sharla
-        - NGP - Blizzard Rally - Win with Dunban
-        - NGP - Blizzard Rally - Win with Riki
-        - NGP - Blizzard Rally - Win with Melia
-        - NGP - Valak Slalom - Win with Shulk
-        - NGP - Valak Slalom - Win with Reyn
-        - NGP - Valak Slalom - Win with Sharla
-        - NGP - Valak Slalom - Win with Dunban
-        - NGP - Valak Slalom - Win with Riki
-        - NGP - Valak Slalom - Win with Melia
     - Category: StoryQuests
         - The Magma Rock
-    - Category: SuperBosses
-        - SUPERBOSS Final Marcus (Lv 100)
     - Category: UniqueMonsters
         - Agile Barbatos (Lv 47)
         - Barbaric Sitri (Lv 47)
-        - Exposure Wolfol (Lv 97)
         - Glorious Buer (Lv 45)
         - Hidden Gamigin (Lv 49)
         - Moonlight Paimon (Lv 46)
         - North Star Gusion (Lv 50)
         - Vague Barbas (Lv 46)
-        - Wandering Amon (Lv 98)
         - Banquet Vassago (Lv 48)
         - Conflagrant Raxeal (Lv 45)
     - Category: Valak Mountain Bosses
@@ -1224,7 +1165,6 @@
         - Nopon Camp
         - Harict Chapel
         - Lava Cave
-        - La Luz Church
         - Nofol Tower
         - Bionis' Wrist
     - Category: locations
@@ -1262,6 +1202,7 @@
     - Category: Sword Valley Bosses
         - Mumkhar (Sword Valley)
     - Category: UniqueMonsters
+        - Furious Jozan (Lv 55)
         - Benevolent Aim (Lv 51)
         - Defective Ipos (Lv 50)
         - Fate Labolas (Lv 51)
@@ -1305,7 +1246,6 @@
         - Supply Station Battle
         - Turbine Battle
         - Fiora's Conviction
-        - Seven's Conviction
     - Category: UniqueMonsters
         - Glacier Acon (Lv 52)
         - Glorious Jurom (Lv 55)
@@ -1372,6 +1312,8 @@
         - Zarkort
         - Zilex
     - Category: AffinityQuests
+        - In Pursuit of Love
+        - Odd Smoke - Resolution
         - Even In the Chief's Absence
         - Bored Pelupelu
         - A Gift For Miko
@@ -1399,28 +1341,24 @@
         - Fallen Arm Collectopaedia Nature Completion
         - Fallen Arm Collectopaedia Part Completion
         - Fallen Arm Collectopaedia Strange Completion
-        - Other Collectopaedia Part Completion
     - Category: DevelopmentLevels
         - Fallen Arm Development Level 1
         - Fallen Arm Development Level 2
         - Fallen Arm Development Level 3
         - Fallen Arm Development Level 4
+        - Fallen Arm Development Level 5
     - Category: HeartToHearts
         - Fiora's Cooking
-        - Seven's Cooking
-        - Watching Over Them
         - A Scene Revisited
+        - Recovery and Reflection
         - Quiet Time
-        - Dunban's Right Arm
         - Reawakened Memories
         - A Day Like Any Other
-        - Life's Hard for a Heropon
         - Riki Have Question
         - A Gift for a Loved One
         - Brother and Sister
         - The Forefathers
         - Melia's Imperial Villa
-        - First Sight of Snow
         - Just Like Old Times
         - A Family of Two
         - A Night-Time Chat
@@ -1430,56 +1368,16 @@
         - Camping Spot
     - Category: MonsterQuests
         - Defend Colony 6 - Elite (55% Reconstruction)
-    - Category: NGP Goals
-        - NGP - Champion
-        - NGP - Grand Champion
-    - Category: NoponGrandPrix
-        - NGP - Caterpile Circuit - Win with Fiora
-        - NGP - Caterpile Circuit - Win with Seven
-        - NGP - Twilight Speedway - Win with Fiora
-        - NGP - Twilight Speedway - Win with Seven
-        - NGP - Jungle Rumble - Win with Fiora
-        - NGP - Jungle Rumble - Win with Seven
-        - NGP - Midnight Forest - Win with Fiora
-        - NGP - Midnight Forest - Win with Seven
-        - NGP - Alcamoth at Dawn - Win with Fiora
-        - NGP - Alcamoth at Dawn - Win with Seven
-        - NGP - Alcamoth Orbital - Win with Fiora
-        - NGP - Alcamoth Orbital - Win with Seven
-        - NGP - Blizzard Rally - Win with Fiora
-        - NGP - Blizzard Rally - Win with Seven
-        - NGP - Valak Slalom - Win with Fiora
-        - NGP - Valak Slalom - Win with Seven
-        - NGP - Colony 9 Wild Ride - Win with Shulk
-        - NGP - Colony 9 Wild Ride - Win with Reyn
-        - NGP - Colony 9 Wild Ride - Win with Sharla
-        - NGP - Colony 9 Wild Ride - Win with Dunban
-        - NGP - Colony 9 Wild Ride - Win with Riki
-        - NGP - Colony 9 Wild Ride - Win with Melia
-        - NGP - Colony 9 Wild Ride - Win with Fiora
-        - NGP - Colony 9 Wild Ride - Win with Seven
-        - NGP - Rural Road - Win with Shulk
-        - NGP - Rural Road - Win with Reyn
-        - NGP - Rural Road - Win with Sharla
-        - NGP - Rural Road - Win with Dunban
-        - NGP - Rural Road - Win with Riki
-        - NGP - Rural Road - Win with Melia
-        - NGP - Rural Road - Win with Fiora
-        - NGP - Rural Road - Win with Seven
     - Category: StoryQuests
         - Reunion with Fiora
-        - Reunion with Seven
         - We Made It
         - Fiora's Treatment
-        - Seven's Treatment
     - Category: UniqueMonsters
         - Aged Leraje (Lv 56)
         - Affluent Beleth (Lv 57)
         - Evil Bathin (Lv 54)
-        - Powerful Eligos (Lv 80)
         - Prosperous Zepar (Lv 56)
         - Splendid Botis (Lv 58)
-        - Wicked Sallos (Lv 95)
     - Category: landmarks
         - Wreckage Beach
         - Ulna Passage
@@ -1517,8 +1415,6 @@
     - Category: AffinityChart
         - Bozatrox
     - Category: AffinityQuests
-        - Odd Smoke - Investigation
-        - Odd Smoke - Resolution
         - The History of Mechonis (MISSABLE)
         - Mending Memories
         - Resolution - Father
@@ -1537,8 +1433,6 @@
         - Mechonis Field Collectopaedia Nature Completion
         - Mechonis Field Collectopaedia Part Completion
         - Mechonis Field Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Fallen Arm Development Level 5
     - Category: Mechonis Field Bosses
         - Jade Face
     - Category: MonsterQuests
@@ -1590,11 +1484,11 @@
         - Adorable Randomness
         - Serene Candour
     - Category: AffinityQuests
+        - Nic's Training
+        - Nic's Final Test
         - Eliminate the Backup! (MISSABLE)
         - Roof Battle (MISSABLE)
         - Daring Assault (MISSABLE)
-        - New Weapon for Fiora
-        - New Weapon for Seven
     - Category: Central Factory Bosses
         - Apocrypha Generator (Boss)
     - Category: Collectopaedia
@@ -1605,10 +1499,6 @@
         - Central Factory Collectopaedia Nature Completion
         - Central Factory Collectopaedia Part Completion
         - Central Factory Collectopaedia Strange Completion
-    - Category: DevelopmentLevels
-        - Colony 6 Development Level 4
-    - Category: HeartToHearts
-        - A Wistful Glow
     - Category: StoryQuests
         - To the Central Tower
         - Maintenance Wing Escape
@@ -1619,7 +1509,6 @@
         - Balanced Palamedes (Lv 62)
         - Beautiful Vagul (Lv 60)
         - Faithful Lancelot (Lv 59)
-        - Magestic Mordred (Lv 70)
         - Mild Florence (Lv 58)
         - Sinful Lamorak (Lv 63)
         - Synchronised Gaheris (Lv 61)
@@ -1654,11 +1543,11 @@
 - Region: Agniratha (MISSABLE)
     - Category: Achievements
         - Master Hunter
-        - Down But Never Out
         - Perfecting the Art
         - Spirited Adventurer
     - Category: AffinityQuests
         - The History of the Capital (MISSABLE)
+        - New Weapon for Fiora
         - Telethia Investigation 1
         - Telethia Investigation 2
     - Category: Agniratha Bosses
@@ -1678,9 +1567,6 @@
         - Agniratha Collectopaedia Nature Completion
         - Agniratha Collectopaedia Part Completion
         - Agniratha Collectopaedia Strange Completion
-    - Category: HeartToHearts
-        - The Colony Reborn
-        - Recovery and Reflection
     - Category: MaterialQuests
         - Agniratha Beautification 1
         - Agniratha Beautification 2
@@ -1695,6 +1581,8 @@
         - Shrine Transport
         - Pillar Verification Devices
     - Category: UniqueMonsters
+        - Flailing Bracken (Lv 73)
+        - Magestic Mordred (Lv 70)
         - Vagabond Allocer (Lv 63)
         - Experienced Tristan (Lv 64)
         - Destructive Bors (Lv 64)
@@ -1730,16 +1618,27 @@
         - Meyneth Cloister
 - Region: Mechonis Core
     - Category: Achievements
-        - Local Hero
+        - Roots Across the World
+        - World Hero
+        - Building a Community
+        - Bursting at the Seams
+        - Please! No More!
         - Telethia Tracker
         - Telethia Triumph
         - Critical Mass
         - Team With a Capital T
+        - Down to a Fine Art
+        - Art-to-Art
+        - State of the Art
         - Sharing the Knowledge
+        - Secret Weapon
+        - Dream Team
         - Crystallised Luck
         - Crafting Your Destiny
         - Firing on All Cylinders
         - Love at First Bite
+        - Party's in Full Swing
+        - Treasure Trove
         - Shining Impracticality
     - Category: AffinityQuests
         - A Token of Friendship
@@ -1749,18 +1648,29 @@
         - Birthday Shoes
         - Friendship Tokens
         - The Book of Bafalgar
+        - The Blood of Bafalgar
         - The Path of Bafalgar
         - The Coffin of Bafalgar
         - The Gratitude of Bafalgar
         - A Flower for a Rose
+        - Battling Brutes
         - Supplies for Satorl
+        - Melancholy Tyrea
+        - Securing Provisions
         - Delivering the Undeliverable
         - Finding the Unfindable
         - A Dauntless Trader
         - For a Friend
+        - A Merciful End
+        - A Release From Duty
         - The Imperial Ceremony
         - Imperial Ceremony Offerings
+        - Final Challenge of the Sage
         - A Memento of Daddy
+        - Restoring the Capital
+        - Restoring the Capital 2
+        - Broken Ether Furnace
+        - Broken Ether Furnace 2
         - Bana the Betrayer
         - Presents for Priceless Pupils
         - Secret Research
@@ -1776,47 +1686,33 @@
         - Challenge (Satorl Marsh)
     - Category: Collectopaedia
         - Other Collectopaedia Page Completion
+        - Other Collectopaedia Bug Completion
+        - Other Collectopaedia Part Completion
+        - Other Collectopaedia Strange Completion
     - Category: Colony 6 Bosses
         - Sani Telethia
         - Sureny Telethia
-    - Category: DevelopmentLevels
-        - Frontier Village Development Level 5
-        - Alcamoth Development Level 4
     - Category: HeartToHearts
         - The Legend of the Spider
         - Renewed Determination
         - Hopes and Plans
+        - First Sight of Snow
     - Category: Mechonis Core Bosses
         - Yaldabaoth (Mechonis Core)
         - Zanza (Mechonis Core)
     - Category: MonsterQuests
         - Defend Colony 6 - Ancient (75% Reconstruction)
+        - Defend Colony 6 - Demon (95% Reconstruction)
     - Category: StoryQuests
         - The Missing Boy
         - Save Bionis
-    - Category: SuperBosses
-        - SUPERBOSS Despotic Arsene (Lv 108)
-        - SUPERBOSS Avalanche Abaasy (Lv 120)
-        - SUPERBOSS Blizzard Belgazas (Lv 114)
-        - SUPERBOSS Ancient Daedala (Lv 105)
     - Category: UniqueMonsters
-        - Erratic Goliante (Lv 97)
-        - Judicious Bunnitzol (Lv 94)
-        - Musical Vanflare (Lv 93)
-        - Plump Sprahda (Lv 92)
-        - Protective Torquidon (Lv 96)
-        - Reckless Galdon (Lv 95)
-        - Dazzling Tolosnia (Lv 97)
-        - Firework Geldesia (Lv 98)
-        - Reckless Zanden (Lv 98)
-        - Illustrious Golteus (Lv 98)
-        - Magnificent Digalus (Lv 99)
-        - Unreliable Rezno (Lv 96)
-        - Deadly Medorlo (Lv 93)
-        - Furious Jozan (Lv 96)
+        - Field Altrich (Lv 76)
+        - Mysterious Barnaby (Lv 75)
     - Category: landmarks
         - Bafalgar Tomb
         - Heavenly Window
+        - La Luz Church
     - Category: locations
         - Hidden Warehouse
         - Forgotten Cave
@@ -1833,16 +1729,7 @@
 - Region: Bionis' Interior (2nd Visit)
     - Category: Achievements
         - The Hopeful Survivors
-        - Roots Across the World
-        - World Hero
-        - Building a Community
-        - Bursting at the Seams
-        - Good and Fixed
-        - Secret Weapon
     - Category: AffinityQuests
-        - In Pursuit of Love
-        - Nic's Training
-        - Melancholy Tyrea
         - Lifespan of a Machina
         - A Poet's Concerns
         - Replica Monado 1
@@ -1857,7 +1744,6 @@
         - Bionis' Interior Collectopaedia Strange Completion
     - Category: HeartToHearts
         - Fiora's Body
-        - Seven's Body
         - Kind Words
     - Category: UniqueMonsters
         - Active Impulso (Lv 72)
@@ -1885,26 +1771,8 @@
 - Region: Prison Island (2nd Visit)
     - Category: Achievements
         - Ace of Hearts
-        - Please! No More!
-        - Down to a Fine Art
-        - Art-to-Art
-        - State of the Art
-        - Dream Team
+        - Good and Fixed
         - Stamp of Insanity
-        - Party's in Full Swing
-        - Treasure Trove
-    - Category: AffinityQuests
-        - The Blood of Bafalgar
-        - Battling Brutes
-        - Nic's Final Test
-        - Securing Provisions
-        - A Merciful End
-        - A Release From Duty
-        - Final Challenge of the Sage
-        - Restoring the Capital
-        - Restoring the Capital 2
-        - Broken Ether Furnace
-        - Broken Ether Furnace 2
     - Category: Collectopaedia
         - Prison Island Collectopaedia Page Completion
         - Prison Island Collectopaedia Fruit Completion
@@ -1913,20 +1781,15 @@
         - Prison Island Collectopaedia Nature Completion
         - Prison Island Collectopaedia Part Completion
         - Prison Island Collectopaedia Strange Completion
-        - Other Collectopaedia Strange Completion
     - Category: CollectorGoal
         - Collector Goal
-    - Category: DevelopmentLevels
-        - Colony 6 Development Level 5
-        - Alcamoth Development Level 5
     - Category: HeartToHearts
+        - The Colony Reborn
         - Untold Feelings
         - Journey's End
         - Before the Final Battle
     - Category: MonsterHunterGoal
         - Monster Hunter Goal
-    - Category: MonsterQuests
-        - Defend Colony 6 - Demon (95% Reconstruction)
     - Category: Prison Island (2nd Visit) Bosses
         - Demon Pavlovsk
         - Disciple Dickson
@@ -1936,9 +1799,43 @@
     - Category: StoryQuests
         - Chase Dickson
         - Path to the Top
+    - Category: SuperBosses
+        - SUPERBOSS Despotic Arsene (Lv 108)
+        - SUPERBOSS Avalanche Abaasy (Lv 120)
+        - SUPERBOSS Blizzard Belgazas (Lv 114)
+        - SUPERBOSS Final Marcus (Lv 100)
+        - SUPERBOSS Ancient Daedala (Lv 105)
     - Category: SuperMonsterHunterGoal
         - Super Monster Hunter Goal
     - Category: UniqueMonsters
+        - Erratic Goliante (Lv 97)
+        - Judicious Bunnitzol (Lv 94)
+        - Musical Vanflare (Lv 93)
+        - Plump Sprahda (Lv 92)
+        - Protective Torquidon (Lv 96)
+        - Reckless Galdon (Lv 95)
+        - Dazzling Tolosnia (Lv 97)
+        - Firework Geldesia (Lv 98)
+        - Reckless Zanden (Lv 98)
+        - Armoured Rockwell (Lv 82)
+        - Canyon Valencia (Lv 78)
+        - Immovable Gonzalez (Lv 90)
+        - Territorial Rotbart (Lv 81)
+        - Eternal Palsadia (Lv 91)
+        - Indomitable Daulton (Lv 85)
+        - Veteran Yozel (Lv 83)
+        - Illustrious Golteus (Lv 98)
+        - Magnificent Digalus (Lv 99)
+        - Unreliable Rezno (Lv 96)
+        - Bizarre Ragoel (Lv 88)
+        - Clamorous Dablon (Lv 92)
+        - Deadly Medorlo (Lv 93)
+        - Sacred Zagamei (Lv 89)
+        - Stormy Belagon (Lv 87)
+        - Exposure Wolfol (Lv 97)
+        - Wandering Amon (Lv 98)
+        - Powerful Eligos (Lv 80)
+        - Wicked Sallos (Lv 95)
         - Abnormal Clone Barg (Lv 77)
         - Ageless Moabit (Lv 75)
         - Cold Ageshu (Lv 77)
