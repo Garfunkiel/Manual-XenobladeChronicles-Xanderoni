@@ -6696,7 +6696,7 @@
         "Colony 9 Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(6)}"
     },
     {
       "name": "Challenge 2 (Colony 9)",
@@ -6705,7 +6705,7 @@
         "Colony 9 Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(5)}"
     },
     {
       "name": "Challenge 3 (Colony 9)",
@@ -6714,7 +6714,7 @@
         "Colony 9 Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(6)}"
     },
     {
       "name": "Collection Quest 1 (Colony 9)",
@@ -7047,7 +7047,7 @@
         "Colony 9 Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(9)}"
     },
     {
       "name": "Delivering Food",
@@ -7146,7 +7146,7 @@
         "Colony 9 Quests (Development Level 3)",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:1|"
+      "requires": "|Progressive Hunting License:1| AND {hasDangerTolerance(18)}"
     },
     {
       "name": "Jackson's Awakening",
@@ -7353,7 +7353,7 @@
         "Tephra Cave Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "The Path of Bafalgar",
@@ -7362,7 +7362,7 @@
         "Tephra Cave Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "The Coffin of Bafalgar",
@@ -7371,7 +7371,7 @@
         "Tephra Cave Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "The Gratitude of Bafalgar",
@@ -7380,7 +7380,7 @@
         "Tephra Cave Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(97)}"
     },
     {
       "name": "A Thoughtful Idea (MISSABLE)",
@@ -7416,7 +7416,7 @@
         "Bionis' Leg Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(17)}"
     },
     {
       "name": "Challenge 1 - Part 2 (Bionis' Leg) (MISSABLE)",
@@ -7425,7 +7425,7 @@
         "Bionis' Leg Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(16)}"
     },
     {
       "name": "Challenge 2 - Part 1 (Bionis' Leg) (MISSABLE)",
@@ -7434,7 +7434,7 @@
         "Bionis' Leg Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(15)}"
     },
     {
       "name": "Challenge 2 - Part 2 (Bionis' Leg) (MISSABLE)",
@@ -7443,7 +7443,7 @@
         "Bionis' Leg Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:3|"
+      "requires": "|Progressive Hunting License:3| AND {hasDangerTolerance(16)}"
     },
     {
       "name": "Collection Quest 1 (Bionis' Leg) (MISSABLE)",
@@ -7695,7 +7695,7 @@
         "Bionis' Leg Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:2|"
+      "requires": "|Progressive Hunting License:2| AND {hasDangerTolerance(98)}"
     },
     {
       "name": "Supplies for Satorl",
@@ -7965,7 +7965,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:3|"
+      "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:3| AND {hasDangerTolerance(78)}"
     },
     {
       "name": "Nic's Final Test",
@@ -7974,7 +7974,7 @@
         "Colony 6 Quests (Development Level 4)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:6|"
+      "requires": "|Colony 6 Reconstruction Housing Level:5| AND |Progressive Hunting License:6| AND {hasDangerTolerance(85)}"
     },
     {
       "name": "Melancholy Tyrea",
@@ -8199,7 +8199,7 @@
         "Satorl Marsh Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(30)}"
     },
     {
       "name": "It's All in the Mind",
@@ -8208,7 +8208,7 @@
         "Satorl Marsh Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(30)}"
     },
     {
       "name": "A Mysterious Delicacy",
@@ -8217,7 +8217,7 @@
         "Satorl Marsh Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(30)}"
     },
     {
       "name": "A Gift? (MISSABLE)",
@@ -8226,7 +8226,7 @@
         "Satorl Marsh Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(30)}"
     },
     {
       "name": "The Ancient Ceremony",
@@ -8257,12 +8257,12 @@
     },
     {
       "name": "Challenge (Satorl Marsh)",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Satorl Marsh Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:6|"
+      "requires": "|Progressive Hunting License:6| AND {hasDangerTolerance(83)}"
     },
     {
       "name": "For a Friend",
@@ -8361,7 +8361,7 @@
         "Makna Forest Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(33)}"
     },
     {
       "name": "Legend of the Sage",
@@ -8415,7 +8415,7 @@
         "Frontier Village Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(33)}"
     },
     {
       "name": "Challenge 2 (Frontier Village)",
@@ -8424,7 +8424,7 @@
         "Frontier Village Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(37)}"
     },
     {
       "name": "Challenge 3 (Frontier Village)",
@@ -8433,7 +8433,7 @@
         "Frontier Village Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:7|"
+      "requires": "|Progressive Hunting License:7| AND {hasDangerTolerance(34)}"
     },
     {
       "name": "Collection Quest 1 (Frontier Village)",
@@ -9117,7 +9117,7 @@
         "Eryth Sea Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Collect Quest 1 (Eryth Sea)",
@@ -9171,7 +9171,7 @@
         "Eryth Sea Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(42)}"
     },
     {
       "name": "Mend the Plant",
@@ -9189,7 +9189,7 @@
         "Eryth Sea Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(42)}"
     },
     {
       "name": "Trouble at the Lighthouse",
@@ -9198,7 +9198,7 @@
         "Eryth Sea Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(42)}"
     },
     {
       "name": "Path to Prison Island",
@@ -9297,7 +9297,7 @@
         "Alcamoth Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(39)}"
     },
     {
       "name": "Challenge 2 (Alcamoth) (MISSABLE)",
@@ -9306,7 +9306,7 @@
         "Alcamoth Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(39)}"
     },
     {
       "name": "Challenge 3 (Alcamoth) (MISSABLE)",
@@ -9315,7 +9315,7 @@
         "Alcamoth Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(38)}"
     },
     {
       "name": "Challenge 4 (Alcamoth) (MISSABLE)",
@@ -9324,7 +9324,7 @@
         "Alcamoth Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:8|"
+      "requires": "|Progressive Hunting License:8| AND {hasDangerTolerance(44)}"
     },
     {
       "name": "Collection Quest 1 (Alcamoth} (MISSABLE)",
@@ -9828,7 +9828,7 @@
         "Valak Mountain Quests",
         "AffinityQuests"
       ],
-      "requires": "|Progressive Hunting License:10|"
+      "requires": "|Progressive Hunting License:10| AND {hasDangerTolerance(48)}"
     },
     {
       "name": "The Final Giants' Ruins",
@@ -10248,7 +10248,7 @@
         "Mechonis Field Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(60)}"
     },
     {
       "name": "Challenge Quest 2 (MISSABLE)",
@@ -10257,7 +10257,7 @@
         "Mechonis Field Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:14|"
+      "requires": "|Progressive Hunting License:14| AND {hasDangerTolerance(58)}"
     },
     {
       "name": "Aiming for the Top",
@@ -10493,7 +10493,7 @@
         "Agniratha Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(63)}"
     },
     {
       "name": "Military Status 1 - 2",
@@ -10502,7 +10502,7 @@
         "Agniratha Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(68)}"
     },
     {
       "name": "Military Status 2 - 1",
@@ -10511,7 +10511,7 @@
         "Agniratha Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(65)}"
     },
     {
       "name": "Military Status 2 - 2",
@@ -10520,7 +10520,7 @@
         "Agniratha Quests",
         "ChallengeQuests"
       ],
-      "requires": "|Progressive Hunting License:16|"
+      "requires": "|Progressive Hunting License:16| AND {hasDangerTolerance(67)}"
     },
     {
       "name": "Telethia Investigation 1",
@@ -12994,7 +12994,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Progressive Hunting License:8| OR |Valak Mountain Key:2|"
+      "requires": "|Progressive Hunting License:8| OR |Valak Mountain Access|"
     },
     {
       "name": "Honorary Machina",
@@ -13762,7 +13762,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Shulk - Humanity Skill Tree| AND |Shulk - Intuition Skill Tree|) OR ((|Shulk - Humanity Skill Tree| OR |Shulk - Intuition Skill Tree|) AND |Shulk - Pessimism Skill Tree|) OR ((|Shulk - Humanity Skill Tree| OR |Shulk - Intuition Skill Tree| OR |Shulk - Pessimism Skill Tree|) AND |Shulk - Bravery Skill Tree| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2| AND |Sword Valley Key:2| AND |Galahad Fortress Key:2| AND |Fallen Arm Key:2| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
+      "requires": "(|Shulk - Humanity Skill Tree| AND |Shulk - Intuition Skill Tree|) OR ((|Shulk - Humanity Skill Tree| OR |Shulk - Intuition Skill Tree|) AND |Shulk - Pessimism Skill Tree|) OR ((|Shulk - Humanity Skill Tree| OR |Shulk - Intuition Skill Tree| OR |Shulk - Pessimism Skill Tree|) AND |Shulk - Bravery Skill Tree| AND |Mechonis Core Access|)"
     },
     {
       "name": "Raging Stalwart",
@@ -13770,7 +13770,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Reyn - Enthusiasm Skill Tree| AND |Reyn - Diligence Skill Tree|) OR ((|Reyn - Enthusiasm Skill Tree| OR |Reyn - Diligence Skill Tree|) AND |Reyn - Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|) OR ((|Reyn - Enthusiasm Skill Tree| OR |Reyn - Diligence Skill Tree| OR (|Reyn - Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|)) AND |Reyn - Camaraderie Skill Tree| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2| AND |Sword Valley Key:2| AND |Galahad Fortress Key:2| AND |Fallen Arm Key:2| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
+      "requires": "(|Reyn - Enthusiasm Skill Tree| AND |Reyn - Diligence Skill Tree|) OR ((|Reyn - Enthusiasm Skill Tree| OR |Reyn - Diligence Skill Tree|) AND |Reyn - Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2| AND |Valak Mountain Access|) OR ((|Reyn - Enthusiasm Skill Tree| OR |Reyn - Diligence Skill Tree| OR (|Reyn - Impatience Skill Tree| AND |Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|)) AND |Reyn - Camaraderie Skill Tree| AND |Mechonis Core Access|)"
     },
     {
       "name": "Spirited Adventurer",
@@ -13778,7 +13778,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "((|Fiora - Daring Skill Tree| AND |Fiora - Zeal Skill Tree|) OR ((|Fiora - Daring Skill Tree| OR |Fiora - Zeal Skill Tree|) AND |Fiora - Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Fiora - Daring Skill Tree| OR |Fiora - Zeal Skill Tree| OR |Fiora - Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)) OR ((|Seven - Daring Skill Tree| AND |Seven - Zeal Skill Tree|) OR ((|Seven - Daring Skill Tree| OR |Seven - Zeal Skill Tree|) AND |Seven - Rashness Skill Tree| AND |Mechonis Field Key:2|) OR ((|Seven - Daring Skill Tree| OR |Seven - Zeal Skill Tree| OR |Seven - Rashness Skill Tree|) AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|))"
+      "requires": "((|Fiora - Daring Skill Tree| AND |Fiora - Zeal Skill Tree|) OR ((|Fiora - Daring Skill Tree| OR |Fiora - Zeal Skill Tree|) AND |Fiora - Rashness Skill Tree| AND |Mechonis Field Access|) OR ((|Fiora - Daring Skill Tree| OR |Fiora - Zeal Skill Tree| OR |Fiora - Rashness Skill Tree|) AND |Prison Island (2nd Visit) Access|)) OR ((|Seven - Daring Skill Tree| AND |Seven - Zeal Skill Tree|) OR ((|Seven - Daring Skill Tree| OR |Seven - Zeal Skill Tree|) AND |Seven - Rashness Skill Tree| AND |Mechonis Field Access|) OR ((|Seven - Daring Skill Tree| OR |Seven - Zeal Skill Tree| OR |Seven - Rashness Skill Tree|) AND |Prison Island (2nd Visit) Access|))"
     },
     {
       "name": "Gallant Hero",
@@ -13786,7 +13786,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Dunban - Wisdom Skill Tree| AND |Dunban - Prudence Skill Tree|) OR ((|Dunban - Wisdom Skill Tree| OR |Dunban - Prudence Skill Tree|) AND |Dunban - Obstinance Skill Tree| AND |Progressive Hunting License:10|) OR ((|Dunban - Wisdom Skill Tree| OR |Dunban - Prudence Skill Tree| OR |Dunban - Obstinance Skill Tree|) AND |Dunban - Enthusiasm Skill Tree| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Progressive Hunting License:16|)"
+      "requires": "(|Dunban - Wisdom Skill Tree| AND |Dunban - Prudence Skill Tree|) OR ((|Dunban - Wisdom Skill Tree| OR |Dunban - Prudence Skill Tree|) AND |Dunban - Obstinance Skill Tree| AND |Progressive Hunting License:10|) OR ((|Dunban - Wisdom Skill Tree| OR |Dunban - Prudence Skill Tree| OR |Dunban - Obstinance Skill Tree|) AND |Dunban - Enthusiasm Skill Tree| AND |Mechonis Core Access|)"
     },
     {
       "name": "Unyielding Devotion",
@@ -13794,7 +13794,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Sharla - Perseverance Skill Tree| AND |Sharla - Confidence Skill Tree|) OR ((|Sharla - Perseverance Skill Tree| OR |Sharla - Confidence Skill Tree|) AND |Sharla - Reliance Skill Tree|) OR ((|Sharla - Perseverance Skill Tree| OR |Sharla - Confidence Skill Tree| OR |Sharla - Reliance Skill Tree|) AND |Sharla - Affection Skill Tree| AND |Mechonis Field Key:2| AND |Central Factory Key:2| AND |Agniratha Key:3| AND |Mechonis Core Key:3|)"
+      "requires": "(|Sharla - Perseverance Skill Tree| AND |Sharla - Confidence Skill Tree|) OR ((|Sharla - Perseverance Skill Tree| OR |Sharla - Confidence Skill Tree|) AND |Sharla - Reliance Skill Tree|) OR ((|Sharla - Perseverance Skill Tree| OR |Sharla - Confidence Skill Tree| OR |Sharla - Reliance Skill Tree|) AND |Sharla - Affection Skill Tree| AND |Mechonis Core Access|)"
     },
     {
       "name": "Adorable Randomness",
@@ -13802,7 +13802,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Riki - Innocence Skill Tree| AND |Riki - Flexibility Skill Tree|) OR ((|Riki - Innocence Skill Tree| OR |Riki - Flexibility Skill Tree|) AND |Riki - Cowardice Skill Tree|) OR ((|Riki - Innocence Skill Tree| OR |Riki - Flexibility Skill Tree| OR |Riki - Cowardice Skill Tree|) AND |Riki - Heroism Skill Tree| AND |Agniratha Key:3| AND |Mechonis Core Key:3| AND |Bionis' Interior (2nd Visit) Key:3| AND |Prison Island (2nd Visit) Key:3| AND |Progressive Hunting License:16|)"
+      "requires": "(|Riki - Innocence Skill Tree| AND |Riki - Flexibility Skill Tree|) OR ((|Riki - Innocence Skill Tree| OR |Riki - Flexibility Skill Tree|) AND |Riki - Cowardice Skill Tree|) OR ((|Riki - Innocence Skill Tree| OR |Riki - Flexibility Skill Tree| OR |Riki - Cowardice Skill Tree|) AND |Riki - Heroism Skill Tree| AND |Prison Island (2nd Visit) Access|)"
     },
     {
       "name": "Serene Candour",
@@ -13810,7 +13810,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "(|Melia - Honesty Skill Tree| AND |Melia - Reliability Skill Tree|) OR ((|Melia - Honesty Skill Tree| OR |Melia - Reliability Skill Tree|) AND |Melia - Reticence Skill Tree| AND |Progressive Hunting License:8|) OR ((|Melia - Honesty Skill Tree| OR |Melia - Reliability Skill Tree| OR (|Melia - Reticence Skill Tree| AND |Progressive Hunting License:8|)) AND |Melia - Passion Skill Tree| AND |Agniratha Key:3| AND |Mechonis Core Key:3|"
+      "requires": "(|Melia - Honesty Skill Tree| AND |Melia - Reliability Skill Tree|) OR ((|Melia - Honesty Skill Tree| OR |Melia - Reliability Skill Tree|) AND |Melia - Reticence Skill Tree| AND |Progressive Hunting License:8|) OR ((|Melia - Honesty Skill Tree| OR |Melia - Reliability Skill Tree| OR (|Melia - Reticence Skill Tree| AND |Progressive Hunting License:8|)) AND |Melia - Passion Skill Tree| AND |Mechonis Core Access|"
     },
     {
       "name": "Phoenix",
