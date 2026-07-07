@@ -23,10 +23,10 @@ class XenobladeManualTest_DangerTolerance_0(XenobladeManualTest):
             [ "Progressive Hunting License:1" ] + self.getRegionKeyRequirements("Prison Island (1st Visit)")
         )
 
-class XenobladeManualTest_DangerTolerance_35(XenobladeManualTest):
+class XenobladeManualTest_DangerTolerance_30(XenobladeManualTest):
     game = game_name
     options = {
-        "Danger_Tolerance": 35
+        "Danger_Tolerance": 30
     }
 
     def test_DangerTolerance_GentleRodriguez(self):
