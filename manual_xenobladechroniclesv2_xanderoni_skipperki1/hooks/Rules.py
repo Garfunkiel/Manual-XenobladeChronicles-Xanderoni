@@ -38,7 +38,7 @@ def questPaolaAndNarineReq():
                 ")"
 
 REGION_LEVELS = [
-    {"region": "Colony 9",                      "level":  1, "requires": "|Colony 9 Access|"},
+    {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},
     {"region": "Tephra Cave",                   "level": 12, "requires": "|Tephra Cave Access|"},
     {"region": "Bionis' Leg",                   "level": 25, "requires": "|Bionis' Leg Access|"},
     {"region": "Colony 6",                      "level": 26, "requires": "|Colony 6 Access|"},
