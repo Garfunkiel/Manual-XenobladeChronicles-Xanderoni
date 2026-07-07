@@ -26,7 +26,7 @@
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "_Example_Toggle":{
             "description": [
                 "This is a Toggle",
                 "A simple boolean, aka True or False set the initial value with \"default\""
