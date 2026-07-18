@@ -14,6 +14,54 @@ regions = [
     "Agniratha", "Mechonis Core", "Bionis' Interior (2nd Visit)", "Prison Island (2nd Visit)"
 ]
 
+region_keys = {
+    "Colony 9": 0,
+    "Tephra Cave": 1,
+    "Bionis' Leg": 1,
+    "Colony 6": 1,
+    "Ether Mine": 1,
+    "Satorl Marsh": 1,
+    "Bionis' Interior (1st Visit)": 1,
+    "Makna Forest": 1,
+    "Frontier Village": 1,
+    "Eryth Sea": 1,
+    "Alcamoth": 1,
+    "High Entia Tomb": 1,
+    "Prison Island (1st Visit)": 2,
+    "Valak Mountain": 2,
+    "Sword Valley": 2,
+    "Galahad Fortress": 2,
+    "Fallen Arm": 2,
+    "Mechonis Field": 2,
+    "Central Factory": 2,
+    "Agniratha": 3,
+    "Mechonis Core": 3,
+    "Bionis' Interior (2nd Visit)": 3,
+    "Prison Island (2nd Visit)": 3
+}
+
+hunting_regions = [
+    "Colony 9",
+    "Tephra Cave",
+    "Bionis' Leg",
+    "Colony 6",
+    "Ether Mine",
+    "Satorl Marsh",
+    "Makna Forest",
+    "Eryth Sea",
+    "High Entia Tomb",
+    "Valak Mountain",
+    "Sword Valley",
+    "Galahad Fortress",
+    "Fallen Arm",
+    "Mechonis Field",
+    "Central Factory",
+    "Agniratha",
+    "Mechonis Core",
+    "Bionis' Interior (2nd Visit)",
+    "Prison Island (2nd Visit)"
+]
+
 class XenobladeManualTest(WorldTestBase):
     game = game_name
 

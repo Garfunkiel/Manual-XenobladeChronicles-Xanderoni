@@ -1539,7 +1539,7 @@
     },
     {
       "name": "Main Entrance (Colony 6)",
-      "region": "Ether Mine",
+      "region": "Satorl Marsh",
       "category": [
         "Colony 6 Landmarks",
         "landmarks"
@@ -2604,7 +2604,7 @@
     },
     {
       "name": "Nopon Sage",
-      "region": "Makna Forest",
+      "region": "Eryth Sea",
       "category": [
         "Makna Forest Affinity Chart",
         "AffinityChart"
@@ -3216,7 +3216,7 @@
     },
     {
       "name": "High Entia Tomb",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Landmarks",
         "landmarks"
@@ -3234,7 +3234,7 @@
     },
     {
       "name": "Central Seal Island",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Landmarks",
         "landmarks"
@@ -3243,7 +3243,7 @@
     },
     {
       "name": "Soltnar Seal Island",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Landmarks",
         "landmarks"
@@ -3252,7 +3252,7 @@
     },
     {
       "name": "Khatorl Seal Island",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Landmarks",
         "landmarks"
@@ -3261,7 +3261,7 @@
     },
     {
       "name": "Ether Plant",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Landmarks",
         "landmarks"
@@ -3458,7 +3458,7 @@
     },
     {
       "name": "Jarack",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Affinity Chart",
         "AffinityChart"
@@ -3467,7 +3467,7 @@
     },
     {
       "name": "Shalen",
-      "region": "Eryth Sea",
+      "region": "Alcamoth",
       "category": [
         "Eryth Sea Affinity Chart",
         "AffinityChart"
@@ -3620,7 +3620,7 @@
     },
     {
       "name": "Imperial Villa",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Alcamoth Landmarks",
         "landmarks"
@@ -7078,7 +7078,7 @@
     },
     {
       "name": "Paola and Narine",
-      "region": "Frontier Village",
+      "region": "Makna Forest",
       "category": [
         "Colony 9 Quests",
         "AffinityQuests"
@@ -7204,7 +7204,7 @@
     },
     {
       "name": "The Old Soldier's Test",
-      "region": "Frontier Village",
+      "region": "Makna Forest",
       "category": [
         "Colony 9 Quests",
         "AffinityQuests"
@@ -8221,7 +8221,7 @@
     },
     {
       "name": "A Gift? (MISSABLE)",
-      "region": "Satorl Marsh",
+      "region": "Frontier Village",
       "category": [
         "Satorl Marsh Quests",
         "AffinityQuests"
@@ -8383,7 +8383,7 @@
     },
     {
       "name": "Bridge Repair",
-      "region": "Valak Mountain",
+      "region": "Prison Island (1st Visit)",
       "category": [
         "Makna Forest Quests",
         "AffinityQuests"
@@ -8905,7 +8905,7 @@
     },
     {
       "name": "Destroying the City Trade (MISSABLE)",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Frontier Village Quests (Development Level 2)",
         "AffinityQuests"
@@ -9130,7 +9130,7 @@
     },
     {
       "name": "Collect Quest 2 (Eryth Sea)",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Eryth Sea Quests",
         "CollectionQuests"
@@ -9193,7 +9193,7 @@
     },
     {
       "name": "Trouble at the Lighthouse",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Eryth Sea Quests",
         "AffinityQuests"
@@ -9283,7 +9283,7 @@
     },
     {
       "name": "Building Bridges (MISSABLE)",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Alcamoth Quests",
         "AffinityQuests"
@@ -9364,7 +9364,7 @@
     },
     {
       "name": "Getting a Member's Card (MISSABLE)",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Alcamoth Quests",
         "AffinityQuests"
@@ -11568,7 +11568,7 @@
     },
     {
       "name": "Hovering Reef 3",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Locations",
         "locations"
@@ -11577,7 +11577,7 @@
     },
     {
       "name": "Hovering Reef 4",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Locations",
         "locations"
@@ -11586,7 +11586,7 @@
     },
     {
       "name": "Hovering Reef 5",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Locations",
         "locations"
@@ -11595,7 +11595,7 @@
     },
     {
       "name": "Hovering Reef 6",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Locations",
         "locations"
@@ -11694,7 +11694,7 @@
     },
     {
       "name": "Revelation Hall",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Alcamoth Locations",
         "locations"
@@ -11703,7 +11703,7 @@
     },
     {
       "name": "Sky Terrace",
-      "region": "Alcamoth",
+      "region": "High Entia Tomb",
       "category": [
         "Alcamoth Locations",
         "locations"
