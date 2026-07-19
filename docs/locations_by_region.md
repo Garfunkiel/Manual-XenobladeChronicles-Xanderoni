@@ -80,7 +80,6 @@
         - Rocco's Heartful Request
         - Education-Minded Suzanna
         - Pride and Courage
-        - Overworked and Underpaid
     - Category: ChallengeQuests
         - Challenge 1 (Colony 9)
         - Challenge 2 (Colony 9)
@@ -209,6 +208,7 @@
         - The Plan - Preparation
         - A Young Captain's Suffering
         - A Young Captain's Rise
+        - Overworked and Underpaid
         - The Plan - The Night Before
         - The Plan - Execution
         - Arachno Silk Fundraising
@@ -473,7 +473,6 @@
     - Category: landmarks
         - Freight Road
         - Misty Path
-        - Main Entrance (Colony 6)
         - Drainage Tunnel
         - Drainage Control Room
         - Mining Base
@@ -528,7 +527,6 @@
         - Zazadan Still in Danger
         - It's All in the Mind
         - A Mysterious Delicacy
-        - A Gift? (MISSABLE)
     - Category: Collectopaedia
         - Satorl Marsh Collectopaedia Page Completion
         - Satorl Marsh Collectopaedia Vegetable Completion
@@ -566,6 +564,7 @@
         - Veteran Yozel (Lv 83)
     - Category: landmarks
         - Reconstruction HQ
+        - Main Entrance (Colony 6)
         - Kelsher Wetland
         - Nopon Merchant Camp
         - Crown Tree
@@ -608,10 +607,10 @@
         - Need...More...Treasure
         - You May Have This
         - Unbreakable Bond
-    - Category: AffinityChart
-        - Nopon Sage
     - Category: AffinityQuests
+        - Paola and Narine
         - A Young Captain's Challenge
+        - The Old Soldier's Test
         - Rest in Peace
         - A Gutsy Trader
     - Category: Collectopaedia
@@ -716,9 +715,8 @@
         - Tuzu
         - Yusa
     - Category: AffinityQuests
-        - Paola and Narine
-        - The Old Soldier's Test
         - Legend of Mythical Empress
+        - A Gift? (MISSABLE)
         - Hunt for Bug-Loving Friend
         - Leku's Food Crisis
         - Making a Mixer
@@ -824,8 +822,7 @@
         - Anti-Air Battering
         - Cosmic Killer Combo
     - Category: AffinityChart
-        - Jarack
-        - Shalen
+        - Nopon Sage
     - Category: AffinityQuests
         - Legend of the Sage
         - Challenge of the Sage
@@ -867,12 +864,7 @@
     - Category: landmarks
         - Latael Shore
         - Centre Gate
-        - High Entia Tomb
         - Syrath Lighthouse
-        - Central Seal Island
-        - Soltnar Seal Island
-        - Khatorl Seal Island
-        - Ether Plant
         - Faras Cave
     - Category: locations
         - Anu Shore
@@ -881,6 +873,10 @@
         - Hode Refuge
         - Hovering Reef 1
         - Hovering Reef 2
+        - Hovering Reef 3
+        - Hovering Reef 4
+        - Hovering Reef 5
+        - Hovering Reef 6
         - Kromar Coast
         - Secluded Island
         - Showdown Cliff
@@ -892,6 +888,8 @@
         - Charitable Ally
         - Can't Keep 'Em Down
     - Category: AffinityChart
+        - Jarack
+        - Shalen
         - Arielle
         - Atael
         - Baroba
@@ -943,18 +941,14 @@
         - Find the Kingpin (MISSABLE)
         - Adviser Hunt (MISSABLE)
         - Evidence Collection (MISSABLE)
-        - Destroying the City Trade (MISSABLE)
         - Trouble at the Plant
         - Punish the Hodes
         - Mend the Plant
         - Hode Attack
-        - Trouble at the Lighthouse
         - A Friend in Need (MISSABLE)
         - Back Pain (MISSABLE)
         - Bring Back My Son! (MISSABLE)
         - Teaching Materials (MISSABLE)
-        - Building Bridges (MISSABLE)
-        - Getting a Member's Card (MISSABLE)
         - Going Out to Play (MISSABLE)
         - How Do They Feel? (MISSABLE)
         - How Do I Feel? (MISSABLE)
@@ -977,7 +971,6 @@
         - Challenge 4 (Alcamoth) (MISSABLE)
     - Category: CollectionQuests
         - Collect Quest 1 (Eryth Sea)
-        - Collect Quest 2 (Eryth Sea)
         - Collection Quest 1 (Alcamoth} (MISSABLE)
         - Collection Quest 2 (Alcamoth} (MISSABLE)
         - Collection Quest 3 (Alcamoth} (MISSABLE)
@@ -1034,26 +1027,24 @@
         - Subterranean Zomar (Lv 40)
         - Tempestuous Edegia (Lv 39)
     - Category: landmarks
+        - High Entia Tomb
+        - Central Seal Island
+        - Soltnar Seal Island
+        - Khatorl Seal Island
+        - Ether Plant
         - Main Entrance (Alcamoth)
         - Fountain of Hope
         - Fountain of Eternity
         - Imperial Palace
         - Ascension Hall
         - Whitewing Palace
-        - Imperial Villa
     - Category: locations
-        - Hovering Reef 3
-        - Hovering Reef 4
-        - Hovering Reef 5
-        - Hovering Reef 6
         - Hovering Reef 7
         - Hovering Reef 8
         - Hovering Reef 9
         - Hovering Reef 10
         - Great Hall
         - Melfica Road
-        - Revelation Hall
-        - Sky Terrace
         - Audience Chamber
 - Region: High Entia Tomb
     - Category: Achievements
@@ -1061,8 +1052,14 @@
         - Who Dares Defy Me?
         - The Final Step
     - Category: AffinityQuests
+        - Destroying the City Trade (MISSABLE)
+        - Trouble at the Lighthouse
+        - Building Bridges (MISSABLE)
+        - Getting a Member's Card (MISSABLE)
         - A Necessary Upgrade (MISSABLE)
         - Starlight Gazer (MISSABLE)
+    - Category: CollectionQuests
+        - Collect Quest 2 (Eryth Sea)
     - Category: Collectopaedia
         - High Entia Tomb Collectopaedia Page Completion
         - High Entia Tomb Collectopaedia Bug Completion
@@ -1088,6 +1085,7 @@
     - Category: UniqueMonsters
         - Calm Anzabi (Lv 38)
     - Category: landmarks
+        - Imperial Villa
         - Tomb Approach
         - Sealed Chamber
         - Ceremony Hall
@@ -1095,11 +1093,14 @@
         - Valley of Emperors
         - Tower of Trials - Bridge
     - Category: locations
+        - Revelation Hall
+        - Sky Terrace
         - Hall of Spirits
         - Hall of Trials
         - Second Treasury
 - Region: Prison Island (1st Visit)
     - Category: AffinityQuests
+        - Bridge Repair
         - Giant Attack!
         - Mystery of Makna Ruins 1
         - Mystery of Makna Ruins 2
@@ -1157,7 +1158,6 @@
         - Unstoppable Berryjammy
         - The Most Transparent Thing
         - A Final Sweet Favour
-        - Bridge Repair
         - Material Quest 3 (Frontier Village)
         - Believing Again (MISSABLE)
         - Chilkins and Antols
