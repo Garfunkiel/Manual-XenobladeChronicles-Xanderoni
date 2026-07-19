@@ -715,7 +715,6 @@
         - Tuzu
         - Yusa
     - Category: AffinityQuests
-        - Legend of Mythical Empress
         - A Gift? (MISSABLE)
         - Hunt for Bug-Loving Friend
         - Leku's Food Crisis
@@ -1152,6 +1151,7 @@
     - Category: AffinityChart
         - Dakuku
     - Category: AffinityQuests
+        - Legend of Mythical Empress
         - Obstinate Berryjammy
         - A Tantalising Treat
         - Cook-Off Showdown!

@@ -7672,12 +7672,13 @@
     },
     {
       "name": "Legend of Mythical Empress",
-      "region": "Frontier Village",
+      "region": "Valak Mountain",
       "category": [
         "Bionis' Leg Quests (Colony 6 Development Level 3)",
         "AffinityQuests"
       ],
-      "requires": ""
+      "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|",
+      "_comment": "Requirements above are only here to match dev level 3; adjust accordingly if that changes"
     },
     {
       "name": "A Flower for a Rose",
