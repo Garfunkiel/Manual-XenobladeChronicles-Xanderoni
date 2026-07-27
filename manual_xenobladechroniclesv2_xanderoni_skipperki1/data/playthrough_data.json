@@ -559,7 +559,6 @@
             "Collection Quest 4 (Frontier Village)",
             "Dadapon in Trouble",
             "Decoration Makeover",
-            "Defend Colony 6 - Mechon (15% Reconstruction)",
             "Disinsectization",
             "Fixing Time Mushrooms",
             "Heropon's Spirit",
@@ -597,9 +596,7 @@
             "Things that Hum",
             "Things that Rumble"
         ],
-        "Unique Monsters": [
-            "Obsessive Galgaron (Lv 35)"
-        ]
+        "Unique Monsters": []
     },
     "Eryth Sea": {
         "Bosses": [],
