@@ -1,3 +1,4 @@
+from Options import OptionError
 from typing import Optional
 from worlds.AutoWorld import World
 from ..Helpers import clamp, get_items_with_value, get_option_value
@@ -65,15 +66,16 @@ REGION_LEVELS = [
 
 def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
     DT = get_option_value(multiworld, player, "Danger_Tolerance")
+
+    if not type(DT) is int:
+        raise OptionError("Danger Tolerance must be an integer value")
+
     effectiveLevel = monsterLevel - DT
 
     requirements = ""
 
     for region in REGION_LEVELS:
         requirements = region["requires"]
-        #if requirements != "":
-        #    requirements += " AND "
-        #requirements += region["requires"]
 
         if effectiveLevel < region["level"]:
             break
