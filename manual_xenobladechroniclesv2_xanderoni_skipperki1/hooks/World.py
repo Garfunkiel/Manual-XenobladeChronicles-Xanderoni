@@ -4,6 +4,8 @@ from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 from Options import OptionError
 from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
+from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
+from .HeartToHearts import setHeartToHeartRules
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -201,6 +203,16 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
     CollectopaediaCache.clear()
 
+    if is_option_enabled(multiworld, player, "UniqueMonsters"):
+        setUniqueMonsterRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "SuperBosses"):
+        setSuperBossRules(world, multiworld, player)
+
+    if get_option_value(multiworld, player, "GameVersion") == 2:
+        for loc in multiworld.get_locations(player):
+            if "Nopon Grand Prix" in loc.name and not "Champion" in loc.name:
+                loc.access_rule = lambda state, player=player: state.has("Ether Jet", player, 1)
 
     CollectopaediaType = get_option_value(multiworld, player, "Collectopaedia")
 
@@ -219,6 +231,10 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
             area = loc["area"]
             cat = loc["cat"]
             location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
+
+
+    if is_option_enabled(multiworld, player, "HeartToHearts"):
+        setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
 
     pass
 
