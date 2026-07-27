@@ -4,7 +4,7 @@ from .manual_test import XenobladeManualTest
 class XenobladeManualTest_ColSanity_Colony6(XenobladeManualTest):
     game = game_name
     options = {
-        "collectopaediasanity": True,
+        "Collectopaedia": 2,
     }
 
     def test_C6Flowers(self):

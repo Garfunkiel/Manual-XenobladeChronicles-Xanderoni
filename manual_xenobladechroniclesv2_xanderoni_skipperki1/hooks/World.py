@@ -44,10 +44,6 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
-    if world.options.Collectopaedia == False and world.options.collectopaediasanity == True:
-        raise OptionError(
-            "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
-        )
 
     keys = [
         # 1 each
@@ -162,13 +158,14 @@ def before_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 CollectopaediaCache = []
 
-def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str):
+def getCollectopaediaValue(world: World, state: CollectionState, player: int, area: str):
+    catName = f"{area} Collectopaedia"
     cacheKey = f"{player}-{catName}"
 
     if cacheKey in CollectopaediaCache:
         return True
 
-    val = state.has_all(world.item_name_groups[catName], player)
+    val = state.has_all(world.item_name_groups[catName], player) and getColVal(state, area, "ALL", player)
 
     if val:
         CollectopaediaCache.append(cacheKey)
@@ -204,21 +201,25 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
     CollectopaediaCache.clear()
 
-    if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
+
+    CollectopaediaType = get_option_value(multiworld, player, "Collectopaedia")
+
+    if CollectopaediaType >= 2:
         for loc in COLLECTOPAEDIA_LOCATIONS:
             location = multiworld.get_location(loc["name"], player)
             area = loc["area"]
             cat = loc["cat"]
             if cat == "ALL":
-                location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
+                location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, area))
             else:
                 location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
-    elif is_option_enabled(multiworld, player, "Collectopaedia"):
+    elif CollectopaediaType == 1:
         for loc in COLLECTOPAEDIA_LOCATIONS:
             location = multiworld.get_location(loc["name"], player)
             area = loc["area"]
             cat = loc["cat"]
             location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
+
     pass
 
 # The item name to create is provided before the item is created, in case you want to make changes to it

@@ -4,7 +4,7 @@ from .manual_test import XenobladeManualTest
 class XenobladeManualTest_NoColSanity_TephraCave(XenobladeManualTest):
     game = game_name
     options = {
-        "collectopaediasanity": False,
+        "Collectopaedia": 1,
     }
 
     def test_TCFlower(self):

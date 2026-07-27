@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
-        "goal":{
+        "goal": {
             "_comment": [
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
@@ -78,7 +78,7 @@
             "default": true
         },
 
-        "GameVersion":{
+        "GameVersion": {
             "type": "Choice",
             "description": [
                 "This option changes certain logic and items based on the version of the game.",
@@ -93,7 +93,23 @@
             "default": 0
         },
 
-        "Spoilers":{
+        "Collectopaedia": {
+            "type": "Choice",
+            "description": [
+                "This option determines what items and locations should be used for the Collectopaedia",
+                "No Collectopaedia removes all Collectopaedia items and locations",
+                "Categories Only excludes individual items from being included",
+                "Collectopaediasanity includes all Collectopaedia items and locations"
+            ],
+            "values": {
+                "No Collectopaedia": 0,
+                "Categories Only": 1,
+                "Collectopaediasanity": 2
+            },
+            "default": 1
+        },
+
+        "Spoilers": {
             "type": "Toggle",
             "description": [
                 "This option changes the names of Locations and Items in regards to Seven",
@@ -103,7 +119,7 @@
             "default": false
         },
 
-        "Danger_Tolerance":{
+        "Danger_Tolerance": {
             "type": "Range",
             "description": [
                 "This option allows you to specify how much additional danger you can potentially be required to face before advancing to the next area of the game",

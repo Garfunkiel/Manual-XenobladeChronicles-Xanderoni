@@ -4,7 +4,7 @@ from .manual_test import XenobladeManualTest
 class XenobladeManualTest_ColSanity_EtherMine(XenobladeManualTest):
     game = game_name
     options = {
-        "collectopaediasanity": True,
+        "Collectopaedia": 2,
     }
 
     def test_EMAnimals(self):

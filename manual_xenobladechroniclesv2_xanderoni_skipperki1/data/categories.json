@@ -84,10 +84,7 @@
     ]
   },
   "Collectopaedia": {
-    "hidden": false,
-    "yaml_option": [
-      "Collectopaedia"
-    ]
+    "hidden": false
   },
   "HeartToHearts": {
     "hidden": false,
@@ -120,10 +117,7 @@
     ]
   },
   "Collectopaediasanity": {
-    "hidden": false,
-    "yaml_option": [
-      "collectopaediasanity"
-    ]
+    "hidden": false
   },
   "NoponGrandPrix": {
     "hidden": false,

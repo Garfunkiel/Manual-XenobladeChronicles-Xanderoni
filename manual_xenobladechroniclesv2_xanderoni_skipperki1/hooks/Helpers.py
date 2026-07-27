@@ -10,6 +10,16 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
         return get_option_value(multiworld, player, "GameVersion") >= 1
     if category_name == "Switch2Version":
         return get_option_value(multiworld, player, "GameVersion") == 2
+
+    if category_name == "Collectopaedia Pages":
+        return get_option_value(multiworld, player, "Collectopaedia") >= 1
+
+    if category_name == "Collectopaedia":
+        return get_option_value(multiworld, player, "Collectopaedia") >= 1
+
+    if category_name == "Collectopaediasanity":
+        return get_option_value(multiworld, player, "Collectopaedia") == 2
+
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled

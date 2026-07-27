@@ -4,7 +4,7 @@ from .manual_test import XenobladeManualTest
 class XenobladeManualTest_ColSanity_BionisLeg(XenobladeManualTest):
     game = game_name
     options = {
-        "collectopaediasanity": True,
+        "Collectopaedia": 2,
     }
 
     def test_BLVegetables(self):
@@ -12,6 +12,13 @@ class XenobladeManualTest_ColSanity_BionisLeg(XenobladeManualTest):
         self.checkItemsForLocation("Bionis' Leg Collectopaedia Vegetable Completion",
             self.getRegionKeyRequirements("Bionis' Leg") + [
             "Progressive Vegetable Category:2", "Hot Taro", "Juicy Broccoli", "Spicy Cabbage", "Hard Lotus"
+        ])
+
+    def test_BLVegetablesOppositeOrder(self):
+        """Test Bionis' Leg Vegetable Completion with Collectopaediasanity ON"""
+        self.checkItemsForLocation("Bionis' Leg Collectopaedia Vegetable Completion",
+            self.getRegionKeyRequirements("Bionis' Leg") + [
+            "Hard Lotus", "Spicy Cabbage", "Juicy Broccoli", "Hot Taro", "Progressive Vegetable Category:2"
         ])
 
     def test_BLFruit(self):
@@ -59,4 +66,22 @@ class XenobladeManualTest_ColSanity_BionisLeg(XenobladeManualTest):
             "Progressive Nature Category:2", "Mat Ice", "Bluesky Bark", "Pione Stone",
             "Progressive Part Category:2", "Rusty Bolt", "Winding Gear",
             "Progressive Strange Category:3", "Gold Dust Illusion", "Devious Gravity", "White Songbird", "Death Bangle"
+        ])
+
+    def test_BLAllOppositeOrder(self):
+        """Test Bionis' Leg Collectopaedia Completion with Collectopaediasanity ON"""
+        self.checkItemsForLocation("Bionis' Leg Collectopaedia Page Completion",
+            self.getRegionKeyRequirements("Bionis' Leg") + [
+            "Hot Taro", "Juicy Broccoli", "Spicy Cabbage", "Hard Lotus",
+            "Sour Gooseberry", "Red Durian", "Walnut Grape", "Humming Plum",
+            "White Ladybird", "Hill Firefly", "Moth Crawler", "Queen Locust", "Fire Tarantula",
+            "Mat Ice", "Bluesky Bark", "Pione Stone",
+            "Rusty Bolt", "Winding Gear",
+            "Gold Dust Illusion", "Devious Gravity", "White Songbird", "Death Bangle",
+            "Progressive Vegetable Category:2",
+            "Progressive Fruit Category:3",
+            "Progressive Bug Category:3",
+            "Progressive Nature Category:2",
+            "Progressive Part Category:2",
+            "Progressive Strange Category:3"
         ])
