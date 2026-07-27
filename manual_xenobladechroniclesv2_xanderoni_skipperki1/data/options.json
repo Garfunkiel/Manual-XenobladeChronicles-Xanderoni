@@ -129,22 +129,31 @@
             }
         },
 
-        "Key_Leniency":{
+        "Key_Leniency": {
             "type": "Range",
             "description": [
                 "This option allows you to specify how many areas have keys that are placed local/early in the Multiworld.",
-                "Default is Tephra Cave, Minimum is Colony 9 only, Maximum is Satorl Marsh"
+                "Default is Tephra Cave, Minimum is Colony 9 only, Maximum is Prison Island (1st Visit)",
+                "The higher the value, the more checks will be in your sphere 1, so choose a value higher than around 2 or 3 with caution",
+                "For this reason, the recommended values are 0, 1, and 2"
             ],
             "range_start": 0,
             "default": 1,
-            "range_end": 5,
+            "range_end": 12,
             "values": {
                 "Colony 9 only": 0,
                 "Tephra Cave": 1,
                 "Bionis' Leg": 2,
                 "Colony 6": 3,
                 "Ether Mine": 4,
-                "Satorl Marsh": 5
+                "Satorl Marsh": 5,
+                "Bionis' Interior (1st Visit)": 6,
+                "Makna Forest": 7,
+                "Frontier Village": 8,
+                "Eryth Sea": 9,
+                "Alcamoth": 10,
+                "High Entia Tomb": 11,
+                "Prison Island (1st Visit)": 12
             }
         }
     }

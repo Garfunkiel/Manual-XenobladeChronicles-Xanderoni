@@ -49,24 +49,50 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
             "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
         )
 
-    # TODO: add the remaining keys (for players wanting to play a "big/all sphere 1" type of async) and use a loop+array to make this more clean
+    keys = [
+        # 1 each
+        "Tephra Cave Key",
+        "Bionis' Leg Key",
+        "Colony 6 Key",
+        "Ether Mine Key",
+        "Satorl Marsh Key",
+        "Bionis' Interior (1st Visit) Key",
+        "Makna Forest Key",
+        "Frontier Village Key",
+        "Eryth Sea Key",
+        "Alcamoth Key",
+        "High Entia Tomb Key",
+        # 2 each
+        "Prison Island (1st Visit) Key",
+        # VALUES BELOW ARE INACCESSIBLE AS THESE CAUSE INCREASING NUMBERS OF FUZZING FAILURES
+        "Valak Mountain Key",
+        "Sword Valley Key",
+        "Galahad Fortress Key",
+        "Fallen Arm Key",
+        "Mechonis Field Key",
+        "Central Factory Key",
+        # 3 each
+        "Agniratha Key",
+        "Mechonis Core Key",
+        "Bionis' Interior (2nd Visit) Key",
+        "Prison Island (2nd Visit) Key"
+    ]
 
     keyLeniency = get_option_value(multiworld, player, "Key_Leniency")
 
-    if keyLeniency > 0:
-        multiworld.local_early_items[player]["Tephra Cave Key"] = 1
+    if not type(keyLeniency) is int:
+        raise OptionError("Key Leniency must be an integer value")
 
-    if keyLeniency > 1:
-        multiworld.local_early_items[player]["Bionis' Leg Key"] = 1
+    for i, key in enumerate(keys, start=1):
+        if keyLeniency < i:
+            break
 
-    if keyLeniency > 2:
-        multiworld.local_early_items[player]["Colony 6 Key"] = 1
-
-    if keyLeniency > 3:
-        multiworld.local_early_items[player]["Ether Mine Key"] = 1
-
-    if keyLeniency > 4:
-        multiworld.local_early_items[player]["Satorl Marsh Key"] = 1
+        if i <= 11:
+            multiworld.local_early_items[player][key] = 1
+        elif i <= 18:
+            multiworld.local_early_items[player][key] = 2
+        else:
+            multiworld.local_early_items[player][key] = 3
 
     pass
 
