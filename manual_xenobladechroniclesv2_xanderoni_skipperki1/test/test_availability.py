@@ -2,23 +2,13 @@ from ..Game import game_name
 from .manual_test import XenobladeManualTest, regions, region_keys, hunting_regions
 from ..Helpers import load_data_file as helpers_load_data_file
 
-RUN_TESTS = False # Set to False to skip availability tests and save build minutes
-
 class XenobladeManualTest_Availability(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": 119,
     }
 
-    def test_availability(self, *args):
-        # only run tests if the flag is set to save build minutes
-        if (not RUN_TESTS):
-            self.assertTrue(True)
-            return
-
-        self.doRunAvailabilityTests()
-
-    def doRunAvailabilityTests(self):
+    def test_availability(self):
         data = helpers_load_data_file("playthrough_data.json")
 
         locations_by_region = []
