@@ -7,6 +7,7 @@ from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATION
 from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
 from .HeartToHearts import setHeartToHeartRules
 from .StartingItems import set_starting_items
+from .NoponGrandPrix import setNoponGrandPrixRules
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -216,9 +217,8 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
         setSuperBossRules(world, multiworld, player)
 
     if get_option_value(multiworld, player, "GameVersion") == 2:
-        for loc in multiworld.get_locations(player):
-            if "Nopon Grand Prix" in loc.name and not "Champion" in loc.name:
-                loc.access_rule = lambda state, player=player: state.has("Ether Jet", player, 1)
+        if is_option_enabled(multiworld, player, "NoponGrandPrix"):
+            setNoponGrandPrixRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
 
     CollectopaediaType = get_option_value(multiworld, player, "Collectopaedia")
 
