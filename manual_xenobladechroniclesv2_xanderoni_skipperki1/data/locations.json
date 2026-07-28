@@ -755,7 +755,7 @@
     },
     {
       "name": "Erratic Goliante (Lv 97)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -771,7 +771,7 @@
     },
     {
       "name": "Judicious Bunnitzol (Lv 94)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -787,7 +787,7 @@
     },
     {
       "name": "Musical Vanflare (Lv 93)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -795,7 +795,7 @@
     },
     {
       "name": "Plump Sprahda (Lv 92)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -803,7 +803,7 @@
     },
     {
       "name": "Protective Torquidon (Lv 96)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -811,7 +811,7 @@
     },
     {
       "name": "Reckless Galdon (Lv 95)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -835,7 +835,7 @@
     },
     {
       "name": "Dazzling Tolosnia (Lv 97)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -843,7 +843,7 @@
     },
     {
       "name": "Firework Geldesia (Lv 98)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -851,7 +851,7 @@
     },
     {
       "name": "Reckless Zanden (Lv 98)",
-      "region": "Mechonis Core",
+      "region": "Tephra Cave",
       "category": [
         "Tephra Cave Unique Monsters",
         "UniqueMonsters"
@@ -1384,7 +1384,7 @@
     },
     {
       "name": "Drifter Jutard (Lv 25)",
-      "region": "Ether Mine",
+      "region": "Colony 6",
       "category": [
         "Colony 6 Unique Monsters",
         "UniqueMonsters"
@@ -1904,7 +1904,7 @@
     },
     {
       "name": "SUPERBOSS Despotic Arsene (Lv 108)",
-      "region": "Mechonis Core",
+      "region": "Satorl Marsh",
       "category": [
         "Satorl Marsh Unique Monsters",
         "SuperBosses"
@@ -2239,7 +2239,7 @@
     },
     {
       "name": "Brutal Gravar (Lv 46)",
-      "region": "Prison Island (1st Visit)",
+      "region": "Makna Forest",
       "category": [
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
@@ -2255,7 +2255,7 @@
     },
     {
       "name": "Illustrious Golteus (Lv 98)",
-      "region": "Mechonis Core",
+      "region": "Makna Forest",
       "category": [
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
@@ -2271,7 +2271,7 @@
     },
     {
       "name": "Magnificent Digalus (Lv 99)",
-      "region": "Mechonis Core",
+      "region": "Makna Forest",
       "category": [
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
@@ -2295,7 +2295,7 @@
     },
     {
       "name": "Unreliable Rezno (Lv 96)",
-      "region": "Mechonis Core",
+      "region": "Makna Forest",
       "category": [
         "Makna Forest Unique Monsters",
         "UniqueMonsters"
@@ -2973,7 +2973,7 @@
     },
     {
       "name": "Cumulus Danaemos (Lv 41)",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
@@ -2981,7 +2981,7 @@
     },
     {
       "name": "Deadly Medorlo (Lv 93)",
-      "region": "Mechonis Core",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
@@ -3013,7 +3013,7 @@
     },
     {
       "name": "Peeling Kircheis (Lv 38)",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
@@ -3045,7 +3045,7 @@
     },
     {
       "name": "Subterranean Zomar (Lv 40)",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
@@ -3053,7 +3053,7 @@
     },
     {
       "name": "Tempestuous Edegia (Lv 39)",
-      "region": "Alcamoth",
+      "region": "Eryth Sea",
       "category": [
         "Eryth Sea Unique Monsters",
         "UniqueMonsters"
@@ -3676,7 +3676,7 @@
     },
     {
       "name": "Furious Jozan (Lv 96)",
-      "region": "Mechonis Core",
+      "region": "High Entia Tomb",
       "category": [
         "High Entia Tomb Unique Monsters",
         "UniqueMonsters"
@@ -3914,7 +3914,7 @@
     },
     {
       "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
-      "region": "Mechonis Core",
+      "region": "Valak Mountain",
       "category": [
         "Valak Mountain Unique Monsters",
         "SuperBosses"
@@ -3930,7 +3930,7 @@
     },
     {
       "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
-      "region": "Mechonis Core",
+      "region": "Valak Mountain",
       "category": [
         "Valak Mountain Unique Monsters",
         "SuperBosses"
@@ -4519,7 +4519,7 @@
     },
     {
       "name": "SUPERBOSS Ancient Daedala (Lv 105)",
-      "region": "Mechonis Core",
+      "region": "Fallen Arm",
       "category": [
         "Fallen Arm Unique Monsters",
         "SuperBosses"
