@@ -6,6 +6,7 @@ from Options import OptionError
 from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
 from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
 from .HeartToHearts import setHeartToHeartRules
+from .StartingItems import set_starting_items
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -81,6 +82,9 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     if not type(keyLeniency) is int:
         raise OptionError("Key Leniency must be an integer value")
 
+    if get_option_value(multiworld, player, "Post_Game") == True:
+        keyLeniency = 0
+
     for i, key in enumerate(keys, start=1):
         if keyLeniency < i:
             break
@@ -135,6 +139,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     #
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
+
+    set_starting_items(item_pool, world, multiworld, player)
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
@@ -232,6 +238,8 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
             cat = loc["cat"]
             location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
 
+    if is_option_enabled(multiworld, player, "Post_Game"):
+        return
 
     if is_option_enabled(multiworld, player, "HeartToHearts"):
         setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))

@@ -215,10 +215,14 @@ def getEventForStoryRequirement(story_requirement):
     return None
 
 def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
-    Challenge_Quests_Enabled = is_option_enabled(multiworld, player, "ChallengeQuests")
+    In_Post_Game = is_option_enabled(multiworld, player, "Post_Game")
+    Unavailable_In_Post_Game = is_option_enabled(multiworld, player, "UnavailableInPostGame")
+    Challenge_Quests_Enabled = is_option_enabled(multiworld, player, "ChallengeQuests") and not In_Post_Game
 
-    uniques = UNIQUE_MONSTERS + UNIQUE_MONSTERS_MISSABLE
-
+    if In_Post_Game or not Unavailable_In_Post_Game:
+        uniques = UNIQUE_MONSTERS
+    else:
+        uniques = UNIQUE_MONSTERS + UNIQUE_MONSTERS_MISSABLE
 
     for UM in uniques:
         name = UM["Name"]
@@ -226,8 +230,10 @@ def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
         level = UM["Level"]
         associated_challenge_quest = UM.get("ChallengeQuest", None)
 
-        addt_rule = getEventForStoryRequirement(UM.get("Story", None))
-
+        if In_Post_Game:
+            addt_rule = None
+        else:
+            addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
         multiworld.get_location(name, player).access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
             UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
@@ -237,10 +243,13 @@ def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
                 UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
 
 def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
+    In_Post_Game = is_option_enabled(multiworld, player, "Post_Game")
 
     for UM in SUPER_BOSSES:
-        addt_rule = getEventForStoryRequirement(UM.get("Story", None))
-
+        if In_Post_Game:
+            addt_rule = None
+        else:
+            addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
         multiworld.get_location(UM["Name"], player).access_rule = lambda state, multiworld=multiworld, player=player, licenses=UM["Licenses"], level=UM["Level"], addt_rule=addt_rule: \
             UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)

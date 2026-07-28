@@ -4116,7 +4116,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4124,7 +4125,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4132,7 +4134,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4140,7 +4143,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4148,7 +4152,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4156,7 +4161,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4164,7 +4170,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4172,7 +4179,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4180,7 +4188,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4188,7 +4197,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4196,7 +4206,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4204,7 +4215,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4212,7 +4224,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4220,7 +4233,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4228,7 +4242,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4236,7 +4251,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4244,7 +4260,8 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4252,14 +4269,16 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
       "name": "Mumkhar (Sword Valley)",
       "region": "Sword Valley (MISSABLE)",
       "category": [
-        "Sword Valley Bosses"
+        "Sword Valley Bosses",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4315,7 +4334,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4323,7 +4343,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4331,7 +4352,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4339,7 +4361,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4347,7 +4370,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Landmarks",
-        "landmarks"
+        "landmarks",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4355,7 +4379,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4363,7 +4388,8 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4371,14 +4397,16 @@
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
         "Galahad Fortress Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
       "name": "Gold Face (Galahad Fortress)",
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
-        "Galahad Fortress Bosses"
+        "Galahad Fortress Bosses",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4922,7 +4950,8 @@
       "region": "Mechonis Field (MISSABLE)",
       "category": [
         "Mechonis Field Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4930,7 +4959,8 @@
       "region": "Mechonis Field (MISSABLE)",
       "category": [
         "Mechonis Field Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4938,7 +4968,8 @@
       "region": "Mechonis Field (MISSABLE)",
       "category": [
         "Mechonis Field Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4946,7 +4977,8 @@
       "region": "Mechonis Field (MISSABLE)",
       "category": [
         "Mechonis Field Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -4954,7 +4986,8 @@
       "region": "Mechonis Field (MISSABLE)",
       "category": [
         "Mechonis Field Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5105,7 +5138,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5113,7 +5147,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5121,7 +5156,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5129,7 +5165,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5137,7 +5174,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5145,7 +5183,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5153,7 +5192,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5161,7 +5201,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5169,7 +5210,8 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5320,7 +5362,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5328,7 +5371,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5336,7 +5380,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5344,7 +5389,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5352,7 +5398,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5360,7 +5407,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5368,7 +5416,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -5376,7 +5425,8 @@
       "region": "Agniratha (MISSABLE)",
       "category": [
         "Agniratha Unique Monsters",
-        "UniqueMonsters"
+        "UniqueMonsters",
+        "UnavailableInPostGame"
       ]
     },
     {
@@ -11408,7 +11458,8 @@
       "victory": true,
       "category": [
         "Memory Space"
-      ]
+      ],
+      "requires": "|Full Game Access|"
     },
     {
       "name": "Hunter-in-Training",
@@ -12853,7 +12904,7 @@
       "category": [
         "CollectorGoal"
       ],
-      "requires": "({YamlDisabled(collectopaediasanity)} AND |@Collectopaedia Pages:ALL|) OR ({YamlEnabled(collectopaediasanity)} AND |@Collectopaediasanity:ALL|)"
+      "requires": "|Full Game Access| AND ({YamlDisabled(collectopaediasanity)} AND |@Collectopaedia Pages:ALL|) OR ({YamlEnabled(collectopaediasanity)} AND |@Collectopaediasanity:ALL|)"
     },
     {
       "name": "Monster Hunter Goal",
@@ -12862,7 +12913,7 @@
       "category": [
         "MonsterHunterGoal"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Full Game Access| AND |Progressive Hunting License:18|"
     },
     {
       "name": "Super Monster Hunter Goal",
@@ -12871,7 +12922,7 @@
       "category": [
         "SuperMonsterHunterGoal"
       ],
-      "requires": "|Progressive Hunting License:18|"
+      "requires": "|Full Game Access| AND |Progressive Hunting License:18|"
     },
     {
       "name": "NGP - Caterpile Circuit - Win with Shulk",

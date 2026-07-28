@@ -70,6 +70,9 @@ def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
     if not type(DT) is int:
         raise OptionError("Danger Tolerance must be an integer value")
 
+    if get_option_value(multiworld, player, "Post_Game") == True:
+        return True
+
     effectiveLevel = monsterLevel - DT
 
     requirements = ""

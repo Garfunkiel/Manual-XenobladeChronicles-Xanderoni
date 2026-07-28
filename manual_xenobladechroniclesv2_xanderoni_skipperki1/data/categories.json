@@ -130,5 +130,11 @@
     "yaml_option": [
       "NoponGrandPrix"
     ]
+  },
+  "UnavailableInPostGame": {
+    "hidden": false,
+    "yaml_option": [
+      "UnavailableInPostGame"
+    ]
   }
 }

@@ -171,6 +171,41 @@
                 "High Entia Tomb": 11,
                 "Prison Island (1st Visit)": 12
             }
+        },
+
+        "Post_Game": {
+            "type": "Toggle",
+            "description": [
+                "This option determines whether the logic considers you to be playing from a New Game/New Game Plus save or from a post-game save.",
+                "Use Post_Game_Region to specify (or randomize) your starting region if you enable this option.",
+                "Default is False"
+            ],
+            "default": false
+        },
+
+        "Post_Game_Region": {
+            "type": "Choice",
+            "description": [
+                "This option determines which region is unlocked by default when playing with Post_Game enabled."
+            ],
+            "values": {
+                "Colony 9": 1,
+                "Tephra Cave": 2,
+                "Bionis' Leg": 3,
+                "Colony 6": 4,
+                "Ether Mine": 5,
+                "Satorl Marsh": 6,
+                "Makna Forest": 7,
+                "Frontier Village": 8,
+                "Eryth Sea": 9,
+                "Alcamoth": 10,
+                "High Entia Tomb": 11,
+                "Valak Mountain": 12,
+                "Fallen Arm": 13,
+                "Bionis' Interior": 14,
+                "Prison Island": 15
+            },
+            "default": 1
         }
     }
 }

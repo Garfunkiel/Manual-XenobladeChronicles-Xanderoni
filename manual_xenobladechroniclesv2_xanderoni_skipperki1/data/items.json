@@ -5516,6 +5516,14 @@
         "Switch2Version"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colony 9 Key",
+      "category": [
+        "Area Keys"
+      ],
+      "progression": true
     }
   ]
 }
