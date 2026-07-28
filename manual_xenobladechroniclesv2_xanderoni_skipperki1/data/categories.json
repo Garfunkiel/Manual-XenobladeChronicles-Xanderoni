@@ -116,6 +116,12 @@
       "Artsanity"
     ]
   },
+  "Gems": {
+    "hidden": false,
+    "yaml_option": [
+      "Gems"
+    ]
+  },
   "Collectopaediasanity": {
     "hidden": false
   },
