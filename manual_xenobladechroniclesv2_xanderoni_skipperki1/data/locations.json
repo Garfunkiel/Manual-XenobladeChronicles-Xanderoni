@@ -1629,7 +1629,7 @@
         "Colony 6 Development Level",
         "DevelopmentLevels"
       ],
-      "requires": "(|Progressive Hunting License:3| OR (|Agniratha Key:3| AND |Mechonis Core Key:3|)) AND |Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "(|Progressive Hunting License:3| OR |Mechonis Core Access|) AND |Colony 6 Reconstruction Housing Level:5| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|"
     },
     {
       "name": "Colony 6 Development Level 5",
@@ -6975,7 +6975,7 @@
         "Colony 6 Quests",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Cook-Off Comeback?",
@@ -6984,7 +6984,7 @@
         "Colony 6 Quests (Development Level 1)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Cook-Off Final Blow?!",
@@ -6993,7 +6993,7 @@
         "Colony 6 Quests (Development Level 1)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "A Delectable Delicacy",
@@ -7002,7 +7002,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Looking for Freedom",
@@ -7011,7 +7011,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
@@ -7029,7 +7029,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Berryjammy in Colony 6| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Special Level:2|"
     },
     {
       "name": "A Tantalising Treat",
@@ -7038,7 +7038,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Cook-Off Showdown!",
@@ -7047,7 +7047,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Nopo'rikh in Colony 6|"
     },
     {
       "name": "Unstoppable Berryjammy",
@@ -7056,7 +7056,7 @@
         "Colony 6 Quests (Development Level 3)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Berryjammy in Colony 6| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Special Level:2|"
     },
     {
       "name": "The Most Transparent Thing",
@@ -7065,7 +7065,7 @@
         "Colony 6 Quests (Development Level 3)",
         "AffinityQuests"
       ],
-      "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:2| AND |Colony 6 Reconstruction Special Level:2|"
+      "requires": "|Berryjammy in Colony 6| AND |Nopo'rikh in Colony 6| AND |Colony 6 Reconstruction Commerce Level:2|"
     },
     {
       "name": "A Final Sweet Favour",
@@ -11652,7 +11652,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND (|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|)"
+      "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND |Seven's Affinity Rank 3|"
     },
     {
       "name": "Heartbreaking",
@@ -11660,7 +11660,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND (|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|)"
+      "requires": "|Shulk Progressive Affinity Rank:3| AND |Reyn Progressive Affinity Rank:3| AND |Sharla Progressive Affinity Rank:3| AND |Dunban Progressive Affinity Rank:3| AND |Melia Progressive Affinity Rank:3| AND |Riki Progressive Affinity Rank:3| AND |Seven's Affinity Rank 3|"
     },
     {
       "name": "Pouring Out Your Heart",
@@ -11668,7 +11668,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4| AND (|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|)"
+      "requires": "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4| AND |Sharla Progressive Affinity Rank:4| AND |Dunban Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4| AND |Riki Progressive Affinity Rank:4| AND |Seven's Affinity Rank 4|"
     },
     {
       "name": "The Heart of the Matter",
@@ -11676,7 +11676,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
+      "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND |Seven's Affinity Rank 5|"
     },
     {
       "name": "Ace of Hearts",
@@ -11684,7 +11684,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"
+      "requires": "|Shulk Progressive Affinity Rank:5| AND |Reyn Progressive Affinity Rank:5| AND |Sharla Progressive Affinity Rank:5| AND |Dunban Progressive Affinity Rank:5| AND |Melia Progressive Affinity Rank:5| AND |Riki Progressive Affinity Rank:5| AND |Seven's Affinity Rank 5|"
     },
     {
       "name": "Problem Solved!",
@@ -12402,7 +12402,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{YamlCompare(GameVersion >= 1)} OR (|Bionis' Leg Key:1| AND |Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
+      "requires": "{YamlCompare(GameVersion >= 1)} OR |Valak Mountain Access|"
     },
     {
       "name": "Beating the Odds",
@@ -12410,7 +12410,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{YamlCompare(GameVersion >= 1)} OR (|Bionis' Leg Key:1| AND |Colony 6 Key:1| AND |Ether Mine Key:1| AND |Satorl Marsh Key:1| AND |Bionis' Interior (1st Visit) Key:1| AND |Makna Forest Key:1| AND |Frontier Village Key:1| AND |Eryth Sea Key:1| AND |Alcamoth Key:1| AND |High Entia Tomb Key:1| AND |Prison Island (1st Visit) Key:2| AND |Valak Mountain Key:2|)"
+      "requires": "{YamlCompare(GameVersion >= 1)} OR |Valak Mountain Access|"
     },
     {
       "name": "Unlucky Sixes",
