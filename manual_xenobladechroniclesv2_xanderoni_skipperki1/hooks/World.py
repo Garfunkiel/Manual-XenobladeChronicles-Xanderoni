@@ -8,6 +8,7 @@ from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
 from .HeartToHearts import setHeartToHeartRules
 from .StartingItems import set_starting_items
 from .NoponGrandPrix import setNoponGrandPrixRules
+from .CrystalMining import setCrystalMiningRules
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -215,6 +216,9 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
     if is_option_enabled(multiworld, player, "SuperBosses"):
         setSuperBossRules(world, multiworld, player)
+
+    if is_option_enabled(multiworld, player, "CrystalMining"):
+        setCrystalMiningRules(world, multiworld, player)
 
     if get_option_value(multiworld, player, "GameVersion") == 2:
         if is_option_enabled(multiworld, player, "NoponGrandPrix"):
