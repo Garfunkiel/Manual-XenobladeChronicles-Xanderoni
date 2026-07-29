@@ -122,6 +122,12 @@
       "Gems"
     ]
   },
+  "CrystalMining": {
+    "hidden": false,
+    "yaml_option": [
+      "CrystalMining"
+    ]
+  },
   "Collectopaediasanity": {
     "hidden": false
   },

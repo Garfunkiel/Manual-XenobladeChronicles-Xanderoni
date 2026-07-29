@@ -5524,6 +5524,95 @@
         "Area Keys"
       ],
       "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tephra Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tephra Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tephra Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword Valley Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true,
+      "_comment": "Will be provided at start to avoid missable locations"
+    },
+    {
+      "count": 5,
+      "name": "Progressive Fire Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Wind Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Electric Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Earth Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Ice Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Water Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Enemy Crystal/Cylinder",
+      "category": [
+        "CrystalMining"
+      ],
+      "useful": true
     }
   ]
 }

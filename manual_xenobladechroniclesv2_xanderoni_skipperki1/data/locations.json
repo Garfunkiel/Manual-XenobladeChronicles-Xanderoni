@@ -13599,6 +13599,51 @@
         "NGP Goals"
       ],
       "requires": "|Full Race Access|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Spring of Grief",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Vilia Lake NE",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Vilia Lake S",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Forgotten Cave",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Supply Convoy",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sword Valley Ether Pickaxe|"
     }
   ]
 }
