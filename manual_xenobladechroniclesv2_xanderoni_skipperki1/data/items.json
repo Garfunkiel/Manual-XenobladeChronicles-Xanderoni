@@ -5527,6 +5527,14 @@
     },
     {
       "count": 1,
+      "name": "Tephra Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
       "name": "Tephra Earth Ether Pickaxe",
       "category": [
         "CrystalMining"
@@ -5551,7 +5559,279 @@
     },
     {
       "count": 1,
-      "name": "Sword Valley Ether Pickaxe",
+      "name": "Leg Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Leg Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Leg Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colony Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colony Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Marsh Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Marsh Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Marsh Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sea Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sea Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sea Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fallen Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fallen Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Interior Water Ether Pickaxe",
+      "category": [
+        "CrystalMining"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ephemeral Ether Pickaxe",
       "category": [
         "CrystalMining"
       ],
@@ -5562,7 +5842,8 @@
       "count": 5,
       "name": "Progressive Fire Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5570,7 +5851,8 @@
       "count": 5,
       "name": "Progressive Wind Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5578,7 +5860,8 @@
       "count": 5,
       "name": "Progressive Electric Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5586,7 +5869,8 @@
       "count": 5,
       "name": "Progressive Earth Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5594,7 +5878,8 @@
       "count": 5,
       "name": "Progressive Ice Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5602,7 +5887,8 @@
       "count": 5,
       "name": "Progressive Water Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     },
@@ -5610,7 +5896,8 @@
       "count": 5,
       "name": "Progressive Enemy Crystal/Cylinder",
       "category": [
-        "CrystalMining"
+        "CrystalMining",
+        "Crystals"
       ],
       "useful": true
     }

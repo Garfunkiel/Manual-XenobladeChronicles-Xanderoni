@@ -5,7 +5,7 @@
   "filler_item_name": "Lobster",
   "starting_items": [
     {
-      "items": ["Sword Valley Ether Pickaxe"]
+      "items": [ "Ephemeral Ether Pickaxe" ]
     }
   ],
   "death_link": true,

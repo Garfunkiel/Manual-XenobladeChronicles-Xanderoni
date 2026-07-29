@@ -13637,13 +13637,976 @@
       "requires": "|Tephra Earth Ether Pickaxe|"
     },
     {
-      "name": "Ether Crystal Deposit - Supply Convoy",
+      "name": "Ether Crystal Deposit - North-West 2F",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Heavenly Window",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Tephra Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Jabos Rock Rest Area",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Volff Lair",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Kisk Cave",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Tranquil Grotto",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Daksha Shrine",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Windy Cave",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Viliera Hill",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Traveller's Rest",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Leg Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Drainage Outlet",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Colony Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Southern Entrance",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Colony Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Drainage Control Room",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Test Pit 3",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Test Pit 2",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Glowmoss Lake",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Central Terminal",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Test Pit 4",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mine Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Personnel Lift 2 (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Central Pit - Entrance (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North-East B1F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North B1F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Regulation Piston (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East B2F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North B2F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North-West B2F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West B2F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Personnel Lift 3 (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North B3F (MISSABLE)",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Nopon Merchant Camp",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Poison Swamp",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Soter Ruins",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Zaldania Waterfall",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Dark Swamp",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Sororal Statues",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Marsh Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Lakeside",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Divine Sanctuary",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Sap Cave",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Bridge Two",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Glowmoss Trihenge",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Abyss Basin",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Pod Landing Site",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Decayed Forest",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Eks Watering Hole",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Forest Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Showdown Cliff",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Anu Shore",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Secluded Island",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Sleeping Dragon Isle",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Hovering Reef 7",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Hovering Reef 10",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Ether Crystal Deposit",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Below Hovering Reef 9",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Sea Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Serik Waterfall",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Kana Peak",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Nagul Waterfall",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Nopon Camp",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West Lava Cave",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East Lava Cave",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Harict Chapel",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Ignia Hill",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Bionis' Right Elbow",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Great Glacier",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Mountain Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Supply Convoy",
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Mining",
         "CrystalMining"
       ],
-      "requires": "|Sword Valley Ether Pickaxe|"
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ged Fortress",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Dolgan Outpost",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 5th Gate",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Storage Area",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Enalda Control Base",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Port Maintenance Bay",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Main Maintenance Bay",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 1st Turbine Room",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Blast Furnace - South-West",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Blast Furnace - South-East",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Blast Furnace - North-East",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Blast Furnace - North-West",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Silver Wreckage",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Power Pipe Ruins",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 5th Pulse Zone",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Giant Mechon Debris",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Exhaust System",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Digit 2",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Fallen Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 1st Lift - GF",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 2nd Lift - 1F",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Bulkhead Controls",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Gear Store - Fire",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Ether Gear Store - Earth",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Machina Refuge",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 1F - South",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Control Tower",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Storage Depot",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - 1F - West",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Tower Boarding Gate - Water",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Tower Boarding Gate - Earth",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Regeneration Control",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Face Maintenance Bay",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Central Tower",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Seven Sage Cloister",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Helas Pillar",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - East Central",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Cleas Pillar",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Telethia Bridge",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Gear - Judicial District",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Ephemeral Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - First Lung",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Second Lung - North",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Second Lung - East",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Terminal Nerve Tower",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Pars Sympathica Tower",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Terminal Vein",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Interior Earth Ether Pickaxe|"
     }
   ]
 }
