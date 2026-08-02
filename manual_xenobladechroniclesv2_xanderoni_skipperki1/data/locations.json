@@ -14542,6 +14542,222 @@
       ]
     },
     {
+      "name": "Abaasy's Dorsum",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Agni's Birthplace",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Barouh Plaza",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Companions' Cape",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Gran Dell Approach",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Gran Dell Ramparts",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Grand Arch",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Junks (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Marga's Weeping",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Navvir Crossroads",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Nerthis Necropolis Gate",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Old Expedition HQ",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Old King's Testament",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Pillar Knoll",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Prayer Rock",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Quarry Colonnade",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Scapular Lance",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Skybridge",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Soltnar Seal Island (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Thulles Way",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Xen's Thoroughfare",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Zephyr's Counsel",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Cloudtop Lookout",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Eternal Zenith",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
       "name": "Main Entrance (Future Connected)",
       "region": "Future Connected Part I",
       "category": [
@@ -14584,6 +14800,195 @@
         "Alcamoth - FC Landmarks",
 		    "Future Connected Landmarks",
         "landmarks"
+      ]
+    },
+    {
+      "name": "Agni's Skygarden Ruins",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Barouh Ruins Cave",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Cinnabar Plateau",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Clear Sky Bluff",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Companions' Forum",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Cragmaw Caverns",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Forbidden Hushland",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Fyme Lane",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Gamaro Hollow",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Gran Dell",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Halcyon Wheats",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Heroes' Rest",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Lamentation Ridge",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Navvir Highland",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Nerthis Necropolis",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Purifying Falls",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Shoulderstone Scree",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Teelan's Laboratory",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Tranquil Tarn",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Whisperwind Crossing",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Zekr Marga Quarry",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Locations",
+        "Future Connected Locations",
+        "locations"
       ]
     },
     {
