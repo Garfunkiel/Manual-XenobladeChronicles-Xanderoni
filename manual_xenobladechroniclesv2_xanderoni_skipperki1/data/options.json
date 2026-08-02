@@ -206,6 +206,15 @@
                 "Prison Island": 15
             },
             "default": 1
+        },
+
+        "Future_Connected": {
+            "type": "Toggle",
+            "description": [
+                "This option determines whether locations and items from Future Connected are included in logic.",
+                "Default is False"
+            ],
+            "default": false
         }
     }
 }

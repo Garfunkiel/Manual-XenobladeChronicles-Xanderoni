@@ -11,6 +11,9 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     if category_name == "Switch2Version":
         return get_option_value(multiworld, player, "GameVersion") == 2
 
+    if category_name.startswith("Future Connected"):
+        return get_option_value(multiworld, player, "Future_Connected") == True
+
     if get_option_value(multiworld, player, "Post_Game") == True:
         if category_name == "UnavailableInPostGame" or category_name in [
             "AffinityChart", "StoryQuests", "MonsterQuests", "CollectionQuests", "SearchQuests", "ChallengeQuests", "AffinityQuests", "MaterialQuests"
