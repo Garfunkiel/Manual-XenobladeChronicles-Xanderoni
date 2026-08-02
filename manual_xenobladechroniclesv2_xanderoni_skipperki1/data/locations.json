@@ -14775,6 +14775,357 @@
         "UniqueMonsters"
       ],
       "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "The Search for High Ether",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Story Quests",
+        "StoryQuests",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "The Quest for High Ether",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Story Quests",
+        "StoryQuests",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Tutu's Lost Property",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Favour for Fofora",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Riddle Faifa This",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Hekasa's Labour at Stake",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Ready, Setset, Go!",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Tei-Tei Lacking Charm",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Nonona's Calling",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Incensed Dekadeka",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "SurpriseQuests"
+      ]
+    },
+    {
+      "name": "Evelen on the Edge",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Priority Wunwun",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Ponspectors Till We Cry",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Ether Font",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Ether Exploitation",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Hunting Help",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Laennar's Worries",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "UnknownTypeQuests"
+      ]
+    },
+    {
+      "name": "Plump Pickings",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Praying Caterpile Control",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Supplant the Noble Brogs",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Lost & Found",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "No Armu Done",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Quests",
+        "SurpriseQuests"
+      ]
+    },
+    {
+      "name": "Brother's Keepsake",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Inclined to Climb",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Finding Happiness",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Shoulder Survey Snaps",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "Secure the Area",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Steady on, Grandad!",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "Rubble Trouble",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Sorrow",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Fixing Up the Junks",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "Sweetest Debt",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "New Way of Life",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Hook, Line and Sinker",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "The Quest for Radzamalt³",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Wallflower",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "Brace for Friendship",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "Rival Hearts",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "Stubborn Minds",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "ErrandQuests"
+      ]
+    },
+    {
+      "name": "A Surefire Hit",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
+    },
+    {
+      "name": "The Fallen",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "The Future Within Our Grasp",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Quests",
+        "BattleQuests"
+      ]
+    },
+    {
+      "name": "Drydry Entia",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Quests",
+        "CollectionQuests"
+      ]
     }
   ]
 }
