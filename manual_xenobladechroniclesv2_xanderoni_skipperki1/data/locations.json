@@ -15238,6 +15238,55 @@
         "Future Connected Quiet Moments",
         "HeartToHearts"
       ]
+    },
+    {
+      "name": "Nerthis Necropolis Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Xen's Thoroughfare Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Gran Dell Ramparts Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Gran Dell Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Zekr Marga Quarry Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Agni's Skygarden Ruins Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
+    },
+    {
+      "name": "Tranquil Tarn Giants' Trove",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Giants' Troves"
+      ]
     }
   ]
 }
