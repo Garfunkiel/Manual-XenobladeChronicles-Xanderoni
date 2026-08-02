@@ -4,6 +4,7 @@
         "starting": true,
         "connects_to": [
             "Prologue",
+            "Future Connected Part I",
             "Post Game"
         ]
     },
@@ -31,7 +32,12 @@
     "Mechonis Core":                    { "connects_to": [ "Bionis' Interior (2nd Visit)" ],  "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"  },
     "Bionis' Interior (2nd Visit)":     { "connects_to": [ "Prison Island (2nd Visit)" ],     "requires": "|Bionis' Interior (2nd Visit) Key:3|"                        },
     "Prison Island (2nd Visit)":        { "connects_to": [ "Memory Space" ],                  "requires": "|Prison Island (2nd Visit) Key:3|"                           },
-    "Memory Space":                     { "connects_to": [ "Post Game" ],                     "requires": "|Memory Fragment:20|"                                        },
+    "Memory Space":                     { "connects_to": [ "Future Connected Part I" ],       "requires": "|Memory Fragment:20|"                                        },
+    "Future Connected Part I":          { "connects_to": [ "Future Connected Part II" ],      "requires": "{YamlDisabled(Future_Connected)} OR |Bionis' Shoulder Key:1|"},
+    "Future Connected Part II":         { "connects_to": [ "Future Connected Part III" ],     "requires": "{YamlDisabled(Future_Connected)} OR |Melfica Road Key:2|"    },
+    "Future Connected Part III":        { "connects_to": [ "Future Connected Part IV" ],      "requires": "{YamlDisabled(Future_Connected)} OR |Gran Dell Key:3|"       },
+    "Future Connected Part IV":         { "connects_to": [ "Future Connected Imperial Palace" ], "requires": "{YamlDisabled(Future_Connected)} OR |Monado EX+ Shard:3|" },
+    "Future Connected Imperial Palace": { "connects_to": [ "Post Game" ],                     "requires": "{YamlDisabled(Future_Connected)} OR |Palace Teleporter Key:3|" },
     "Post Game": {
         "connects_to": [
             "Colony 9",                     "Tephra Cave",                  "Bionis' Leg",                  "Colony 6",
@@ -39,7 +45,9 @@
             "Frontier Village",             "Eryth Sea",                    "Alcamoth",                     "High Entia Tomb",
             "Prison Island (1st Visit)",    "Valak Mountain",               "Sword Valley (MISSABLE)",      "Galahad Fortress (MISSABLE)",
             "Fallen Arm",                   "Mechonis Field (MISSABLE)",    "Central Factory (MISSABLE)",   "Agniratha (MISSABLE)",
-            "Mechonis Core",                "Bionis' Interior (2nd Visit)", "Prison Island (2nd Visit)",    "Memory Space"
+            "Mechonis Core",                "Bionis' Interior (2nd Visit)", "Prison Island (2nd Visit)",    "Memory Space",
+            "Future Connected Part I",      "Future Connected Part II",     "Future Connected Part III",    "Future Connected Part IV",
+            "Future Connected Imperial Palace"
         ],
         "requires": "{YamlEnabled(Post_Game)} OR ({YamlDisabled(Post_Game)} AND |Full Game Access|)"
     }
