@@ -3993,8 +3993,10 @@
       "count": 1,
       "name": "Nanoceros",
       "category": [
+        "Alcamoth - FC Collectopaedia",
         "Alcamoth - FC Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
       "progression": true
     },
@@ -4002,8 +4004,10 @@
       "count": 1,
       "name": "Mane Cat (FC)",
       "category": [
+        "Alcamoth - FC Collectopaedia",
         "Alcamoth - FC Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
       "progression": true
     },
@@ -5441,181 +5445,221 @@
       "count": 1,
       "name": "Rainbow Carrot",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "High Leaf",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Cream Wheat",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Morrow Cob",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Kilopumpkin",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Angel Bream",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Gentleclam",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Sky Mole",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Blade Bird",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Palmtop Elephant",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Half Part",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Snare Wire",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Subzero Steel",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Blaze Chain",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
-      "name": "Cogenial Cogs",
+      "name": "Congenial Cogs",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Swirly Slash",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Hero Nipper",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Highlightning",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Dubious Sculpture",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Shimmertumble",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
