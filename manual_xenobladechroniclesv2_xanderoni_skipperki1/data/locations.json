@@ -14602,6 +14602,179 @@
       "category": [
         "Victory Conditions"
       ]
+    },
+    {
+      "name": "Air Marshal Reisenbach (Lv 69)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Booming Frederick (Lv 66)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Buoyant Rostein (Lv 68)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Caustic Naquatra (Lv 73)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Citadel Tostega (Lv 74)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Confluent Uzva (Lv 69)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Contemptuous Greymane (Lv 78)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|",
+      "_comment": "Requires Fogbeast conversation"
+    },
+    {
+      "name": "Custodian Barreldart (Lv 71)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|",
+      "_comment": "Requires Fogbeast conversation"
+    },
+    {
+      "name": "Cyclonic Yughana (Lv 70)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Deputy Seagal (Lv 72)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Dismal Umya (Lv 73)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Grotesque Deimis (Lv 65)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Highborn Alexandra (Lv 64)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Marquis Odesh (Lv 74)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Perceptive Quinops (Lv 74)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Phlegmatic Jamir (Lv 63)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Quondam Grimbellum (Lv 69)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:1|"
+    },
+    {
+      "name": "Ravager Apelpisía (Lv 77)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
+    },
+    {
+      "name": "Terpsichorean Cenoth (Lv 73)",
+      "region": "Future Connected Imperial Palace",
+      "category": [
+        "Future Connected Unique Monsters",
+        "UniqueMonsters"
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
     }
   ]
 }
