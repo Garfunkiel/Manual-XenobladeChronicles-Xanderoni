@@ -14542,6 +14542,87 @@
       ]
     },
     {
+      "name": "Main Entrance (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Fountain of Eternity (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Fountain of Hope (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Imperial Palace (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Ascension Hall (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Landmarks",
+		    "Future Connected Landmarks",
+        "landmarks"
+      ]
+    },
+    {
+      "name": "Eternity Way (Ruined) (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Locations",
+		    "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Hope Way (Ruined) (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Locations",
+		    "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Great Hall (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Locations",
+		    "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
+      "name": "Melfica Road (Future Connected)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Alcamoth - FC Locations",
+		    "Future Connected Locations",
+        "locations"
+      ]
+    },
+    {
       "name": "Snowal Taos",
       "region": "Future Connected Part II",
       "category": [
