@@ -14540,6 +14540,68 @@
         "Bionis' Interior Mining",
         "CrystalMining"
       ]
+    },
+    {
+      "name": "Snowal Taos",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Field Ponio",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Gael'gar",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Laeklit Mammut",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Antol King",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Deinos Sauros",
+      "region": "Future Connected Part IV",
+      "category": [
+        "Future Connected Bosses",
+        "Bosses",
+        "UnavailableInPostGame"
+      ]
+    },
+    {
+      "name": "Fog King",
+      "region": "Future Connected Imperial Palace",
+      "victory": true,
+      "category": [
+        "Victory Conditions"
+      ]
     }
   ]
 }
