@@ -6124,6 +6124,54 @@
         "Crystals"
       ],
       "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Melfica Road Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Gran Dell Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Monado EX+ Shard",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Palace Teleporter Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Bionis' Shoulder Hunting License",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
     }
   ]
 }
