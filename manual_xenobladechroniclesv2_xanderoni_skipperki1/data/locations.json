@@ -14552,7 +14552,7 @@
     },
     {
       "name": "Agni's Birthplace",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Landmarks",
 		    "Future Connected Landmarks",
@@ -14579,7 +14579,7 @@
     },
     {
       "name": "Gran Dell Approach",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Landmarks",
 		    "Future Connected Landmarks",
@@ -14597,7 +14597,7 @@
     },
     {
       "name": "Grand Arch",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part III",
       "category": [
         "Bionis' Shoulder Landmarks",
 		    "Future Connected Landmarks",
@@ -14669,7 +14669,7 @@
     },
     {
       "name": "Prayer Rock",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Landmarks",
 		    "Future Connected Landmarks",
@@ -14750,7 +14750,7 @@
     },
     {
       "name": "Eternal Zenith",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part III",
       "category": [
         "Bionis' Shoulder Landmarks",
 		    "Future Connected Landmarks",
@@ -14786,7 +14786,7 @@
     },
     {
       "name": "Imperial Palace (Future Connected)",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Alcamoth - FC Landmarks",
 		    "Future Connected Landmarks",
@@ -14795,7 +14795,7 @@
     },
     {
       "name": "Ascension Hall (Future Connected)",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Alcamoth - FC Landmarks",
 		    "Future Connected Landmarks",
@@ -14885,7 +14885,7 @@
     },
     {
       "name": "Gran Dell",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Locations",
         "Future Connected Locations",
@@ -14894,7 +14894,7 @@
     },
     {
       "name": "Halcyon Wheats",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Locations",
         "Future Connected Locations",
@@ -14903,7 +14903,7 @@
     },
     {
       "name": "Heroes' Rest",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Locations",
         "Future Connected Locations",
@@ -14957,7 +14957,7 @@
     },
     {
       "name": "Teelan's Laboratory",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Locations",
         "Future Connected Locations",
@@ -14966,7 +14966,7 @@
     },
     {
       "name": "Tranquil Tarn",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Bionis' Shoulder Locations",
         "Future Connected Locations",
@@ -15011,7 +15011,7 @@
     },
     {
       "name": "Great Hall (Future Connected)",
-      "region": "Future Connected Part I",
+      "region": "Future Connected Part II",
       "category": [
         "Alcamoth - FC Locations",
 		    "Future Connected Locations",
@@ -15083,7 +15083,7 @@
     },
     {
       "name": "Fog King",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Finale",
       "victory": true,
       "category": [
         "Victory Conditions"
@@ -15091,7 +15091,7 @@
     },
     {
       "name": "Air Marshal Reisenbach (Lv 69)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15100,7 +15100,7 @@
     },
     {
       "name": "Booming Frederick (Lv 66)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15109,7 +15109,7 @@
     },
     {
       "name": "Buoyant Rostein (Lv 68)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15118,7 +15118,7 @@
     },
     {
       "name": "Caustic Naquatra (Lv 73)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15127,7 +15127,7 @@
     },
     {
       "name": "Citadel Tostega (Lv 74)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15136,7 +15136,7 @@
     },
     {
       "name": "Confluent Uzva (Lv 69)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15145,27 +15145,27 @@
     },
     {
       "name": "Contemptuous Greymane (Lv 78)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
       ],
       "requires": "|Bionis' Shoulder Hunting License:2|",
-      "_comment": "Requires Fogbeast conversation"
+      "_comment": "Must defeat Field Ponio boss first"
     },
     {
       "name": "Custodian Barreldart (Lv 71)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
       ],
       "requires": "|Bionis' Shoulder Hunting License:2|",
-      "_comment": "Requires Fogbeast conversation"
+      "_comment": "Must defeat Field Ponio boss first"
     },
     {
       "name": "Cyclonic Yughana (Lv 70)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15174,7 +15174,7 @@
     },
     {
       "name": "Deputy Seagal (Lv 72)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15183,7 +15183,7 @@
     },
     {
       "name": "Dismal Umya (Lv 73)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15192,7 +15192,7 @@
     },
     {
       "name": "Grotesque Deimis (Lv 65)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15201,7 +15201,7 @@
     },
     {
       "name": "Highborn Alexandra (Lv 64)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15210,7 +15210,7 @@
     },
     {
       "name": "Marquis Odesh (Lv 74)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15219,7 +15219,7 @@
     },
     {
       "name": "Perceptive Quinops (Lv 74)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15228,7 +15228,7 @@
     },
     {
       "name": "Phlegmatic Jamir (Lv 63)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15237,7 +15237,7 @@
     },
     {
       "name": "Quondam Grimbellum (Lv 69)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15246,7 +15246,7 @@
     },
     {
       "name": "Ravager Apelpisía (Lv 77)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15255,7 +15255,7 @@
     },
     {
       "name": "Terpsichorean Cenoth (Lv 73)",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Unique Monsters",
         "UniqueMonsters"
@@ -15615,7 +15615,7 @@
     },
     {
       "name": "All Grown Up",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15623,7 +15623,7 @@
     },
     {
       "name": "A Love for Flowers",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15631,7 +15631,7 @@
     },
     {
       "name": "The Land in the Sky",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15639,7 +15639,7 @@
     },
     {
       "name": "A Life Without Visions",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15647,7 +15647,7 @@
     },
     {
       "name": "Family Relations",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15655,7 +15655,7 @@
     },
     {
       "name": "Power of Imagination",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15663,7 +15663,7 @@
     },
     {
       "name": "Dadapon's Gift",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15671,7 +15671,7 @@
     },
     {
       "name": "Kino in the Doldrums",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15679,7 +15679,7 @@
     },
     {
       "name": "Strength in Unity",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15687,7 +15687,7 @@
     },
     {
       "name": "Making Plans",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part IV",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15695,7 +15695,7 @@
     },
     {
       "name": "Light and Shadow",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part IV",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15703,7 +15703,7 @@
     },
     {
       "name": "Dreaming Big",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part IV",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15711,7 +15711,7 @@
     },
     {
       "name": "Tyrea's Uncertainty",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15719,7 +15719,7 @@
     },
     {
       "name": "The Future is Ours",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part IV",
       "category": [
         "Future Connected Quiet Moments",
         "HeartToHearts"
@@ -15727,49 +15727,50 @@
     },
     {
       "name": "Nerthis Necropolis Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Giants' Troves"
       ]
     },
     {
       "name": "Xen's Thoroughfare Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Giants' Troves"
       ]
     },
     {
       "name": "Gran Dell Ramparts Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Giants' Troves"
       ]
     },
     {
       "name": "Gran Dell Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part III",
       "category": [
         "Future Connected Giants' Troves"
       ]
     },
     {
       "name": "Zekr Marga Quarry Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Giants' Troves"
-      ]
+      ],
+      "requires": "|Bionis' Shoulder Hunting License:2|"
     },
     {
       "name": "Agni's Skygarden Ruins Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part I",
       "category": [
         "Future Connected Giants' Troves"
       ]
     },
     {
       "name": "Tranquil Tarn Giants' Trove",
-      "region": "Future Connected Imperial Palace",
+      "region": "Future Connected Part II",
       "category": [
         "Future Connected Giants' Troves"
       ]
