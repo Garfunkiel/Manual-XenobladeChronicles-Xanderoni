@@ -87,6 +87,9 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     if get_option_value(multiworld, player, "Post_Game") == True:
         keyLeniency = 0
 
+    if get_option_value(multiworld, player, "GameOrder") >= 2:
+        keyLeniency = 0
+
     for i, key in enumerate(keys, start=1):
         if keyLeniency < i:
             break

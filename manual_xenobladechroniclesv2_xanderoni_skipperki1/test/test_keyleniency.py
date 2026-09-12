@@ -5,7 +5,8 @@ class XenobladeManualTest_KeyLeniency(XenobladeManualTest):
     game = game_name
     options = {
         "Key_Leniency": 3,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_KeyLeniency_Colony6(self):
@@ -23,7 +24,8 @@ class XenobladeManualTest_KeyLeniency_Full(XenobladeManualTest):
     game = game_name
     options = {
         "Key_Leniency": 12,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_KeyLeniency_Full(self):

@@ -3,41 +3,47 @@
     "Title Screen": {
         "starting": true,
         "connects_to": [
-            "Prologue",
-            "Future Connected Part I",
-            "Post Game"
-        ]
+            "Base Game",
+            "Future Connected"
+        ],
+        "exit_requires": {
+            "Base Game": "{YamlCompare(GameOrder == 0)} OR ({YamlCompare(GameOrder == 1)} OR ({YamlCompare(GameOrder == 4)})",
+            "Future Connected": "{YamlCompare(GameOrder == 2)} OR ({YamlCompare(GameOrder == 3)} OR ({YamlCompare(GameOrder == 4)})"
+        }
     },
-    "Prologue":                         { "connects_to": [ "Colony 9" ],                      "requires": ""                                                              },
-    "Colony 9":                         { "connects_to": [ "Tephra Cave" ],                   "requires": "|Colony 9 Key:1|"                                              },
-    "Tephra Cave":                      { "connects_to": [ "Bionis' Leg" ],                   "requires": "|Tephra Cave Key:1|"                                           },
-    "Bionis' Leg":                      { "connects_to": [ "Colony 6" ],                      "requires": "|Bionis' Leg Key:1|"                                           },
-    "Colony 6":                         { "connects_to": [ "Ether Mine" ],                    "requires": "|Colony 6 Key:1|"                                              },
-    "Ether Mine":                       { "connects_to": [ "Satorl Marsh" ],                  "requires": "|Ether Mine Key:1|"                                            },
-    "Satorl Marsh":                     { "connects_to": [ "Bionis' Interior (1st Visit)" ],  "requires": "|Satorl Marsh Key:1|"                                          },
-    "Bionis' Interior (1st Visit)":     { "connects_to": [ "Makna Forest" ],                  "requires": "|Bionis' Interior (1st Visit) Key:1|"                          },
-    "Makna Forest":                     { "connects_to": [ "Frontier Village" ],              "requires": "|Makna Forest Key:1|"                                          },
-    "Frontier Village":                 { "connects_to": [ "Eryth Sea" ],                     "requires": "|Frontier Village Key:1|"                                      },
-    "Eryth Sea":                        { "connects_to": [ "Alcamoth" ],                      "requires": "|Eryth Sea Key:1|"                                             },
-    "Alcamoth":                         { "connects_to": [ "High Entia Tomb" ],               "requires": "|Alcamoth Key:1|"                                              },
-    "High Entia Tomb":                  { "connects_to": [ "Prison Island (1st Visit)" ],     "requires": "|High Entia Tomb Key:1|"                                       },
-    "Prison Island (1st Visit)":        { "connects_to": [ "Valak Mountain" ],                "requires": "|Prison Island (1st Visit) Key:2|"                             },
-    "Valak Mountain":                   { "connects_to": [ "Sword Valley (MISSABLE)" ],       "requires": "|Valak Mountain Key:2|"                                        },
-    "Sword Valley (MISSABLE)":          { "connects_to": [ "Galahad Fortress (MISSABLE)" ],   "requires": "|Sword Valley Key:2| AND |Progressive Hunting License:10|"     },
-    "Galahad Fortress (MISSABLE)":      { "connects_to": [ "Fallen Arm" ],                    "requires": "|Galahad Fortress Key:2|"                                      },
-    "Fallen Arm":                       { "connects_to": [ "Mechonis Field (MISSABLE)" ],     "requires": "|Fallen Arm Key:2|"                                            },
-    "Mechonis Field (MISSABLE)":        { "connects_to": [ "Central Factory (MISSABLE)" ],    "requires": "|Mechonis Field Key:2|"                                        },
-    "Central Factory (MISSABLE)":       { "connects_to": [ "Agniratha (MISSABLE)" ],          "requires": "|Central Factory Key:2|"                                       },
-    "Agniratha (MISSABLE)":             { "connects_to": [ "Mechonis Core" ],                 "requires": "|Agniratha Key:3|"                                             },
-    "Mechonis Core":                    { "connects_to": [ "Bionis' Interior (2nd Visit)" ],  "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"    },
-    "Bionis' Interior (2nd Visit)":     { "connects_to": [ "Prison Island (2nd Visit)" ],     "requires": "|Bionis' Interior (2nd Visit) Key:3|"                          },
-    "Prison Island (2nd Visit)":        { "connects_to": [ "Memory Space" ],                  "requires": "|Prison Island (2nd Visit) Key:3|"                             },
-    "Memory Space":                     { "connects_to": [ "Future Connected Part I" ],       "requires": "|Memory Fragment:20|"                                          },
-    "Future Connected Part I":          { "connects_to": [ "Future Connected Part II" ],      "requires": "{YamlDisabled(Future_Connected)} OR |Bionis' Shoulder Key:1|"  },
-    "Future Connected Part II":         { "connects_to": [ "Future Connected Part III" ],     "requires": "{YamlDisabled(Future_Connected)} OR |Melfica Road Key:1|"      },
-    "Future Connected Part III":        { "connects_to": [ "Future Connected Part IV" ],      "requires": "{YamlDisabled(Future_Connected)} OR |Gran Dell Key:1|"         },
-    "Future Connected Part IV":         { "connects_to": [ "Future Connected Finale" ],       "requires": "{YamlDisabled(Future_Connected)} OR |Monado EX+:1|"            },
-    "Future Connected Finale":          { "connects_to": [ "Post Game" ],                     "requires": "{YamlDisabled(Future_Connected)} OR |Palace Teleporter Key:1|" },
+    "Base Game": {
+        "connects_to": [
+            "Colony 9",
+            "Post Game"
+        ],
+        "exit_requires": {
+            "Post Game": "{YamlEnabled(Post_Game)}"
+        }
+    },
+    "Colony 9":                         { "connects_to": [ "Tephra Cave" ],                   "requires": "|Colony 9 Key:ALL|"                                              },
+    "Tephra Cave":                      { "connects_to": [ "Bionis' Leg" ],                   "requires": "|Tephra Cave Key:ALL|"                                           },
+    "Bionis' Leg":                      { "connects_to": [ "Colony 6" ],                      "requires": "|Bionis' Leg Key:ALL|"                                           },
+    "Colony 6":                         { "connects_to": [ "Ether Mine" ],                    "requires": "|Colony 6 Key:ALL|"                                              },
+    "Ether Mine":                       { "connects_to": [ "Satorl Marsh" ],                  "requires": "|Ether Mine Key:ALL|"                                            },
+    "Satorl Marsh":                     { "connects_to": [ "Bionis' Interior (1st Visit)" ],  "requires": "|Satorl Marsh Key:ALL|"                                          },
+    "Bionis' Interior (1st Visit)":     { "connects_to": [ "Makna Forest" ],                  "requires": "|Bionis' Interior (1st Visit) Key:ALL|"                          },
+    "Makna Forest":                     { "connects_to": [ "Frontier Village" ],              "requires": "|Makna Forest Key:ALL|"                                          },
+    "Frontier Village":                 { "connects_to": [ "Eryth Sea" ],                     "requires": "|Frontier Village Key:ALL|"                                      },
+    "Eryth Sea":                        { "connects_to": [ "Alcamoth" ],                      "requires": "|Eryth Sea Key:ALL|"                                             },
+    "Alcamoth":                         { "connects_to": [ "High Entia Tomb" ],               "requires": "|Alcamoth Key:ALL|"                                              },
+    "High Entia Tomb":                  { "connects_to": [ "Prison Island (1st Visit)" ],     "requires": "|High Entia Tomb Key:ALL|"                                       },
+    "Prison Island (1st Visit)":        { "connects_to": [ "Valak Mountain" ],                "requires": "|Prison Island (1st Visit) Key:ALL|"                             },
+    "Valak Mountain":                   { "connects_to": [ "Sword Valley (MISSABLE)" ],       "requires": "|Valak Mountain Key:ALL|"                                        },
+    "Sword Valley (MISSABLE)":          { "connects_to": [ "Galahad Fortress (MISSABLE)" ],   "requires": "|Sword Valley Key:ALL| AND |Progressive Hunting License:10|"     },
+    "Galahad Fortress (MISSABLE)":      { "connects_to": [ "Fallen Arm" ],                    "requires": "|Galahad Fortress Key:ALL|"                                      },
+    "Fallen Arm":                       { "connects_to": [ "Mechonis Field (MISSABLE)" ],     "requires": "|Fallen Arm Key:ALL|"                                            },
+    "Mechonis Field (MISSABLE)":        { "connects_to": [ "Central Factory (MISSABLE)" ],    "requires": "|Mechonis Field Key:ALL|"                                        },
+    "Central Factory (MISSABLE)":       { "connects_to": [ "Agniratha (MISSABLE)" ],          "requires": "|Central Factory Key:ALL|"                                       },
+    "Agniratha (MISSABLE)":             { "connects_to": [ "Mechonis Core" ],                 "requires": "|Agniratha Key:ALL|"                                             },
+    "Mechonis Core":                    { "connects_to": [ "Bionis' Interior (2nd Visit)" ],  "requires": "|Mechonis Core Key:ALL| AND |Progressive Hunting License:16|"    },
+    "Bionis' Interior (2nd Visit)":     { "connects_to": [ "Prison Island (2nd Visit)" ],     "requires": "|Bionis' Interior (2nd Visit) Key:ALL|"                          },
+    "Prison Island (2nd Visit)":        { "connects_to": [ "Memory Space" ],                  "requires": "|Prison Island (2nd Visit) Key:ALL|"                             },
+    "Memory Space":                     { "connects_to": [ "Post Game", "Future Connected" ], "requires": "|Memory Fragment:ALL|"                                           },
     "Post Game": {
         "connects_to": [
             "Colony 9",                     "Tephra Cave",                  "Bionis' Leg",                  "Colony 6",
@@ -45,10 +51,27 @@
             "Frontier Village",             "Eryth Sea",                    "Alcamoth",                     "High Entia Tomb",
             "Prison Island (1st Visit)",    "Valak Mountain",               "Sword Valley (MISSABLE)",      "Galahad Fortress (MISSABLE)",
             "Fallen Arm",                   "Mechonis Field (MISSABLE)",    "Central Factory (MISSABLE)",   "Agniratha (MISSABLE)",
-            "Mechonis Core",                "Bionis' Interior (2nd Visit)", "Prison Island (2nd Visit)",    "Memory Space",
+            "Mechonis Core",                "Bionis' Interior (2nd Visit)", "Prison Island (2nd Visit)",    "Memory Space"
+        ]
+    },
+    "Future Connected": {
+        "connects_to": [
+            "Future Connected Part I",
+            "FC Post Game"
+        ],
+        "exit_requires": {
+            "FC Post Game": "{YamlEnabled(FC_Post_Game)}"
+        }
+    },
+    "Future Connected Part I":          { "connects_to": [ "Future Connected Part II" ],      "requires": "|Bionis' Shoulder Key:ALL|"                                      },
+    "Future Connected Part II":         { "connects_to": [ "Future Connected Part III" ],     "requires": "|Melfica Road Key:ALL|"                                          },
+    "Future Connected Part III":        { "connects_to": [ "Future Connected Part IV" ],      "requires": "|Gran Dell Key:ALL|"                                             },
+    "Future Connected Part IV":         { "connects_to": [ "Future Connected Finale" ],       "requires": "|Monado EX+ Plans:ALL|"                                                },
+    "Future Connected Finale":          { "connects_to": [ "FC Post Game", "Base Game" ],     "requires": "|Palace Teleporter Key:ALL|"                                     },
+    "FC Post Game": {
+        "connects_to": [
             "Future Connected Part I",      "Future Connected Part II",     "Future Connected Part III",    "Future Connected Part IV",
             "Future Connected Finale"
-        ],
-        "requires": "{YamlEnabled(Post_Game)} OR ({YamlDisabled(Post_Game)} AND |Full Game Access|)"
+        ]
     }
 }
