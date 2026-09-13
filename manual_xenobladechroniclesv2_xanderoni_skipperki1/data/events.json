@@ -29,7 +29,7 @@
 
         {
             "name": "Full Game Access",
-            "requires": "|Memory Fragment:20| AND |@Area Keys:ALL| AND ({YamlEnabled(Post_Game)} OR |Progressive Hunting License:16|)"
+            "requires": "|Memory Fragment:ALL| AND |@Area Keys:ALL| AND ({YamlEnabled(Post_Game)} OR {YamlCompare(GameOrder == 2)} OR |Progressive Hunting License:16|)"
         },
 
         {   "name": "Ether Jet Access",  "requires": "({YamlCompare(GameVersion >= 2)} AND |Ether Jet|) OR {YamlCompare(GameVersion < 2)}"                                                                                                                                                      },
@@ -62,14 +62,14 @@
         {   "name": "Access to Memory Space (Req. 20 Memory Fragments)",    "visible": true,    "region": "Memory Space"                    },
 
 
-        {   "name": "Nopo'rikh in Colony 6",    "requires": "|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|"   },
-        {   "name": "Berryjammy in Colony 6",   "requires": "|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|"    },
+        {   "name": "Nopo'rikh in Colony 6",    "requires": "{YamlCompare(GameOrder == 2)} OR (|Colony 6 Reconstruction Housing Level:2| AND |Colony 6 Reconstruction Special Level:2|)"   },
+        {   "name": "Berryjammy in Colony 6",   "requires": "{YamlCompare(GameOrder == 2)} OR (|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|)"    },
 
 
-        {   "name": "Seven's Affinity Rank 1",  "requires": "|Fiora Progressive Affinity Rank:1| OR |Seven Progressive Affinity Rank:1|"    },
-        {   "name": "Seven's Affinity Rank 2",  "requires": "|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|"    },
-        {   "name": "Seven's Affinity Rank 3",  "requires": "|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|"    },
-        {   "name": "Seven's Affinity Rank 4",  "requires": "|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|"    },
-        {   "name": "Seven's Affinity Rank 5",  "requires": "|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|"    }
+        {   "name": "Seven's Affinity Rank 1",  "requires": "{YamlCompare(GameOrder == 2)} OR (|Fiora Progressive Affinity Rank:1| OR |Seven Progressive Affinity Rank:1|)"    },
+        {   "name": "Seven's Affinity Rank 2",  "requires": "{YamlCompare(GameOrder == 2)} OR (|Fiora Progressive Affinity Rank:2| OR |Seven Progressive Affinity Rank:2|)"    },
+        {   "name": "Seven's Affinity Rank 3",  "requires": "{YamlCompare(GameOrder == 2)} OR (|Fiora Progressive Affinity Rank:3| OR |Seven Progressive Affinity Rank:3|)"    },
+        {   "name": "Seven's Affinity Rank 4",  "requires": "{YamlCompare(GameOrder == 2)} OR (|Fiora Progressive Affinity Rank:4| OR |Seven Progressive Affinity Rank:4|)"    },
+        {   "name": "Seven's Affinity Rank 5",  "requires": "{YamlCompare(GameOrder == 2)} OR (|Fiora Progressive Affinity Rank:5| OR |Seven Progressive Affinity Rank:5|)"    }
     ]
 }

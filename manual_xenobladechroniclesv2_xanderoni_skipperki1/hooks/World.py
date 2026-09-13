@@ -209,6 +209,12 @@ def playerHasItems(state: CollectionState, player: int, items: list[str]) -> boo
             return False
     return True
 
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
@@ -231,19 +237,21 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
     if CollectopaediaType >= 2:
         for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            if cat == "ALL":
-                location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, area))
-            else:
-                location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
+            location = safeGetLocation(multiworld, player, loc["name"])
+            if not location is None:
+                area = loc["area"]
+                cat = loc["cat"]
+                if cat == "ALL":
+                    location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, area))
+                else:
+                    location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
     elif CollectopaediaType == 1:
         for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
+            location = safeGetLocation(multiworld, player, loc["name"])
+            if not location is None:
+                area = loc["area"]
+                cat = loc["cat"]
+                location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
 
     if is_option_enabled(multiworld, player, "Post_Game"):
         return

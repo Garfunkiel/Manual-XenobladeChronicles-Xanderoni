@@ -20,6 +20,8 @@ COLLECTOPAEDIA_REQUIREMENTS = {
     "Agniratha":        { "Vegetable": 0,  "Flower": 11, "Fruit": 10, "Animal": 0,  "Bug": 11, "Nature": 10, "Part": 11, "Strange": 19 },
     "Prison Island":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 11, "Animal": 11, "Bug": 12, "Nature": 11, "Part": 12, "Strange": 20 },
     "Other":            { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 13, "Nature": 0,  "Part": 13, "Strange": 21 },
+    "Bionis' Shoulder": { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 0  },
+    "Alcamoth - FC":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 0  }
 }
 
 COLLECTOPAEDIA_LOCATIONS = [
@@ -145,7 +147,17 @@ COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Other Collectopaedia Page Completion", "area": "Other", "cat": "ALL" },
     { "name": "Other Collectopaedia Bug Completion", "area": "Other", "cat": "Bug" },
     { "name": "Other Collectopaedia Part Completion", "area": "Other", "cat": "Part" },
-    { "name": "Other Collectopaedia Strange Completion", "area": "Other", "cat": "Strange" }
+    { "name": "Other Collectopaedia Strange Completion", "area": "Other", "cat": "Strange" },
+    { "name": "Bionis' Shoulder Collectopaedia Page Completion", "area": "Bionis' Shoulder", "cat": "ALL" },
+    { "name": "Bionis' Shoulder Collectopaedia Vegetable Completion", "area": "Bionis' Shoulder", "cat": "Vegetable" },
+    { "name": "Bionis' Shoulder Collectopaedia Animal Completion", "area": "Bionis' Shoulder", "cat": "Animal" },
+    { "name": "Bionis' Shoulder Collectopaedia Part Completion", "area": "Bionis' Shoulder", "cat": "Part" },
+    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" },
+    { "name": "Alcamoth - FC Collectopaedia Page Completion", "area": "Alcamoth - FC", "cat": "ALL" },
+    { "name": "Alcamoth - FC Collectopaedia Fruit Completion", "area": "Alcamoth - FC", "cat": "Fruit" },
+    { "name": "Alcamoth - FC Collectopaedia Flower Completion", "area": "Alcamoth - FC", "cat": "Flower" },
+    { "name": "Alcamoth - FC Collectopaedia Animal Completion", "area": "Alcamoth - FC", "cat": "Animal" },
+    { "name": "Alcamoth - FC Collectopaedia Strange Completion", "area": "Alcamoth - FC", "cat": "Strange" }
 ]
 
 PAGE_REQUIREMENTS = {
@@ -250,5 +262,13 @@ PAGE_REQUIREMENTS = {
     "Prison Island|Strange":      [ "Blue Glow", "Blue Blood" ],
     "Other|Bug":                  [ "Minute Mantis", "Love Beetle" ],
     "Other|Part":                 [ "Golden Cog", "Angel Engine Y", "Thunder Compass" ],
-    "Other|Strange":              [ "Coin of Fortune", "Love Source" ]
+    "Other|Strange":              [ "Coin of Fortune", "Love Source" ],
+    "Bionis' Shoulder|Animal":    [ "Angel Bream", "Blade Bird", "Gentleclam", "Palmtop Elephant" ],
+    "Bionis' Shoulder|Part":      [ "Blaze Chain", "Congenial Cogs", "Half Part", "Snare Wire", "Subzero Steel" ],
+    "Bionis' Shoulder|Strange":   [ "Dubious Sculpture", "Hero Nipper", "Highlightning", "Shimmertumble", "Swirly Slash" ],
+    "Bionis' Shoulder|Vegetable": [ "Cream Wheat", "High Leaf", "Kilopumpkin", "Morrow Cob", "Rainbow Carrot" ],
+    "Alcamoth - FC|Animal":       [ "Mane Cat (FC)", "Nanoceros" ],
+    "Alcamoth - FC|Flower":       [ "Mystic Dahlia", "Stardrop" ],
+    "Alcamoth - FC|Fruit":        [ "Cool Lemon", "Heart Peach" ],
+    "Alcamoth - FC|Strange":      [ "Ha Ha Ha", "Thunder Atmos" ]
 }

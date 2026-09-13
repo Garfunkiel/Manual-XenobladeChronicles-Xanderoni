@@ -188,6 +188,12 @@ SUPER_BOSSES = [
     {   "Name": "SUPERBOSS Ancient Daedala (Lv 105)",    "Story": "MC",     "Level": 105,       "Licenses": 13      }
 ]
 
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
 def UMRuleFunction(state, multiworld, player, licenses, level, addt_rule):
     if not state.has("Progressive Hunting License", player, licenses):
         return False
@@ -235,12 +241,17 @@ def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
         else:
             addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
-        multiworld.get_location(name, player).access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
-            UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
+        location = safeGetLocation(multiworld, name, player)
+
+        if not location is None:
+            location.access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
+                UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
 
         if Challenge_Quests_Enabled and associated_challenge_quest is not None:
-            multiworld.get_location(associated_challenge_quest, player).access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
-                UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
+            cqlocation = safeGetLocation(multiworld, associated_challenge_quest, player)
+            if not cqlocation is None:
+                cqlocation.access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
+                    UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
 
 def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
     In_Post_Game = is_option_enabled(multiworld, player, "Post_Game")
@@ -251,5 +262,7 @@ def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
         else:
             addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
-        multiworld.get_location(UM["Name"], player).access_rule = lambda state, multiworld=multiworld, player=player, licenses=UM["Licenses"], level=UM["Level"], addt_rule=addt_rule: \
-            UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
+        location = safeGetLocation(multiworld, UM["Name"], player)
+        if not location is None:
+            location.access_rule = lambda state, multiworld=multiworld, player=player, licenses=UM["Licenses"], level=UM["Level"], addt_rule=addt_rule: \
+                UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)

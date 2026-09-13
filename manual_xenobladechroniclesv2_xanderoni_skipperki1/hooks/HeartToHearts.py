@@ -70,6 +70,12 @@ HEART_TO_HEARTS = [
     {   "Name": "Before the Final Battle",     "Shulk": 5,         "Fiora": 5      }
 ]
 
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
 def canAccessH2H(state: CollectionState, player: int, H2H: dict, spoilers: bool) -> bool:
     if (H2H["Name"] == "The Colony Reborn"):
         if not state.has("Colony 6 Reconstruction Special Level", player, 5):
@@ -98,4 +104,8 @@ def setHeartToHeartRules(world: World, multiworld: MultiWorld, player: int, spoi
         if h2hname in ["Fiora's Body", "Fiora's Cooking"] and not spoilers:
             h2hname = h2hname.replace("Fiora", "Seven")
 
-        multiworld.get_location(h2hname, player).access_rule = lambda state, player=player, H2H=H2H, spoilers=spoilers: canAccessH2H(state, player, H2H, spoilers)
+        location = safeGetLocation(multiworld, player, h2hname)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, H2H=H2H, spoilers=spoilers: canAccessH2H(state, player, H2H, spoilers)
