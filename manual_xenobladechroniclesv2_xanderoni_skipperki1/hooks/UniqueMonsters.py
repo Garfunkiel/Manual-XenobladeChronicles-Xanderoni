@@ -241,15 +241,15 @@ def setUniqueMonsterRules(world: World, multiworld: MultiWorld, player: int):
         else:
             addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
-        location = safeGetLocation(multiworld, name, player)
+        location = safeGetLocation(multiworld, player, name)
 
-        if not location is None:
+        if location is not None:
             location.access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
                 UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
 
         if Challenge_Quests_Enabled and associated_challenge_quest is not None:
-            cqlocation = safeGetLocation(multiworld, associated_challenge_quest, player)
-            if not cqlocation is None:
+            cqlocation = safeGetLocation(multiworld, player, associated_challenge_quest)
+            if cqlocation is not None:
                 cqlocation.access_rule = lambda state, multiworld=multiworld, player=player, licenses=licenses, level=level, addt_rule=addt_rule: \
                     UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
 
@@ -262,7 +262,7 @@ def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
         else:
             addt_rule = getEventForStoryRequirement(UM.get("Story", None))
 
-        location = safeGetLocation(multiworld, UM["Name"], player)
-        if not location is None:
+        location = safeGetLocation(multiworld, player, UM["Name"])
+        if location is not None:
             location.access_rule = lambda state, multiworld=multiworld, player=player, licenses=UM["Licenses"], level=UM["Level"], addt_rule=addt_rule: \
                 UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)

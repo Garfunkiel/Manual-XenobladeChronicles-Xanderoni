@@ -5,7 +5,8 @@ class XenobladeManualTest_DangerTolerance_Negative10(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": -10,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_DangerTolerance_GentleRodriguez(self):
@@ -17,7 +18,8 @@ class XenobladeManualTest_DangerTolerance_0(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": 0,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_DangerTolerance_GentleRodriguez(self):
@@ -29,7 +31,8 @@ class XenobladeManualTest_DangerTolerance_30(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": 30,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_DangerTolerance_GentleRodriguez(self):
@@ -41,7 +44,8 @@ class XenobladeManualTest_DangerTolerance_119(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": 119,
-        "Post_Game": False
+        "Post_Game": False,
+        "GameOrder": 0
     }
 
     def test_DangerTolerance_GentleRodriguez(self):

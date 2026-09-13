@@ -12,9 +12,11 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
         return get_option_value(multiworld, player, "GameVersion") == 2
 
     if category_name in get_main_game_only_categories():
-        return get_option_value(multiworld, player, "GameOrder") != 2
+        if get_option_value(multiworld, player, "GameOrder") == 2:
+            return False
     if category_name.startswith("Future Connected"):
-        return get_option_value(multiworld, player, "GameOrder") >= 1
+        if get_option_value(multiworld, player, "GameOrder") == 0:
+            return False
 
     if get_option_value(multiworld, player, "Post_Game") == True:
         if category_name == "UnavailableInPostGame" or category_name in [

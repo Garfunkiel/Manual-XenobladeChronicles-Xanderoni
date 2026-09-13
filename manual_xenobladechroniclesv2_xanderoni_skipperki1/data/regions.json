@@ -7,8 +7,8 @@
             "Future Connected"
         ],
         "exit_requires": {
-            "Base Game": "{YamlCompare(GameOrder == 0)} OR ({YamlCompare(GameOrder == 1)} OR ({YamlCompare(GameOrder == 4)})",
-            "Future Connected": "{YamlCompare(GameOrder == 2)} OR ({YamlCompare(GameOrder == 3)} OR ({YamlCompare(GameOrder == 4)})"
+            "Base Game": "{YamlCompare(GameOrder == 0)} OR {YamlCompare(GameOrder == 1)} OR {YamlCompare(GameOrder == 4)}",
+            "Future Connected": "{YamlCompare(GameOrder == 2)} OR {YamlCompare(GameOrder == 3)} OR {YamlCompare(GameOrder == 4)}"
         }
     },
     "Base Game": {
