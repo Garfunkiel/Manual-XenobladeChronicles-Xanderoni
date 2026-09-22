@@ -30,13 +30,13 @@ def requiresMelee():
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 def questPaolaAndNarineReq():
-    return "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
+    return "{OptAll(|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
                 " AND ((|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|) " \
                 " OR (|Sharla Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
                 " OR (|Sharla Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
                 " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
                 " OR (|Melia Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
-                ")"
+                "))}"
 
 REGION_LEVELS = [
     {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},

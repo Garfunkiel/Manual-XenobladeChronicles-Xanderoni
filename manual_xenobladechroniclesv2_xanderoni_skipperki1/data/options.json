@@ -115,7 +115,8 @@
                 "This option determines what items and locations should be used for the Collectopaedia",
                 "No Collectopaedia removes all Collectopaedia items and locations",
                 "Categories Only excludes individual items from being included",
-                "Collectopaediasanity includes all Collectopaedia items and locations"
+                "Collectopaediasanity includes all Collectopaedia items and locations",
+                "Default is Categories Only"
             ],
             "values": {
                 "No Collectopaedia": 0,
