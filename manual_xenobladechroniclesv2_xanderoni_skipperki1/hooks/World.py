@@ -220,10 +220,12 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
     CollectopaediaCache.clear()
 
-    if is_option_enabled(multiworld, player, "UniqueMonsters"):
+    mhOption = get_option_value(multiworld, player, "Monster_Hunting")
+
+    if mhOption == 1 or mhOption == 3:
         setUniqueMonsterRules(world, multiworld, player)
 
-    if is_option_enabled(multiworld, player, "SuperBosses"):
+    if mhOption == 2 or mhOption == 3:
         setSuperBossRules(world, multiworld, player)
 
     if is_option_enabled(multiworld, player, "CrystalMining"):

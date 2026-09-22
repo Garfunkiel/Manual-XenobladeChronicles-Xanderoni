@@ -1573,7 +1573,8 @@
       "count": 5,
       "name": "Shulk Progressive Affinity Rank",
       "category": [
-        "Shulk Affinity"
+        "Shulk Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1581,7 +1582,8 @@
       "count": 5,
       "name": "Reyn Progressive Affinity Rank",
       "category": [
-        "Reyn Affinity"
+        "Reyn Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1590,7 +1592,8 @@
       "name": "Fiora Progressive Affinity Rank",
       "category": [
         "Spoilers",
-        "Fiora Affinity"
+        "Fiora Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1599,7 +1602,8 @@
       "name": "Seven Progressive Affinity Rank",
       "category": [
         "NoSpoilers",
-        "Seven Affinity"
+        "Seven Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1607,7 +1611,8 @@
       "count": 5,
       "name": "Sharla Progressive Affinity Rank",
       "category": [
-        "Sharla Affinity"
+        "Sharla Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1615,7 +1620,8 @@
       "count": 5,
       "name": "Dunban Progressive Affinity Rank",
       "category": [
-        "Dunban Affinity"
+        "Dunban Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1623,7 +1629,8 @@
       "count": 5,
       "name": "Melia Progressive Affinity Rank",
       "category": [
-        "Melia Affinity"
+        "Melia Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1631,7 +1638,8 @@
       "count": 5,
       "name": "Riki Progressive Affinity Rank",
       "category": [
-        "Riki Affinity"
+        "Riki Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -6169,6 +6177,7 @@
       "count": 2,
       "name": "Bionis' Shoulder Hunting License",
       "category": [
+        "Future Connected Hunting Licenses",
         "Future Connected Items"
       ],
       "progression": true
@@ -6652,6 +6661,46 @@
       "category": [
         "CrystalMining",
         "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Despotic Arsene Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Avalanche Abaasy Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blizzard Belgazas Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Final Marcus Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Daedala Bounty",
+      "category": [
+        "Bounties"
       ],
       "progression": true
     }

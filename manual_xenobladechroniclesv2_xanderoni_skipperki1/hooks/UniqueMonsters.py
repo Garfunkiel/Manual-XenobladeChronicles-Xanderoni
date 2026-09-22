@@ -181,11 +181,11 @@ UNIQUE_MONSTERS_MISSABLE = [
 ]
 
 SUPER_BOSSES = [
-    {   "Name": "SUPERBOSS Despotic Arsene (Lv 108)",    "Story": "MC",     "Level": 108,       "Licenses":  6      },
-    {   "Name": "SUPERBOSS Avalanche Abaasy (Lv 120)",   "Story": "MC",     "Level": 120,       "Licenses": 10      },
-    {   "Name": "SUPERBOSS Blizzard Belgazas (Lv 114)",  "Story": "MC",     "Level": 114,       "Licenses": 10      },
-    {   "Name": "SUPERBOSS Final Marcus (Lv 100)",                          "Level": 100,       "Licenses": 10      },
-    {   "Name": "SUPERBOSS Ancient Daedala (Lv 105)",    "Story": "MC",     "Level": 105,       "Licenses": 13      }
+    {   "Name": "SUPERBOSS Despotic Arsene (Lv 108)",    "Story": "MC",     "Level": 108,   "Bounty": "Despotic Arsene Bounty"        },
+    {   "Name": "SUPERBOSS Avalanche Abaasy (Lv 120)",   "Story": "MC",     "Level": 120,   "Bounty": "Avalanche Abaasy Bounty"       },
+    {   "Name": "SUPERBOSS Blizzard Belgazas (Lv 114)",  "Story": "MC",     "Level": 114,   "Bounty": "Blizzard Belgazas Bounty"      },
+    {   "Name": "SUPERBOSS Final Marcus (Lv 100)",                          "Level": 100,   "Bounty": "Final Marcus Bounty"           },
+    {   "Name": "SUPERBOSS Ancient Daedala (Lv 105)",    "Story": "MC",     "Level": 105,   "Bounty": "Ancient Daedala Bounty"        }
 ]
 
 def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
@@ -196,6 +196,21 @@ def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
 
 def UMRuleFunction(state, multiworld, player, licenses, level, addt_rule):
     if not state.has("Progressive Hunting License", player, licenses):
+        return False
+
+    if addt_rule is not None:
+        if not state.has(addt_rule, player, 1):
+            return False
+
+    DT = hasDangerTolerance(multiworld, player, level)
+
+    if not type(DT) is str:
+        return DT
+
+    return state.has(DT.replace("|", ""), player, 1)
+
+def SBRuleFunction(state, multiworld, player, bounty, level, addt_rule):
+    if not state.has(bounty, player, 1):
         return False
 
     if addt_rule is not None:
@@ -264,5 +279,5 @@ def setSuperBossRules(world: World, multiworld: MultiWorld, player: int):
 
         location = safeGetLocation(multiworld, player, UM["Name"])
         if location is not None:
-            location.access_rule = lambda state, multiworld=multiworld, player=player, licenses=UM["Licenses"], level=UM["Level"], addt_rule=addt_rule: \
-                UMRuleFunction(state, multiworld, player, licenses, level, addt_rule)
+            location.access_rule = lambda state, multiworld=multiworld, player=player, bounty=UM["Bounty"], level=UM["Level"], addt_rule=addt_rule: \
+                SBRuleFunction(state, multiworld, player, bounty, level, addt_rule)

@@ -126,6 +126,24 @@
             "default": 1
         },
 
+        "Monster_Hunting": {
+            "type": "Choice",
+            "description": [
+                "This option determines what items and locations should be used for monster hunting",
+                "None removes Unique Monsters, Super Bosses, Hunting Licenses, and Bounties from logic",
+                "Otherwise, Unique Monsters require progressive Hunting Licenses to be in logic",
+                "Super Bosses require individual Bounties to be in logic",
+                "Default is Unique Monsters Only"
+            ],
+            "values": {
+                "None": 0,
+                "Unique Monsters Only": 1,
+                "Super Bosses Only": 2,
+                "All": 3
+            },
+            "default": 1
+        },
+
         "Spoilers": {
             "type": "Toggle",
             "description": [

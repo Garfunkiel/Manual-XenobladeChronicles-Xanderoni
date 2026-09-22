@@ -1,37 +1,65 @@
 from typing import Optional, Any
 from BaseClasses import MultiWorld
-
+from Options import OptionError
 
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
     from ..Helpers import get_option_value
+
+    def get_option_value_int(multiworld: MultiWorld, player: int, option_name: str) -> int:
+        value = get_option_value(multiworld, player, option_name)
+
+        if not type(value) is int:
+            raise OptionError(f"{option_name} must be an integer value")
+
+        return value
+
     if category_name == "DefinitiveEdition":
-        return get_option_value(multiworld, player, "GameVersion") >= 1
+        return get_option_value_int(multiworld, player, "GameVersion") >= 1
     if category_name == "Switch2Version":
-        return get_option_value(multiworld, player, "GameVersion") == 2
+        return get_option_value_int(multiworld, player, "GameVersion") == 2
 
     if category_name in get_main_game_only_categories():
-        if get_option_value(multiworld, player, "GameOrder") == 2:
+        if get_option_value_int(multiworld, player, "GameOrder") == 2:
             return False
     if category_name.startswith("Future Connected"):
-        if get_option_value(multiworld, player, "GameOrder") == 0:
+        if get_option_value_int(multiworld, player, "GameOrder") == 0:
             return False
 
-    if get_option_value(multiworld, player, "Post_Game") == True:
-        if category_name == "UnavailableInPostGame" or category_name in [
-            "AffinityChart", "StoryQuests", "MonsterQuests", "CollectionQuests", "SearchQuests", "ChallengeQuests", "AffinityQuests", "MaterialQuests"
-        ]:
+    if get_option_value_int(multiworld, player, "Post_Game") == True:
+        if category_name == "UnavailableInPostGame":
+            #"AffinityChart", "Party Affinity",
+            #"StoryQuests", "MonsterQuests", "CollectionQuests", "SearchQuests", "ChallengeQuests", "AffinityQuests", "MaterialQuests",
+            #"BattleQuests", "ErrandQuests", "SurpriseQuests",
+            #"Party Members", "Future Connected Party Members"
+
             return False
 
     if category_name == "Collectopaedia Pages":
-        return get_option_value(multiworld, player, "Collectopaedia") >= 1
+        return get_option_value_int(multiworld, player, "Collectopaedia") >= 1
 
     if category_name == "Collectopaedia":
-        return get_option_value(multiworld, player, "Collectopaedia") >= 1
+        return get_option_value_int(multiworld, player, "Collectopaedia") >= 1
 
     if category_name == "Collectopaediasanity":
-        return get_option_value(multiworld, player, "Collectopaedia") == 2
+        return get_option_value_int(multiworld, player, "Collectopaedia") == 2
+
+    if category_name == "UniqueMonsters":
+        if get_option_value_int(multiworld, player, "Monster_Hunting") == 0 or get_option_value_int(multiworld, player, "Monster_Hunting") == 2:
+            return False
+
+    if category_name == "SuperBosses":
+        if get_option_value_int(multiworld, player, "Monster_Hunting") == 0 or get_option_value_int(multiworld, player, "Monster_Hunting") == 1:
+            return False
+
+    if category_name in ["Hunting Licenses", "Future Connected Hunting Licenses"]:
+        if get_option_value_int(multiworld, player, "Monster_Hunting") == 0 or get_option_value_int(multiworld, player, "Monster_Hunting") == 2:
+            return False
+
+    if category_name in ["Bounties"]:
+        if get_option_value_int(multiworld, player, "Monster_Hunting") == 0 or get_option_value_int(multiworld, player, "Monster_Hunting") == 1:
+            return False
 
     return None
 

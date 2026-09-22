@@ -72,16 +72,10 @@
     ]
   },
   "UniqueMonsters": {
-    "hidden": false,
-    "yaml_option": [
-      "UniqueMonsters"
-    ]
+    "hidden": false
   },
   "SuperBosses": {
-    "hidden": false,
-    "yaml_option": [
-      "SuperBosses"
-    ]
+    "hidden": false
   },
   "Collectopaedia": {
     "hidden": false

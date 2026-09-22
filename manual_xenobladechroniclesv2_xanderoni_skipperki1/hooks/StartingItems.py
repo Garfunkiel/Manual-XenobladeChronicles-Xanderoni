@@ -48,8 +48,9 @@ def set_starting_items(item_pool: list, world: World, multiworld: MultiWorld, pl
             else:
                 starting_items = [f"{starting_region} Key"]
 
-            for _ in range(18):
-                starting_items.append("Progressive Hunting License")
+            if get_option_value(multiworld, player, "Monster_Hunting") != 0 and get_option_value(multiworld, player, "Monster_Hunting") != 2:
+                for _ in range(18):
+                    starting_items.append("Progressive Hunting License")
         else:
             starting_items = ["Colony 9 Key"]
 
