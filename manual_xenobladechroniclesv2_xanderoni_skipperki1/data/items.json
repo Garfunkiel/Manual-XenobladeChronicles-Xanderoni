@@ -6600,6 +6600,60 @@
         "Future Connected Items"
       ],
       "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Water Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
     }
   ]
 }

@@ -15877,6 +15877,267 @@
         "Collectopaedia",
         "Future Connected Collectopaedia"
       ]
+    },
+    {
+      "name": "Ether Crystal Deposit - North of Companions' Cape",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Companions' Forum",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Valley of Clear Sky Bluff",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - South of Clear Sky Bluff",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northwest of Clear Sky Bluff",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West of Zephyr's Counsel",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northwest of Zephyr's Counsel",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West of Pillar Knoll",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Barouh Ruins Cave",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northeast on Soltnar Seal Island",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Thulles Way",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West of Old King's Testament",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Southwest of Gran Dell Ramparts",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northeast of Agni's Birthplace",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northeast of Gran Dell Approach",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Southeast of Gran Dell Approach",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Electric Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Eternal Zenith",
+      "region": "Future Connected Part III",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Xen's Thoroughfare",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West of Abaasy's Dorsum",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - North of Abaasy's Dorsum",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - West of Skybridge",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Northwest of Thulles Way",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Old Expedition HQ",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Fire Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Quarry Colonnade",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Water Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Zekr Marga Quarry Entrance",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Ice Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - Zekr Marga Quarry North",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Earth Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Marga's Weeping (1)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Marga's Weeping (2)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "Ether Crystal Deposit - East of Marga's Weeping (3)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Mining",
+        "CrystalMining"
+      ],
+      "requires": "|Shoulder Wind Ether Pickaxe|"
     }
   ]
 }
