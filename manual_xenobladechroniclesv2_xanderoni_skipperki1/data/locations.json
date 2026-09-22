@@ -189,14 +189,14 @@
       "name": "Ancient Machines",
       "region": "Tephra Cave",
       "category": [
-        "Colony 9 Bosses"
+        "Colony 9 Bosses", "Bosses"
       ]
     },
     {
       "name": "Metal Face",
       "region": "Tephra Cave",
       "category": [
-        "Colony 9 Bosses"
+        "Colony 9 Bosses", "Bosses"
       ]
     },
     {
@@ -861,7 +861,7 @@
       "name": "Arachno Queen",
       "region": "Tephra Cave",
       "category": [
-        "Tephra Cave Bosses"
+        "Tephra Cave Bosses", "Bosses"
       ]
     },
     {
@@ -1188,14 +1188,14 @@
       "name": "Mechon M71",
       "region": "Bionis' Leg",
       "category": [
-        "Bionis' Leg Bosses"
+        "Bionis' Leg Bosses", "Bosses"
       ]
     },
     {
       "name": "Xord (Bionis' Leg)",
       "region": "Bionis' Leg",
       "category": [
-        "Bionis' Leg Bosses"
+        "Bionis' Leg Bosses", "Bosses"
       ]
     },
     {
@@ -1394,14 +1394,14 @@
       "name": "Sani Telethia",
       "region": "Mechonis Core",
       "category": [
-        "Colony 6 Bosses"
+        "Colony 6 Bosses", "Bosses"
       ]
     },
     {
       "name": "Sureny Telethia",
       "region": "Mechonis Core",
       "category": [
-        "Colony 6 Bosses"
+        "Colony 6 Bosses", "Bosses"
       ]
     },
     {
@@ -1747,7 +1747,7 @@
       "name": "Xord (Ether Mine)",
       "region": "Ether Mine",
       "category": [
-        "Ether Mine Bosses"
+        "Ether Mine Bosses", "Bosses"
       ]
     },
     {
@@ -1978,7 +1978,7 @@
       "name": "Satorl Guardian",
       "region": "Satorl Marsh",
       "category": [
-        "Satorl Marsh Bosses"
+        "Satorl Marsh Bosses", "Bosses"
       ]
     },
     {
@@ -2305,14 +2305,14 @@
       "name": "Leone Telethia",
       "region": "Frontier Village",
       "category": [
-        "Makna Forest Bosses"
+        "Makna Forest Bosses", "Bosses"
       ]
     },
     {
       "name": "Puera Telethia",
       "region": "Makna Forest",
       "category": [
-        "Makna Forest Bosses"
+        "Makna Forest Bosses", "Bosses"
       ]
     },
     {
@@ -3071,7 +3071,7 @@
       "name": "Skyray",
       "region": "High Entia Tomb",
       "category": [
-        "Eryth Sea Bosses"
+        "Eryth Sea Bosses", "Bosses"
       ]
     },
     {
@@ -3690,14 +3690,14 @@
       "name": "Orluga Rufus",
       "region": "High Entia Tomb",
       "category": [
-        "High Entia Tomb Bosses"
+        "High Entia Tomb Bosses", "Bosses"
       ]
     },
     {
       "name": "Solidum Telethia and Tyrea",
       "region": "High Entia Tomb",
       "category": [
-        "High Entia Tomb Bosses"
+        "High Entia Tomb Bosses", "Bosses"
       ]
     },
     {
@@ -3776,7 +3776,7 @@
       "name": "Metal Face (Prison Island)",
       "region": "Prison Island (1st Visit)",
       "category": [
-        "Prison Island (First Visit) Bosses"
+        "Prison Island (First Visit) Bosses", "Bosses"
       ]
     },
     {
@@ -4024,7 +4024,7 @@
       "name": "Mumkhar (Valak Mountain)",
       "region": "Valak Mountain",
       "category": [
-        "Valak Mountain Bosses"
+        "Valak Mountain Bosses", "Bosses"
       ]
     },
     {
@@ -4281,7 +4281,7 @@
       "name": "Mumkhar (Sword Valley)",
       "region": "Sword Valley (MISSABLE)",
       "category": [
-        "Sword Valley Bosses",
+        "Sword Valley Bosses", "Bosses",
         "UnavailableInPostGame"
       ]
     },
@@ -4409,7 +4409,7 @@
       "name": "Gold Face (Galahad Fortress)",
       "region": "Galahad Fortress (MISSABLE)",
       "category": [
-        "Galahad Fortress Bosses",
+        "Galahad Fortress Bosses", "Bosses",
         "UnavailableInPostGame"
       ]
     },
@@ -4998,7 +4998,7 @@
       "name": "Jade Face",
       "region": "Mechonis Field (MISSABLE)",
       "category": [
-        "Mechonis Field Bosses"
+        "Mechonis Field Bosses", "Bosses"
       ]
     },
     {
@@ -5222,7 +5222,7 @@
       "name": "Apocrypha Generator (Boss)",
       "region": "Central Factory (MISSABLE)",
       "category": [
-        "Central Factory Bosses"
+        "Central Factory Bosses", "Bosses"
       ]
     },
     {
@@ -5437,21 +5437,21 @@
       "name": "Egil",
       "region": "Agniratha (MISSABLE)",
       "category": [
-        "Agniratha Bosses"
+        "Agniratha Bosses", "Bosses"
       ]
     },
     {
       "name": "Gadolt",
       "region": "Agniratha (MISSABLE)",
       "category": [
-        "Agniratha Bosses"
+        "Agniratha Bosses", "Bosses"
       ]
     },
     {
       "name": "Yaldabaoth (Agniratha)",
       "region": "Agniratha (MISSABLE)",
       "category": [
-        "Agniratha Bosses"
+        "Agniratha Bosses", "Bosses"
       ]
     },
     {
@@ -5514,14 +5514,14 @@
       "name": "Yaldabaoth (Mechonis Core)",
       "region": "Mechonis Core",
       "category": [
-        "Mechonis Core Bosses"
+        "Mechonis Core Bosses", "Bosses"
       ]
     },
     {
       "name": "Zanza (Mechonis Core)",
       "region": "Mechonis Core",
       "category": [
-        "Mechonis Core Bosses"
+        "Mechonis Core Bosses", "Bosses"
       ]
     },
     {
@@ -5794,35 +5794,35 @@
       "name": "Demon Pavlovsk",
       "region": "Prison Island (2nd Visit)",
       "category": [
-        "Prison Island (2nd Visit) Bosses"
+        "Prison Island (2nd Visit) Bosses", "Bosses"
       ]
     },
     {
       "name": "Disciple Dickson",
       "region": "Memory Space",
       "category": [
-        "Prison Island (2nd Visit) Bosses"
+        "Prison Island (2nd Visit) Bosses", "Bosses"
       ]
     },
     {
       "name": "Dragon King Alcar",
       "region": "Prison Island (2nd Visit)",
       "category": [
-        "Prison Island (2nd Visit) Bosses"
+        "Prison Island (2nd Visit) Bosses", "Bosses"
       ]
     },
     {
       "name": "Master Obart",
       "region": "Prison Island (2nd Visit)",
       "category": [
-        "Prison Island (2nd Visit) Bosses"
+        "Prison Island (2nd Visit) Bosses", "Bosses"
       ]
     },
     {
       "name": "Obelis Obart",
       "region": "Prison Island (2nd Visit)",
       "category": [
-        "Prison Island (2nd Visit) Bosses"
+        "Prison Island (2nd Visit) Bosses", "Bosses"
       ]
     },
     {
