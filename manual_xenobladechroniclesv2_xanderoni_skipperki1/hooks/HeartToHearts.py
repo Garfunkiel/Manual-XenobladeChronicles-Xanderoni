@@ -76,13 +76,13 @@ def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
     except Exception:
         return None
 
-def canAccessH2H(state: CollectionState, player: int, H2H: dict, spoilers: bool) -> bool:
+def canAccessH2H(state: CollectionState, player: int, H2H: dict, spoilers: bool, reconstruction: bool) -> bool:
     if (H2H["Name"] == "The Colony Reborn"):
-        if not state.has("Colony 6 Reconstruction Special Level", player, 5):
+        if reconstruction and not state.has("Colony 6 Reconstruction Special Level", player, 5):
             return False
     elif (H2H["Name"] == "Quiet Time"):
-            if not state.has("Colony 6 Reconstruction Special Level", player, 3):
-                return False
+        if reconstruction and not state.has("Colony 6 Reconstruction Special Level", player, 3):
+            return False
 
     for char in ["Shulk", "Reyn", "Sharla", "Dunban", "Melia", "Riki"]:
         if (H2H.get(char) is not None and not state.has(f"{char} Progressive Affinity Rank", player, H2H[char])):
@@ -98,7 +98,7 @@ def canAccessH2H(state: CollectionState, player: int, H2H: dict, spoilers: bool)
 
     return True
 
-def setHeartToHeartRules(world: World, multiworld: MultiWorld, player: int, spoilers: bool):
+def setHeartToHeartRules(world: World, multiworld: MultiWorld, player: int, spoilers: bool, reconstruction: bool):
     for H2H in HEART_TO_HEARTS:
         h2hname = H2H["Name"]
         if h2hname in ["Fiora's Body", "Fiora's Cooking"] and not spoilers:
@@ -108,4 +108,4 @@ def setHeartToHeartRules(world: World, multiworld: MultiWorld, player: int, spoi
         if location is None:
             continue
 
-        location.access_rule = lambda state, player=player, H2H=H2H, spoilers=spoilers: canAccessH2H(state, player, H2H, spoilers)
+        location.access_rule = lambda state, player=player, H2H=H2H, spoilers=spoilers, reconstruction=reconstruction: canAccessH2H(state, player, H2H, spoilers, reconstruction)

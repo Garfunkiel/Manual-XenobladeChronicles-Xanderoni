@@ -90,6 +90,9 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     if get_option_value(multiworld, player, "GameOrder") >= 2:
         keyLeniency = 0
 
+    if not is_option_enabled(multiworld, player, "Landmarks") and not is_option_enabled(multiworld, player, "Locations"):
+        keyLeniency = min(keyLeniency, 3)
+
     for i, key in enumerate(keys, start=1):
         if keyLeniency < i:
             break
@@ -258,8 +261,8 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     if is_option_enabled(multiworld, player, "Post_Game"):
         return
 
-    if is_option_enabled(multiworld, player, "HeartToHearts"):
-        setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
+    if is_option_enabled(multiworld, player, "HeartToHearts") and is_option_enabled(multiworld, player, "Party_Affinity"):
+        setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"), is_option_enabled(multiworld, player, "Colony_6_Reconstruction"))
 
     pass
 

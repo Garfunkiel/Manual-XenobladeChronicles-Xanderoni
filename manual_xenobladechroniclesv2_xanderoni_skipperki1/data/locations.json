@@ -15899,6 +15899,3962 @@
       ]
     },
     {
+      "name": "Shulk Joined the Party",
+      "region": "Colony 9",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Shulk @ Level 20",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Levels",
+        "Shulk Levels"
+      ]
+    },
+    {
+      "name": "Shulk @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Shulk Levels"
+      ]
+    },
+    {
+      "name": "Shulk @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Shulk Levels"
+      ]
+    },
+    {
+      "name": "Shulk @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Shulk Levels"
+      ]
+    },
+    {
+      "name": "Shulk @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Shulk Levels"
+      ]
+    },
+    {
+      "name": "Reyn Joined the Party",
+      "region": "Colony 9",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Reyn @ Level 20",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Levels",
+        "Reyn Levels"
+      ]
+    },
+    {
+      "name": "Reyn @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Reyn Levels"
+      ]
+    },
+    {
+      "name": "Reyn @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Reyn Levels"
+      ]
+    },
+    {
+      "name": "Reyn @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Reyn Levels"
+      ]
+    },
+    {
+      "name": "Reyn @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Reyn Levels"
+      ]
+    },
+    {
+      "name": "Fiora Joined the Party",
+      "region": "Colony 9",
+      "category": [
+        "Party Members"
+      ],
+      "_comment": "This is referring to when she joins in Chapter One and is not a spoiler."
+    },
+    {
+      "name": "Sharla Joined the Party",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Sharla @ Level 20",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Levels",
+        "Sharla Levels"
+      ]
+    },
+    {
+      "name": "Sharla @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Sharla Levels"
+      ]
+    },
+    {
+      "name": "Sharla @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Sharla Levels"
+      ]
+    },
+    {
+      "name": "Sharla @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Sharla Levels"
+      ]
+    },
+    {
+      "name": "Sharla @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Sharla Levels"
+      ]
+    },
+    {
+      "name": "Dunban Joined the Party",
+      "region": "Ether Mine",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Dunban @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Dunban Levels"
+      ]
+    },
+    {
+      "name": "Dunban @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Dunban Levels"
+      ]
+    },
+    {
+      "name": "Dunban @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Dunban Levels"
+      ]
+    },
+    {
+      "name": "Dunban @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Dunban Levels"
+      ]
+    },
+    {
+      "name": "Melia Joined the Party",
+      "region": "Makna Forest",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Melia @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Melia Levels"
+      ]
+    },
+    {
+      "name": "Melia @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Melia Levels"
+      ]
+    },
+    {
+      "name": "Melia @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Melia Levels"
+      ]
+    },
+    {
+      "name": "Melia @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Melia Levels"
+      ]
+    },
+    {
+      "name": "Riki Joined the Party",
+      "region": "Frontier Village",
+      "category": [
+        "Party Members"
+      ]
+    },
+    {
+      "name": "Riki @ Level 40",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Party Levels",
+        "Riki Levels"
+      ]
+    },
+    {
+      "name": "Riki @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Riki Levels"
+      ]
+    },
+    {
+      "name": "Riki @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Riki Levels"
+      ]
+    },
+    {
+      "name": "Riki @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Riki Levels"
+      ]
+    },
+    {
+      "name": "Seven Joined the Party",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Members",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Seven @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "NoSpoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Seven @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "NoSpoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Seven @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "NoSpoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Fiora Rejoined the Party",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Members",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Fiora @ Level 60",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Levels",
+        "Spoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Fiora @ Level 80",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Spoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Fiora @ Level 99",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Party Levels",
+        "Spoilers",
+        "Fiora Levels"
+      ]
+    },
+    {
+      "name": "Shulk Joined the Party (FC)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Party Members"
+      ]
+    },
+    {
+      "name": "Melia Joined the Party (FC)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Party Members"
+      ]
+    },
+    {
+      "name": "Kino Joined the Party (FC)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Party Members"
+      ]
+    },
+    {
+      "name": "Nene Joined the Party (FC)",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Party Members"
+      ]
+    },
+    {
+      "name": "Colony 9 Reached",
+      "region": "Colony 9",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Tephra Cave Reached",
+      "region": "Tephra Cave",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Bionis' Leg Reached",
+      "region": "Bionis' Leg",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Colony 6 Reached",
+      "region": "Colony 6",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Ether Mine Reached",
+      "region": "Ether Mine",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Satorl Marsh Reached",
+      "region": "Satorl Marsh",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Bionis' Interior (1st Visit) Reached",
+      "region": "Bionis' Interior (1st Visit)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Makna Forest Reached",
+      "region": "Makna Forest",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Frontier Village Reached",
+      "region": "Frontier Village",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Eryth Sea Reached",
+      "region": "Eryth Sea",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Alcamoth Reached",
+      "region": "Alcamoth",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "High Entia Tomb Reached",
+      "region": "High Entia Tomb",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Prison Island (1st Visit) Reached",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Valak Mountain Reached",
+      "region": "Valak Mountain",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Sword Valley Reached",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Galahad Fortress Reached",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Fallen Arm Reached",
+      "region": "Fallen Arm",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Mechonis Field Reached",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Central Factory Reached",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Agniratha Reached",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Mechonis Core Reached",
+      "region": "Mechonis Core",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Bionis' Interior (2nd Visit) Reached",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Prison Island (2nd Visit) Reached",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Memory Space Reached",
+      "region": "Memory Space",
+      "category": [
+        "Areas"
+      ]
+    },
+    {
+      "name": "Bionis' Shoulder (Central) Reached",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Areas"
+      ]
+    },
+    {
+      "name": "Bionis' Shoulder (Gran Dell Area) Reached",
+      "region": "Future Connected Part II",
+      "category": [
+        "Future Connected Areas"
+      ]
+    },
+    {
+      "name": "Alcamoth (Future Connected) Reached",
+      "region": "Future Connected Part I",
+      "category": [
+        "Future Connected Areas"
+      ]
+    },
+    {
+      "name": "Colony 6 Reconstruction (Housing Lvl 1)",
+      "region": "Satorl Marsh",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Housing"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:1|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Housing Lvl 2)",
+      "region": "Makna Forest",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Housing"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:2|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Housing Lvl 3)",
+      "region": "Alcamoth",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Housing"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:3|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Housing Lvl 4)",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Housing"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:4|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Housing Lvl 5)",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Housing"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:5|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Commerce Lvl 1)",
+      "region": "Satorl Marsh",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Commerce"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Commerce Level:1|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Commerce Lvl 2)",
+      "region": "Makna Forest",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Commerce"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Commerce Level:2|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Commerce Lvl 3)",
+      "region": "High Entia Tomb",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Commerce"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Commerce Level:3|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Commerce Lvl 4)",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Commerce"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Commerce Level:4|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Commerce Lvl 5)",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Commerce"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Commerce Level:5|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Nature Lvl 1)",
+      "region": "Satorl Marsh",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Nature"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Nature Level:1|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Nature Lvl 2)",
+      "region": "Frontier Village",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Nature"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Nature Level:2|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Nature Lvl 3)",
+      "region": "Valak Mountain",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Nature"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Nature Level:3|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Nature Lvl 4)",
+      "region": "Fallen Arm",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Nature"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Nature Level:4|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Nature Lvl 5)",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Nature"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Nature Level:5|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Special Lvl 1)",
+      "region": "Satorl Marsh",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Special"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Special Level:1|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Special Lvl 2)",
+      "region": "Eryth Sea",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Special"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Special Level:2|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Special Lvl 3)",
+      "region": "Valak Mountain",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Special"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Special Level:3|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Special Lvl 4)",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Special"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Special Level:4|)}"
+    },
+    {
+      "name": "Colony 6 Reconstruction (Special Lvl 5)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Colony 6 Reconstruction",
+        "Colony 6 Reconstruction: Special"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Special Level:5|)}"
+    },
+    {
+      "name": "Shulk - Humanity Skill Tree",
+      "region": "Colony 9",
+      "category": [
+        "Shulk Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Shulk - Humanity Skill Tree|"
+    },
+    {
+      "name": "Shulk - Intuition Skill Tree",
+      "region": "Colony 9",
+      "category": [
+        "Shulk Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Shulk - Intuition Skill Tree|"
+    },
+    {
+      "name": "Shulk - Pessimism Skill Tree",
+      "region": "Satorl Marsh",
+      "category": [
+        "Shulk Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Shulk - Pessimism Skill Tree|"
+    },
+    {
+      "name": "Shulk - Bravery Skill Tree",
+      "region": "Mechonis Core",
+      "category": [
+        "Shulk Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Shulk - Bravery Skill Tree|"
+    },
+    {
+      "name": "Reyn - Enthusiasm Skill Tree",
+      "region": "Colony 9",
+      "category": [
+        "Reyn Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Reyn - Enthusiasm Skill Tree|"
+    },
+    {
+      "name": "Reyn - Diligence Skill Tree",
+      "region": "Colony 9",
+      "category": [
+        "Reyn Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Reyn - Diligence Skill Tree|"
+    },
+    {
+      "name": "Reyn - Impatience Skill Tree",
+      "region": "Valak Mountain",
+      "category": [
+        "Reyn Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Nopo'rikh in Colony 6| AND |Reyn - Impatience Skill Tree|"
+    },
+    {
+      "name": "Reyn - Camaraderie Skill Tree",
+      "region": "Mechonis Core",
+      "category": [
+        "Reyn Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Reyn - Camaraderie Skill Tree|"
+    },
+    {
+      "name": "Fiora - Daring Skill Tree",
+      "region": "Fallen Arm",
+      "category": [
+        "Fiora Skill Trees",
+        "Skill Trees",
+        "Spoilers"
+      ],
+      "requires": "|Fiora - Daring Skill Tree|"
+    },
+    {
+      "name": "Fiora - Zeal Skill Tree",
+      "region": "Fallen Arm",
+      "category": [
+        "Fiora Skill Trees",
+        "Skill Trees",
+        "Spoilers"
+      ],
+      "requires": "|Fiora - Zeal Skill Tree|"
+    },
+    {
+      "name": "Fiora - Rashness Skill Tree",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Fiora Skill Trees",
+        "Skill Trees",
+        "Spoilers"
+      ],
+      "requires": "|Fiora - Rashness Skill Tree|"
+    },
+    {
+      "name": "Fiora - Innocence Skill Tree",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Fiora Skill Trees",
+        "Skill Trees",
+        "Spoilers"
+      ],
+      "requires": "|Fiora - Innocence Skill Tree| AND {OptOne(|Progressive Hunting License:2|)} AND {hasDangerTolerance(98)}"
+    },
+    {
+      "name": "Seven - Daring Skill Tree",
+      "region": "Fallen Arm",
+      "category": [
+        "Seven Skill Trees",
+        "Skill Trees",
+        "NoSpoilers"
+      ],
+      "requires": "|Seven - Daring Skill Tree|"
+    },
+    {
+      "name": "Seven - Zeal Skill Tree",
+      "region": "Fallen Arm",
+      "category": [
+        "Seven Skill Trees",
+        "Skill Trees",
+        "NoSpoilers"
+      ],
+      "requires": "|Seven - Zeal Skill Tree|"
+    },
+    {
+      "name": "Seven - Rashness Skill Tree",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Seven Skill Trees",
+        "Skill Trees",
+        "NoSpoilers"
+      ],
+      "requires": "|Seven - Rashness Skill Tree|"
+    },
+    {
+      "name": "Seven - Innocence Skill Tree",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Seven Skill Trees",
+        "Skill Trees",
+        "NoSpoilers"
+      ],
+      "requires": "|Seven - Innocence Skill Tree| AND {OptOne(|Progressive Hunting License:2|)} AND {hasDangerTolerance(98)}"
+    },
+    {
+      "name": "Sharla - Perseverance Skill Tree",
+      "region": "Bionis' Leg",
+      "category": [
+        "Sharla Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Sharla - Perseverance Skill Tree|"
+    },
+    {
+      "name": "Sharla - Confidence Skill Tree",
+      "region": "Bionis' Leg",
+      "category": [
+        "Sharla Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Sharla - Confidence Skill Tree|"
+    },
+    {
+      "name": "Sharla - Reliance Skill Tree",
+      "region": "Eryth Sea",
+      "category": [
+        "Sharla Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Sharla - Reliance Skill Tree|"
+    },
+    {
+      "name": "Sharla - Affection Skill Tree",
+      "region": "Mechonis Core",
+      "category": [
+        "Sharla Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Sharla - Affection Skill Tree|",
+      "_comment": "Requires 4.5 stars Colony 6, so the requires above is not sufficient"
+    },
+    {
+      "name": "Dunban - Wisdom Skill Tree",
+      "region": "Ether Mine",
+      "category": [
+        "Dunban Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Dunban - Wisdom Skill Tree|"
+    },
+    {
+      "name": "Dunban - Prudence Skill Tree",
+      "region": "Ether Mine",
+      "category": [
+        "Dunban Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Dunban - Prudence Skill Tree|"
+    },
+    {
+      "name": "Dunban - Obstinance Skill Tree",
+      "region": "Valak Mountain",
+      "category": [
+        "Dunban Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Dunban - Obstinance Skill Tree| AND {OptOne(|Progressive Hunting License:10|)} AND {hasDangerTolerance(48)}"
+    },
+    {
+      "name": "Dunban - Enthusiasm Skill Tree",
+      "region": "Mechonis Core",
+      "category": [
+        "Dunban Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Dunban - Enthusiasm Skill Tree|"
+    },
+    {
+      "name": "Melia - Honesty Skill Tree",
+      "region": "High Entia Tomb",
+      "category": [
+        "Melia Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Melia - Honesty Skill Tree|",
+      "_comment": "This is doable prior to Frontier Village, but the region has been set to H.E.T. due to how she leaves temporarily."
+    },
+    {
+      "name": "Melia - Reliability Skill Tree",
+      "region": "High Entia Tomb",
+      "category": [
+        "Melia Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Melia - Reliability Skill Tree|",
+      "_comment": "This is doable prior to Frontier Village, but the region has been set to H.E.T. due to how she leaves temporarily."
+    },
+    {
+      "name": "Melia - Reticence Skill Tree",
+      "region": "High Entia Tomb",
+      "category": [
+        "Melia Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Melia - Reticence Skill Tree| AND {OptOne(|Progressive Hunting License:8|)} AND {hasDangerTolerance(42)}"
+    },
+    {
+      "name": "Melia - Passion Skill Tree",
+      "region": "Mechonis Core",
+      "category": [
+        "Melia Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Melia - Passion Skill Tree|"
+    },
+    {
+      "name": "Riki - Innocence Skill Tree",
+      "region": "Frontier Village",
+      "category": [
+        "Riki Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Riki - Innocence Skill Tree|"
+    },
+    {
+      "name": "Riki - Flexibility Skill Tree",
+      "region": "Frontier Village",
+      "category": [
+        "Riki Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Riki - Flexibility Skill Tree|"
+    },
+    {
+      "name": "Riki - Cowardice Skill Tree",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Riki Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Riki - Cowardice Skill Tree|"
+    },
+    {
+      "name": "Riki - Heroism Skill Tree",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Riki Skill Trees",
+        "Skill Trees"
+      ],
+      "requires": "|Riki - Heroism Skill Tree|"
+    },
+    {
+      "name": "Sweet Wasabi",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cool Potato",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Red Lettuce",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Chewy Radish",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dance Apple",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Kiwi",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Strong Dandelion",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Moon Flower",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dawn Hydrangea",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Prairie Dragonfly",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Giant Hornet",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Beetle",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sorrow Beetle",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Chain",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rabbit Diode",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Plate Snow",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rainbow Zirconia",
+      "region": "Colony 9",
+      "category": [
+        "Colony 9 Collectopaedia",
+        "Colony 9 Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Clear Almond",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bright Fig",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dark Grape",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Insanity Mint",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Night Tulip",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Shin Newt",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cave Rat",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Shin Gecko",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Happy Rabbit",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Brown Butterfly",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gold Caterpillar",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rumble Stonefly",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Kneecap Rock",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Confusion Ivy",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Clarity Moss",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Leaf Mystery",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Steel Silk",
+      "region": "Tephra Cave",
+      "category": [
+        "Tephra Cave Collectopaedia",
+        "Tephra Cave Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hot Taro",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Juicy Broccoli",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spicy Cabbage",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hard Lotus",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sour Gooseberry",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Red Durian",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Walnut Grape",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Humming Plum",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Ladybird",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hill Firefly",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Moth Crawler",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Queen Locust",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fire Tarantula",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mat Ice",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bluesky Bark",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Pione Stone",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rusty Bolt",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Winding Gear",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gold Dust Illusion",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Devious Gravity",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Songbird",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Death Bangle",
+      "region": "Bionis' Leg",
+      "category": [
+        "Bionis' Leg Collectopaedia",
+        "Bionis' Leg Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cute Orchid",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sirius Anemone",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spirit Clematis",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Pyro Lizard",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Amblygon Turtle",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dobercorgi",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Verdant Eternity",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Night Rod",
+      "region": "Colony 6",
+      "category": [
+        "Colony 6 Collectopaedia",
+        "Colony 6 Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Light Bat",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Frog",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Yellow Cat",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Beetle",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rubber Mantis",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mystery Firefly",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Charcoal Leg",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ether Pebble",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rumble Coal",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Chip",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ready Coil",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Love Crane",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fire Abron",
+      "region": "Ether Mine",
+      "category": [
+        "Ether Mine Collectopaedia",
+        "Ether Mine Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Turnip",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cute Parsnip",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Poisonous Gourd",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Humming Cabbage",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sunflower Rogue",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Merry Coronation",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ether Rose",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Orb Daisy",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Forget-You-Not",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Chimera Rabbit",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Venom Platypus",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Humming Cat",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mist Tree",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Lemon Stone",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Feather Leaf",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Water Log",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Wool Rock",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Gear Shard",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rumble Part",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Pauper's Cup",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Happy Carnival",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dawn Dice",
+      "region": "Satorl Marsh",
+      "category": [
+        "Satorl Marsh Collectopaedia",
+        "Satorl Marsh Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sarsaparilla",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Liver Bean",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blood Worm",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Azure Mouse",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Happy Duck",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Tap Tap Tap",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "High Entia Jewel",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Bionis' Interior Collectopaedia",
+        "Bionis' Interior Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Schorl Mushroom",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Kelp Mushroom",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Honey Rhubarb",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dark Mango",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Pure Cherry",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bitter Kiwi",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Juicy Grape",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Enigma Lotus",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Humming Nettle",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Princess Daffodil",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Iris",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ash Fox",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Soft Sea Cucumber",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fossil Monkey",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Venomous Lizard",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Scarlet Ladybird",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Shield Bug",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hades Beetle",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Benign Cricket",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Lemonade Sky",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Forest of Gossip",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gravel Disk",
+      "region": "Makna Forest",
+      "category": [
+        "Makna Forest Collectopaedia",
+        "Makna Forest Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spicy Nut",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Crimson Citrus",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rainbow Bug",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Empress Beetle",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rumble Box",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Panel",
+      "region": "Frontier Village",
+      "category": [
+        "Frontier Village Collectopaedia",
+        "Frontier Village Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Pink Asparagus",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Tropical Radish",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dolphin Carrot",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gold Burdock",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sea Berry",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Despair Clover",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Doomsday Poppy",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Night Lily",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Razor Teasel",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sea Frog",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mane Cat",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Tail",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Marine Marble",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Oil Branch",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dilemma Rock",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "High Violet",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Steel Hauyne",
+      "region": "Eryth Sea",
+      "category": [
+        "Eryth Sea Collectopaedia",
+        "Eryth Sea Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cool Lemon",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Heart Peach",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mystic Dahlia",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Stardrop",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ha Ha Ha",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Thunder Atmos",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Nanoceros",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth - FC Collectopaedia",
+        "Alcamoth - FC Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Mane Cat (FC)",
+      "region": "Alcamoth",
+      "category": [
+        "Alcamoth - FC Collectopaedia",
+        "Alcamoth - FC Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Green Earwig",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Ladybird",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Tube",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Green Diode",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spiral Lamp",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Tasty Sausage",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Macro Passion",
+      "region": "High Entia Tomb",
+      "category": [
+        "High Entia Tomb Collectopaedia",
+        "High Entia Tomb Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sour Radish",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ice Cabbage",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Girl Courgette",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Amethyst Vanilla",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ether Plum",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fire Apple",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ruby Mangosteen",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sour Grape",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fortune Mallow",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Peony",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fatal Belladonna",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Wet Rat",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ice Monkey",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Crystal Frog",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mud Squirrel",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gypsum Branch",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Ash",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Emerald Snow",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rabbit Stone",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Broom Icicle",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Frost Glass",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Large Handcuffs",
+      "region": "Valak Mountain",
+      "category": [
+        "Valak Mountain Collectopaedia",
+        "Valak Mountain Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fire Pepper",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Meaty Carrot",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bitter Broccoli",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bitter Melon",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Citron Gooseberry",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Juicy Melon",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Amethyst Melon",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Jujube Silver",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Blossom",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Abyss Heather",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Delerium Foxglove",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Gold Condenser",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Purple Lamp",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Crimson Gear",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Red Frontier",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Darkness Bottle",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bud of Eternity",
+      "region": "Sword Valley (MISSABLE)",
+      "category": [
+        "Sword Valley Collectopaedia",
+        "Sword Valley Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Wheel Lurker",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ultramarine Ant",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Locust Spring",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Art Core Coil",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Tail Antenna",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hunger Crash",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Splish Splash",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Galahad Fortress Collectopaedia",
+        "Galahad Fortress Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sour Turnip",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Golden Beetroot",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Plum",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ice Kiwi Fruit",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spicy Papaya",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Large Mango",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Oil Oyster",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dark Fish",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ether Penguin",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Rainbow Slug",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Poisonous Coral",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Poison Ivy",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Amber Leaf",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Warning Lamp",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Digital Filament",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Star Cute",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Summer Star",
+      "region": "Fallen Arm",
+      "category": [
+        "Fallen Arm Collectopaedia",
+        "Fallen Arm Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Juicy Steakplant",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Acerola Pea",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Energy Aubergine",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sweet Pepper",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Azure Hollyhock",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Utopia Crocus",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Scarlet Crawler",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Shiny Scarab",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Water Boatman",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Ivy Nest",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Mossy Panel",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bronze Wood",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Retro Diode",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Modern Blue Gear",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Snow Transistor",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Tweet Tweet",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Flame Frame",
+      "region": "Mechonis Field (MISSABLE)",
+      "category": [
+        "Mechonis Field Collectopaedia",
+        "Mechonis Field Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Meaty Potato",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Root",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Vegetable)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Prism Centipede",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Cable Mouse",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Oil Fox",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dew Beetle",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Glider Cockroach",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Styrene",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Black Styrene",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blood Oil",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Angel Engine X",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Leaf Coil",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Warrior Screw",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Smoke Cylinder",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sacred Panther",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Parts Noble",
+      "region": "Central Factory (MISSABLE)",
+      "category": [
+        "Central Factory Collectopaedia",
+        "Central Factory Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Juicy Blueberry",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Sweet Lime",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Spicy Banana",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Lewisia Silver",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Freesia Cyst",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Bellflower Crystal",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Flower)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Electric Cricket",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Scissor Bug",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Missing Tree",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fortune Feather",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fancy Bolt",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Light Amp",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Fairy Tale Diode",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Grape Spring",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Eryth Blue",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dramatic Night",
+      "region": "Agniratha (MISSABLE)",
+      "category": [
+        "Agniratha Collectopaedia",
+        "Agniratha Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dry Lemon",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Death Lychee",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Hell Raspberry",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Deadly Kiwi",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Fruit)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Dancing Squirrel",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Lightning Weasel",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Angry Monkey",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Animal)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Senorita Scarab",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Emperor Beetle",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Absurd Branch",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Insanity Moss",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Nature)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "White Cover",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Modern Resistor",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Green Cam",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Strong Screw",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Glow",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Blue Blood",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Prison Island Collectopaedia",
+        "Prison Island Collection (Strange)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Minute Mantis",
+      "region": "Tephra Cave",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Love Beetle",
+      "region": "Frontier Village",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Bug)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Golden Cog",
+      "region": "Bionis' Interior (2nd Visit)",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Part)",
+        "Collectopaediasanity"
+      ],
+      "requires": "{OptAll(|Colony 6 Reconstruction Housing Level:4| AND |Colony 6 Reconstruction Special Level:4|)}"
+    },
+    {
+      "name": "Angel Engine Y",
+      "region": "Fallen Arm",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Part)",
+        "Collectopaediasanity"
+      ]
+    },
+    {
+      "name": "Thunder Compass",
+      "region": "High Entia Tomb",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Part)",
+        "Collectopaediasanity"
+      ],
+      "requires": "{OptAll(|Progressive Hunting License:8| OR |Valak Mountain Access|)}"
+    },
+    {
+      "name": "Coin of Fortune",
+      "region": "Valak Mountain",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Strange)",
+        "Collectopaediasanity"
+      ],
+      "requires": "{OptAll(|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Commerce Level:2| AND |Colony 6 Reconstruction Nature Level:3| AND |Colony 6 Reconstruction Special Level:2|)}"
+    },
+    {
+      "name": "Love Source",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Other Collectopaedia",
+        "Other Collection (Strange)",
+        "Collectopaediasanity"
+      ],
+      "requires": "{OptOne(|Colony 6 Reconstruction Housing Level:4|)}"
+    },
+    {
+      "name": "Rainbow Carrot",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Vegetable)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "High Leaf",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Vegetable)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Cream Wheat",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Vegetable)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Morrow Cob",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Vegetable)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Kilopumpkin",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Vegetable)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Angel Bream",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Gentleclam",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Sky Mole",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Blade Bird",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Palmtop Elephant",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Half Part",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Part)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Snare Wire",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Part)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Subzero Steel",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Part)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Blaze Chain",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Part)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Congenial Cogs",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Part)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Swirly Slash",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Strange)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Hero Nipper",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Strange)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Highlightning",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Strange)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Dubious Sculpture",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Strange)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
+      "name": "Shimmertumble",
+      "region": "Future Connected Part I",
+      "category": [
+        "Bionis' Shoulder Collectopaedia",
+        "Bionis' Shoulder Collection (Strange)",
+        "Collectopaediasanity",
+        "Future Connected Collectopaedia Items"
+      ]
+    },
+    {
       "name": "Ether Crystal Deposit - North of Companions' Cape",
       "region": "Future Connected Part I",
       "category": [
@@ -16158,6 +20114,1102 @@
         "CrystalMining"
       ],
       "requires": "|Shoulder Wind Ether Pickaxe|"
+    },
+    {
+      "name": "King Agni's Tomb Giants' Treasure Chest",
+      "region": "Prison Island (1st Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Three Sage Summit Giants' Treasure Chest",
+      "region": "Mechonis Core",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island First Sanctum Giants' Treasure Chest (SE)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island First Sanctum Giants' Treasure Chest (SW)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island Second Sanctum Giants' Treasure Chest (NE)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island Second Sanctum Giants' Treasure Chest (NW)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island Central Hall Giants' Treasure Chest (N)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Prison Island Central Hall Giants' Treasure Chest (S)",
+      "region": "Prison Island (2nd Visit)",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Imperial Treasury High Entia Treasure",
+      "region": "Mechonis Core",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Second Treasury High Entia Treasure",
+      "region": "High Entia Tomb",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Sororal Statues High Entia Treasure",
+      "region": "Mechonis Core",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Kromar Coast High Entia Treasure",
+      "region": "Mechonis Core",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Hode Refuge High Entia Treasure",
+      "region": "Mechonis Core",
+      "category": [
+        "Treasure Chests"
+      ]
+    },
+    {
+      "name": "Shulk - Reyn @ Yellow Affinity",
+      "region": "Colony 9",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Reyn @ Green Affinity",
+      "region": "Colony 6",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Reyn @ Blue Affinity",
+      "region": "Satorl Marsh",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Reyn @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Reyn @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Sharla @ Yellow Affinity",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Sharla @ Green Affinity",
+      "region": "Colony 6",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Sharla @ Blue Affinity",
+      "region": "Satorl Marsh",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Sharla @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Sharla @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Dunban @ Yellow Affinity",
+      "region": "Ether Mine",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Dunban @ Green Affinity",
+      "region": "Bionis' Interior (1st Visit)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Dunban @ Blue Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Dunban @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Dunban @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Melia @ Yellow Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Melia @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Melia @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Melia @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Melia @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Riki @ Yellow Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Riki @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Riki @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Riki @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Riki @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Shulk - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Shulk - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Sharla @ Yellow Affinity",
+      "region": "Bionis' Leg",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Sharla @ Green Affinity",
+      "region": "Colony 6",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Sharla @ Blue Affinity",
+      "region": "Satorl Marsh",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Sharla @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Sharla @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Dunban @ Yellow Affinity",
+      "region": "Ether Mine",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Dunban @ Green Affinity",
+      "region": "Bionis' Interior (1st Visit)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Dunban @ Blue Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Dunban @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Dunban @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Melia @ Yellow Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Melia @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Melia @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Melia @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Melia @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Riki @ Yellow Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Riki @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Riki @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Riki @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Riki @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Reyn - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Reyn - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Dunban @ Yellow Affinity",
+      "region": "Ether Mine",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Dunban @ Green Affinity",
+      "region": "Bionis' Interior (1st Visit)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Dunban @ Blue Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Dunban @ Lavender Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Dunban @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Melia @ Yellow Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Melia @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Melia @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Melia @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Melia @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Riki @ Yellow Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Riki @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Riki @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Riki @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Riki @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Sharla - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Sharla - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Melia @ Yellow Affinity",
+      "region": "Makna Forest",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Melia @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Melia @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Melia @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Melia @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Riki @ Yellow Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Riki @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Riki @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Riki @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Riki @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Dunban - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Dunban - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Melia - Riki @ Yellow Affinity",
+      "region": "Frontier Village",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Melia - Riki @ Green Affinity",
+      "region": "High Entia Tomb",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Melia - Riki @ Blue Affinity",
+      "region": "Valak Mountain",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Melia - Riki @ Lavender Affinity",
+      "region": "Galahad Fortress (MISSABLE)",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Melia - Riki @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity"
+      ]
+    },
+    {
+      "name": "Melia - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Melia - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Melia - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Melia - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Melia - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Melia - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Melia - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Melia - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Melia - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Melia - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Riki - Fiora @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Riki - Fiora @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Riki - Fiora @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Riki - Fiora @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Riki - Fiora @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "Spoilers"
+      ]
+    },
+    {
+      "name": "Riki - Seven @ Yellow Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Riki - Seven @ Green Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Riki - Seven @ Blue Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Riki - Seven @ Lavender Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
+    },
+    {
+      "name": "Riki - Seven @ Pink Affinity",
+      "region": "Fallen Arm",
+      "category": [
+        "Party Affinity",
+        "NoSpoilers"
+      ]
     }
   ]
 }
