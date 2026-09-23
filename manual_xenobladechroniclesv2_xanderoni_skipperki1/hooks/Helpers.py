@@ -15,6 +15,8 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
 
         return value
 
+    if category_name == "OriginalVersion":
+        return get_option_value_int(multiworld, player, "GameVersion") == 0
     if category_name == "DefinitiveEdition":
         return get_option_value_int(multiworld, player, "GameVersion") >= 1
     if category_name == "Switch2Version":

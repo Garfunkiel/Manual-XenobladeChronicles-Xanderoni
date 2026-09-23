@@ -8223,7 +8223,8 @@
       "region": "Alcamoth",
       "category": [
         "Eryth Sea Quests",
-        "CollectionQuests"
+        "CollectionQuests",
+        "OriginalVersion"
       ]
     },
     {
@@ -8231,7 +8232,26 @@
       "region": "High Entia Tomb",
       "category": [
         "Eryth Sea Quests",
-        "CollectionQuests"
+        "CollectionQuests",
+        "OriginalVersion"
+      ]
+    },
+    {
+      "name": "Collection Quest 1 (Eryth Sea)",
+      "region": "Alcamoth",
+      "category": [
+        "Eryth Sea Quests",
+        "CollectionQuests",
+        "DefinitiveEdition"
+      ]
+    },
+    {
+      "name": "Collection Quest 2 (Eryth Sea)",
+      "region": "High Entia Tomb",
+      "category": [
+        "Eryth Sea Quests",
+        "CollectionQuests",
+        "DefinitiveEdition"
       ]
     },
     {
