@@ -3,7 +3,6 @@ from typing import Any
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 from Options import OptionError
-from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
 from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
 from .HeartToHearts import setHeartToHeartRules
 from .StartingItems import set_starting_items
@@ -174,46 +173,6 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
     pass
 
-CollectopaediaCache = []
-
-def getCollectopaediaValue(world: World, state: CollectionState, player: int, area: str):
-    catName = f"{area} Collectopaedia"
-    cacheKey = f"{player}-{catName}"
-
-    if cacheKey in CollectopaediaCache:
-        return True
-
-    val = state.has_all(world.item_name_groups[catName], player) and getColVal(state, area, "ALL", player)
-
-    if val:
-        CollectopaediaCache.append(cacheKey)
-    return val
-
-def getColVal(state: CollectionState, area: str, cat: str, player: int):
-    if (cat == "ALL"):
-        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
-            if state.count(f"Progressive {item} Category", player) < COLLECTOPAEDIA_REQUIREMENTS[area][item]:
-                return False
-        return True
-    else:
-        return state.count(f"Progressive {cat} Category", player) >= COLLECTOPAEDIA_REQUIREMENTS[area][cat]
-
-def playerHasPage(state: CollectionState, player: int, area: str, cat: str) -> bool:
-    cacheKey = f"{player}-{area}-{cat}"
-    if cacheKey in CollectopaediaCache:
-        return True
-
-    val = getColVal(state, area, cat, player) and playerHasItems(state, player, PAGE_REQUIREMENTS.get(f"{area}|{cat}", []))
-    if val:
-        CollectopaediaCache.append(cacheKey)
-    return val
-
-def playerHasItems(state: CollectionState, player: int, items: list[str]) -> bool:
-    for item in items:
-        if not state.has(item, player):
-            return False
-    return True
-
 def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
     try:
         return multiworld.get_location(name, player)
@@ -223,8 +182,6 @@ def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
-    CollectopaediaCache.clear()
-
     mhOption = get_option_value(multiworld, player, "Monster_Hunting")
 
     if mhOption == 1 or mhOption == 3:
@@ -239,26 +196,6 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     if get_option_value(multiworld, player, "GameVersion") == 2:
         if is_option_enabled(multiworld, player, "NoponGrandPrix"):
             setNoponGrandPrixRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
-
-    CollectopaediaType = get_option_value(multiworld, player, "Collectopaedia")
-
-    if CollectopaediaType >= 2:
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = safeGetLocation(multiworld, player, loc["name"])
-            if not location is None:
-                area = loc["area"]
-                cat = loc["cat"]
-                if cat == "ALL":
-                    location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, area))
-                else:
-                    location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
-    elif CollectopaediaType == 1:
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = safeGetLocation(multiworld, player, loc["name"])
-            if not location is None:
-                area = loc["area"]
-                cat = loc["cat"]
-                location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
 
     if is_option_enabled(multiworld, player, "Post_Game"):
         return

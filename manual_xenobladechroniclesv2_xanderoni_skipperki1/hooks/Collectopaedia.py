@@ -152,12 +152,7 @@ COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Bionis' Shoulder Collectopaedia Vegetable Completion", "area": "Bionis' Shoulder", "cat": "Vegetable" },
     { "name": "Bionis' Shoulder Collectopaedia Animal Completion", "area": "Bionis' Shoulder", "cat": "Animal" },
     { "name": "Bionis' Shoulder Collectopaedia Part Completion", "area": "Bionis' Shoulder", "cat": "Part" },
-    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" },
-    { "name": "Alcamoth - FC Collectopaedia Page Completion", "area": "Alcamoth - FC", "cat": "ALL" },
-    { "name": "Alcamoth - FC Collectopaedia Fruit Completion", "area": "Alcamoth - FC", "cat": "Fruit" },
-    { "name": "Alcamoth - FC Collectopaedia Flower Completion", "area": "Alcamoth - FC", "cat": "Flower" },
-    { "name": "Alcamoth - FC Collectopaedia Animal Completion", "area": "Alcamoth - FC", "cat": "Animal" },
-    { "name": "Alcamoth - FC Collectopaedia Strange Completion", "area": "Alcamoth - FC", "cat": "Strange" }
+    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" }
 ]
 
 PAGE_REQUIREMENTS = {

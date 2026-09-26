@@ -4001,8 +4001,8 @@
       "count": 1,
       "name": "Nanoceros",
       "category": [
-        "Alcamoth - FC Collectopaedia",
-        "Alcamoth - FC Collection (Animal)",
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Animal)",
         "Collectopaediasanity",
         "Future Connected Items"
       ],
@@ -4012,8 +4012,8 @@
       "count": 1,
       "name": "Mane Cat (FC)",
       "category": [
-        "Alcamoth - FC Collectopaedia",
-        "Alcamoth - FC Collection (Animal)",
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Animal)",
         "Collectopaediasanity",
         "Future Connected Items"
       ],
@@ -6178,6 +6178,51 @@
       "name": "Bionis' Shoulder Hunting License",
       "category": [
         "Future Connected Hunting Licenses",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Vegetable Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Animal Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Part Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Strange Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Alcamoth - FC Animal Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
         "Future Connected Items"
       ],
       "progression": true
