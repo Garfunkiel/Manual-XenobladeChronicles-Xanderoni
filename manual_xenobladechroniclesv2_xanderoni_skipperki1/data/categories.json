@@ -1,4 +1,7 @@
 {
+  "OriginalVersion": {
+    "hidden": true
+  },
   "DefinitiveEdition": {
     "hidden": true
   },
@@ -17,16 +20,22 @@
       "!Spoilers"
     ]
   },
-  "Locations": {
+  "locations": {
     "hidden": false,
     "yaml_option": [
-      "locations"
+      "Locations"
     ]
   },
-  "Landmarks": {
+  "landmarks": {
     "hidden": false,
     "yaml_option": [
-      "landmarks"
+      "Landmarks"
+    ]
+  },
+  "Bosses": {
+    "hidden": false,
+    "yaml_option": [
+      "Bosses"
     ]
   },
   "StoryQuests": {
@@ -72,16 +81,10 @@
     ]
   },
   "UniqueMonsters": {
-    "hidden": false,
-    "yaml_option": [
-      "UniqueMonsters"
-    ]
+    "hidden": false
   },
   "SuperBosses": {
-    "hidden": false,
-    "yaml_option": [
-      "SuperBosses"
-    ]
+    "hidden": false
   },
   "Collectopaedia": {
     "hidden": false
@@ -110,10 +113,28 @@
       "DevelopmentLevels"
     ]
   },
+  "Colony 6 Reconstruction": {
+    "hidden": false,
+    "yaml_option": [
+      "Colony_6_Reconstruction"
+    ]
+  },
   "Artsanity": {
     "hidden": false,
     "yaml_option": [
       "Artsanity"
+    ]
+  },
+  "Party Affinity": {
+    "hidden": false,
+    "yaml_option": [
+      "Party_Affinity"
+    ]
+  },
+  "Skill Trees": {
+    "hidden": false,
+    "yaml_option": [
+      "Skill_Trees"
     ]
   },
   "Gems": {
@@ -141,6 +162,24 @@
     "hidden": false,
     "yaml_option": [
       "NoponGrandPrix"
+    ]
+  },
+  "BattleQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "BattleQuests"
+    ]
+  },
+  "ErrandQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "ErrandQuests"
+    ]
+  },
+  "SurpriseQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "SurpriseQuests"
     ]
   },
   "UnavailableInPostGame": {

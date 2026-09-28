@@ -20,6 +20,8 @@ COLLECTOPAEDIA_REQUIREMENTS = {
     "Agniratha":        { "Vegetable": 0,  "Flower": 11, "Fruit": 10, "Animal": 0,  "Bug": 11, "Nature": 10, "Part": 11, "Strange": 19 },
     "Prison Island":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 11, "Animal": 11, "Bug": 12, "Nature": 11, "Part": 12, "Strange": 20 },
     "Other":            { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 13, "Nature": 0,  "Part": 13, "Strange": 21 },
+    "Bionis' Shoulder": { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 0  },
+    "Alcamoth - FC":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 0  }
 }
 
 COLLECTOPAEDIA_LOCATIONS = [
@@ -145,8 +147,44 @@ COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Other Collectopaedia Page Completion", "area": "Other", "cat": "ALL" },
     { "name": "Other Collectopaedia Bug Completion", "area": "Other", "cat": "Bug" },
     { "name": "Other Collectopaedia Part Completion", "area": "Other", "cat": "Part" },
-    { "name": "Other Collectopaedia Strange Completion", "area": "Other", "cat": "Strange" }
+    { "name": "Other Collectopaedia Strange Completion", "area": "Other", "cat": "Strange" },
+    { "name": "Bionis' Shoulder Collectopaedia Page Completion", "area": "Bionis' Shoulder", "cat": "ALL" },
+    { "name": "Bionis' Shoulder Collectopaedia Vegetable Completion", "area": "Bionis' Shoulder", "cat": "Vegetable" },
+    { "name": "Bionis' Shoulder Collectopaedia Animal Completion", "area": "Bionis' Shoulder", "cat": "Animal" },
+    { "name": "Bionis' Shoulder Collectopaedia Part Completion", "area": "Bionis' Shoulder", "cat": "Part" },
+    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" },
+    { "name": "Alcamoth - FC Collectopaedia Page Completion", "area": "Alcamoth - FC", "cat": "ALL" },
+    { "name": "Alcamoth - FC Collectopaedia Flower Completion", "area": "Alcamoth - FC", "cat": "Flower" },
+    { "name": "Alcamoth - FC Collectopaedia Fruit Completion", "area": "Alcamoth - FC", "cat": "Fruit" },
+    { "name": "Alcamoth - FC Collectopaedia Animal Completion", "area": "Alcamoth - FC", "cat": "Animal" },
+    { "name": "Alcamoth - FC Collectopaedia Strange Completion", "area": "Alcamoth - FC", "cat": "Strange" }
 ]
+
+GROUP_COUNTS = {
+    "Colony 9":         { "ALL": 17, "Vegetable": 4, "Flower": 3, "Fruit": 2, "Animal": 0, "Bug": 4, "Nature": 0, "Part": 2, "Strange": 2 },
+    "Tephra Cave":      { "ALL": 17, "Vegetable": 0, "Flower": 2, "Fruit": 3, "Animal": 4, "Bug": 3, "Nature": 3, "Part": 0, "Strange": 2 },
+    "Bionis' Leg":      { "ALL": 22, "Vegetable": 4, "Flower": 0, "Fruit": 4, "Animal": 0, "Bug": 5, "Nature": 3, "Part": 2, "Strange": 4 },
+    "Colony 6":         { "ALL":  8, "Vegetable": 0, "Flower": 3, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Ether Mine":       { "ALL": 13, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 3, "Nature": 3, "Part": 2, "Strange": 2 },
+    "Satorl Marsh":     { "ALL": 22, "Vegetable": 4, "Flower": 5, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 5, "Part": 2, "Strange": 3 },
+    "Bionis' Interior": { "ALL":  7, "Vegetable": 2, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Makna Forest":     { "ALL": 22, "Vegetable": 3, "Flower": 4, "Fruit": 4, "Animal": 4, "Bug": 4, "Nature": 0, "Part": 0, "Strange": 3 },
+    "Frontier Village": { "ALL":  6, "Vegetable": 0, "Flower": 0, "Fruit": 2, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Eryth Sea":        { "ALL": 17, "Vegetable": 4, "Flower": 5, "Fruit": 0, "Animal": 2, "Bug": 0, "Nature": 4, "Part": 0, "Strange": 2 },
+    "Alcamoth":         { "ALL":  6, "Vegetable": 0, "Flower": 2, "Fruit": 2, "Animal": 0, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "High Entia Tomb":  { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Valak Mountain":   { "ALL": 22, "Vegetable": 4, "Flower": 3, "Fruit": 4, "Animal": 4, "Bug": 0, "Nature": 5, "Part": 0, "Strange": 2 },
+    "Sword Valley":     { "ALL": 17, "Vegetable": 3, "Flower": 4, "Fruit": 4, "Animal": 0, "Bug": 0, "Nature": 0, "Part": 3, "Strange": 3 },
+    "Galahad Fortress": { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Fallen Arm":       { "ALL": 17, "Vegetable": 2, "Flower": 0, "Fruit": 4, "Animal": 4, "Bug": 0, "Nature": 3, "Part": 2, "Strange": 2 },
+    "Mechonis Field":   { "ALL": 17, "Vegetable": 4, "Flower": 2, "Fruit": 0, "Animal": 0, "Bug": 3, "Nature": 3, "Part": 3, "Strange": 2 },
+    "Central Factory":  { "ALL": 16, "Vegetable": 2, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 2, "Nature": 3, "Part": 3, "Strange": 3 },
+    "Agniratha":        { "ALL": 16, "Vegetable": 0, "Flower": 3, "Fruit": 3, "Animal": 0, "Bug": 2, "Nature": 2, "Part": 4, "Strange": 2 },
+    "Prison Island":    { "ALL": 17, "Vegetable": 0, "Flower": 0, "Fruit": 4, "Animal": 3, "Bug": 2, "Nature": 2, "Part": 4, "Strange": 2 },
+    "Other":            { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Bionis' Shoulder": { "ALL": 19, "Vegetable": 5, "Flower": 0, "Fruit": 0, "Animal": 4, "Bug": 0, "Nature": 0, "Part": 5, "Strange": 5 },
+    "Alcamoth - FC":    { "ALL":  8, "Vegetable": 0, "Flower": 2, "Fruit": 2, "Animal": 2, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 }
+}
 
 PAGE_REQUIREMENTS = {
     "Colony 9|Bug":               [ "Prairie Dragonfly", "Giant Hornet", "White Beetle", "Sorrow Beetle"],
@@ -250,5 +288,13 @@ PAGE_REQUIREMENTS = {
     "Prison Island|Strange":      [ "Blue Glow", "Blue Blood" ],
     "Other|Bug":                  [ "Minute Mantis", "Love Beetle" ],
     "Other|Part":                 [ "Golden Cog", "Angel Engine Y", "Thunder Compass" ],
-    "Other|Strange":              [ "Coin of Fortune", "Love Source" ]
+    "Other|Strange":              [ "Coin of Fortune", "Love Source" ],
+    "Bionis' Shoulder|Animal":    [ "Angel Bream", "Blade Bird", "Gentleclam", "Palmtop Elephant" ],
+    "Bionis' Shoulder|Part":      [ "Blaze Chain", "Congenial Cogs", "Half Part", "Snare Wire", "Subzero Steel" ],
+    "Bionis' Shoulder|Strange":   [ "Dubious Sculpture", "Hero Nipper", "Highlightning", "Shimmertumble", "Swirly Slash" ],
+    "Bionis' Shoulder|Vegetable": [ "Cream Wheat", "High Leaf", "Kilopumpkin", "Morrow Cob", "Rainbow Carrot" ],
+    "Alcamoth - FC|Animal":       [ "Mane Cat (FC)", "Nanoceros" ],
+    "Alcamoth - FC|Flower":       [ "Mystic Dahlia", "Stardrop" ],
+    "Alcamoth - FC|Fruit":        [ "Cool Lemon", "Heart Peach" ],
+    "Alcamoth - FC|Strange":      [ "Ha Ha Ha", "Thunder Atmos" ]
 }

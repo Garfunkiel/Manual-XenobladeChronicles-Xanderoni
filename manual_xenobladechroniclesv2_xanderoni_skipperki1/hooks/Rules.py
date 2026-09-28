@@ -1,6 +1,7 @@
 from Options import OptionError
 from typing import Optional
 from worlds.AutoWorld import World
+from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, GROUP_COUNTS
 from ..Helpers import clamp, get_items_with_value, get_option_value
 from BaseClasses import MultiWorld, CollectionState
 
@@ -30,13 +31,13 @@ def requiresMelee():
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 def questPaolaAndNarineReq():
-    return "|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
+    return "{OptAll(|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
                 " AND ((|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|) " \
                 " OR (|Sharla Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
                 " OR (|Sharla Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
                 " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
                 " OR (|Melia Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
-                ")"
+                "))}"
 
 REGION_LEVELS = [
     {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},
@@ -86,3 +87,67 @@ def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
     if requirements != "":
         return requirements
     return True
+
+def stateHasAreaCategory(state: CollectionState, player: int, area: str, category: str):
+    if area == "Alcamoth - FC":
+        return state.has("Alcamoth - FC All Categories", player)
+    elif area == "Bionis' Shoulder":
+        if category == "Vegetable":
+            return state.has("Bionis' Shoulder Vegetable Category", player)
+        elif category == "Animal":
+            return state.has("Bionis' Shoulder Animal Category", player)
+        elif category == "Part":
+            return state.has("Bionis' Shoulder Part Category", player)
+        elif category == "Strange":
+            return state.has("Bionis' Shoulder Strange Category", player)
+        else:
+            return True
+
+    requiredProgCats = COLLECTOPAEDIA_REQUIREMENTS[area][category]
+    return requiredProgCats == 0 or state.count(f"Progressive {category} Category", player) >= requiredProgCats
+
+def collectopaediaAvailable(state: CollectionState, player: int, area: str, category: str):
+    if category != "ALL":
+        return stateHasAreaCategory(state, player, area, category)
+
+    for cat in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
+        if not stateHasAreaCategory(state, player, area, cat):
+            return False
+
+    return True
+
+def collectopaediaItemsCollected(state: CollectionState, player: int, area: str, category: str):
+    if category == "ALL":
+        grp = (f"Alcamoth Collectopaedia" if area == "Alcamoth - FC" else f"{area} Collectopaedia")
+        return state.has_group(grp, player, GROUP_COUNTS[area][category])
+
+    if area not in GROUP_COUNTS:
+        return True
+
+    count = GROUP_COUNTS[area][category]
+    if count == 0:
+        return True
+
+    if area == "Alcamoth - FC":
+        area = "Alcamoth"
+
+    return state.has_group(f"{area} Collection ({category})", player, count)
+
+def collectopaediaComplete(multiworld: MultiWorld, state: CollectionState, player: int, area: str, category: str):
+    colOption = get_option_value(multiworld, player, "Collectopaedia")
+
+    return (
+        # NO COLLECTOPAEDIA
+        (colOption == 0)
+        # CATEGORIES REQUIRED BUT NOT INDIVIDUAL ITEMS
+        or (
+            colOption == 1
+            and collectopaediaAvailable(state, player, area, category)
+        )
+        # CATEGORIES AND INDIVIDUAL ITEMS REQUIRED
+        or (
+            colOption >= 2
+            and collectopaediaAvailable(state, player, area, category)
+            and collectopaediaItemsCollected(state, player, area, category)
+        )
+    )

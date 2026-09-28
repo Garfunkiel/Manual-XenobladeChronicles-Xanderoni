@@ -77,6 +77,12 @@ RACE_REQUIREMENTS = [
     {"Name": "NGP - Rural Road - Win with Fiora",               "Story": "Fallen Arm"                   }
 ]
 
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
 def canAccessRace(state: CollectionState, player: int, race: dict, postgame: bool) -> bool:
     if not state.has("Ether Jet", player, 1):
         return False
@@ -94,4 +100,8 @@ def setNoponGrandPrixRules(world: World, multiworld: MultiWorld, player: int, sp
         if not spoilers:
             name = name.replace("Fiora", "Seven")
 
-        multiworld.get_location(name, player).access_rule = lambda state, player=player, race=race, postgame=postgame: canAccessRace(state, player, race, postgame)
+        location = safeGetLocation(multiworld, player, name)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, race=race, postgame=postgame: canAccessRace(state, player, race, postgame)

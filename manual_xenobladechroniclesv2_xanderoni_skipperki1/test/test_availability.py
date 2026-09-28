@@ -6,6 +6,7 @@ class XenobladeManualTest_Availability(XenobladeManualTest):
     game = game_name
     options = {
         "Danger_Tolerance": 119,
+        "GameOrder": 0
     }
 
     def test_availability(self):

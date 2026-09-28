@@ -135,6 +135,12 @@ MINING_SPOTS = [
     { "Name": "Ether Crystal Deposit - Terminal Vein",                                      "Pickaxe": "Interior Earth Ether Pickaxe"   }
 ]
 
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
 def canMineDeposit(state: CollectionState, player: int, spot: dict, postgame: bool) -> bool:
     if not state.has(spot["Pickaxe"], player, 1):
         return False
@@ -161,4 +167,8 @@ def setCrystalMiningRules(world: World, multiworld: MultiWorld, player: int):
         if excludeMissable and spot["Pickaxe"] == "Ephemeral Ether Pickaxe":
             continue
 
-        multiworld.get_location(name, player).access_rule = lambda state, player=player, spot=spot, postgame=postgame: canMineDeposit(state, player, spot, postgame)
+        location = safeGetLocation(multiworld, player, name)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, spot=spot, postgame=postgame: canMineDeposit(state, player, spot, postgame)

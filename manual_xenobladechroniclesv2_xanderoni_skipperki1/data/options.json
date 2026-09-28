@@ -93,18 +93,53 @@
             "default": 0
         },
 
+        "GameOrder": {
+            "type": "Choice",
+            "description": [
+                "This option determines the order in which the Main Game and Future Connected are played.",
+                "Default is 'Main Game Only'"
+            ],
+            "values": {
+                "Main Game Only": 0,
+                "Main Game First": 1,
+                "Future Connected Only": 2,
+                "Future Connected First": 3,
+                "Both Games Parallel": 4
+            },
+            "default": 0
+        },
+
         "Collectopaedia": {
             "type": "Choice",
             "description": [
                 "This option determines what items and locations should be used for the Collectopaedia",
                 "No Collectopaedia removes all Collectopaedia items and locations",
                 "Categories Only excludes individual items from being included",
-                "Collectopaediasanity includes all Collectopaedia items and locations"
+                "Collectopaediasanity includes all Collectopaedia items and locations",
+                "Default is Categories Only"
             ],
             "values": {
                 "No Collectopaedia": 0,
                 "Categories Only": 1,
                 "Collectopaediasanity": 2
+            },
+            "default": 1
+        },
+
+        "Monster_Hunting": {
+            "type": "Choice",
+            "description": [
+                "This option determines what items and locations should be used for monster hunting",
+                "None removes Unique Monsters, Super Bosses, Hunting Licenses, and Bounties from logic",
+                "Otherwise, Unique Monsters require progressive Hunting Licenses to be in logic",
+                "Super Bosses require individual Bounties to be in logic",
+                "Default is Unique Monsters Only"
+            ],
+            "values": {
+                "None": 0,
+                "Unique Monsters Only": 1,
+                "Super Bosses Only": 2,
+                "All": 3
             },
             "default": 1
         },
@@ -204,6 +239,30 @@
                 "Fallen Arm": 13,
                 "Bionis' Interior": 14,
                 "Prison Island": 15
+            },
+            "default": 1
+        },
+
+        "FC_Post_Game": {
+            "type": "Toggle",
+            "description": [
+                "This option determines whether the logic considers you to be playing from a post-game Future Connected save.",
+                "Use FC_Post_Game_Region to specify (or randomize) your starting region if you enable this option.",
+                "Default is False"
+            ],
+            "default": false
+        },
+
+        "FC_Post_Game_Region": {
+            "type": "Choice",
+            "description": [
+                "This option determines which region is unlocked by default when playing with FC_Post_Game enabled."
+            ],
+            "values": {
+                "Future Connected Part I": 1,
+                "Future Connected Part II": 2,
+                "Future Connected Part III": 3,
+                "Future Connected Part IV": 4
             },
             "default": 1
         }

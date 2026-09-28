@@ -1573,7 +1573,8 @@
       "count": 5,
       "name": "Shulk Progressive Affinity Rank",
       "category": [
-        "Shulk Affinity"
+        "Shulk Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1581,7 +1582,8 @@
       "count": 5,
       "name": "Reyn Progressive Affinity Rank",
       "category": [
-        "Reyn Affinity"
+        "Reyn Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1590,7 +1592,8 @@
       "name": "Fiora Progressive Affinity Rank",
       "category": [
         "Spoilers",
-        "Fiora Affinity"
+        "Fiora Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1599,7 +1602,8 @@
       "name": "Seven Progressive Affinity Rank",
       "category": [
         "NoSpoilers",
-        "Seven Affinity"
+        "Seven Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1607,7 +1611,8 @@
       "count": 5,
       "name": "Sharla Progressive Affinity Rank",
       "category": [
-        "Sharla Affinity"
+        "Sharla Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1615,7 +1620,8 @@
       "count": 5,
       "name": "Dunban Progressive Affinity Rank",
       "category": [
-        "Dunban Affinity"
+        "Dunban Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1623,7 +1629,8 @@
       "count": 5,
       "name": "Melia Progressive Affinity Rank",
       "category": [
-        "Melia Affinity"
+        "Melia Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -1631,7 +1638,8 @@
       "count": 5,
       "name": "Riki Progressive Affinity Rank",
       "category": [
-        "Riki Affinity"
+        "Riki Affinity",
+        "Party Affinity"
       ],
       "progression": true
     },
@@ -3993,8 +4001,10 @@
       "count": 1,
       "name": "Nanoceros",
       "category": [
-        "Alcamoth - FC Collection (Animal)",
-        "Collectopaediasanity"
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
       "progression": true
     },
@@ -4002,8 +4012,10 @@
       "count": 1,
       "name": "Mane Cat (FC)",
       "category": [
-        "Alcamoth - FC Collection (Animal)",
-        "Collectopaediasanity"
+        "Alcamoth Collectopaedia",
+        "Alcamoth Collection (Animal)",
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
       "progression": true
     },
@@ -5441,181 +5453,221 @@
       "count": 1,
       "name": "Rainbow Carrot",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "High Leaf",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Cream Wheat",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Morrow Cob",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Kilopumpkin",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Vegetable)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Angel Bream",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Gentleclam",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Sky Mole",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Blade Bird",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Palmtop Elephant",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Animal)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Half Part",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Snare Wire",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Subzero Steel",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Blaze Chain",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
-      "name": "Cogenial Cogs",
+      "name": "Congenial Cogs",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Part)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Swirly Slash",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Hero Nipper",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Highlightning",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Dubious Sculpture",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
       "name": "Shimmertumble",
       "category": [
+        "Bionis' Shoulder Collectopaedia",
         "Bionis' Shoulder Collection (Strange)",
-        "Collectopaediasanity"
+        "Collectopaediasanity",
+        "Future Connected Items"
       ],
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
@@ -6080,6 +6132,622 @@
         "Crystals"
       ],
       "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Melfica Road Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gran Dell Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monado EX+ Plans",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Palace Teleporter Key",
+      "category": [
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Bionis' Shoulder Hunting License",
+      "category": [
+        "Future Connected Hunting Licenses",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Vegetable Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Animal Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Part Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bionis' Shoulder Strange Category",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Alcamoth - FC All Categories",
+      "category": [
+        "Future Connected Collectopaedia Pages",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Weapon",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Head Armor",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Torso Armor",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Arms Armor",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Legs Armor",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Progressive Feet Armor",
+      "category": [
+        "Kino Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Weapon",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Head Armor",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Torso Armor",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Arms Armor",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Legs Armor",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Progressive Feet Armor",
+      "category": [
+        "Nene Armor",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Healy Bullet Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Crackle Bullet Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Shield Kaclang Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Cure Thingamie Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Tranquilsnooze Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Heal Kaboom Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - 'Ittle Blast Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Heal Round-a-Round Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Toasty-Hot Bullet Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Yoghurt Stance Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Egg Shaker Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Aurorora Bullet Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Healy Counter Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Noggin Shot Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - Curedy-Pure Round Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Kino - B-B-B-Boost Art Book",
+      "category": [
+        "Kino Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Hammer Beat Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Mild Down Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Bone Upper Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Hangry Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Aura Toast Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Feather Swing Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Guard Sift Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Engage Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Sword Drive Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Berserker Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Last Stand Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Shield Kersmash Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Chive Sobat Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Magnum Starch Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Anchor Chain Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Nene - Lariat Art Book",
+      "category": [
+        "Nene Arts",
+        "Artsanity",
+        "Future Connected Items"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Water Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Ice Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Fire Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Electric Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Wind Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shoulder Earth Ether Pickaxe",
+      "category": [
+        "CrystalMining",
+        "Future Connected Items"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Despotic Arsene Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Avalanche Abaasy Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blizzard Belgazas Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Final Marcus Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Daedala Bounty",
+      "category": [
+        "Bounties"
+      ],
+      "progression": true
     }
   ]
 }

@@ -3,12 +3,13 @@ from typing import Any
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 from Options import OptionError
-from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
 from .UniqueMonsters import setSuperBossRules, setUniqueMonsterRules
 from .HeartToHearts import setHeartToHeartRules
 from .StartingItems import set_starting_items
 from .NoponGrandPrix import setNoponGrandPrixRules
 from .CrystalMining import setCrystalMiningRules
+from .Collectopaedia import COLLECTOPAEDIA_LOCATIONS
+from .Rules import collectopaediaComplete
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -24,6 +25,8 @@ from ..Helpers import is_option_enabled, get_option_value, format_state_prog_ite
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
+
+XENOBLADE_AP_VERSION = "2.0.9"
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -86,6 +89,12 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
 
     if get_option_value(multiworld, player, "Post_Game") == True:
         keyLeniency = 0
+
+    if get_option_value(multiworld, player, "GameOrder") >= 2:
+        keyLeniency = 0
+
+    if not is_option_enabled(multiworld, player, "Landmarks") and not is_option_enabled(multiworld, player, "Locations"):
+        keyLeniency = min(keyLeniency, 3)
 
     for i, key in enumerate(keys, start=1):
         if keyLeniency < i:
@@ -166,55 +175,21 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
     pass
 
-CollectopaediaCache = []
-
-def getCollectopaediaValue(world: World, state: CollectionState, player: int, area: str):
-    catName = f"{area} Collectopaedia"
-    cacheKey = f"{player}-{catName}"
-
-    if cacheKey in CollectopaediaCache:
-        return True
-
-    val = state.has_all(world.item_name_groups[catName], player) and getColVal(state, area, "ALL", player)
-
-    if val:
-        CollectopaediaCache.append(cacheKey)
-    return val
-
-def getColVal(state: CollectionState, area: str, cat: str, player: int):
-    if (cat == "ALL"):
-        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
-            if state.count(f"Progressive {item} Category", player) < COLLECTOPAEDIA_REQUIREMENTS[area][item]:
-                return False
-        return True
-    else:
-        return state.count(f"Progressive {cat} Category", player) >= COLLECTOPAEDIA_REQUIREMENTS[area][cat]
-
-def playerHasPage(state: CollectionState, player: int, area: str, cat: str) -> bool:
-    cacheKey = f"{player}-{area}-{cat}"
-    if cacheKey in CollectopaediaCache:
-        return True
-
-    val = getColVal(state, area, cat, player) and playerHasItems(state, player, PAGE_REQUIREMENTS.get(f"{area}|{cat}", []))
-    if val:
-        CollectopaediaCache.append(cacheKey)
-    return val
-
-def playerHasItems(state: CollectionState, player: int, items: list[str]) -> bool:
-    for item in items:
-        if not state.has(item, player):
-            return False
-    return True
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
 
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
-    CollectopaediaCache.clear()
+    mhOption = get_option_value(multiworld, player, "Monster_Hunting")
 
-    if is_option_enabled(multiworld, player, "UniqueMonsters"):
+    if mhOption == 1 or mhOption == 3:
         setUniqueMonsterRules(world, multiworld, player)
 
-    if is_option_enabled(multiworld, player, "SuperBosses"):
+    if mhOption == 2 or mhOption == 3:
         setSuperBossRules(world, multiworld, player)
 
     if is_option_enabled(multiworld, player, "CrystalMining"):
@@ -224,29 +199,28 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
         if is_option_enabled(multiworld, player, "NoponGrandPrix"):
             setNoponGrandPrixRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
 
-    CollectopaediaType = get_option_value(multiworld, player, "Collectopaedia")
-
-    if CollectopaediaType >= 2:
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            if cat == "ALL":
-                location.access_rule = lambda state, world=world, player=player, area=area: (getCollectopaediaValue(world, state, player, area))
-            else:
-                location.access_rule = lambda state, player=player, area=area, cat=cat: (playerHasPage(state, player, area, cat))
-    elif CollectopaediaType == 1:
-        for loc in COLLECTOPAEDIA_LOCATIONS:
-            location = multiworld.get_location(loc["name"], player)
-            area = loc["area"]
-            cat = loc["cat"]
-            location.access_rule = lambda state, player=player, area=area, cat=cat: (getColVal(state, area, cat, player))
-
     if is_option_enabled(multiworld, player, "Post_Game"):
         return
 
-    if is_option_enabled(multiworld, player, "HeartToHearts"):
-        setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"))
+    if is_option_enabled(multiworld, player, "HeartToHearts") and is_option_enabled(multiworld, player, "Party_Affinity"):
+        setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"), is_option_enabled(multiworld, player, "Colony_6_Reconstruction"))
+
+    if get_option_value(multiworld, player, "Collectopaedia") > 0:
+        setCollectopaediaRules(world, multiworld, player)
+
+    pass
+
+def setCollectopaediaRules(world: World, multiworld: MultiWorld, player: int):
+    for COL in COLLECTOPAEDIA_LOCATIONS:
+        colname = COL["name"]
+        area = COL["area"]
+        cat = COL["cat"]
+
+        location = safeGetLocation(multiworld, player, colname)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, area=area, cat=cat: collectopaediaComplete(multiworld, state, player, area, cat)
 
     pass
 
@@ -289,6 +263,7 @@ def before_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld,
 
 # This is called after slot data is set and provides the slot data at the time, in case you want to check and modify it after Manual is done with it
 def after_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld, player: int) -> dict:
+    slot_data["xenoblade_ap_version"] = XENOBLADE_AP_VERSION
     return slot_data
 
 # This is called right at the end, in case you want to write stuff to the spoiler log
