@@ -152,8 +152,39 @@ COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Bionis' Shoulder Collectopaedia Vegetable Completion", "area": "Bionis' Shoulder", "cat": "Vegetable" },
     { "name": "Bionis' Shoulder Collectopaedia Animal Completion", "area": "Bionis' Shoulder", "cat": "Animal" },
     { "name": "Bionis' Shoulder Collectopaedia Part Completion", "area": "Bionis' Shoulder", "cat": "Part" },
-    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" }
+    { "name": "Bionis' Shoulder Collectopaedia Strange Completion", "area": "Bionis' Shoulder", "cat": "Strange" },
+    { "name": "Alcamoth - FC Collectopaedia Page Completion", "area": "Alcamoth - FC", "cat": "ALL" },
+    { "name": "Alcamoth - FC Collectopaedia Flower Completion", "area": "Alcamoth - FC", "cat": "Flower" },
+    { "name": "Alcamoth - FC Collectopaedia Fruit Completion", "area": "Alcamoth - FC", "cat": "Fruit" },
+    { "name": "Alcamoth - FC Collectopaedia Animal Completion", "area": "Alcamoth - FC", "cat": "Animal" },
+    { "name": "Alcamoth - FC Collectopaedia Strange Completion", "area": "Alcamoth - FC", "cat": "Strange" }
 ]
+
+GROUP_COUNTS = {
+    "Colony 9":         { "ALL": 17, "Vegetable": 4, "Flower": 3, "Fruit": 2, "Animal": 0, "Bug": 4, "Nature": 0, "Part": 2, "Strange": 2 },
+    "Tephra Cave":      { "ALL": 17, "Vegetable": 0, "Flower": 2, "Fruit": 3, "Animal": 4, "Bug": 3, "Nature": 3, "Part": 0, "Strange": 2 },
+    "Bionis' Leg":      { "ALL": 22, "Vegetable": 4, "Flower": 0, "Fruit": 4, "Animal": 0, "Bug": 5, "Nature": 3, "Part": 2, "Strange": 4 },
+    "Colony 6":         { "ALL":  8, "Vegetable": 0, "Flower": 3, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Ether Mine":       { "ALL": 13, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 3, "Nature": 3, "Part": 2, "Strange": 2 },
+    "Satorl Marsh":     { "ALL": 22, "Vegetable": 4, "Flower": 5, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 5, "Part": 2, "Strange": 3 },
+    "Bionis' Interior": { "ALL":  7, "Vegetable": 2, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Makna Forest":     { "ALL": 22, "Vegetable": 3, "Flower": 4, "Fruit": 4, "Animal": 4, "Bug": 4, "Nature": 0, "Part": 0, "Strange": 3 },
+    "Frontier Village": { "ALL":  6, "Vegetable": 0, "Flower": 0, "Fruit": 2, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 0, "Strange": 2 },
+    "Eryth Sea":        { "ALL": 17, "Vegetable": 4, "Flower": 5, "Fruit": 0, "Animal": 2, "Bug": 0, "Nature": 4, "Part": 0, "Strange": 2 },
+    "Alcamoth":         { "ALL":  6, "Vegetable": 0, "Flower": 2, "Fruit": 2, "Animal": 0, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 },
+    "High Entia Tomb":  { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Valak Mountain":   { "ALL": 22, "Vegetable": 4, "Flower": 3, "Fruit": 4, "Animal": 4, "Bug": 0, "Nature": 5, "Part": 0, "Strange": 2 },
+    "Sword Valley":     { "ALL": 17, "Vegetable": 3, "Flower": 4, "Fruit": 4, "Animal": 0, "Bug": 0, "Nature": 0, "Part": 3, "Strange": 3 },
+    "Galahad Fortress": { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Fallen Arm":       { "ALL": 17, "Vegetable": 2, "Flower": 0, "Fruit": 4, "Animal": 4, "Bug": 0, "Nature": 3, "Part": 2, "Strange": 2 },
+    "Mechonis Field":   { "ALL": 17, "Vegetable": 4, "Flower": 2, "Fruit": 0, "Animal": 0, "Bug": 3, "Nature": 3, "Part": 3, "Strange": 2 },
+    "Central Factory":  { "ALL": 16, "Vegetable": 2, "Flower": 0, "Fruit": 0, "Animal": 3, "Bug": 2, "Nature": 3, "Part": 3, "Strange": 3 },
+    "Agniratha":        { "ALL": 16, "Vegetable": 0, "Flower": 3, "Fruit": 3, "Animal": 0, "Bug": 2, "Nature": 2, "Part": 4, "Strange": 2 },
+    "Prison Island":    { "ALL": 17, "Vegetable": 0, "Flower": 0, "Fruit": 4, "Animal": 3, "Bug": 2, "Nature": 2, "Part": 4, "Strange": 2 },
+    "Other":            { "ALL":  7, "Vegetable": 0, "Flower": 0, "Fruit": 0, "Animal": 0, "Bug": 2, "Nature": 0, "Part": 3, "Strange": 2 },
+    "Bionis' Shoulder": { "ALL": 19, "Vegetable": 5, "Flower": 0, "Fruit": 0, "Animal": 4, "Bug": 0, "Nature": 0, "Part": 5, "Strange": 5 },
+    "Alcamoth - FC":    { "ALL":  8, "Vegetable": 0, "Flower": 2, "Fruit": 2, "Animal": 2, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 }
+}
 
 PAGE_REQUIREMENTS = {
     "Colony 9|Bug":               [ "Prairie Dragonfly", "Giant Hornet", "White Beetle", "Sorrow Beetle"],

@@ -8,6 +8,8 @@ from .HeartToHearts import setHeartToHeartRules
 from .StartingItems import set_starting_items
 from .NoponGrandPrix import setNoponGrandPrixRules
 from .CrystalMining import setCrystalMiningRules
+from .Collectopaedia import COLLECTOPAEDIA_LOCATIONS
+from .Rules import collectopaediaComplete
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -202,6 +204,23 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
     if is_option_enabled(multiworld, player, "HeartToHearts") and is_option_enabled(multiworld, player, "Party_Affinity"):
         setHeartToHeartRules(world, multiworld, player, get_option_value(multiworld, player, "Spoilers"), is_option_enabled(multiworld, player, "Colony_6_Reconstruction"))
+
+    if get_option_value(multiworld, player, "Collectopaedia") > 0:
+        setCollectopaediaRules(world, multiworld, player)
+
+    pass
+
+def setCollectopaediaRules(world: World, multiworld: MultiWorld, player: int):
+    for COL in COLLECTOPAEDIA_LOCATIONS:
+        colname = COL["name"]
+        area = COL["area"]
+        cat = COL["cat"]
+
+        location = safeGetLocation(multiworld, player, colname)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, area=area, cat=cat: collectopaediaComplete(multiworld, state, player, area, cat)
 
     pass
 
