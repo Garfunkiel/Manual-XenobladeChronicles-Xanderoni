@@ -54,6 +54,30 @@ def questPaolaAndNarineReqRule(player: int, world: "ManualWorld") -> str:
         return ""
     return value
 
+
+def hasFullRaceAccess(multiworld: MultiWorld, player: int) -> bool|str:
+    gameVersion = get_option_value(multiworld, player, "GameVersion")
+    gameOrder = get_option_value(multiworld, player, "GameOrder")
+    postGame = get_option_value(multiworld, player, "Post_Game")
+    hasEtherJet = multiworld.state.has("Ether Jet", player)
+
+    if gameVersion >= 2 and not hasEtherJet:
+        return False
+
+    if gameOrder == 2:
+        return True
+
+    if postGame == False:
+        return multiworld.state.has("Fallen Arm Access", player)
+
+    return multiworld.state.has_all(["Colony 9 Access", "Bionis' Leg Access", "Makna Forest Access", "Alcamoth Access", "Valak Mountain Access"], player)
+
+def hasFullRaceAccessRule(player: int, world: "ManualWorld") -> str:
+    value = hasFullRaceAccess(world.multiworld, player)
+    if (value == True):
+        return ""
+    return value
+
 REGION_LEVELS = [
     {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},
     {"region": "Tephra Cave",                   "level": 12, "requires": "|Tephra Cave Access|"},

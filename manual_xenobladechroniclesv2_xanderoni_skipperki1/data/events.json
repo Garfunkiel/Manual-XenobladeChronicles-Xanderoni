@@ -32,9 +32,6 @@
             "requires": "|Memory Fragment:all| AND |@Area Keys:all| AND {OptOne(|Progressive Hunting License:16|)}"
         },
 
-        {   "name": "Ether Jet Access",  "requires": "{OptOne(|Ether Jet|)}" },
-        {   "name": "Full Race Access",  "requires": "|Ether Jet Access| AND (({YamlDisabled(Post_Game)} AND |Fallen Arm Access|) OR ({YamlEnabled(Post_Game)} AND |Colony 9 Access| AND |Bionis' Leg Access| AND |Makna Forest Access| AND |Alcamoth Access| AND |Valak Mountain Access|))"    },
-
 
         {   "name": "Access to Colony 9 (Req. 1 Key)",                      "visible": true,    "region": "Colony 9"                        },
         {   "name": "Access to Tephra Cave (Req. 1 Key)",                   "visible": true,    "region": "Tephra Cave"                     },

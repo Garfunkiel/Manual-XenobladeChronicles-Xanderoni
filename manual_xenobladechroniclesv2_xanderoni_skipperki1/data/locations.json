@@ -13621,7 +13621,7 @@
       "category": [
         "NGP Goals"
       ],
-      "requires": "|Full Race Access|"
+      "requires": "{hasFullRaceAccess()}"
     },
     {
       "name": "NGP - Grand Champion",
@@ -13629,7 +13629,7 @@
       "category": [
         "NGP Goals"
       ],
-      "requires": "|Full Race Access|"
+      "requires": "{hasFullRaceAccess()}"
     },
     {
       "name": "Ether Crystal Deposit - Spring of Grief",
