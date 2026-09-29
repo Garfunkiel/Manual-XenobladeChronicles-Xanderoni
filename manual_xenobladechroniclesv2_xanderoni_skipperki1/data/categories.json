@@ -1,4 +1,5 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
   "OriginalVersion": {
     "hidden": true
   },
@@ -80,6 +81,24 @@
       "MaterialQuests"
     ]
   },
+  "BattleQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "BattleQuests"
+    ]
+  },
+  "ErrandQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "ErrandQuests"
+    ]
+  },
+  "SurpriseQuests": {
+    "hidden": false,
+    "yaml_option": [
+      "SurpriseQuests"
+    ]
+  },
   "UniqueMonsters": {
     "hidden": false
   },
@@ -155,8 +174,77 @@
       "Crystals"
     ]
   },
-  "Collectopaediasanity": {
-    "hidden": false
+  "Treasure Chests": {
+    "hidden": false,
+    "yaml_option": [
+      "TreasureChests"
+    ]
+  },
+  "Future Connected Treasure Chests": {
+    "hidden": false,
+    "yaml_option": [
+      "TreasureChests"
+    ]
+  },
+  "Shulk Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Reyn Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Sharla Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Dunban Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Melia Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Riki Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Fiora Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Seven Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Kino Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
+  },
+  "Nene Armor": {
+    "hidden": false,
+    "yaml_option": [
+      "Armor"
+    ]
   },
   "NoponGrandPrix": {
     "hidden": false,
@@ -164,28 +252,22 @@
       "NoponGrandPrix"
     ]
   },
-  "BattleQuests": {
-    "hidden": false,
-    "yaml_option": [
-      "BattleQuests"
-    ]
-  },
-  "ErrandQuests": {
-    "hidden": false,
-    "yaml_option": [
-      "ErrandQuests"
-    ]
-  },
-  "SurpriseQuests": {
-    "hidden": false,
-    "yaml_option": [
-      "SurpriseQuests"
-    ]
-  },
   "UnavailableInPostGame": {
     "hidden": false,
     "yaml_option": [
       "UnavailableInPostGame"
+    ]
+  },
+  "Options": {
+    "hidden": false,
+    "yaml_option": [
+      "Options"
+    ]
+  },
+  "Appearance Slots": {
+    "hidden": false,
+    "yaml_option": [
+      "AppearanceSlots"
     ]
   }
 }
