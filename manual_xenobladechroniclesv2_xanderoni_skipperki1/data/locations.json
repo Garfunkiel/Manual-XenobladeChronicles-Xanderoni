@@ -12696,7 +12696,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{YamlCompare(Collectopaedia == 0)} OR ({YamlCompare(Collectopaedia == 1)} AND (|Progressive Vegetable Category:1| OR |Progressive Flower Category:1| OR |Progressive Fruit Category:1| OR |Progressive Bug Category:1| OR |Progressive Part Category:1| OR |Progressive Strange Category:1|)) OR ({YamlCompare(Collectopaedia >= 2)} AND ((|Progressive Vegetable Category:1| AND |@Colony 9 Collection (Vegetable)|) OR (|Progressive Flower Category:1| AND |@Colony 9 Collection (Flower)|) OR (|Progressive Fruit Category:1| AND |@Colony 9 Collection (Fruit)|) OR (|Progressive Bug Category:1| AND |@Colony 9 Collection (Bug)|) OR (|Progressive Part Category:1| AND |@Colony 9 Collection (Part)|) OR (|Progressive Strange Category:1| AND |@Colony 9 Collection (Strange)|)))"
+      "requires": "{oneIsNeverEnoughReq()}"
     },
     {
       "name": "Collector's Mentality",

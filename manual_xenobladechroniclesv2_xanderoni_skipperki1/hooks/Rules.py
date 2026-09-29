@@ -78,6 +78,37 @@ def hasFullRaceAccessRule(player: int, world: "ManualWorld") -> str:
         return ""
     return value
 
+# Rule for the "One is Never Enough" achievement - requires the player to submit an item to the Collectopaedia
+# Which in this APWorld, requires either nothing (Collectopaedia = 0), a single category unlock (Collectopaedia = 1), or a category unlock along with an item for that category (Collectopaedia = 2)
+def oneIsNeverEnoughReq(multiworld: MultiWorld, player: int) -> bool|str:
+    collectopaedia = get_option_value(multiworld, player, "Collectopaedia")
+    hasTephraCaveAccess = multiworld.state.has("Tephra Cave Access", player)
+
+    if collectopaedia == 0:
+        return True # Easiest rule implementation in the file...
+    elif collectopaedia == 1: # TODO: Update this rule to support Post Game later
+        hasAnyForColony9 = multiworld.state.has_any([
+            "Progressive Vegetable Category",
+            "Progressive Flower Category",
+            "Progressive Fruit Category",
+            "Progressive Bug Category",
+            "Progressive Part Category",
+            "Progressive Strange Category"
+        ], player)
+        return hasAnyForColony9 or (hasTephraCaveAccess and multiworld.state.has_any([
+            "Progressive Animal Category",
+            "Progressive Nature Category"
+        ], player))
+    else:
+        # ({YamlCompare(Collectopaedia >= 2)} AND ((|Progressive Vegetable Category:1| AND |@Colony 9 Collection (Vegetable)|) OR (|Progressive Flower Category:1| AND |@Colony 9 Collection (Flower)|) OR (|Progressive Fruit Category:1| AND |@Colony 9 Collection (Fruit)|) OR (|Progressive Bug Category:1| AND |@Colony 9 Collection (Bug)|) OR (|Progressive Part Category:1| AND |@Colony 9 Collection (Part)|) OR (|Progressive Strange Category:1| AND |@Colony 9 Collection (Strange)|)))
+        return True
+
+def oneIsNeverEnoughReqRule(player: int, world: "ManualWorld") -> str:
+    value = oneIsNeverEnoughReq(world.multiworld, player)
+    if (value == True):
+        return ""
+    return value
+
 REGION_LEVELS = [
     {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},
     {"region": "Tephra Cave",                   "level": 12, "requires": "|Tephra Cave Access|"},
