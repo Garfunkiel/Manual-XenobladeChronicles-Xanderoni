@@ -5359,7 +5359,8 @@
       "category": [
         "Agniratha Landmarks",
         "landmarks"
-      ]
+      ],
+      "requires": "{OptOne(|Progressive Hunting License:16|)} AND {hasDangerTolerance(68)}"
     },
     {
       "name": "Vagabond Allocer (Lv 63)",
@@ -6601,7 +6602,7 @@
     },
     {
       "name": "The Blood of Bafalgar",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Tephra Cave Quests",
         "AffinityQuests"
@@ -6892,7 +6893,7 @@
       "region": "Bionis' Leg",
       "category": [
         "Bionis' Leg Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -7196,7 +7197,7 @@
       "region": "Bionis' Interior (2nd Visit)",
       "category": [
         "Colony 6 Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -7448,7 +7449,7 @@
       "region": "Alcamoth",
       "category": [
         "Satorl Marsh Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -7470,19 +7471,21 @@
     },
     {
       "name": "A Merciful End",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Satorl Marsh Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "A Release From Duty",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Satorl Marsh Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(91)}"
     },
     {
       "name": "The Imperial Ceremony",
@@ -8158,39 +8161,44 @@
       "category": [
         "Frontier Village Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Restoring the Capital",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Frontier Village Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Restoring the Capital 2",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Frontier Village Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Broken Ether Furnace",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Frontier Village Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Broken Ether Furnace 2",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Mechonis Core",
       "category": [
         "Frontier Village Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Bana the Betrayer",
@@ -8473,7 +8481,7 @@
       "region": "High Entia Tomb",
       "category": [
         "Alcamoth Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -8773,12 +8781,13 @@
       ]
     },
     {
-      "name": "Vidian Rescue Mission (MISSABLE)",
+      "name": "Vidian Rescue Mission",
       "region": "Mechonis Core",
       "category": [
         "Alcamoth Quests",
-        "AffinityQuests"
-      ]
+        "SurpriseQuests"
+      ],
+      "requires": "{hasDangerTolerance(90)}"
     },
     {
       "name": "Chase Dickson",
@@ -8891,7 +8900,8 @@
       "category": [
         "Valak Mountain Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{OptOne(|Progressive Hunting License:2|)} AND {hasDangerTolerance(97)}"
     },
     {
       "name": "The Giants' Treasures",
@@ -8899,14 +8909,15 @@
       "category": [
         "Valak Mountain Quests",
         "AffinityQuests"
-      ]
+      ],
+      "requires": "{OptOne(|Progressive Hunting License:2|)} AND {hasDangerTolerance(97)}"
     },
     {
       "name": "Secure Dolgan Outpost (MISSABLE)",
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -8914,7 +8925,7 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -8922,7 +8933,7 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -8930,7 +8941,7 @@
       "region": "Sword Valley (MISSABLE)",
       "category": [
         "Sword Valley Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -9354,7 +9365,7 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -9362,7 +9373,7 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -9370,7 +9381,7 @@
       "region": "Central Factory (MISSABLE)",
       "category": [
         "Central Factory Quests",
-        "AffinityQuests"
+        "SurpriseQuests"
       ]
     },
     {
@@ -14477,7 +14488,8 @@
         "Agniratha Mining",
         "CrystalMining",
         "UnavailableInPostGame"
-      ]
+      ],
+      "requires": "{OptOne(|Progressive Hunting License:16|)} AND {hasDangerTolerance(68)}"
     },
     {
       "name": "Ether Gear - Helas Pillar",
