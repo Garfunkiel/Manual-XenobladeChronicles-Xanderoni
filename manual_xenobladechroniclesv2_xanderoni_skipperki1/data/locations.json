@@ -11851,7 +11851,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|@Colony 6 Reconstruction:ALL|"
+      "requires": "|@Colony 6 Reconstruction:all|"
     },
     {
       "name": "Bone Breaker",
@@ -12447,7 +12447,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|@Shulk Skill Trees:ALL| OR |@Reyn Skill Trees:ALL| OR |@Sharla Skill Trees:ALL| OR |@Dunban Skill Trees:ALL| OR |@Riki Skill Trees:ALL| OR |@Melia Skill Trees:ALL| OR |@Seven Skill Trees:ALL| OR |@Fiora Skill Trees:ALL|"
+      "requires": "|@Shulk Skill Trees:all| OR |@Reyn Skill Trees:all| OR |@Sharla Skill Trees:all| OR |@Dunban Skill Trees:all| OR |@Riki Skill Trees:all| OR |@Melia Skill Trees:all| OR |@Seven Skill Trees:all| OR |@Fiora Skill Trees:all|"
     },
     {
       "name": "Dream Team",
@@ -12455,7 +12455,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "|@Skill Trees:ALL|"
+      "requires": "|@Skill Trees:all|"
     },
     {
       "name": "Turning it Around",
@@ -12704,7 +12704,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{YamlCompare(Collectopaedia == 0)} OR ({YamlCompare(Collectopaedia == 1)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1|) OR ({YamlCompare(Collectopaedia >= 2)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND |@Colony 9 Collectopaedia:ALL|)"
+      "requires": "{YamlCompare(Collectopaedia == 0)} OR ({YamlCompare(Collectopaedia == 1)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1|) OR ({YamlCompare(Collectopaedia >= 2)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND |@Colony 9 Collectopaedia:all|)"
     },
     {
       "name": "Stamp of Insanity",
@@ -12944,7 +12944,7 @@
       "category": [
         "MonsterHunterGoal"
       ],
-      "requires": "|Full Game Access| AND |Progressive Hunting License:ALL| AND |Bionis' Shoulder Hunting License:ALL|"
+      "requires": "|Full Game Access| AND |Progressive Hunting License:all| AND |Bionis' Shoulder Hunting License:all|"
     },
     {
       "name": "Super Monster Hunter Goal",
@@ -12953,7 +12953,7 @@
       "category": [
         "SuperMonsterHunterGoal"
       ],
-      "requires": "|Full Game Access| AND |Progressive Hunting License:ALL| AND |Bionis' Shoulder Hunting License:ALL|"
+      "requires": "|Full Game Access| AND |Progressive Hunting License:all| AND |Bionis' Shoulder Hunting License:all|"
     },
     {
       "name": "NGP - Caterpile Circuit - Win with Shulk",

@@ -29,7 +29,7 @@
 
         {
             "name": "Full Game Access",
-            "requires": "|Memory Fragment:ALL| AND |@Area Keys:ALL| AND {OptOne(|Progressive Hunting License:16|)}"
+            "requires": "|Memory Fragment:all| AND |@Area Keys:all| AND {OptOne(|Progressive Hunting License:16|)}"
         },
 
         {   "name": "Ether Jet Access",  "requires": "{OptOne(|Ether Jet|)}" },
@@ -66,7 +66,7 @@
         {   "name": "Berryjammy in Colony 6",   "requires": "{OptAll(|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|)}"    },
 
 
-        {   "name": "Collectopaedia Complete",  "requires": "|Full Game Access| AND ({YamlCompare(Collectopaedia == 0)} OR ({YamlCompare(Collectopaedia == 1)} AND |@Collectopaedia Pages:ALL|) OR ({YamlCompare(Collectopaedia >= 2)} AND |@Collectopaedia Pages:ALL| AND |@Collectopaediasanity:ALL|))"},
+        {   "name": "Collectopaedia Complete",  "requires": "|Full Game Access| AND |@Collectopaedia Pages:all| AND |@Collectopaediasanity:all|"},
 
 
         {   "name": "Seven's Affinity Rank 1",  "requires": "{OptAll(|Fiora Progressive Affinity Rank:1| OR |Seven Progressive Affinity Rank:1|)}"    },
