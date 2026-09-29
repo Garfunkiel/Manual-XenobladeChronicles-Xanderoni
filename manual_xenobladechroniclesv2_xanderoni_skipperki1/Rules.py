@@ -204,7 +204,7 @@ def set_rules(world: "ManualWorld", multiworld: MultiWorld, player: int):
                         func = getattr(ns, name, None)
 
                     if func and inspect.isclass(func) and issubclass(func, rule_builder.rules.Rule):
-                        convert_req_function_args(None, func, func_args, area['name'], world)
+                        convert_req_function_args(None, func, func_args, area.get('name', ''), world)
                         rule_class = func
                         break
 
@@ -603,7 +603,7 @@ def OptOne(world: "ManualWorld", item: str) -> str:
         return f"|{item_name}:{item_count}|"
 
 # OptAll check the passed require string and loop every item to check if they're enabled,
-def OptAll(world: "ManualWorld", requires: str) -> bool|str:
+def OptAll(world: "ManualWorld", requires: str) -> str:
     """Check the passed require string and loop every item to check if they're enabled,
     then returns the require string with items counts adjusted using OptOne\n
     eg. requires: "{OptAll(|DisabledItem| and |@CategoryWithModifedCount:10|)} and |other items|"
@@ -611,7 +611,7 @@ def OptAll(world: "ManualWorld", requires: str) -> bool|str:
     requires_list = requires
 
     if requires_list == "":
-        return True
+        return ""
 
     # parse user written statement into list of each item
     for item in re.findall(r'\|[^|]+\|', requires):
