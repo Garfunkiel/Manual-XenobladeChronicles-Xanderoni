@@ -1,9 +1,12 @@
 from Options import OptionError
-from typing import Optional
+from typing import Optional, TYPE_CHECKING
 from worlds.AutoWorld import World
 from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, GROUP_COUNTS
 from ..Helpers import clamp, get_items_with_value, get_option_value
 from BaseClasses import MultiWorld, CollectionState
+
+if TYPE_CHECKING:
+    from .. import ManualWorld
 
 import re
 
@@ -30,14 +33,26 @@ def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
-def questPaolaAndNarineReq():
-    return "{OptAll(|Shulk Progressive Affinity Rank:4| AND |Reyn Progressive Affinity Rank:4|" \
-                " AND ((|Sharla Progressive Affinity Rank:4| AND |Melia Progressive Affinity Rank:4|) " \
-                " OR (|Sharla Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
-                " OR (|Sharla Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
-                " OR (|Melia Progressive Affinity Rank:4| AND |Fiora Progressive Affinity Rank:4|)" \
-                " OR (|Melia Progressive Affinity Rank:4| AND |Seven Progressive Affinity Rank:4|)" \
-                "))}"
+def questPaolaAndNarineReq(state: CollectionState, player: int) -> bool|str:
+    shulkAt4 = state.count("Shulk Progressive Affinity Rank", player) >= 4
+    reynAt4 = state.count("Reyn Progressive Affinity Rank", player) >= 4
+    sharlaAt4 = state.count("Sharla Progressive Affinity Rank", player) >= 4
+    meliaAt4 = state.count("Melia Progressive Affinity Rank", player) >= 4
+    sevenAt4 = state.has("Seven's Affinity Rank 4", player)
+
+    shulkAndReynAt4 = shulkAt4 and reynAt4
+    sharlaAndMeliaAt4 = sharlaAt4 and meliaAt4
+    sharlaAndSevenAt4 = sharlaAt4 and sevenAt4
+    meliaAndSevenAt4 = meliaAt4 and sevenAt4
+    anyTwoWomenAt4 = sharlaAndMeliaAt4 or sharlaAndSevenAt4 or meliaAndSevenAt4
+
+    return shulkAndReynAt4 and anyTwoWomenAt4
+
+def questPaolaAndNarineReqRule(player: int, world: "ManualWorld") -> str:
+    value = questPaolaAndNarineReq(world.multiworld.state, player)
+    if (value == True):
+        return ""
+    return value
 
 REGION_LEVELS = [
     {"region": "Colony 9",                      "level":  7, "requires": "|Colony 9 Access|"},
@@ -65,7 +80,7 @@ REGION_LEVELS = [
     {"region": "Prison Island (2nd Visit)",     "level": 80, "requires": "|Prison Island (2nd Visit) Access|"}
 ]
 
-def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
+def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int) -> bool|str:
     DT = get_option_value(multiworld, player, "Danger_Tolerance")
 
     if not type(DT) is int:
@@ -87,6 +102,12 @@ def hasDangerTolerance(multiworld: MultiWorld, player: int, monsterLevel: int):
     if requirements != "":
         return requirements
     return True
+
+def hasDangerToleranceRule(player: int, monsterLevel: int, world: "ManualWorld") -> str:
+    value = hasDangerTolerance(world.multiworld, player, monsterLevel)
+    if (value == True):
+        return ""
+    return value
 
 def stateHasAreaCategory(state: CollectionState, player: int, area: str, category: str):
     if area == "Alcamoth - FC":
