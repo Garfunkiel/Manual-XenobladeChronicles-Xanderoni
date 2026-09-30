@@ -5123,7 +5123,7 @@
     },
     {
       "name": "Ventilation Conduit",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Landmarks",
         "landmarks"
@@ -5131,7 +5131,7 @@
     },
     {
       "name": "Bridge to Apocrypha",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Landmarks",
         "landmarks"
@@ -5220,7 +5220,7 @@
     },
     {
       "name": "Apocrypha Generator (Boss)",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Bosses", "Bosses"
       ]
@@ -9386,7 +9386,7 @@
     },
     {
       "name": "New Weapon for Fiora",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Quests",
         "AffinityQuests",
@@ -9395,7 +9395,7 @@
     },
     {
       "name": "New Weapon for Seven",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Quests",
         "AffinityQuests",
@@ -11376,7 +11376,7 @@
     },
     {
       "name": "Apocrypha Generator (Location)",
-      "region": "Central Factory (MISSABLE)",
+      "region": "Agniratha (MISSABLE)",
       "category": [
         "Central Factory Locations",
         "locations"
