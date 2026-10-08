@@ -5728,7 +5728,7 @@
     },
     {
       "name": "Prison Terrace (2nd Visit)",
-      "region": "Prison Island (2nd Visit)",
+      "region": "Memory Space",
       "category": [
         "Prison Island (2nd Visit) Landmarks",
         "landmarks"
@@ -6364,7 +6364,7 @@
         "Colony 9 Quests",
         "AffinityQuests"
       ],
-      "requires": "{questPaolaAndNarineReq()}"
+      "requires": "{PaolaAndNarine()}"
     },
     {
       "name": "The Lost Pendant",
@@ -7215,7 +7215,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "{OptAll(|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|)}"
+      "requires": "|Berryjammy in Colony 6| AND |Shilx in Colony 6|"
     },
     {
       "name": "Finding the Unfindable",
@@ -7224,7 +7224,7 @@
         "Colony 6 Quests (Development Level 2)",
         "AffinityQuests"
       ],
-      "requires": "{OptAll(|Colony 6 Reconstruction Housing Level:3| AND |Colony 6 Reconstruction Nature Level:3|)}"
+      "requires": "|Berryjammy in Colony 6| AND |Shilx in Colony 6|"
     },
     {
       "name": "Lifespan of a Machina",
@@ -12707,7 +12707,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{oneIsNeverEnoughReq()}"
+      "requires": "{OneIsNeverEnough()}"
     },
     {
       "name": "Collector's Mentality",
@@ -12715,7 +12715,7 @@
       "category": [
         "Achievements"
       ],
-      "requires": "{YamlCompare(Collectopaedia == 0)} OR ({YamlCompare(Collectopaedia == 1)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1|) OR ({YamlCompare(Collectopaedia >= 2)} AND |Progressive Vegetable Category:1| AND |Progressive Flower Category:1| AND |Progressive Fruit Category:1| AND |Progressive Bug Category:1| AND |Progressive Part Category:1| AND |Progressive Strange Category:1| AND |@Colony 9 Collectopaedia:all|)"
+      "requires": "{CollectorsMentality()}"
     },
     {
       "name": "Stamp of Insanity",

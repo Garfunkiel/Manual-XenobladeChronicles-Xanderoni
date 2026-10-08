@@ -1,9 +1,7 @@
 from typing import Any
-
-from ..Helpers import is_option_enabled
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
-
+from BaseClasses import MultiWorld, CollectionState
+from ..Helpers import is_option_enabled
 
 MINING_SPOTS = [
     # Tephra Cave

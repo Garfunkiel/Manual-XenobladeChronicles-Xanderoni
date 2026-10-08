@@ -1,3 +1,17 @@
+from typing import Any
+from worlds.AutoWorld import World
+from BaseClasses import MultiWorld, CollectionState
+from ..Helpers import get_option_value
+
+# DATA USED IN RULES/FUNCTIONS:
+
+COLLECTOPAEDIA_OPTION_NONE = 0            # NO COLLECTOPAEDIA
+COLLECTOPAEDIA_OPTION_CATEGORIES_ONLY = 1 # CATEGORIES REQUIRED BUT NOT INDIVIDUAL ITEMS
+COLLECTOPAEDIA_OPTION_SANITY = 2          # CATEGORIES AND INDIVIDUAL ITEMS REQUIRED
+
+COLLECTOPAEDIA_CATEGORIES = ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]
+
+# The number of "Progressive <category> Category" items needed for a given area and category
 COLLECTOPAEDIA_REQUIREMENTS = {
     "Colony 9":         { "Vegetable": 1,  "Flower": 1,  "Fruit": 1,  "Animal": 0,  "Bug": 1,  "Nature": 0,  "Part": 1,  "Strange": 1 },
     "Tephra Cave":      { "Vegetable": 0,  "Flower": 2,  "Fruit": 2,  "Animal": 1,  "Bug": 2,  "Nature": 1,  "Part": 0,  "Strange": 2 },
@@ -24,6 +38,7 @@ COLLECTOPAEDIA_REQUIREMENTS = {
     "Alcamoth - FC":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 0  }
 }
 
+# A set of Collectopaedia locations with their matching area and category names
 COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Colony 9 Collectopaedia Page Completion", "area": "Colony 9", "cat": "ALL" },
     { "name": "Colony 9 Collectopaedia Vegetable Completion", "area": "Colony 9", "cat": "Vegetable" },
@@ -160,6 +175,7 @@ COLLECTOPAEDIA_LOCATIONS = [
     { "name": "Alcamoth - FC Collectopaedia Strange Completion", "area": "Alcamoth - FC", "cat": "Strange" }
 ]
 
+# The numbers of items needed to complete a Collectopaedia category for a given area
 GROUP_COUNTS = {
     "Colony 9":         { "ALL": 17, "Vegetable": 4, "Flower": 3, "Fruit": 2, "Animal": 0, "Bug": 4, "Nature": 0, "Part": 2, "Strange": 2 },
     "Tephra Cave":      { "ALL": 17, "Vegetable": 0, "Flower": 2, "Fruit": 3, "Animal": 4, "Bug": 3, "Nature": 3, "Part": 0, "Strange": 2 },
@@ -186,6 +202,7 @@ GROUP_COUNTS = {
     "Alcamoth - FC":    { "ALL":  8, "Vegetable": 0, "Flower": 2, "Fruit": 2, "Animal": 2, "Bug": 0, "Nature": 0, "Part": 0, "Strange": 2 }
 }
 
+# The items needed to complete each area and category in the Collectopaedia
 PAGE_REQUIREMENTS = {
     "Colony 9|Bug":               [ "Prairie Dragonfly", "Giant Hornet", "White Beetle", "Sorrow Beetle"],
     "Colony 9|Flower":            [ "Strong Dandelion", "Moon Flower", "Dawn Hydrangea" ],
@@ -298,3 +315,86 @@ PAGE_REQUIREMENTS = {
     "Alcamoth - FC|Fruit":        [ "Cool Lemon", "Heart Peach" ],
     "Alcamoth - FC|Strange":      [ "Ha Ha Ha", "Thunder Atmos" ]
 }
+
+# FUNCTIONS USED FOR HANDLING COLLECTOPAEDIA LOGIC
+
+def safeGetLocation(multiworld: MultiWorld, player: int, name: str):
+    try:
+        return multiworld.get_location(name, player)
+    except Exception:
+        return None
+
+def stateHasAreaCategory(state: CollectionState, player: int, area: str, category: str) -> bool:
+    if area == "Alcamoth - FC":
+        return state.has("Alcamoth - FC All Categories", player)
+    elif area == "Bionis' Shoulder":
+        if category == "Vegetable":
+            return state.has("Bionis' Shoulder Vegetable Category", player)
+        elif category == "Animal":
+            return state.has("Bionis' Shoulder Animal Category", player)
+        elif category == "Part":
+            return state.has("Bionis' Shoulder Part Category", player)
+        elif category == "Strange":
+            return state.has("Bionis' Shoulder Strange Category", player)
+        else:
+            return True
+
+    requiredProgCats = COLLECTOPAEDIA_REQUIREMENTS[area][category]
+    return requiredProgCats == 0 or state.count(f"Progressive {category} Category", player) >= requiredProgCats
+
+def collectopaediaAvailable(state: CollectionState, player: int, area: str, category: str) -> bool:
+    if category != "ALL":
+        return stateHasAreaCategory(state, player, area, category)
+
+    for cat in COLLECTOPAEDIA_CATEGORIES:
+        if not stateHasAreaCategory(state, player, area, cat):
+            return False
+
+    return True
+
+def collectopaediaItemsCollected(state: CollectionState, player: int, area: str, category: str) -> bool:
+    if category == "ALL":
+        grp = (f"Alcamoth Collectopaedia" if area == "Alcamoth - FC" else f"{area} Collectopaedia")
+        return state.has_group(grp, player, GROUP_COUNTS[area][category])
+
+    if area not in GROUP_COUNTS:
+        return True
+
+    count = GROUP_COUNTS[area][category]
+    if count == 0:
+        return True
+
+    if area == "Alcamoth - FC":
+        area = "Alcamoth"
+
+    return state.has_group(f"{area} Collection ({category})", player, count)
+
+def collectopaediaComplete(multiworld: MultiWorld, state: CollectionState, player: int, area: str, category: str) -> bool:
+    colOption = get_option_value(multiworld, player, "Collectopaedia")
+
+    return (
+        (colOption == COLLECTOPAEDIA_OPTION_NONE)
+        or (
+            colOption == COLLECTOPAEDIA_OPTION_CATEGORIES_ONLY
+            and collectopaediaAvailable(state, player, area, category)
+        )
+        or (
+            colOption == COLLECTOPAEDIA_OPTION_SANITY
+            and collectopaediaAvailable(state, player, area, category)
+            and collectopaediaItemsCollected(state, player, area, category)
+        )
+    )
+
+def setCollectopaediaRules(multiworld: MultiWorld, player: int):
+    for COL in COLLECTOPAEDIA_LOCATIONS:
+        colname = COL["name"]
+        area = COL["area"]
+        cat = COL["cat"]
+
+        location = safeGetLocation(multiworld, player, colname)
+        if location is None:
+            continue
+
+        location.access_rule = lambda state, player=player, area=area, cat=cat: collectopaediaComplete(multiworld, state, player, area, cat)
+
+    pass
