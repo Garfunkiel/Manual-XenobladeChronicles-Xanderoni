@@ -11,6 +11,6 @@ jobs:
         with:
           apworld-path: manual_xenobladechroniclesv2_xanderoni_skipperki1
           ap-version: 'latest'
-          python-version: '3.12'
+          python-version: '3.13'
           runs: 50 # This is optional
           yamls-per-run: 1 # This is optional
