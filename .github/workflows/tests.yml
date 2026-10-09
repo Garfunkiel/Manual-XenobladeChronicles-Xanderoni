@@ -11,5 +11,5 @@ jobs:
         with:
           apworld-path: manual_xenobladechroniclesv2_xanderoni_skipperki1
           apworld-name: manual_xenobladechroniclesv2_xanderoni_skipperki1
-          ap-version: 'latest'
+          ap-version: '0.6.7'
           python-version: '3.13'
