@@ -6,10 +6,12 @@ on:
 jobs:
   tests:
     runs-on: ubuntu-latest
+    env:
+      AP_TEST_WORLDS: manual_xenobladechroniclesv2_xanderoni_skipperki1
     steps:
       - uses: Eijebong/ap-actions/ap-tests@main
         with:
           apworld-path: manual_xenobladechroniclesv2_xanderoni_skipperki1
           apworld-name: manual_xenobladechroniclesv2_xanderoni_skipperki1
-          ap-version: '0.6.7'
-          python-version: '3.13'
+          ap-version: 'latest'
+          python-version: '3.12'
